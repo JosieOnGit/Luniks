@@ -1,2 +1,2 @@
-# Luniksiska
-Spoken language Luniksian (Lúniksiska) of a world in the near future. Spanning through generations, this repository both collects the history of this artificial language, the world in which it's placed in, as well as the developments on its course to completion.
+# Luniks | 
+Luniksian is a spoken language which is mostly spoken in the Thórirsant and Kérisant area of the planet Luniks. Already too much info? This repository, or rather note collection, collects all that had happened on this planet, and tries to put it into a somewhat comprehensible set of words, so everyone else can dive deep into the unknown together with me.
