@@ -14,7 +14,7 @@ Panjit is of Indian descent and is the scientific wonder that enabled Earth to l
 
 ### Vitaly Leremkov
 
-Leremkov's story is described in !!HYPERLINK!!
+Leremkov's story is described in [Vitaly Leremkov](https://github.com/BlackCatMS/Luniks/blob/main/Historic%20Events/Vitaly%20Leremkov%2C%202039-2098.md)
   
 ### Anita Arkh'Ivlam
 

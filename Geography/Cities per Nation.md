@@ -57,7 +57,7 @@ Lake Dnherá is located right in the very center of the Bilćat District in cent
 Two events are drafted within this city, namely:
 - Tiái Ći 203 Factory and its 2246 fireworks explosion
 - Leremkov's labs
-While Leremkov's labs have been mentioned in !!HYPERLINK!!, what actually happened in these labs in Cévok remains unclear. 
+While Leremkov's labs have been mentioned in [Vitaly Leremkov](https://github.com/BlackCatMS/Luniks/blob/main/Historic%20Events/Vitaly%20Leremkov%2C%202039-2098.md), what actually happened in these labs in Cévok remains unclear. 
 
 #### Ŭeshalt
 
