@@ -11,7 +11,7 @@ This pact oughts the following:
 - Neither Thórirsant nor Ellitroomi (Kérisant per November 2167) shall assist or oppose any incidents occuring within the Kósfrii city region. 
 - Regions surrounding Kósfrii, most notably Kirŭijets and Sléta, shall receive supplies to aid the wounded that have been rescued from the Kósfrii centre.
 
-#### this pact has been accepted and signed on Mar 30 2168
+#### This pact has been accepted and signed on Mar 30 2168
 Several riots have occured throughout Kósfrii after the proposal and eventual signing of this pact in opposition.
 
 The Kósfrii civil war ends on June 27th, 2172.

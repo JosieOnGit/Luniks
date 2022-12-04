@@ -39,6 +39,7 @@ CITIES
 >>>Lake Farewell  
 >>>Tíai Ći 203 Factory  
 >>>>2246 Fireworks Factory explosion  
+>>>Leremkov's labs
 >>Petrívo  
 >>Másidam  
 >>Ŭeshalt  
