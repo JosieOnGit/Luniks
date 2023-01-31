@@ -1,4 +1,4 @@
-# Ellittróómisi
+# Ellitróómisi
 
 Ellitroomi is a spoken language located entirely within the territory of Ellitroomi, commonly referred to as a "Confusing mess of letters", referring to its large set of double, or in some cases, triple vowels and consonants. 
 

@@ -1,6 +1,6 @@
 # Malaŭi
 
-Malawi is a spoken language spanning across the territory of Malaw, commonly being referred to as a "basic yet in-depth language". Being centralised entirely within Malaw, some people bordering Malaw also know a few words or sentences in Malawi, creating opportunities for trade, when English or Luniksian aren't widely available. 
+Malawi is a spoken language spanning across the territory of Malaw, commonly being referred to as a "basic yet in-depth language". Being centralised entirely within Malaw, some people bordering Malaw also know a few words or sentences in Malawi, creating opportunities for trade, when English or Luniksan aren't widely available. 
 
 
 ## Origin and History
