@@ -65,3 +65,33 @@ The object in a sentence *always* comes after the subject and its verb. The only
 - Mi parlég kun moi padre sur la hus - ("I talk to my father about the house")
 
 
+# Verbs & Tenses
+Just like many other languages, Luniksan also has a set of tenses and verbs. Luniksan verbs conjugate for the number of people (Signular, Plural) and for person (First, Second, Third), just like they do in English.
+
+|                   	| **Singular**               	| **Plural** 	|
+|-------------------	|----------------------------	|------------	|
+| **First Person**  	| Mi (I)                     	| On (We)    	|
+| **Second Person** 	| Vi (You)                   	| Vi (You)   	|
+| **Third Person**  	| Li (He), Śi (She), Ći (It) 	| Ili (They) 	|
+
+This section is incomplete and needs expansion[^1]
+
+
+# Interrogative words
+Just like every other language, an answer usually comes from a question like "What?", "Why?", "How?", etc. A simple list of those interrogative words in Luniksan is below:
+
+| **English** 	| **Luniksan** 	| **Example**        	| **Translation**     	|
+|-------------	|--------------	|--------------------	|---------------------	|
+| What        	| Kitá / Stó   	| Kitá-ést? Stó-ést? 	| What is it?         	|
+| Who         	| Kíje         	| Kíj-és vi?         	| Who are you?        	|
+| Where       	| Dóje         	| Dój-ést la hús?    	| Where is the house? 	|
+| Why         	| Násim        	| Násim ekki?        	| Why not?            	|
+| When        	| []           	| []-ést će?         	| When is it?         	|
+| Which       	| []           	| [] a dváhe?        	| Which of the two?   	|
+| How         	| Hur          	| Hur és vi?         	| How are you?        	|
+
+This section is missing a part of information and needs expansion[^2]
+
+
+[^1]: This section needs expansion based on [This article](https://www.dutchpod101.com/blog/2021/03/18/dutch-grammar-overview/)
+[^2]: This section needs translations for "When" and "Which" added

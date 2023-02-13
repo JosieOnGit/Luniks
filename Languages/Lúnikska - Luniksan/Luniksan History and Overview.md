@@ -7,12 +7,23 @@ The origin of Luniksan is yet to be determined. It mostly derives from western E
 
 ## Writing system and script
 
-Luniksan has two official scripts, one being the standard Latin alphabet, the other being a completely localised and more unique script, often referred to as "Mithrí". 
+Luniksan has two official scripts, one being the standard Latin alphabet, the other being a completely localised and more unique script, known as Mithrí. 
+
+### Mithrí
+Mithrí has been the unique indentifying script that first developed around the Máneán area on Luniks. Ever since, it has gradually spread throughout the continent and is now most noticeable in Thórirsant, Máneá, and Kérisant. An Ellitróómi version of this script exists, but hasn't been properly documented as of yet. \
+This table is read as follows, top to bottom:
+- **Left Row**: A, E, I, O, U
+- **Middle Row, left part**: B, C, D, F, G, H, J (DZ), K, L
+- **Middle Row, right part**: M, N, P, R, S, T, V, Ŭ (W), Z
+- **Right Row, top part**: Ć, Ś
+- **Right Row, bottom part**: Á, É, Í, Ó, Ú
+![[Mithrí Script.jpg]]
+There isn't much documentation yet written in Luniksan, let alone in Mithrí, as this language and this script aren't anywhere close to being near-functional as a language. As time progresses and this project grows, slowly but sure the amount of documentation in Luniksan and Mithrí will grow.
 
 ### Latin
-The Latin script used in Luniksian is visually identical, with the addition and removal of some letters otherwise seen in languages like English. The character set is as follows:
+The Latin script used in Luniksan is visually identical to Latin as most Europeans know, with the addition and removal of some letters otherwise seen in languages like English. The character set is as follows:
 
-**AÁBCĆDEÉFGHIÍJKLMNOÓPRSŚTUÚVŬXZ**
+**A Á B C Ć D E É F G H I Í J K L M N O Ó P R S Ś T U Ú V Ŭ X Z**
 
 There are some clear standouts within this character set, but let's take a closer look at the basic alphabet first and what it's most comparable to in English:
 - **A**: P**a**th
