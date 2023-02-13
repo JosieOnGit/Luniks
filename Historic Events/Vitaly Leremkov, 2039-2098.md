@@ -1,3 +1,5 @@
+# Vitaly Leremkov
+
 Vitaly Leremkov *(2039-2098)* was a Russian-Polish biologist who specialised in genetics and DNA. Having studied CRISPR gene editing, he took this several steps further and studied full human DNA altering, creating and shaping mixtures of human and animal genetics, in search for the perfect creature.  
   
 Residing himself in Poznań, Poland, where he studied biology and genetical studies, he eventually opened up his first hidden and secret lab in a basement in his small apartment. Making profits off small DNA alteration kits, which would cure and even prevent small forms of COVID, Influenza, and more dangerous diseases, he eventually made himself a millionaire off selling vaccination kits.  
@@ -35,3 +37,4 @@ Opening and raising his arms, he stares into the night sky, the searchlight of a
 Turning to his left, his pistol presses against his head, as he stares to the river one last time. The police sirens are deafening, the sounds of the helicopter above him echo through his ears. The shouting police officers don't even register to his brain anymore, as he closes his eyes, his pistol firmly in his hands, as one last shiver goes through his spine as the trigger pulls.  
   
 And the lights go off.
+
