@@ -8,7 +8,7 @@ Named after the city of birth of Jonathán þórirsson, founder and first settle
 Harbour city to the northwest of Thórirsant, allows for intercontinental connection and trade, most importantly with Zhuehai and Álusken.
 
 #### Kósfrii
-City most notable by its civil war after a fallen local government, lasting from 2166 to 2172. The end of this war is noted in the [Liétivus Pact](https://github.com/BlackCatMS/Luniks/blob/main/Historic%20Events/Li%C3%A9tivus%20Pact%2C%20%20Mar%2030%202168.md) document.
+City most notable by its civil war after a fallen local government, lasting from 2166 to 2172. The end of this war is noted in the [Liétivus Pact](obsidian://open?vault=Luniks&file=Historic%20Events%2FLi%C3%A9tivus%20Pact%2C%20%20Mar%2030%202168) document.
 
 #### Kirŭijets
 
@@ -25,7 +25,6 @@ It's still unclear what will be done with the city of Nóve Osló project-wise. 
 
 
 ## Ellitroomi
-
 #### Ellitróómi-Páánsik (Capital)
 
 #### Jullitáánah
@@ -36,7 +35,6 @@ It's still unclear what will be done with the city of Nóve Osló project-wise. 
 
 
 ## Kérisant
-
 #### Kérisant-Civem (Capital)
 Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubius. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of Luniksian revolution passed. 
 
@@ -57,13 +55,13 @@ Lake Dnherá is located right in the very center of the Bilćat District in cent
 Two events are drafted within this city, namely:
 - Tiái Ći 203 Factory and its 2246 fireworks explosion
 - Leremkov's labs
-While Leremkov's labs have been mentioned in [Vitaly Leremkov](https://github.com/BlackCatMS/Luniks/blob/main/Historic%20Events/Vitaly%20Leremkov%2C%202039-2098.md), what actually happened in these labs in Cévok remains unclear. 
+
+While Leremkov's labs have been mentioned in [Vitaly Leremkov](Vitaly%20Leremkov,%202039-2098), what actually happened in these labs in Cévok remains unclear. 
 
 #### Ŭeshalt
 
 
 ## Zakh'háfo (Zakh'háfónai Ertbitsai)
-
 #### Ákros (Capital)
 After a sudden split from United Máneá, Ákros was left in a fallen, newly formed country, already facing a deep recession right from the start. Nonetheless, Ákros serves home to the new financial district of Zakh'háfo, which is set to be the centre of economic growth for the future of not only Ákros and its surrounding villages, but to bloom Zakh'háfo as a whole.
 
@@ -77,7 +75,6 @@ After a sudden split from United Máneá, Ákros was left in a fallen, newly for
 
 
 ## Máneá (Unifísai Ertbitsai da Máneá)
-
 #### Fsát-Hokh (Capital)
 
 #### Deth-Kelétam
@@ -86,7 +83,6 @@ After a sudden split from United Máneá, Ákros was left in a fallen, newly for
 
 
 ## Álusken
-
 #### Álusken (Capital)
 This city is most known for its giant castle in the centre of the city, home to the current King Álusken II. 
 

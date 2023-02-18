@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "ce95045dad6d1f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "740b1b74776eacf7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Languages/Lúniksiska - Luniksian.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "fdc0496df44c6fcd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Languages/Malaŭi - Malawi.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a95a3cb53f9e658d",
+    "type": "split",
+    "children": [
+      {
+        "id": "63b338ffcebc8ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8e36d3ab192ac9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "671d888e0fd67a74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33c7beff20ff9dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec2556de868f5437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "230d6d7c56498c60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/Malaŭi - Malawi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fdc0496df44c6fcd",
+  "lastOpenFiles": [
+    "Languages/Malaŭi - Malawi.md",
+    "Languages/Lúniksiska - Luniksian.md",
+    "Languages/Ellittróómisi - Ellittroomi.md",
+    "Geography/Cities per Nation.md",
+    "Historic Events/Alkéisa's Ring, 2071-2087.md",
+    "README.md",
+    "Geography/Mashed together list of locations and cities.md",
+    "Historic Events/Liétivus Pact,  Mar 30 2168.md"
+  ]
+}

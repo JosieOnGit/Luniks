@@ -1,6 +1,5 @@
 # Liétivus Pact, 2168 Mar 30
 ### Pact status: ACCEPTED
-
 The Liétivus Pact is a pact between Ellitroomi and Thórirstant in which is agreed no further action will be taken to stabilise the existing conflict taking place in Kósfrii, which has been at a rough war with itself since 2166, leading to a complete collapse of the city and surrounding region. \
 Proposed by Sander Liétivus, on April 19th 2167, it has taken nearly a full year to gain support and pass the pact between the two nations, to which Kérisant has also agreed and signed on in September 2167. 
 

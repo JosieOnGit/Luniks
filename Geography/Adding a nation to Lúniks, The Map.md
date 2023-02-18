@@ -1,9 +1,9 @@
 # Adding a nation to Luniks 
 
-Adding a nation to the entire planet of Luniks might not seem like a fairly hard task, it should be no harder than plotting on the map, attaching a name and flag to it and leaving it to boil while new info slowly starts to stick to it. Unfortunately, it's not that easy, but how come it's not?
+Adding a nation to the entire planet of Luniks might not seem like a fairly hard task, it should be no harder than plotting on the map, attaching a name and flag to it and leaving it to simmer while new info slowly starts to stick to it. Unfortunately, it's not that easy, but how come it's not?
+
 
 ## The Map
-
 As spotted before, the map remains unfinished from an eagle-eyed view, only a small set of countries is shown over a huge continent, but apart from that, it remains empty. It's comparable to spotting North America, and believing it's the entire planet, it just doesn't work that way. The map itself has also been created in 2020, and ever since, the project has taken many different turns, some countries shrank in size, or even split up, merged with others, or new ones took the spot. But one questions arises to the top: How can we fix this map?
 
 ### A set of potential countries that could claim land on Lúniks
@@ -12,8 +12,11 @@ As spotted before, the map remains unfinished from an eagle-eyed view, only a sm
 - **Japan/Korea** 
 - **Sórskist** | Attempting to secede from Thórirsant, Sórskist would lie and become independent in a roughly 2700km² area in the northwest of Thórirsant.
 - **Rhódiś** | As Máneá continues to crumble further apart after Zakh'Háfo's sudden secession, Rhódiś also attempts to secede, claiming an area of roughly 7600km² between Máneá and Zakh'háfo.
-- **Kósfrii** *(Post-war)* | Being forcefully excluded from any sort of support from Thórirsant and the Alliance of Three, Kósfrii sits in the middle of Thórirstant as an envlave, ending up as a smaller San Marino.
+- **Kósfrii** *(Post-war)* | Being forcefully excluded from any sort of support from Thórirsant and the Alliance of Three, Kósfrii sits in the middle of Thórirstant as an enclave, ending up as a smaller San Marino.
+
 
 ## The issue, resumed
-
 But even with this ever-growing list of potential nations, some already existing on Earth, how can we be sure there'll even be enough space for all of them? How can we prevent conflicts from occuring?
+
+### Existing Conflicts
+Even taking into account that merging or splitting countries and their land mass among each other might sound easy in theory, it already proves it isn't, with the United Máneán country suddenly collapsing and creating separate countries of Máneá and Zakh'háfo, including the attempted secession of Rhódiś. 

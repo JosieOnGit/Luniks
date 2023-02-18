@@ -1,3 +1,6 @@
+This list is a direct copy of a similar document originally written in 2020. It currently lacks the correct formatting.
+
+## Mashed together list of Locations and Cities (2020)
 LAKE DNHERÁ  
 MAP TREE - Ubius > Kérisant > Kérisant(-Civem) > Bilćat > Dnherá  
   

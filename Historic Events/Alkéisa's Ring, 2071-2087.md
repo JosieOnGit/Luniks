@@ -1,7 +1,5 @@
 # Alkéisa's Ring
-
 ### Status: Deployed; Active
-
 The brainchild of Matéu Alkéisa, a planet-sized ring guarding the planet against space debris, creating and infusing the atmosphere with enough oxygen to create a stable atmosphere for life to bloom within, and to pressurise the planet to nearly identical levels to Earth. 
 
 The first phase started way back in 2071, where Matéus completed his final sketches based off Elon Musk's Starlink program. Being fully aware that Luniks' two moons could easily be harvested for resources with then-modern techniques, Matéus was able to scale up the existing Starlink project by at least 25x, creating an almost impossibly large module system that would gradually be constructed over the following 15 years.
