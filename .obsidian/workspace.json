@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "100e56471409da15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Cities per Nation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56dc80b4cd92c426",
+            "id": "0ff2bdd59a7dd299",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,18 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "Languages/Lúnikska - Luniksan/Luniksan History and Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8681854eca006c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,18 +68,19 @@
             }
           },
           {
-            "id": "0ff2bdd59a7dd299",
+            "id": "b8d03facd23c1941",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Lúnikska - Luniksan/Basic Luniksan Grammar.md",
+                "file": "Geography/Cities per Nation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "luniksian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +118,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,17 +166,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "100e56471409da15",
+  "active": "b8d03facd23c1941",
   "lastOpenFiles": [
-    "Languages/Lúnikska - Luniksan/Basic Luniksan Grammar.md",
-    "Languages/Lúnikska - Luniksan/Luniksan History and Overview.md",
-    "README.md",
-    "Historic Events/List of Historic Events.md",
-    "Historic Events/Story Drafts.md",
     "Historic Events/List of Notable People.md",
-    "Story.md",
+    "README.md",
+    "Languages/Lúnikska - Luniksan/Luniksan History and Overview.md",
+    "Historic Events/Story Drafts.md",
+    "Historic Events/List of Historic Events.md",
+    "Languages/Lúnikska - Luniksan/Basic Luniksan Grammar.md",
+    "Untitled.canvas",
     "Geography/Cities per Nation.md",
-    "Historic Events/Liétivus Pact,  Mar 30 2168.md",
-    "Liétivus Pact, Mar 30 2168.md"
+    "Story.md",
+    "Historic Events/Liétivus Pact,  Mar 30 2168.md"
   ]
 }

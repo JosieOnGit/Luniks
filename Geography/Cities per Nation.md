@@ -36,7 +36,7 @@ It's still unclear what will be done with the city of Nóve Osló project-wise. 
 
 ## Kérisant
 #### Kérisant-Civem (Capital)
-Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubius. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of Luniksian revolution passed. 
+Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubius. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of the Luniksan revolution passed. 
 
 #### Kérisant-Bilćat
 ##### Lake Dnherá is located near Kérisant-Bilćat, which itself is near the capital of Kérisant

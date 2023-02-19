@@ -1,5 +1,5 @@
 # Luniks | 
-Luniksian is a spoken language which is mostly spoken in the Thórirsant and Kérisant area of the planet Luniks. Already too much info? This repository, or rather note collection, collects all that had happened on this planet, and tries to put it into a somewhat comprehensible set of words, so everyone else can dive deep into the unknown together with me.[^1]
+Luniksan is a spoken language which is mostly spoken in the Thórirsant and Kérisant area of the planet Luniks. Already too much info? This repository, or rather note collection, collects all that had happened on this planet, and tries to put it into a somewhat comprehensible set of words, so everyone else can dive deep into the unknown together with me.[^1]
 
 # Meet the planet guarded by the Ring |
 Guarded by Alkéisa's Ring, this Ring creates an artificial layer and magnetic field surrounding the planet similarly to that of Earth, while visually similar to Neptune's ring. Developed by physicist and technician Matéus Alkéisa, it was deployed and activated in 2087, guarding and protecting the ever blooming planet ever since.
