@@ -2,7 +2,8 @@
 
 ## Thórirsant
 #### Nóve Réjkjavik (Capital)
-Named after the city of birth of Jonathán þórirsson, founder and first settler of the planet of Lúniks. Commonly referred to as "Capital of the planet".
+Named after the city of birth of Jonathán þórirsson, founder and first settler of the planet of Lúniks. Commonly referred to as "Capital of the planet". \
+The city is best known for its "dart board" approach to city district planning. It's divided into a circle with eight slices, each of which have three layers, going from main district (city center) and residential areas -> park area and roads -> district centers and residential areas. This type of layering was suggested by Xárif Álufxent, a close friend of þórirsson who studied architecture and expertises in urban planning. Together with a team that was formed at the university he studied at, the foundations and blueprints for Nóve Réjkjavik took shape.
 
 #### Sorskist
 Harbour city to the northwest of Thórirsant, allows for intercontinental connection and trade, most importantly with Zhuehai and Álusken.

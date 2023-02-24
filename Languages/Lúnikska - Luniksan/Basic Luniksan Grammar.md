@@ -83,8 +83,8 @@ Just like every other language, an answer usually comes from a question like "Wh
 | **English** 	| **Luniksan** 	| **Example**        	| **Translation**     	|
 |-------------	|--------------	|--------------------	|---------------------	|
 | What        	| Kitá / Stó   	| Kitá-ést? Stó-ést? 	| What is it?         	|
-| Who         	| Kíje         	| Kíj-és vi?         	| Who are you?        	|
-| Where       	| Dóje         	| Dój-ést la hús?    	| Where is the house? 	|
+| Who         	| Kíe         	| Kíe-és vi?         	| Who are you?        	|
+| Where       	| Dóie         	| Dói-ést la hús?    	| Where is the house? 	|
 | Why         	| Násim        	| Násim ekki?        	| Why not?            	|
 | When        	| []           	| []-ést će?         	| When is it?         	|
 | Which       	| []           	| [] a dváhe?        	| Which of the two?   	|
