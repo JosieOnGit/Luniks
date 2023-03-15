@@ -14,7 +14,7 @@ Mithrí has been the unique indentifying script that first developed around the 
 This table is read as follows, top to bottom:
 - **Left Row**: A, E, I, O, U
 - **Middle Row, left part**: B, C, D, F, G, H, J, K, L
-- **Middle Row, right part**: M, N, P, R, S, T, V, Ŭ (W), Z
+- **Middle Row, right part**: M, N, P, R, S, T, V, W, Z
 - **Right Row, top part**: Ć, Ś
 - **Right Row, bottom part**: Á, É, Í, Ó, Ú
 ![[Mithrí Script.jpg]]
@@ -23,7 +23,7 @@ There isn't much documentation yet written in Luniksan, let alone in Mithrí, as
 ### Latin
 The Latin script used in Luniksan is visually identical to Latin as most Europeans know, with the addition and removal of some letters otherwise seen in languages like English. The character set is as follows:
 
-**A Á B C Ć D E É F G H I Í J K L M N O Ó P R S Ś T U Ú V Ŭ X Z**
+**A Á B C Ć D E É F G H I Í J K L M N O Ó P R S Ś T U Ú V W X Z**
 
 There are some clear standouts within this character set, but let's take a closer look at the basic alphabet first and what it's most comparable to in English:
 - **A**: P**a**th
@@ -54,14 +54,14 @@ There are some clear standouts within this character set, but let's take a close
 - **U**: M**u**st
 - **Ú**: Y**ou** (With an emphasis on the "u", making it sound more like "Yuu")
 - **V**: **V**eer
-- **Ŭ**: **Wh**en
+- **W**: **Wh**en
 - **X**: **Sh**ut
 - **Z**: Bu**zz**
 
 Some things to note:
 - **Ś** and **X** sound and are identical, and the letters are interchangable within the language as well, both are represented and understood and are accepted as well. The word "English" can be written both ways: "Angliśká" and "Anglixká".
 - **J** can be pronounced as ~~both~~ **J**ungle ~~and **Y**oung, but the only way to actually figure out which of the two you have to use is completely contextual, and is a matter of knowing the language. This makes it hard for someone who doesn't speak Luniksan to differentiate the two, as it's very prone to switching up.~~ (2023 edit: This has been revised and is now only pronounced the same way **J**ungle is. The **Y** sound in **Y**oung is now written with an **I**: "La Maiai" (The Maya's))
-- **Ŭ** is sometimes transliterated as **W**, since it's a more accessible letter, and is more easily recognised and understood.
+- ~~**Ŭ** is sometimes transliterated as **W**, since it's a more accessible letter, and is more easily recognised and understood.~~ (2023 edit: **Ŭ** has been replaced completely by **W**, as this is the more legible option)
 - Accented vowels like **Á**, **É**, traditionally define the emphasis in a word, but in the case of multiple accented vowels, the emphasis will always be on the second to last vowel.
 - Although not explicitly listed, the Luniksan script contains an accentuated **K**, and despite its existence, its only usage is with loanwords containing the /x/ sound, which by itself does not exist and is not used within Luniksan. This is most commonly transliterated as **KH**, see: "Lakh" /ləx/.
 

@@ -2,7 +2,7 @@
 Much like the title suggests, these are drafts for the story surrounding Luniks as a whole. This project will be grand, and span a small percentage of all of Earth's history. Key points can be found in [[List of Historic Events]]. 
 
 ## Leremkov Trials
-A broad definition and explanation of the Leremkov Trials is that Dr. Vitaly Leremkov altered human DNA over the span of 30 years, altering the DNA of a significant amount of humanity over this time, giving them animalistic traits, such as the sense of smell of a dog or antlers like a deer. 
+A broad definition and explanation of the Leremkov Trials is that Dr. Vitaly Leremkov altered human DNA over the span of 30 years, altering the DNA of a significant amount of humanity over this time, giving them animalistic traits, such as the sense of smell of a dog or antlers like a deer. Because "Leremkov Vaccines" quickly became a mouthful early on when often referring to people who were affected by them, it has become standard to refer to affected people as "People affected by Leremkov".
 
 Much like Leremkov, stories that grow big enough and no longer end up fitting as drafts will end up in their own document. 
 
@@ -56,4 +56,20 @@ A few things to note: The **Luniksan calendar** only existed as a draft in the p
 
 ### Collapse of United Máneá
 There's currently no proper date for when United Máneá is officially declared and recognised as a split nation. The Luniksan calendar would suggest that this takes place in Anno Luniks 447, which would be roughly 480 years after the colonisation of Luniks. This would take a very long time, and with existing characters interacting with others that live around the late 21st century, the Collapse of Máneá will probably take place around the year 2090-2100 mark. 
+
+
+## Álusken's Mysteries
+### About Álusken
+Unlike Ubius (Thórirsant, Kérisant, etc.) where cities and areas have become more modern and future-proof than ever seen before, Álusken, located on Vestia (Sharing the continent with Benelux, Denmark) instead progressed backwards, taking a liking into a more medieval atmosphere while keeping the technology advanced to keep its citizens safe.  
+  
+### Drafted Story
+Two people travelling from one outer village to another dwell through the darker forest taking a slight detour to pick berries as a treat. They end up dwelling into pitch blackness, despite it being late in the morning, and realise they're trapped in a dome, blocking them from the outside. The done suddenly starts to spin as the wind picks up, causing the two people to duck to the grond to stay afoot, before the dome suddenly breaks open and disappears. A set of feathers is left behind, a brown talon with beige stripes. Who or what possibly did this?  
+  
+### Context
+Álusken II is very strict on vaccines, only allowing properly tested vaccines to enter his gates. This means Leremkov Vaccines are ruled out, as they aren't properly verified. This too means that people visiting Álusken must verify they have no spreadable variant of the Leremkov Vaccine with them before entering. All in all, Álusken is 99% human.  
+  
+So what caused this strange dome to appear and haunt the two wanderers? Could it be native fauna to Luniks or an intruder? After they reach the village they report the incident and show them a feather, slowly becoming a folklore mystery.  
+  
+### Actual
+Unclear yet! It's not been decided yet but I want to make magic play a big role in this. How about someone overdosing on Leremkov and becoming a monster instead? (E.g. Harpy, in this case) There's so much room to grow and choose!
 

@@ -10,20 +10,23 @@ Described above, Reiut is also part of the Oslo revolution, or at least part of 
 Panjit is of Indian descent and is the scientific wonder that enabled Earth to leap forward years in time with travelling to Luniks, creating and realising the technology needed to reduce the travel time from 74 years, to just 4.5 hours, with even further shortening options ready to be developed.  
 
 ### Vitaly Leremkov
-Leremkov's story is described in [Vitaly Leremkov](Vitaly%20Leremkov,%202039-2098)
+Leremkov's story is described in [[Vitaly Leremkov, 2039-2098]].
   
-### Anita Arkh'Ivlam
+### Anita Arkh'ivlam
 Zakh'hafo spokesperson. Involved in the Máneán-Zakh'háfon conflict.  
   
 ### Dénis Terćekv  
 Of Kérisantic descent, but has no affiliation or purpose within the project just yet. A likely purpose for Terćekv will be the lockdown of Leremkov's labs within Kérisant.  
 
-### Makh'lon Uŭaalib
+### Makh'lon Uwaalib
 Malawi spokesperson. Currently has no place within the project just yet as Malaw still has to be placed on the planet.  
 
 ### Stacy & David 
-From the drafted victim story in [Story Drafts](Story%20Drafts). \
+From the drafted "victim story" in [Story Drafts](Story%20Drafts). \
 As of yet, neither have a family name yet, not a bit of history. Their most basic identities are described in the above linked draft. Once more information surfaces on them, this part will be properly updated.
+
+### Lia Maszestéia Matthias-Eden Féoresen, II Kunge da Álusken
+Shortened to simply "Matthias-Eden, King Álusken II", he is the second King of Álusken since its inception from the very start of colonial Luniks. Succeeding his Grandmother, Johanna, Queen Álusken I, and his father, Matthias-Déonis, King Álusken I, he has made radical changes within the country, denying modern technology, something Johanna was very fond of doing, and gave the country its medieval look and state, which it's currently most recognizable by. 
 
 ### Seventh Léjtuse
 The Seventh Léjtuse is intended to be an insurgent army also involved in the Oslo revolution, but as described with Persson and Reiut above, this is put back to the concept board.

@@ -11,7 +11,7 @@ Harbour city to the northwest of Thórirsant, allows for intercontinental connec
 #### Kósfrii
 City most notable by its civil war after a fallen local government, lasting from 2166 to 2172. The end of this war is noted in the [Liétivus Pact](obsidian://open?vault=Luniks&file=Historic%20Events%2FLi%C3%A9tivus%20Pact%2C%20%20Mar%2030%202168) document.
 
-#### Kirŭijets
+#### Kirwijets
 
 #### Sléta
 
@@ -46,7 +46,8 @@ Lake Dnherá is located right in the very center of the Bilćat District in cent
 
 *Below is a drafted story written in 2021, but as described above under Nóve Osló, the description clashes with what is currently on the table and timeline, so in the final lore, this might not be the same as written below*
 
-"Lake Dnherá used to be visited by lots of different people, it was one of the most popular tourist attractions, after all. After the Collapse of Nóve-Osló in 2303, tourism collapsed along with it, leaving Lake Dnherá completely empty of visitors, yet this allowed the surrounding areas to flourish, giving life to new colours, lightening up Bilćat in ways never seen before."
+"Lake Dnherá used to be visited by lots of different people, it was one of the most popular tourist attractions, after all. After the Collapse of Nóve-Osló in 2303, tourism collapsed along with it, leaving Lake Dnherá completely empty of visitors, yet this allowed the surrounding areas to flourish, giving life to new colours, lightening up Bilćat in ways never seen before." \
+One thing to note here, is that the supposed collapse of Nóve-Osló in 2303 causes a collapse in tourism as well surrounding Lake Dnherá. As the development progressed, the city of Nóve-Osló was moved to be located in Thórirsant instead, meaning that the two events cannot be a cause & affect of one another. This is noted down and will be adjusted in the future!
 
 #### Petrívo
 
@@ -57,16 +58,16 @@ Two events are drafted within this city, namely:
 - Tiái Ći 203 Factory and its 2246 fireworks explosion
 - Leremkov's labs
 
-While Leremkov's labs have been mentioned in [Vitaly Leremkov](Vitaly%20Leremkov,%202039-2098), what actually happened in these labs in Cévok remains unclear. 
+While Leremkov's labs have been mentioned in [Vitaly Leremkov](Vitaly%20Leremkov,%202039-2098), what actually happened in these labs in Cévok remains unclear. Dénis Terćekv (Described in [[List of notable people]]) is most likely going to be the lead investigator of these labs during Leremkov's return to Poland, as well as after his death. 
 
-#### Ŭeshalt
+#### Weshalt
 
 
 ## Zakh'háfo (Zakh'háfónai Ertbitsai)
 #### Ákros (Capital)
 After a sudden split from United Máneá, Ákros was left in a fallen, newly formed country, already facing a deep recession right from the start. Nonetheless, Ákros serves home to the new financial district of Zakh'háfo, which is set to be the centre of economic growth for the future of not only Ákros and its surrounding villages, but to bloom Zakh'háfo as a whole.
 
-#### Bŭiskvá
+#### Bwiskvá
 
 #### Nepestésá
 
@@ -87,6 +88,6 @@ After a sudden split from United Máneá, Ákros was left in a fallen, newly for
 #### Álusken (Capital)
 This city is most known for its giant castle in the centre of the city, home to the current King Álusken II. 
 
-#### Keŭstellet
+#### Keustellet
 
 #### Ippavím
