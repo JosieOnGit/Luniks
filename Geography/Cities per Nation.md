@@ -1,5 +1,24 @@
 # List of cities per Nation
 
+## Continents
+Luniks has four continents over the entire planet, each containing a landmass similar to Africa or South America. The four continents can be divided up into countries as well, as follows:
+### Ubius (Central continent)
+- Thórirsant
+- Ellitróómi
+- Kérisant
+- Máneá
+- Zakh'háfo
+- Léitis
+- Rhódiś
+
+### Vestia (Left half)
+- Kingdom of Álusken
+- Benelux
+- Denmark
+- Mónsan Republic
+
+As you can see, only two continents are currently named and placed. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
+
 ## Thórirsant
 #### Nóve Réjkjavik (Capital)
 Named after the city of birth of Jonathán þórirsson, founder and first settler of the planet of Lúniks. Commonly referred to as "Capital of the planet". \
