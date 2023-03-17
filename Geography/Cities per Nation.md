@@ -8,7 +8,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - Kérisant
 - Máneá
 - Zakh'háfo
-- Léitis
+- Léjtis
 - Rhódiś
 
 ### Vestia (Left half)

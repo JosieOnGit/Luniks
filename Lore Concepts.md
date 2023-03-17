@@ -2,7 +2,7 @@
 These ideas are currently under construction and are noted down separately as they can change the whole idea of Luniks, or even humanity's understanding of the universe as a whole. A few drafted ideas like these are worked out below.
 
 ## Magic
-*For PENDULUM, see [[Story Drafts]]*
+*For PENDULUM and Álusken, see [[Story Drafts]]*
 Much like the word suggests, the introduction of magic into the world of Luniks would make things take on a completely different concept. The story of [[Vitaly Leremkov, 2039-2098]] would gain a differently concept, ruling out vaccines and becoming centered around magic instead.
 
 As much complication as it brings, it would also become a trump card for anything currently unexplainable. A complete terraformation of a piece of land would be considered impossible in today's knowledge and technology, but simply saying it's because of the understanding of magic at that moment would reduce the need for complex lore as well.

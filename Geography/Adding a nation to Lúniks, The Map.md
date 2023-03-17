@@ -10,9 +10,9 @@ As spotted before, the map remains unfinished from an eagle-eyed view, only a sm
 - **The Netherlands** *(lit. Benelux/Greater Netherlands)* | Having lost most of their land to the rising sea level on Earth, it's practically a given that Benelux can thrive and continue their progress on Lúniks, where the threat of rising sea levels and floodings is far smaller than it is now on Earth (2046)
 - **Denmark** | Similarly to Benelux, Denmark has lost many of its islands as well as its land to the sea. Proposed is that Denmark will claim a set of land under Álusken, next to where Benelux is expected to receive and claim land.
 - **Japan/Korea** 
-- **Sórskist** | Attempting to secede from Thórirsant, Sórskist would lie and become independent in a roughly 2700km² area in the northwest of Thórirsant.
+- **Sórskist** | Attempting to secede from Thórirsant, Sórskist would lie and become independent in a roughly 2700km² area in the northwest of Thórirsant. This is heavily opposed both within Thórirsant and Sórskist, however, meaning the odds of Sórskist succesfully seceding are close to zero.
 - **Rhódiś** | As Máneá continues to crumble further apart after Zakh'Háfo's sudden secession, Rhódiś also attempts to secede, claiming an area of roughly 7600km² between Máneá and Zakh'háfo.
-- **Kósfrii** *(Post-war)* | Being forcefully excluded from any sort of support from Thórirsant and the Alliance of Three, Kósfrii sits in the middle of Thórirstant as an enclave, ending up as a smaller San Marino.
+- **Kósfrii** *(Post-war)* | Being forcefully excluded from any sort of support from Thórirsant, Kósfrii sits in the middle of Thórirstant as an enclave, ending up as a smaller San Marino.
 
 
 ## The issue, resumed
