@@ -13,7 +13,7 @@ Luniksan actively tries to avoid gendered words, or words that have varying arti
 
 ### Verbs 
 - Mi **danség** - ("I **dance**")
-- On **usájéra** - ("We **use**")
+- On **usádjéra** - ("We **use**")
 
 ### Adjectives
 - La **grande** hús - ("The **big** house")
@@ -23,7 +23,7 @@ Adjectives in Luniksan usually always end in -e to distinguish them from other w
 
 ### Pronouns
 - **Mi** danség - ("**I** dance")
-- **On** usájéra - ("**We** use")
+- **On** usádjéra - ("**We** use")
 
 ### Conjunctions
 This is still being actively debated, so this is subject to change and subject to finalisation, but as of now, these are the two proposed conjunction words:
@@ -51,9 +51,9 @@ In these examples, the subject is shortened and directly connects to the verb wi
 
 #### Verb
 - Danséra - ("We dance")
-- Usájég - ("I use")
+- Usádjég - ("I use")
 
-Both of these examples are allowd only in a casual manner. The subject can be omitted, because saying "Usájég će ("I use it")" already makes it clear that the person who is saying it will use it. As compared to "Usájés će ("You use it")", it becomes clear that the subject becomes the person that the sentence is being told to.
+Both of these examples are allowd only in a casual manner. The subject can be omitted, because saying "Usádjég će ("I use it")" already makes it clear that the person who is saying it will use it. As compared to "Usádjés će ("You use it")", it becomes clear that the subject becomes the person that the sentence is being told to.
 
 ### Subject + Verb + Object
 - Mi buskég la kac - ("I'm searching for the cat")
@@ -84,7 +84,7 @@ Just like every other language, an answer usually comes from a question like "Wh
 |-------------	|--------------	|--------------------	|---------------------	|
 | What        	| Kitá / Stó   	| Kitá-ést? Stó-ést? 	| What is it?         	|
 | Who         	| Kíe         	| Kíe-és vi?         	| Who are you?        	|
-| Where       	| Dóie         	| Dói-ést la hús?    	| Where is the house? 	|
+| Where       	| Dóje         	| Dój-ést la hús?    	| Where is the house? 	|
 | Why         	| Násim        	| Násim ekki?        	| Why not?            	|
 | When        	| []           	| []-ést će?         	| When is it?         	|
 | Which       	| []           	| [] a dváhe?        	| Which of the two?   	|
@@ -93,5 +93,5 @@ Just like every other language, an answer usually comes from a question like "Wh
 This section is missing a part of information and needs expansion[^2]
 
 
-[^1]: This section needs expansion based on [This article](https://www.dutchpod101.com/blog/2021/03/18/dutch-grammar-overview/)
+[^1]: This section needs expansion based on [this article](https://www.dutchpod101.com/blog/2021/03/18/dutch-grammar-overview/)
 [^2]: This section needs translations for "When" and "Which" added
