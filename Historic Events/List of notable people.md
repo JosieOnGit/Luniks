@@ -7,7 +7,8 @@ Both have led the revolution that took place in Oslo, Norway. However, since the
 Described above, Reiut is also part of the Oslo revolution, or at least part of the organisation that led up to the revolution. The same applies to Reiut; The Oslo revolution no longer fits in line with Luniks, which means the character will be repurposed or removed.  
   
 ### Tagip Panjit  
-Panjit is of Indian descent and is the scientific wonder that enabled Earth to leap forward years in time with travelling to Luniks, creating and realising the technology needed to reduce the travel time from 74 years, to just 4.5 hours, with even further shortening options ready to be developed.  
+Panjit is of Indian descent and is the scientific wonder that enabled Earth to leap forward years in time with travelling to Luniks, creating and realising the technology needed to reduce the travel time from 74 years, to just 4.5 hours, with even further shortening options ready to be developed. 
+Having studied in Oxford, Tagip came in close contact with the ESA and quickly researched and developed the technology needed to reach Luniks in such speed. 
 
 ### Vitaly Leremkov
 Leremkov's story is described in [[Vitaly Leremkov, 2039-2098]].
