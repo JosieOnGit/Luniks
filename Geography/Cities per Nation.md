@@ -2,7 +2,7 @@
 
 ## Continents
 Luniks has four continents over the entire planet, each containing a landmass similar to Africa or South America. The four continents can be divided up into countries as well, as follows:
-### Ubius (Central continent)
+### Ubunia (Central continent)
 - Thórirsant
 - Ellitróómi
 - Kérisant
@@ -11,13 +11,17 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - Léjtis
 - Rhódiś
 
-### Vestia (Left half)
+### Vestia (Upper left half)
 - Kingdom of Álusken
 - Benelux
 - Denmark
 - Mónsan Republic
 
-As you can see, only two continents are currently named and placed. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
+### Skádia (Lower left half)
+
+### Deónia (Right half)
+
+As you can see, two continents are currently completely empty spaces, with no countries located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
 
 ## Thórirsant
 #### Nóve Réjkjavik (Capital)
@@ -56,7 +60,7 @@ It's still unclear what will be done with the city of Nóve Osló project-wise. 
 
 ## Kérisant
 #### Kérisant-Civem (Capital)
-Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubius. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of the Luniksan revolution passed. 
+Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubunia. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of the Luniksan revolution passed. 
 
 #### Kérisant-Bilćat
 ##### Lake Dnherá is located near Kérisant-Bilćat, which itself is near the capital of Kérisant
@@ -70,7 +74,7 @@ One thing to note here, is that the supposed collapse of Nóve-Osló in 2303 cau
 
 #### Petrívo
 
-#### Másidam
+#### Mászdam
 
 #### Cévok
 Two events are drafted within this city, namely:
