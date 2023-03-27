@@ -77,7 +77,7 @@ Two events are drafted within this city, namely:
 - Tiái Ći 203 Factory and its 2246 fireworks explosion
 - Leremkov's labs
 
-While Leremkov's labs have been mentioned in [Vitaly Leremkov](Vitaly%20Leremkov,%202039-2098), what actually happened in these labs in Cévok remains unclear. Dénis Terćekv (Described in [[List of notable people]]) is most likely going to be the lead investigator of these labs during Leremkov's return to Poland, as well as after his death. 
+While Leremkov's labs have been mentioned in [[Vitaly Leremkov, 2039-2098]], what actually happened in these labs in Cévok remains unclear. Dénis Terćekv (Described in [[List of notable people]]) is most likely going to be the lead investigator of these labs during Leremkov's return to Poland, as well as after his death. 
 
 #### Weshalt
 
