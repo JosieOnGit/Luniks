@@ -14,7 +14,7 @@ Having studied in Oxford, Tagip came in close contact with the ESA and quickly r
 Leremkov's story is described in [[Vitaly Leremkov, 2039-2098]].
   
 ### Anita Arkh'ivlam
-Zakh'hafo spokesperson. Involved in the Máneán-Zakh'háfon conflict.  
+Zakh'háfo spokesperson. Involved in the Máneán-Zakh'háfon conflict.  
   
 ### Dénis Terćekv  
 Of Kérisantic descent, but has no affiliation or purpose within the project just yet. A likely purpose for Terćekv will be the lockdown of Leremkov's labs within Kérisant.  
@@ -27,7 +27,7 @@ From the drafted "victim story" in [Story Drafts](Story%20Drafts). \
 As of yet, neither have a family name yet, nor a good bit of history. Their most basic identities are described in the above linked draft. Once more information surfaces on them, this part will be properly updated.
 
 ### Lia Mazsestéia Matthias-Eden Féoresen, II Kunge da Álusken
-Shortened to simply "Matthias-Eden, King Álusken II", he is the second King of Álusken since its inception from the very start of colonial Luniks. Succeeding his Grandmother, Johanna, Queen Álusken I, and his father, Matthias-Déonis, King Álusken I, he has made radical changes within the country, denying modern technology, something Johanna was very fond of doing, and gave the country its medieval look and state, which it's currently most recognizable by. 
+Shortened to simply "Matthias-Eden, King Álusken II", he is the second King of Álusken since its inception from the very start of colonial Luniks. Succeeding his Grandmother, Johanna, Queen Álusken I, and his father, Matthias-Déonis, King Álusken I, he has made radical changes within the country, denying a portion of modern technology, especially in experimental healthcare, something Johanna was very fond of doing, and gave the country its medieval look and state, which it's currently most recognizable by. 
 
 ### Seventh Léjtuse
 The Seventh Léjtuse is intended to be an insurgent army also involved in the Oslo revolution, but as described with Persson and Reiut above, this is put back to the concept board.

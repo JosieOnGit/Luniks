@@ -31,7 +31,7 @@ It might also be an idea for David to experience the vast difference between hum
 
 ## PENDULUM
 *This story draft is dependant on magic, described in [[Lore Concepts]]. This might not be a reality as the project nears completion, or it might be rewritten to adhere technology standards.*
-PENDULUM is a non-profit organisation, founded in Másidam in 2041, is an organisation that specializes in medical treatment through hypnotic treatment, hence the name "Pendulum". This organisation mostly came to be to help people deal with mental health and other issues, such as severe pain in their body and numbing it through hypnosis, but it's most notable for making people become content with their changed bodies after being affected by Leremkov's vaccines around 30 years later. 
+PENDULUM is a non-profit organisation, founded in Mászdam in 2041, is an organisation that specializes in medical treatment through hypnotic treatment, hence the name "Pendulum". This organisation mostly came to be to help people deal with mental health and other issues, such as severe pain in their body and numbing it through hypnosis, but it's most notable for making people become content with their changed bodies after being affected by Leremkov's vaccines around 30 years later. 
 
 The process in its most basic form would be to hypnotise and numb the person's mind, and using various doses of magic, they would make it so people would become at pure ease with their bodies, and in the case that instincts and/or behaviour was altered too, that a seamless blend between their old and new minds would take place. In some rare cases, where a vaccine left a person with an unfinished transformation (e.g. Only one of two ears being changed, one foot becoming a hoof while the other remains human, etc.), PENDULUM would also be able to use magic to forcefully transform the person according to their wishes, and in some cases they would even be able to completely revert the effect of the vaccine, given that it was treated quickly enough. This, however, brought risks with it, and this treatment in particular is not recommended.
 
@@ -66,7 +66,7 @@ United Máneá will break apart into Máneá, Zakh'háfo, Rhódiś (disputed).
 
 ## Álusken's Mysteries
 ### About Álusken
-Unlike Ubius (Thórirsant, Kérisant, etc.) where cities and areas have become more modern and future-proof than ever seen before, Álusken, located on Vestia (Sharing the continent with Benelux, Denmark) instead progressed backwards, taking a liking into a more medieval atmosphere while keeping the technology advanced to keep its citizens safe.  
+Unlike Ubunia (Thórirsant, Kérisant, etc.) where cities and areas have become more modern and future-proof than ever seen before, Álusken, located on Vestia (Sharing the continent with Benelux, Denmark) instead progressed backwards, taking a liking into a more medieval atmosphere while keeping the technology advanced to keep its citizens safe.  
   
 ### Drafted Story
 Two people travelling from one outer village to another dwell through the darker forest taking a slight detour to pick berries as a treat. They end up dwelling into pitch blackness, despite it being late in the morning, and realise they're trapped in a dome, blocking them from the outside. The done suddenly starts to spin as the wind picks up, causing the two people to duck to the grond to stay afoot, before the dome suddenly breaks open and disappears. A set of feathers is left behind, a brown talon with beige stripes. Who or what possibly did this?  
