@@ -116,12 +116,13 @@ Unlike the capital, Keustellet is a very modern city, matching the looks of Cév
 
 #### Ippavím
 
-
+___
+Below are a few countries that are only currently known by name, and might not yet be placed on the map. 
 ## Monsán Republic 
 
 
-## Zhuehai 
+## People's Republic of Zhuehai 
 
 
-## Léjtis
+## Léjtis (Free State of)
 
