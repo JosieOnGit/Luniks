@@ -32,7 +32,7 @@ The city is best known for its "dart board" approach to city district planning. 
 Harbour city to the northwest of Thórirsant, allows for intercontinental connection and trade, most importantly with Zhuehai and Álusken.
 
 #### Kósfrii
-City most notable by its civil war after a fallen local government, lasting from 2166 to 2172. The end of this war is noted in the [Liétivus Pact](obsidian://open?vault=Luniks&file=Historic%20Events%2FLi%C3%A9tivus%20Pact%2C%20%20Mar%2030%202168) document.
+City most notable by its civil war after a fallen local government, lasting from 2166 to 2172. The end of this war is noted in the [[Liétivus Pact,  Mar 30 2168]] document.
 
 #### Kirwijets
 

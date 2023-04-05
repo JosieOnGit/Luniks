@@ -23,7 +23,7 @@ Of Kérisantic descent, but has no affiliation or purpose within the project jus
 Malawi spokesperson. Currently has no place within the project just yet as Malaw still has to be placed on the planet.  
 
 ### Stacy & David 
-From the drafted "victim story" in [Story Drafts](Story%20Drafts). \
+From the drafted "victim story" in [[Story Drafts]]. \
 As of yet, neither have a family name yet, nor a good bit of history. Their most basic identities are described in the above linked draft. Once more information surfaces on them, this part will be properly updated.
 
 ### Lia Mazsestéia Matthias-Eden Féoresen, II Kunge da Álusken
