@@ -26,7 +26,7 @@ Malawi spokesperson. Currently has no place within the project just yet as Malaw
 From the drafted "victim story" in [[Story Drafts]]. \
 As of yet, neither have a family name yet, nor a good bit of history. Their most basic identities are described in the above linked draft. Once more information surfaces on them, this part will be properly updated.
 
-### Lia Mazsestéia Matthias-Eden Féoresen, II Kunge da Álusken
+### Lia Mazsestéia Matthias-Eden Féoresen, II Kunge d-Álusken
 Shortened to simply "Matthias-Eden, King Álusken II", he is the second King of Álusken since its inception from the very start of colonial Luniks. Succeeding his Grandmother, Johanna, Queen Álusken I, and his father, Matthias-Déonis, King Álusken I, he has made radical changes within the country, denying a portion of modern technology, especially in experimental healthcare, something Johanna was very fond of doing, and gave the country its medieval look and state, which it's currently most recognizable by. 
 
 ### Seventh Léjtuse

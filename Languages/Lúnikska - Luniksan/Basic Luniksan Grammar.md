@@ -86,12 +86,12 @@ Just like every other language, an answer usually comes from a question like "Wh
 | Who         	| Kíe         	| Kíe-és vi?         	| Who are you?        	|
 | Where       	| Dóje         	| Dój-ést la hús?    	| Where is the house? 	|
 | Why         	| Násim        	| Násim ekki?        	| Why not?            	|
-| When        	| []           	| []-ést će?         	| When is it?         	|
-| Which       	| []           	| [] a dváhe?        	| Which of the two?   	|
+| When        	| Nerem         | Nerem ést će?         | When is it?         	|
+| Which       	| Vík           | Vík a dváhe?        	| Which of the two?   	|
 | How         	| Hur          	| Hur és vi?         	| How are you?        	|
 
 This section is missing a part of information and needs expansion[^2]
 
 
 [^1]: This section needs expansion based on [this article](https://www.dutchpod101.com/blog/2021/03/18/dutch-grammar-overview/)
-[^2]: This section needs translations for "When" and "Which" added
+[^2]: This section needs example sentences to clarify the usage of the interrogative word
