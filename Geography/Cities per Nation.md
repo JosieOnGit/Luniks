@@ -9,7 +9,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - Máneá
 - Zakh'háfo
 - Léjtis
-- Rhódiś
+- Rhódiś (Disputed)
 
 ### Vestia (Upper left half)
 - Kingdom of Álusken
