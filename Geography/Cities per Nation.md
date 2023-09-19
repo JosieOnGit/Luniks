@@ -16,6 +16,8 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - Benelux
 - Denmark
 - Mónsan Republic
+- Zhuehai
+- Hédenis
 
 ### Skádia (Lower left half)
 
@@ -74,6 +76,9 @@ One thing to note here, is that the supposed collapse of Nóve-Osló in 2303 cau
 
 #### Petrívo
 
+#### Maríaporta super Égicmar
+Maríaporta is a small port city located above the Égicmar lake (Égic's lake), further connecting Kérisant to other nations further out on the planet.
+
 #### Mászdam
 
 #### Cévok
@@ -116,12 +121,39 @@ Unlike the capital, Keustellet is a very modern city, matching the looks of Cév
 
 #### Ippavím
 
+
+## Zhuehai
+
+#### Máteiazhu
+
+#### Nóve Guangdong
+
+#### Tsechung la Porta
+
+## Hédenis
+Hédenis has a very concrete way of naming cities and towns influenced by their mayors or founders, and the nature around them, creating a compounded word of settler + location. An example is "Myloukos géid Ygaris", a smaller city located at the river of Ygaris, settled by Stéiffra Myloukos. It would translate to "Myloukos at Ygaris", and can also be written as "Myloukos géid Ysani" (Myloukos at the river), but is not commonly used as it's not exactly clear.
+#### Myriakos (Capital)
+
+
+### Coastal cities (Port - Polou)
+#### Myriapolou
+
+#### Girréiapolou
+
+#### Yledeypolou
+
+#### Sevásipolou
+
+
+### Mountainous cities (Mountain - Gerou)
+
+#### Nedeigerou
+
+#### Elysgerou
+
 ___
 Below are a few countries that are only currently known by name, and might not yet be placed on the map. 
 ## Monsán Republic 
-
-
-## People's Republic of Zhuehai 
 
 
 ## Léjtis (Free State of)

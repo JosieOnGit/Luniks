@@ -41,7 +41,7 @@ Vienna & Olen are currently in a very small starting phase, being drafted not to
 **Vienna Méckláz**  
 *Kérisantic* descent. Luniks 2046.  
 **Occupation**: Scientist, nurse, guardian, at Post-Leremkov treatment.
-**Brief description**: Vienna was born as Julian in Weshalt, but has come out as transgender already in her early years of high school, where she quickly found the role of a nurse appealing as a future job. Always having been a caring and careful person with a kind heart, she enrolled in Cévok College in 2065, and started to take serious steps in reaching her dream job. 
+**Brief description**: Vienna was born as Julian in Weshalt, but has come out as transgender already in her early years of high school, where she then quickly found the role of a nurse appealing as a future job. Always having been a caring and careful person with a kind heart, she enrolled in Cévok College in 2065, and started to take serious steps in reaching her dream job. 
 **Current role**: During an internship in her Master in 2071, she became affected by Leremkov after repeatedly coming in contact with others already affected, waking up completely disoriented as she gained various traits from an antelope. Despite this, she completed her Master and graduated, and instead agreed to devote her body to research into reducing the effects of Leremkov and experimenting if it was reversible in any way. These experiments instead ended up accelerating and worsening any changes still in stock for her, as she also gained the legs and hooves of an antelope, as well as her left shoulder and arm gaining a similar patterned fur. After this incident, she quickly learned how to adjust to her new role, as any further experiments were ruled out. With her new body, she stumbled upon Olen in 2071, and agreed to become a guardian and supportive person with the intent to aid those that underwent a similar, sudden change. 
 
 #### Planned story
@@ -86,3 +86,6 @@ United Máneá will break apart into Máneá, Zakh'háfo, Rhódiś (disputed).
 ## Álusken's Mysteries
 Álusken's Mysteries has grown too big to remain a draft. It's now available at [[Álusken's Mysteries]].
 
+
+## Hédenis
+As Hédenis lays closely to Álusken, its mysteries and secrets, as well as the weird events that occur in Álusken, slowly but surely flow over to Hédenis as well. One major difference between the two nations is that Hédenis has a very open and philosophical approach to these events, whereas Álusken is very closed-off and secretive. The fact that Hédenis has such an open approach to these mysteries allows them to more quickly get used to them, and normalize these events as well, as they were quicker to learn the root cause (Deviations of Leremkov), and more quickly allowed the people that were affected to still be able to live an otherwise "normal" life in Hédenis. 
