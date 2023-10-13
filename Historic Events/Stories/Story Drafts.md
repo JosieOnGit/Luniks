@@ -89,3 +89,7 @@ United Máneá will break apart into Máneá, Zakh'háfo, Rhódiś (disputed).
 
 ## Hédenis
 As Hédenis lays closely to Álusken, its mysteries and secrets, as well as the weird events that occur in Álusken, slowly but surely flow over to Hédenis as well. One major difference between the two nations is that Hédenis has a very open and philosophical approach to these events, whereas Álusken is very closed-off and secretive. The fact that Hédenis has such an open approach to these mysteries allows them to more quickly get used to them, and normalize these events as well, as they were quicker to learn the root cause (Deviations of Leremkov), and more quickly allowed the people that were affected to still be able to live an otherwise "normal" life in Hédenis. 
+
+
+## Other various smaller ideas
+### 

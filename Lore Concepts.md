@@ -11,4 +11,4 @@ New flora and fauna would easily bloom on Luniks, as this planet is still comple
 
 
 ## Time Exploitation
-Luniks was officially colonised early 2005, and with numerous countries and cities being built ever since, this would mean there would be an insane demand for produciton materials. This could tie hand in hand with magic, but exploiting time so that the time to produce materials would be shortened all the way down to a matter of seconds would make it "realistic" to make Luniks bloom as quick as it did. 
+Luniks was officially colonised early 2005, and with numerous countries and cities being built ever since, this would mean there would be an insane demand for production materials. This could tie hand in hand with magic, but exploiting time so that the time to produce materials would be shortened all the way down to a matter of seconds would make it "realistic" to make Luniks bloom as quick as it did. 
