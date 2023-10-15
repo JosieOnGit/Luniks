@@ -1,6 +1,7 @@
 # Story Drafts
 Much like the title suggests, these are drafts for the story surrounding Luniks as a whole. This project will be grand, and span a small percentage of all of Earth's history. Key points can be found in [[List of Historic Events]]. 
 
+
 ## Leremkov Trials
 A broad definition and explanation of the Leremkov Trials is that Dr. Vitaly Leremkov altered human DNA over the span of 30 years, altering the DNA of a significant amount of humanity over this time, giving them animalistic traits, such as the sense of smell of a dog or antlers like a deer. Because "Leremkov Vaccines" quickly became a mouthful early on when often referring to people who were affected by them, it has become standard to refer to affected people as "People affected by Leremkov".
 
@@ -30,7 +31,6 @@ It might also be an idea for David to experience the vast difference between hum
 
 ### Vienna & Olen
 Vienna & Olen are currently in a very small starting phase, being drafted not too long ago and only being properly documented as a side story to David & Stacy, and showing the effects and treatment of Leremkov from a medical standpoint, helping those who are affected by sharing their own experiences as affected people themselves.
-
 #### Who and who?
 **Olen Rosenqvist**  
 *Swedish* descent. Earth 2035.  
@@ -55,7 +55,6 @@ PENDULUM is a non-profit organisation, founded in Mászdam in 2041, is an organi
 The process in its most basic form would be to hypnotise and numb the person's mind, and using various doses of magic, they would make it so people would become at pure ease with their bodies, and in the case that instincts and/or behaviour was altered too, that a seamless blend between their old and new minds would take place. In some rare cases, where a vaccine left a person with an unfinished transformation (e.g. Only one of two ears being changed, one foot becoming a hoof while the other remains human, etc.), PENDULUM would also be able to use magic to forcefully transform the person according to their wishes, and in some cases they would even be able to completely revert the effect of the vaccine, given that it was treated quickly enough. This, however, brought risks with it, and this treatment in particular is not recommended.
 
 Their most common treatment is adjusting a family tree according to the changes and effects on one person in their family tree. If a parent would be affected by the vaccine and gain traits of a fox, their partner could request a similar, controlled change, so that genetic defects would be almost eliminated for their future children. This is what Stacy's parents had undergone, after Stacy's mother was affected by Leremkov's vaccine, her father chose to undergo this treatment so that their future children, such as Stacy, wouldn't be born with genetic defects.
-
 ### Connecting PENDULUM with David & Stacy
 Both PENDULUM and David have deep interest in researching and potentially curing or helping people with dealing with altered DNA from Leremkov. During David's graduation assignment, he meets Stacy and learns her story and her family, and gradually learns more about the Leremkov Vaccines in the process. As described above, Stacy's father had close contact with PENDULUM and even agreed to have his DNA altered to match his partner's. As David gets to know Stacy more closely, he might ask her father about PENDULUM and then get into contact with them in order to progress his own research.
 
@@ -66,7 +65,6 @@ The Oslo Revolution originally happened in 2247, and was first drafted in 2018 i
 
 ## Máneá-Zakh'háfo Conflict / Collapse of United Máneá
 The title should be read as cause -> effect. The sudden split between Mánea and Zakh'háfo caused not only Zakh'háfo to crumble into economical and political discourse and instability, this also opened up doors to provinces and areas which were located between the two newly-formed countries to fight for their own independence too, most notably being Rhódiś. 
-
 ### Máneá-Zakh'háfo conflict
 Note: This is part of a draft first made in 2020, and might contain content that no longer exists, or never properly existed. It might be highly inaccurate within the present state of the project.
 
@@ -89,6 +87,10 @@ United Máneá will break apart into Máneá, Zakh'háfo, Rhódiś (disputed).
 
 ## Hédenis
 As Hédenis lays closely to Álusken, its mysteries and secrets, as well as the weird events that occur in Álusken, slowly but surely flow over to Hédenis as well. One major difference between the two nations is that Hédenis has a very open and philosophical approach to these events, whereas Álusken is very closed-off and secretive. The fact that Hédenis has such an open approach to these mysteries allows them to more quickly get used to them, and normalize these events as well, as they were quicker to learn the root cause (Deviations of Leremkov), and more quickly allowed the people that were affected to still be able to live an otherwise "normal" life in Hédenis. 
+
+
+## GHOST TEMPLES
+GHOST TEMPLES has grown too big to remain a draft. It's now available at [[GHOST TEMPLES]].
 
 
 ## Other various smaller ideas

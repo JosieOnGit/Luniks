@@ -8,4 +8,4 @@ Phase two was completed in late 2086, where each constructed model was successfu
 
 Phase three then required everything else to work as planned. Oxygen needed to be generated, pressure needed to be correctly applied and everything had to work exactly as intended, even against the vast forces of Luninks and space around it. But as intended, all tests completed without issue over the next months, and a controlled projectile was correctly averted fom the Ring's counter forces. The planet began blooming for the centuries to come as Alkéisa's Ring was now fully deployed.
 
-#### Alkéisa's ring has been deployed succesfully on August 05th, 2087
+#### Alkéisa's ring has been deployed successfully on August 05th, 2087

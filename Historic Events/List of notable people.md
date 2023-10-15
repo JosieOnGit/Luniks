@@ -16,8 +16,8 @@ Leremkov's story is described in [[Vitaly Leremkov, 2039-2098]].
 ### Anita Arkh'ivlam
 Zakh'háfo spokesperson. Involved in the Máneán-Zakh'háfon conflict.  
   
-### Dénis Terćekv  
-Of Kérisantic descent, but has no affiliation or purpose within the project just yet. A likely purpose for Terćekv will be the lockdown of Leremkov's labs within Kérisant.  
+### Dénis Terczekv  
+Of Kérisantic descent, but has no affiliation or purpose within the project just yet. A likely purpose for Terczekv will be the lockdown of Leremkov's labs within Kérisant.  
 
 ### Makh'lon Uwaalib
 Malawi spokesperson. Currently has no place within the project just yet as Malaw still has to be placed on the planet.  

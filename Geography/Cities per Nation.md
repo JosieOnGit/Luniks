@@ -9,7 +9,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - Máneá
 - Zakh'háfo
 - Léjtis
-- Rhódiś (Disputed)
+- Rhódisz (Disputed)
 
 ### Vestia (Upper left half)
 - Kingdom of Álusken
@@ -28,7 +28,7 @@ As you can see, two continents are currently completely empty spaces, with no co
 ## Thórirsant
 #### Nóve Réjkjavik (Capital)
 Named after the city of birth of Jonathán þórirsson, founder and first settler of the planet of Lúniks. Commonly referred to as "Capital of the planet". \
-The city is best known for its "dart board" approach to city district planning. It's divided into a circle with eight slices, each of which have three layers, going from main district (city center) and residential areas -> park area and roads -> district centers and residential areas. This type of layering was suggested by Xárif Álufxent, a close friend of þórirsson who studied architecture and expertises in urban planning. Together with a team that was formed at the university he studied at, the foundations and blueprints for Nóve Réjkjavik took shape.
+The city is best known for its "dart board" approach to city district planning. It's divided into a circle with eight slices, each of which have three layers, going from main district (city center) and residential areas -> park area and roads -> district centers and residential areas. This type of layering was suggested by Xárif Álufxent, a close friend of þórirsson who studied architecture and expertise in urban planning. Together with a team that was formed at the university he studied at, the foundations and blueprints for Nóve Réjkjavik took shape.
 
 #### Sorskist
 Harbour city to the northwest of Thórirsant, allows for intercontinental connection and trade, most importantly with Zhuehai and Álusken.
@@ -130,6 +130,10 @@ Unlike the capital, Keustellet is a very modern city, matching the looks of Cév
 
 #### Tsechung la Porta
 
+
+## Monsán Republic 
+
+
 ## Hédenis
 Hédenis has a very concrete way of naming cities and towns influenced by their mayors or founders, and the nature around them, creating a compounded word of settler + location. An example is "Myloukos géid Ygaris", a smaller city located at the river of Ygaris, settled by Stéiffra Myloukos. It would translate to "Myloukos at Ygaris", and can also be written as "Myloukos géid Ysani" (Myloukos at the river), but is not commonly used as it's not exactly clear.
 #### Myriakos (Capital)
@@ -153,8 +157,6 @@ Hédenis has a very concrete way of naming cities and towns influenced by their 
 
 ___
 Below are a few countries that are only currently known by name, and might not yet be placed on the map. 
-## Monsán Republic 
-
 
 ## Léjtis (Free State of)
 
