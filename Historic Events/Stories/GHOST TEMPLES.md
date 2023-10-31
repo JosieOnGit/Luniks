@@ -16,9 +16,9 @@ Each temple has a name and a set of present symbols (Elements, Zodiacs, Sprits) 
 KEY NOTES:  
 Ghost name: Ghost of Luna  
 Mysterious girl: **UNNAMED**
-Temple name: Temple of Vestia  
-Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
-Temple guardian: Settler of Vászi  
+Temple name: Temple of [Vestia]([[GHOST TEMPLES - Scattered Info#Temple of Vestia]]) 
+Present [symbols]([[GHOST TEMPLES - Scattered Info#Known Symbols]]): Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
+Temple guardian: Settler of Vászi
 
 ### Drafted Story
 Roaming through the vivid and bright streets of Matéiazhu, hidden behind a mask and seen by nobody, is a young ghost. They lost their lives in a shock derailment incident on their way home from Zhuehai to Benelux, in the first deadly rail incident since the opening of the planetary rail network, at least 30 years prior. Ever since, they've been stuck in Zhuehai, forever longing to go home, but instead needing to find comfort behind a mask, roaming through the streets, eyeing every passerby, some familiars, mostly strangers. With their head down, they reach behind a corner store, taking a seat on top of the garbage collector, their hand resting on their cheek as they stare into the busy street. Every single night has passed like this. Staring at the busy street, eager and desperate to join the masses, but just being invisible to everyone, hidden behind a mask.  
@@ -34,19 +34,5 @@ A shiver runs through the ghost's phantom body, as flashbacks suddenly race thro
 ### What's next?
 For GHOST TEMPLES, the main approach is following the Ghost of Luna through their story and describe their experience as a ghost, starting from the very moment of the rail incident in Zhuehai, all the way towards the complete connection of temples spread throughout the planet, maybe even hinting at temples located back at Earth?
 
-### Scattered Info
-#### Known Temples
-##### Temple of Vestia
-Despite the Ghost of Luna frequently roams through Zhuehai, their own temple is actually located deep within the forest separating Zhuehai from Álusken. 
-- **Present Symbols:** Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos
-- **Settler**: Settler of Vászi
-
-##### Temple of Álusken
-- **Present Symbols**: Earth, Choreos, Zeta, Pisces, Cziskvelén, Luna
-- **Settler**: Settler Matéis
-
-##### Temple of Zhuehai
-##### Temple of Sórskist
-##### Temple of Girréiapolou
-
-#### Known Symbols
+### External Info
+Smaller bits of information are available in [[GHOST TEMPLES - Scattered Info]]
