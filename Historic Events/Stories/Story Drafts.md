@@ -48,6 +48,11 @@ Vienna & Olen are currently in a very small starting phase, being drafted not to
 We are following myself as a person who will receive aid from both Olen and Vienna after having been affected by Leremkov. I still have zero idea how big this project might become, nor how this story might unfold and develop, but given the scale it currently is at, it will definitely have its own separate entry. 
 
 
+### Other scattered info
+Once infected by Leremkov, it will take a few hours before the effects really become noticeable. During these hours, the virus becomes "hyperactive", as your skin might start irritating, your nose might become runny or you'll have intense coughing fits.  \
+These coughing fits are vital in spreading the virus, and this is something Leremkov himself was keen on implementing when first creating this virus. The virus will float in the air or stick to surfaces as you cough or sneeze, and easily infect the next person to touch the now-infected item. This way, cities like Cévok and eventually Poznań would succumb to the immense speed the virus spread at.
+
+
 ## PENDULUM
 *This story draft is dependant on magic, described in [[Lore Concepts]]. This might not be a reality as the project nears completion, or it might be rewritten to adhere technology standards.*
 PENDULUM is a non-profit organisation, founded in Mászdam in 2041, is an organisation that specializes in medical treatment through hypnotic treatment, hence the name "Pendulum". This organisation mostly came to be to help people deal with mental health and other issues, such as severe pain in their body and numbing it through hypnosis, but it's most notable for making people become content with their changed bodies after being affected by Leremkov's vaccines around 30 years later. 
