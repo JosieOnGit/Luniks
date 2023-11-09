@@ -7,6 +7,9 @@ Guarded by Alkéisa's Ring, this Ring creates an artificial layer and magnetic f
 # Distinct. United. |
 Spanning four continents and many more countries and territories, Luniks is home to a diverse and unique set of inhabitants. While mostly similar to Earth from migration, this planet still supports and is home to unique flora and fauna never seen before. Cultural differences emerged between countries and continents but one thing remains certain forever. Everyone shares this planet. Everyone is united.
 
+# Mysteries Unfolded |
+With the discovery of a new planet, so comes the discovery of new mysteries. Ancient Temples, seemingly inhabited long before humanity even settled the Earth, creatures never before seen, flowers never before bloomed. Will humanity successfully find peace with these new challenges, or will they be driven away right after settling?
+
 # Gaze into infinity |
 Surrounded by a vast family of similar planets in its solar system, the Luniks project and journey doesn't end just there. A trip from Earth was just the beginning, a glimpse of the intergalactic future within reach. Luniks has become a hub for interstellar travel within a century, ever increasing and vastly growing for millions of people, a precedent to the future of humanity.
 
