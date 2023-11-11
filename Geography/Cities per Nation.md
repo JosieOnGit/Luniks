@@ -124,11 +124,13 @@ Unlike the capital, Keustellet is a very modern city, matching the looks of Cév
 
 ## Zhuehai
 
-#### Máteiazhu
+#### Matéiazhu (Capital)
 
 #### Nóve Guangdong
 
 #### Tsechung la Porta
+
+#### Shánzhe
 
 
 ## Monsán Republic 
