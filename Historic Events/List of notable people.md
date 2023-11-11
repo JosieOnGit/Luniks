@@ -10,13 +10,13 @@ Often referred to as the "Settler of the next generation", or simply "Settler of
 ### Tagip Panjit 
 Panjit is of Indian descent and is the scientific wonder that enabled Earth to leap forward years in time with travelling to Luniks, creating and realising the technology needed to reduce the travel time from 74 years, to just 4.5 hours, with even further shortening options ready to be developed. 
 Having studied in Oxford, Tagip came in close contact with the ESA and quickly researched and developed the technology needed to reach Luniks in such speed. 
-### Seventh Léjtuse
+### Seventh Léjtuse (Awaiting inclusion)
 The Seventh Léjtuse is intended to be an insurgent army also involved in the Oslo revolution, but as described with Persson and Reiut above, this is put back to the concept board.
 
 ## Leremkov Trials (2022)
 ### Vitaly Leremkov
 Leremkov's story is described in [[Vitaly Leremkov, 2039-2098]].
-### Dénis Terczekv  
+### Dénis Terczekv (Awaiting inclusion)
 Of Kérisantic descent, but has no affiliation or purpose within the project just yet. A likely purpose for Terczekv will be the lockdown of Leremkov's labs within Kérisant.  
 ### Stacy & David 
 From the drafted "victim story" in [[Story Drafts]]. \
@@ -24,10 +24,22 @@ As of yet, neither have a family name yet, nor a good bit of history. Their most
 ### Vienna Méckláz & Olen Rosenqvist
 Vienna and Olen are described in detail in [[Leremkov Trials#Vienna & Olen]].
 
-## GHOST TEMPLES // VESTIA
+## GHOST TEMPLES // VESTIA (2023)
+
+### Settler of Vászi
+As the **Guardian of Vestia**, the *White/Grey* dress code is mandatory for a Guardian to wear. Because of this, Vászi wears a blacked-out and grey harness, over which he wears a robe or mantle, with a collar that extends far out.
+
+Vászi bears a **Plain White Mask**. He prefers a featureless mask that hides his expressions and body language while guiding a new ghost through Rebirth. This way, he will give the new ghost the most neutral and natural way to process it all, without giving a first impression, be it good or bad, through an altered and personalized mask.
+
 ### Ghost of Luna
+Appearance wise, the **Ghost of Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
+
+Luna bears an **Oni Mask**, handcrafted to their preference and integrated a *Gold/Red* and Chinese-inspired characters and artworks, as a tribute to the many days they had spent in Matéiazhu ever since being reborn.
 
 ### Ghost of Snow Fox
+The **Ghost of Snow Fox** has primarily worn simple, white dressed ever since her Rebirth, still adapting to her sudden changes, especially those that were brought over through the recovery of her spirit by *Vászi*. Next to wearing primarily white clothing, she also sport long, wavy white hair and possesses the animal characteristics of an *Arctic Fox*, such as her snow-white tail and ears. 
+
+Snow Fox bears a **Kitsune Mask**, which she began personalizing by adding black spots to the left ear, mirroring the black spots on her actual ears, and integrating various pastel colours to *"add colour to the empty space of heaven"*, as she prefers to call it.
 
 ## Collapse of United Máneá
 ### Anita Arkh'ivlam
