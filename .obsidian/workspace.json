@@ -6,33 +6,22 @@
       {
         "id": "81f927cea75f4356",
         "type": "tabs",
+        "dimension": 47.26666666666667,
         "children": [
           {
-            "id": "c675239b78650108",
+            "id": "d1a0baa76bb2a30a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Lúnikska - Luniksan/Basic Luniksan Grammar.md",
+                "file": "Geography/Cities per Nation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8d03facd23c1941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efe780f2ea8a0420",
+            "id": "d4e5382ba5663c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,52 +31,9 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "0ad4bf521ddc63ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b33f0e9483cfc76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Adding a nation to Lúniks, The Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
-            "id": "0a1beab5e7fe8dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Lúnikska - Luniksan/Basic Luniksan Grammar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09ce7e36d630485a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/List of historic events.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af154e238919b55b",
+            "id": "3813f7ba3365fe65",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,19 +45,86 @@
             }
           },
           {
-            "id": "26d1477b099717cf",
+            "id": "98b89cbe6bdeb3fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historic Events/Stories/Vitaly Leremkov, 2039-2098.md",
+                "file": "Historic Events/Stories/Leremkov Trials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d10a87816a43d114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/Stories/Leremkov - PENDULUM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0ad4bf521ddc63ab",
+        "type": "tabs",
+        "dimension": 52.73333333333333,
+        "children": [
+          {
+            "id": "970d8fa7ac520efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/Stories/GHOST TEMPLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a05b41044d778559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/Stories/GHOST TEMPLES - LAST LIGHT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "994f1a5b9abac5bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/Stories/GHOST TEMPLES - REBIRTH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07458fc5a162ad69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/Stories/GHOST TEMPLES - Scattered Info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ubius",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historic Events/Stories/Story Drafts.md",
+                "file": "Historic Events/Stories/GHOST TEMPLES - REBIRTH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 281.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -201,38 +214,42 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efe780f2ea8a0420",
+  "active": "994f1a5b9abac5bd",
   "lastOpenFiles": [
-    "Historic Events/Stories/Vitaly Leremkov, 2039-2098.md",
-    "Historic Events/List of historic events.md",
-    "Languages/Lúnikska - Luniksan/Basic Luniksan Grammar.md",
-    "Geography/Adding a nation to Lúniks, The Map.md",
+    "Historic Events/Stories/GHOST TEMPLES - LAST LIGHT.md",
+    "Historic Events/Stories/GHOST TEMPLES.md",
+    "Historic Events/Stories/GHOST TEMPLES - REBIRTH.md",
     "Geography/Cities per Nation.md",
     "Historic Events/Stories/Story Drafts.md",
+    "Historic Events/Stories/Leremkov - PENDULUM.md",
     "Historic Events/List of notable people.md",
-    "Historic Events/Stories/Alkéisa's Ring, 2071-2087.md",
-    "Historic Events/Stories/Álusken's Mysteries.md",
-    "Languages/Malaŭi - Malawi.md",
-    "Languages/Ellitróómisi - Ellitroomi.md",
+    "Historic Events/Stories/Leremkov Trials.md",
+    "Historic Events/Stories/GHOST TEMPLES - Scattered Info.md",
+    "[[Leremkov.md",
+    "Historic Events/Stories/Vitaly Leremkov, 2039-2098.md",
+    "Historic Events/List of historic events.md",
+    "Historic Events/List of notable names.md",
     "Lore Concepts.md",
-    "Languages/Lúnikska - Luniksan/Luniksan Dictionary.md",
+    "[[GHOST.md",
+    "Pasted image 20231110221736.png",
+    "Languages/Ellitróómisi - Ellitroomi.md",
+    "Languages/Lúnikska - Luniksan/Basic Luniksan Grammar.md",
+    "Historic Events/Stories/Álusken's Mysteries.md",
+    "Languages/Lúnikska - Luniksan/Luniksan History and Overview.md",
+    "Geography/Adding a nation to Lúniks, The Map.md",
+    "temp.md",
+    "Geography/Mashed together list of locations and cities.md",
+    "Historic Events/Stories/Alkéisa's Ring, 2071-2087.md",
     "Historic Events/Stories/Liétivus Pact,  Mar 30 2168.md",
+    "README.md",
+    "Temple of Vestia.md",
     "Historic Events/Stories/Leremkov Trials reqs.jpg",
     "Historic Events/Stories",
-    "Historic Events/Vitaly Leremkov, 2039-2098.md",
-    "Historic Events/Story Drafts.md",
-    "Historic Events/Liétivus Pact,  Mar 30 2168.md",
     "Historic Events/Leremkov Trials reqs.jpg",
-    "Historic Events/Alkéisa's Ring, 2071-2087.md",
-    "Historic Events/List of Historic Events.md",
-    "Languages/Lúnikska - Luniksan/Luniksan History and Overview.md",
-    "Historic Events/List of Notable People.md",
-    "[[Vitaly.md",
-    "README.md",
-    "Untitled.canvas",
-    "Story.md"
+    "Untitled.canvas"
   ]
 }
