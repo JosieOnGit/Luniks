@@ -8,7 +8,6 @@ Upon rebirth, a newly born Ghost is introduced to their new Guardian, that will 
 
 Reserved as a follow-up on Luna's death in [[GHOST TEMPLES - LAST LIGHT#// LUNA]]
 
-
 ## // SNOW FOX
 **KEY NOTES**:  
 - This story is directly inspired by the 2021 **TIME RIFT** draft.
