@@ -5,8 +5,29 @@
 Upon rebirth, a newly born Ghost is introduced to their new Guardian, that will introduce them to their new life and explain in a light amount of detail what had happened to them in their past one. As all Ghosts struggle with amnesia, where all memories but the Last Light rapidly vanish upon rebirth, this means it will both be easy yet hard for them to adapt to their new lives. 
 
 ## // LUNA
+**KEY NOTES**:
+- Ghost name: Ghost of Luna
+- Present Guardian: Settler of Vászi
+- Temple name: Temple of Vestia
+- Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
+- Temple Guardian: Settler of Vászi
 
-Reserved as a follow-up on Luna's death in [[GHOST TEMPLES - LAST LIGHT#// LUNA]]
+Info on Temple: [[GHOST TEMPLES - Scattered Info#Temple of Vestia]] \
+Info on Symbols: [[GHOST TEMPLES - Scattered Info#Known Symbols]]
+
+### Drafted Story
+*POV: Ghost of Luna*
+
+*"The deafening sounds of everything collapsing had passed, I felt like I lost the ability to hear, to see, to feel. Had I died? What happened? I remember the train, the derailing, the crash. I must have died, haven't I?..."* \
+**"As painful as it is to say, yes, you have."** \
+Dumbfounded to hear a reply at all, I try to reopen my eyes, struggling to gain focus of the figure before me, or focus on anything at all. My ears began to ring again as the visions of the moments just before the train derailment begin to replay in my mind, before gradually burning up and vanishing as soon as they appear. The figure before me was vibrant white. A black and white mantle, a snow white mask, wearing a hood, so curious...  \
+Before long, I finally manage to focus my eyesight again as the figure before me becomes clearer, much like the scene surrounding them. Everything seemed familiar, I recognized the different platforms, I recognized the ceiling and the unique lights that hung around here at this time of the year. Until suddenly it clicked, and I looked to my left. My eyes opening wide, everything immediately flashed back to me. I didn't just find myself in Matéiazhu, nor just at the train station. It was far worse. I found myself at the scene of the accident, with the fateful train right beside me. In shock, I turn back to the figure before me, struggling to keep my emotions under control as everything begins to fall apart in my mind. \
+*"W-what's going on?"* \
+**"Beside you is a VR20, or what's left of it. You had boarded this train, with good faith, but a power failure led to this accident, and the loss of your pure life."** \
+"Pure life?" This was too much to handle for me. Even though I used to excel in strange and supernatural conditions, this was outrageous. This was way beyond anything I could ever have imagined. I started to grow more annoyed. I needed to know where I was, I needed to understand what happened and what will happen next, but as I tried to stand up, I was interrupted once more by the white-masked man before me.
+**"Do not exert yourself. I am here to help. As sudden as this might be, I am here to help"**
+He reached out his hand to me, showing no signs of hostility whatsoever, as I was conflicted in my emotions yet again. 
+
 
 ## // SNOW FOX
 **KEY NOTES**:  

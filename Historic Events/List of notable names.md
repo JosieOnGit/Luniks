@@ -14,4 +14,4 @@ LTS as a company frequently reappears throughout the story, although it only ser
 RKU provides international services between **Thórirsant**, **Kérisant**, and **Zakh'Háfo**, providing both cargo and passenger transport.
 
 ## Vestia Rapid
-Vestia Rapid is the high-speed train service that operated between **Zhuehai**, **Álusken**, with split connections to **Denmark** and **Benelux**, which is most known for the fatal rail incident ever since its inauguration in [[GHOST TEMPLES]]. 
+Vestia Rapid is the high-speed train service that operated between **Zhuehai**, **Álusken**, with split connections to **Denmark** and **Benelux**, which is most known for the fatal rail incident ever since its inauguration, as described in [[GHOST TEMPLES - LAST LIGHT#// LUNA]]. 
