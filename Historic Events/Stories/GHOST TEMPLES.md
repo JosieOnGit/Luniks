@@ -15,31 +15,7 @@ Each temple has a name and a set of present symbols (Elements, Zodiacs, Sprits) 
 
 ## // GHOST TEMPLES - EXPOSURE
 
-**KEY NOTES**:  
-- Ghost name: Ghost of Luna  
-- Mysterious girl: **UNNAMED**
-- Temple name: Temple of Vestia
-- Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
-- Temple guardian: Settler of Vászi
-- Last Light: [[GHOST TEMPLES - LAST LIGHT#// LUNA]]
-
-Info on Temple: [[GHOST TEMPLES - Scattered Info#Temple of Vestia]] \
-Info on Symbols: [[GHOST TEMPLES - Scattered Info#Known Symbols]]
-### Drafted Story
-Roaming through the vivid and bright streets of Matéiazhu, hidden behind a mask and seen by nobody, is a young ghost. They lost their lives in a shock derailment incident on their way home from Zhuehai to Benelux, in the first deadly rail incident since the opening of the planetary rail network, at least 30 years prior. Ever since, they've been stuck in Zhuehai, forever longing to go home, but instead needing to find comfort behind a mask, roaming through the streets, eyeing every passerby, some familiars, mostly strangers. With their head down, they reach behind a corner store, taking a seat on top of the garbage collector, their hand resting on their cheek as they stare into the busy street. Every single night has passed like this. Staring at the busy street, eager and desperate to join the masses, but just being invisible to everyone, hidden behind a mask.  \
-*"Is everything alright? You look exhausted.."* a young voice suddenly sounds behind them. Shockingly, they turn around, now facing a girl of about 19 years old, gazing deeply into their eyes. Completely taken aback by the situation, they stare back, their voice long gone as the girl gradually grows impatient. *"I don't have all day, I can help if you want me to"*.  \
-Struggling to find the right words, knowing they last spoke a word all those years ago on the train, they lift their hand, pointing at the girl. **"You can.. see me?**" They ask, a raspy, distinct, yet slightly digitalized voice coming from behind the mask. In response, the girl nods, her already low amount of fear and doubt dropping to the floor as she draws closer, analysing the ghost's mask. *"You have a mesmerizing mask, it's so delicate.. Is it handmade?"* She tenderly asks, making clear she means no harm in the slightest.  \
-**"It's.. old.. but made by myself."** The ghost mutters back, slowly regaining their long lost comfort in speaking, as they loosen up as well, gradually gaining trust in this mysterious girl before him. "I must know", they start, as they slowly drop down from the garbage collector, **"How are you able to see me? You are the first in years, this should be impossible."**  \
-Instead of directly answering the question, the curious girl continues to overanalyse the ghost's mask, eager to point out smaller details, finding a crescent moon mark, the emblem of Vestia, and the symbol of Jérrat, beautifully integrated into the mask's white and gold colourway. Suddenly, she breaks the now minute-long silence, carefully looking into their eyes. *"It's strange. I've seen you around more often, as well as other masked people. I thought everyone systematically ignored you, but if I'm alone in being able to see you..-"*  \
-The ghost suddenly interrupts, with their hand on their chest, gripping tightly on their suit. **"I've seen other ghosts. An Ox's mask, a Fox's mask, oddest of all, a broken mask of a Deer. If you've seen them too, it must be a sign. It must mean something."**  \
-Nodding slowly, the girl's confidence seems to stagger as her eyes now face the floor, eyeing the ghost's shoes, but not in detail. Speaking softly, she gradually looks back up to face the ghost's mask. *"I've been meaning to ask, but if I may, what is your name?"*  \
-A shiver runs through the ghost's phantom body, as flashbacks suddenly race through their mind. A vision of the train, a vision of family, all sorts of familiar faces, familiar places, seemingly so far away, as words and names refuse to formulate and connect. Raising their hand to their face, they once more struggle to collect words, before finally looking back into the girls eyes, responding confidently and clearly.  \
-**"I am the Ghost of Luna. For now, that is all that matters."**
-
-### What's next?
-For **// EXPOSURE**, the main approach is following the Ghost of Luna through their story and describe their experience as a ghost, starting from the very moment of the rail incident in Zhuehai, all the way towards the complete connection of temples spread throughout the planet, maybe even hinting at temples located back at Earth?
-
-
+Luna's Exposure has moved to [[GHOST TEMPLES - EXPOSURE#// LUNA]]
 ## // GHOST TEMPLES - REBIRTH
 
 Snow Fox's Rebirth has moved to [[GHOST TEMPLES - REBIRTH#// SNOW FOX]]

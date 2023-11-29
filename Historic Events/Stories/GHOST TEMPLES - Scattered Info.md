@@ -5,7 +5,6 @@
 Despite the Ghost of Luna frequently roams through Zhuehai, their own temple is actually located deep within the forest separating Zhuehai from Álusken. 
 - **Present Symbols:** Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos
 - **Guardian**: Settler of Vászi
-
 ### Temple of Álusken
 - **Present Symbols**: Earth, Choreos, Rho, Pisces, Cziskvelén, Luna
 - **Guardian**: Settler Matéis
@@ -18,7 +17,7 @@ The Temple of Sórskist is another unique temple, as it's located deep within th
 - **Present Symbols**: Water, Choreos, Gamma, Gemini, Águn, Luna
 - **Guardian**: Settler of Thórirssée
 ### Temple of Girréiapolou
-Going against other design standards set by the other temples on Vestia, the Temple of Girréiaolou maintains a more Greek-inspired building standard. This makes it blend in with the architecture spread throughout Hédenis, as aside from being more recognizable within the city, it's also one of the first temples that wasn't kept secret from the public.
+Going against other design standards set by the other temples on Vestia, the Temple of Girréiapolou maintains a more Greek-inspired building standard. This makes it blend in with the architecture spread throughout Hédenis, as aside from being more recognizable within the city, it's also one of the first temples that wasn't kept secret from the public.
 - **Present Symbols**: Water, Sol, Pi, Gemini, Stéiffansik, Luna
 - **Guardian**: Settler Stéiffansik
 
