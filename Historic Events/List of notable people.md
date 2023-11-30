@@ -31,15 +31,17 @@ As the **Guardian of Vestia**, the *White/Grey* dress code is mandatory for a Gu
 
 Vászi bears a **Plain White Mask**. He prefers a featureless mask that hides his expressions and body language while guiding a new ghost through Rebirth. This way, he will give the new ghost the most neutral and natural way to process it all, without giving a first impression, be it good or bad, through an altered and personalized mask.
 
+His name, *Settler of Vászi*, is derived from the area in which he settled the Temple of Vestia, which is located between Álusken and Zhuehai, in a nature reserve that's commonly known as **"The Vászi"**. In both the countries it overlaps and its surrounding countries this name is frequently used, whereas the name **"Váseim"** is used throughout the countries in Ubunia.
+
 ### Ghost of Luna
 Appearance wise, the **Ghost of Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
 
 Luna bears an **Oni Mask**, handcrafted to their preference and integrated a *Gold/Red* and Chinese-inspired characters and artworks, as a tribute to the many days they had spent in Matéiazhu ever since being reborn.
 
-### Ghost of Snow Fox
-The **Ghost of Snow Fox** has primarily worn simple, white dressed ever since her Rebirth, still adapting to her sudden changes, especially those that were brought over through the recovery of her spirit by *Vászi*. Next to wearing primarily white clothing, she also sport long, wavy white hair and possesses the animal characteristics of an *Arctic Fox*, such as her snow-white tail and ears. 
+### Ghost of Snow (Fox)
+The **Ghost of Snow** has primarily worn simple, white dressed ever since her Rebirth, still adapting to her sudden changes, especially those that were brought over through the recovery of her spirit by *Vászi*. Next to wearing primarily white clothing, she also sport long, wavy white hair and possesses the animal characteristics of an *Arctic Fox*, such as her snow-white tail and ears. 
 
-Snow Fox bears a **Kitsune Mask**, which she began personalizing by adding black spots to the left ear, mirroring the black spots on her actual ears, and integrating various pastel colours to *"add colour to the empty space of heaven"*, as she prefers to call it.
+Snow bears a **Kitsune Mask**, which she began personalizing by adding black spots to the left ear, mirroring the black spots on her actual ears, and integrating various pastel colours to *"add colour to the empty space of heaven"*, as she prefers to call it.
 
 ## Collapse of United Máneá
 ### Anita Arkh'ivlam

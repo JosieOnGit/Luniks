@@ -29,9 +29,19 @@ For **EXPOSURE // LUNA**, the main approach is following the Ghost of Luna throu
 
 
 ## // SNOW
-**KEY NOTES** \
+**KEY NOTES**:
+- Ghost name: Ghost of Snow
+- Mysterious man: **Guardian Márten**
+- Temple name: Temple of Vestia
+- Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos
+- Temple Guardian: Settler of Vászi
+
+Info on Temple: [[GHOST TEMPLES - Scattered Info#Temple of Vestia]] \
+Info on Symbols: [[GHOST TEMPLES - Scattered Info#Known Symbols]]
+
 This is a very bold and rough draft because I struggle to properly put it to words and have it flow nicely into an actual story. Nevertheless, this is exciting to me because it showcases one of Snow's personal strengths, rather than her weaknesses.  
-  
+
+### Drafted Story
 *POV: Ghost of Snow*  \
 **// This section needs expansion before the existing text.**  \
 Suddenly, my silence is broken as I hear a series of footsteps approach me, their sound getting louder and louder with each step as my ears perk upright, facing to my back, tracing the sound. My heart begins to pound in my chest, as I decide to stay put. *"Surely I'm imagining things, no?"* I ask myself, every single possibility rushing through my mind as I try to crack the code as to who might be stepping towards me. Do they know I'm here? Have then seen me? *Can* they see me?  

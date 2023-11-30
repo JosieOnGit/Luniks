@@ -1,6 +1,6 @@
 # GHOST TEMPLES // LAST LIGHT
 
-**Last Light** refers to the last light the existing ghosts saw before dying and being reborn. This means that every entry into this page will document the very last moments of their previous identities. Such as Luna lost their lives on the fatal Vestia Rapid incident, and Snow Fox lost her life through being at the wrong place at the wrong time, all that they have in common is that they were granted a next change and were granted shelter in the Ghost Temples.
+**Last Light** refers to the last light the existing ghosts saw before dying and being reborn. This means that every entry into this page will document the very last moments of their previous identities. Such as Luna lost their lives on the fatal Vestia Rapid incident, and Snow lost her life through being at the wrong place at the wrong time, all that they have in common is that they were granted a next change and were granted shelter in the Ghost Temples.
 
 Before entering the Temple, they are approached by a Guardian of the respective Temple, which gives them the capabilities and strength to undergo the process of rebirth. This is always traditionally done at the same location of the accident, that unfortunately cost them their lives. The location is completely devoided of any other humans or animals, and a white mist will linger around the Guardian and the soon-to-be Ghost.
 
@@ -14,8 +14,8 @@ Upon boarding in Shánzhe, the train was scheduled to pass through Matéiazhu an
 24 minutes after departure, the high-speed rail section reaches its **end**, indicating a maximum possible speed of 160 km/h, while the approaching train is still racing at 320km/h. Arriving from the central section, the VR20 is due to board at platform 15, all the way in the south end of the train station. Upon the first junction, Storm feels the entire train begin to tilt and fall over as the first set of bogies detach, followed by the second pair, before the entire train **derails**. Grabbing onto their seat, fearing the worst, the impact of the train on its side knocks them out of their seat as it continues to slide towards platforms 7-8, before inevitably, the lights go out.
 
 
-## // SNOW FOX
+## // SNOW
 
-Reserved for an expansion on the snippet from [[GHOST TEMPLES - REBIRTH#// SNOW FOX]]:
+Reserved for an expansion on the snippet from [[GHOST TEMPLES - REBIRTH#// SNOW]]:
 
 ***"On October 4th, 2075, a missile struck the market you find yourself in. At the same time, criminals entered through the North and South sides to plunder and raid the market. Ever since, it has been left vacant. We were not able to rescue your body, but we rescued your soul, and gave you another chance in the body that matches your soul."***

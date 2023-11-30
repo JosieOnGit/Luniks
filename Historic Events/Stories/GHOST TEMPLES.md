@@ -18,6 +18,6 @@ Each temple has a name and a set of present symbols (Elements, Zodiacs, Sprits) 
 Luna's Exposure has moved to [[GHOST TEMPLES - EXPOSURE#// LUNA]]
 ## // GHOST TEMPLES - REBIRTH
 
-Snow Fox's Rebirth has moved to [[GHOST TEMPLES - REBIRTH#// SNOW FOX]]
+Snow's Rebirth has moved to [[GHOST TEMPLES - REBIRTH#// SNOW]]
 ## External Info
 Smaller bits of information are available in [[GHOST TEMPLES - Scattered Info]]
