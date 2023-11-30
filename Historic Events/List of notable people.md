@@ -6,7 +6,7 @@ Both have led the revolution that took place in Oslo, Norway. However, since the
 ### Ricky Reiut (Awaiting inclusion)
 Described above, Reiut is also part of the Oslo revolution, or at least part of the organisation that led up to the revolution. The same applies to Reiut; The Oslo revolution no longer fits in line with Luniks, which means the character will be repurposed or removed.  
 ### Jonathán Þórirson
-Often referred to as the "Settler of the next generation", or simply "Settler of Luniks", Þórirson (Also written as Thórirson), referred to that way, as he was the first man to set foot on this new planet and settled the first city on the planet as well, *Nóve Réjkjavik*.
+Often referred to as the "Settler of the next generation", or simply "Settler of Luniks", Þórirson (Also written as Thórirson), is known this way as he was the first man to set foot on this new planet and settled the first city on the planet as well, *Nóve Réjkjavik*.
 ### Tagip Panjit 
 Panjit is of Indian descent and is the scientific wonder that enabled Earth to leap forward years in time with travelling to Luniks, creating and realising the technology needed to reduce the travel time from 74 years, to just 4.5 hours, with even further shortening options ready to be developed. 
 Having studied in Oxford, Tagip came in close contact with the ESA and quickly researched and developed the technology needed to reach Luniks in such speed. 
@@ -36,10 +36,10 @@ His name, *Settler of Vászi*, is derived from the area in which he settled the 
 ### Ghost of Luna
 Appearance wise, the **Ghost of Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
 
-Luna bears an **Oni Mask**, handcrafted to their preference and integrated a *Gold/Red* and Chinese-inspired characters and artworks, as a tribute to the many days they had spent in Matéiazhu ever since being reborn.
+Luna bears an **Oni Mask**, handcrafted to their preference and integrated a mask featuring *Golden/Red* and Chinese-inspired characters and artworks, as a tribute to the many days they had spent in Matéiazhu ever since being reborn.
 
 ### Ghost of Snow (Fox)
-The **Ghost of Snow** has primarily worn simple, white dressed ever since her Rebirth, still adapting to her sudden changes, especially those that were brought over through the recovery of her spirit by *Vászi*. Next to wearing primarily white clothing, she also sport long, wavy white hair and possesses the animal characteristics of an *Arctic Fox*, such as her snow-white tail and ears. 
+The **Ghost of Snow** has primarily worn simple, white dresses ever since her Rebirth, still adapting to her sudden changes, especially those that were brought over through the recovery of her spirit by *Vászi*. Next to wearing primarily white clothing, she also sports long, wavy white hair and possesses the animal characteristics of an *Arctic Fox*, such as her snow-white tail and ears. 
 
 Snow bears a **Kitsune Mask**, which she began personalizing by adding black spots to the left ear, mirroring the black spots on her actual ears, and integrating various pastel colours to *"add colour to the empty space of heaven"*, as she prefers to call it.
 

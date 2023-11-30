@@ -1,7 +1,6 @@
 # GHOST TEMPLES // EXPOSURE  
 **Exposure** refers to the first instance a ghost came in contact with a non-ghost or, simply, a human or an animal.
 
-
 ## // LUNA
 **KEY NOTES**:  
 - Ghost name: Ghost of Luna  
@@ -43,11 +42,16 @@ This is a very bold and rough draft because I struggle to properly put it to wor
 
 ### Drafted Story
 *POV: Ghost of Snow*  \
-**// This section needs expansion before the existing text.**  \
-Suddenly, my silence is broken as I hear a series of footsteps approach me, their sound getting louder and louder with each step as my ears perk upright, facing to my back, tracing the sound. My heart begins to pound in my chest, as I decide to stay put. *"Surely I'm imagining things, no?"* I ask myself, every single possibility rushing through my mind as I try to crack the code as to who might be stepping towards me. Do they know I'm here? Have then seen me? *Can* they see me?  
+It's been a few weeks ever since. Day in, day out, I met with Vászi at the temple. We'd go through the different halls, the different divisions and wings that were underground, hidden away from other sources of life, except for the occasional group of deer that showed up in our forest. But it hasn't been too long, I've learned to adapt, I've learned to live with what I have now, even after death. 
+
+Today, Vászi gave me a day to rest and recover, so I chose to spend that time at the edge of the forest with a grand view over the flower fields. Knowing that I'd have this view, I brought my mask and a brush, as the hours slowly began to pass as I began to gradually add colour to the mask, watching the sun gradually pass from noon to dusk while my ears continuously and frantically scan around, picking up all sorts of sounds from the nature surrounding me. From the birds flying through and out of the treetops, the wind gently shaking up the leaves, and the soft rustle from the waving flower field before me.
+
+Suddenly, the peaceful sound of nature is broken as I hear a series of footsteps and cracking leaves approach me, their sound getting louder and louder with each step as my ears perk upright, facing to what's behind me, tracing the sound. My heart begins to pound in my chest, as I decide to stay put. *"Surely I'm imagining things, no?"* I ask myself, every single possibility rushing through my mind as I try to crack the code as to who might be stepping towards me. Do they know I'm here? Have then seen me? *Can* they see me?  
   
 The footsteps quiet down, having stopped right behind my back, the stranger's warmth radiating against my tail as I do my best to keep myself upright and cautious, still having no idea what might happen next, before hearing one last step taken forward. From pure instinct, I felt like the stranger was reaching their hand out to touch me. In the blink of an eye, I turn around, my right hand coated in a blue, waving fire as I reach for the stranger's neck, keeping it in place and neutralizing them while the world around me vanishes, leaving behind an empty, barren, and glowing white wasteland with just me and the stranger left.  
   
-My eyes glow with fury, the same fire that's present on my arm also resides in my eyes and on the tip of my tail, completely altering my appearance as strength continues to pulse through my body, fully aware that there are no other people not structures that can eavesdrop on me and this stranger.  
+My eyes glow with fury, the same fire that's present on my arm also resides on my ears and on the tip of my tail, completely altering my appearance as the strength continues to pulse through my body, fully aware that there are no other people nor structures that can eavesdrop on me and this stranger.  
   
-After what feels like hours, my strength already dissipates, my grip gradually releases and leaves the stranger before me gasping for air. The fire in my eyes and arms vanishes as calmness behind to flow through my body, followed by a blend of confusion, fear, but determination to figure out what exactly is going on. *"I-I'm so terribly sorry! I had no idea! I was afraid, got overly cautious, and now.."* I stumble helplessly, emotions rushing through my body upon seeing the slight burn mark left on their throat. My ears flop down on my head in pure despair as the stranger before me regains their breath, and manages to find their voice. **"Quite the scare, it was."** They say politely and calmly, coughing to free up their airways before continuing. **"It's Márten, Junior Temple Guardian. It may look bad, but worry not, I've gone through worse Signatures and I'm still here to tell those tales."**
+After what feels like forever, my strength already dissipates, my grip gradually loosening up and leaving the stranger before me gasping for air. The fire in my eyes and arms vanishes as calmness behind to flow through my body, followed by a blend of confusion, fear, but determination to figure out what exactly is going on. *"I-I'm so terribly sorry! I had no idea! I was afraid, got overly cautious, and now.."* I stumble helplessly, emotions rushing through my body upon seeing the slight burn mark left on their throat. My ears flop down on my head in pure despair as the stranger before me regains their breath, and manages to find their voice. **"Quite the scare, it was."** They say politely and calmly, coughing to free up their airways before continuing. **"It's Márten, Junior Temple Guardian. It may look bad, but worry not, I've gone through worse Signatures and I'm still here to tell those tales."**
+
+Without any effort, Márten 
