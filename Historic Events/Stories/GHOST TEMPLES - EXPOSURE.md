@@ -30,7 +30,7 @@ For **EXPOSURE // LUNA**, the main approach is following the Ghost of Luna throu
 ## // SNOW
 **KEY NOTES**:
 - Ghost name: Ghost of Snow
-- Mysterious man: **Guardian Márten**
+- Mysterious man: **Guardian Marten**
 - Temple name: Temple of Vestia
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos
 - Temple Guardian: Settler of Vászi
@@ -52,6 +52,11 @@ The footsteps quiet down, having stopped right behind my back, the stranger's wa
   
 My eyes glow with fury, the same fire that's present on my arm also resides on my ears and on the tip of my tail, completely altering my appearance as the strength continues to pulse through my body, fully aware that there are no other people nor structures that can eavesdrop on me and this stranger.  
   
-After what feels like forever, my strength already dissipates, my grip gradually loosening up and leaving the stranger before me gasping for air. The fire in my eyes and arms vanishes as calmness behind to flow through my body, followed by a blend of confusion, fear, but determination to figure out what exactly is going on. *"I-I'm so terribly sorry! I had no idea! I was afraid, got overly cautious, and now.."* I stumble helplessly, emotions rushing through my body upon seeing the slight burn mark left on their throat. My ears flop down on my head in pure despair as the stranger before me regains their breath, and manages to find their voice. **"Quite the scare, it was."** They say politely and calmly, coughing to free up their airways before continuing. **"It's Márten, Junior Temple Guardian. It may look bad, but worry not, I've gone through worse Signatures and I'm still here to tell those tales."**
+After what feels like forever, my strength already dissipates, my grip gradually loosening up and leaving the stranger before me gasping for air. The fire in my eyes and arms vanishes as calmness behind to flow through my body, followed by a blend of confusion, fear, but determination to figure out what exactly is going on. *"I-I'm so terribly sorry! I had no idea! I was afraid, got overly cautious, and now.."* I stumble helplessly, emotions rushing through my body upon seeing the slight burn mark left on their throat. My ears flop down on my head in pure despair as the stranger before me regains their breath, and manages to find their voice. **"Quite the scare, it was."** They say politely and calmly, coughing to free up their airways before continuing. **"It's Marten, Junior Temple Guardian. It may look bad, but worry not, I've gone through worse Signatures and I'm still here to tell those tales."**
 
-Without any effort, Márten 
+Without any effort, Marten stood back upright as the white dome surrounding us gradually began to dissipate, the sound of the wind and the rustling of the leaves and flowers slowly returning. Frantically looking around me, I see the trees return, the whiteness disappearing while the gentle green reappears. **"You've made yourself a gorgeous mask"**, Marten suddenly says, eyeing the mask held in my left hand, breaking the gentle silence once more. Caught off guard, I reply flustered, not really having an idea of what to say. *"I-I barely use it.. Vászi said I recovered well enough to no longer need it.."*. With a gentle smile, Marten replies as he buttons up his coat, which hadn't even dawned upon me yet. He was wearing his usual attire, a luxurious brown coat covering up his otherwise regular clothing. If he aspired to be a Guardian, shouldn't he be wearing Guardian attire..?
+
+### What's next?
+For **EXPOSURE // SNOW** I really want Snow to reflect on her new life and overcome her deeply rooted fears. Dying one day and waking up the next day in a completely different body, headspace, and situation isn't easy for anyone. To reflect both sides of her personality, the rooted fears but desire to overcome those, the two Signatures, *Whiteout* and *Channelling Astárout*, help visualize those two sides. 
+
+As for Marten, I'd like him to gradually grow into a non-characteristic Guardian. He has all needed skills and the right desire to become a Guardian, but much like Luna, really dislikes their formal attire, and thus chooses to wear his own. In his journey, I'd like to help him guide a new ghost through Rebirth together with Vászi, but I'll still need to come up with a proper story for this, since I don't want to make it too barebones! 

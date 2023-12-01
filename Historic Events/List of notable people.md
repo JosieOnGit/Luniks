@@ -33,6 +33,13 @@ Vászi bears a **Plain White Mask**. He prefers a featureless mask that hides hi
 
 His name, *Settler of Vászi*, is derived from the area in which he settled the Temple of Vestia, which is located between Álusken and Zhuehai, in a nature reserve that's commonly known as **"The Vászi"**. In both the countries it overlaps and its surrounding countries this name is frequently used, whereas the name **"Váseim"** is used throughout the countries in Ubunia.
 
+### Guardian Marten
+Marten, along with a number of others, is a **Junior Guardian** at the Temple of Vestia. Alongside Kágos, he studies to become a Temple Guardian in similar fashion to what Vászi currently is, minus the attire, which he strongly opposes. Unlike Vászi, Marten tends to wear formal clothing, usually meant for winter, that doesn't use the *White/Grey* dress code which is otherwise mandatory for Guardians.
+
+Marten bears **no Mask**, as he is granted one upon completing his apprenticeship. Nevertheless, Marten also stated that he *"strongly dislikes the feel of any mask"*, which may become troublesome to his *Guardian Inheritance*. 
+
+Despite the fact he's mostly against the established standards within the Temple of Vestia, he does have a good heart and the right mindset to become a Guardian, as seen in **EXPOSURE // SNOW**.
+
 ### Ghost of Luna
 Appearance wise, the **Ghost of Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
 
