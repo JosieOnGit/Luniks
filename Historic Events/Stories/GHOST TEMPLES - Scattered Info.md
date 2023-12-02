@@ -2,8 +2,8 @@
 
 ## Known Temples
 ### Temple of Vestia
-Despite the Ghost of Luna frequently roams through Zhuehai, their own temple is actually located deep within the forest separating Zhuehai from Álusken. 
-- **Present Symbols:** Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos
+Despite the Ghost of Luna frequently roaming through Zhuehai, their own temple is actually located deep within the forest which separates Zhuehai from Álusken. 
+- **Present Symbols:** Water, Choreos, Zeta, Aries, Cziskvelén, Jérrat, Phereos
 - **Guardian**: Settler of Vászi
 ### Temple of Álusken
 - **Present Symbols**: Earth, Choreos, Rho, Pisces, Cziskvelén, Luna

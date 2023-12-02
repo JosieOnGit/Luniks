@@ -28,6 +28,8 @@ Before long, I finally manage to focus my eyesight again as the figure before me
 **"Do not exert yourself. I am here to help. As sudden as this might be, I am here to help"**
 He reached out his hand to me, showing no signs of hostility whatsoever, as I was conflicted in my emotions yet again. 
 
+// This is an open end, and needs additional story to become more complete
+
 
 ## // SNOW
 **KEY NOTES**:  

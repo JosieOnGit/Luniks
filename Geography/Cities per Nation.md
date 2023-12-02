@@ -64,7 +64,7 @@ It's still unclear what will be done with the city of Nóve Osló project-wise. 
 #### Kérisant-Civem (Capital)
 Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubunia. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of the Luniksan revolution passed. 
 
-#### Kérisant-Bilćat
+#### Kérisant-Bilczat
 ##### Lake Dnherá is located near Kérisant-Bilćat, which itself is near the capital of Kérisant
 
 Lake Dnherá is located right in the very center of the Bilćat District in central Kérisant. It lays east to the Kérisant-Bilćat train station, as well as the storage warehouses for numerous transport firms throughout Kérisant.  
@@ -83,10 +83,10 @@ Maríaporta is a small port city located above the Égicmar lake (Égic's lake),
 
 #### Cévok
 Two events are drafted within this city, namely:
-- Tiái Ći 203 Factory and its 2246 fireworks explosion
+- Tiái Czi 203 Factory and its 2246 fireworks explosion
 - Leremkov's labs
 
-While Leremkov's labs have been mentioned in [[Vitaly Leremkov, 2039-2098]], what actually happened in these labs in Cévok remains unclear. Dénis Terćekv (Described in [[List of notable people]]) is most likely going to be the lead investigator of these labs during Leremkov's return to Poland, as well as after his death. 
+While Leremkov's labs have been mentioned in [[Vitaly Leremkov, 2039-2098]], what actually happened in these labs in Cévok remains unclear. Dénis Terczekv (Described in [[List of notable people]]) is most likely going to be the lead investigator of these labs during Leremkov's return to Poland, as well as after his death. 
 
 #### Weshalt
 
