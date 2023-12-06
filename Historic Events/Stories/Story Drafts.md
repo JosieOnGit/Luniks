@@ -54,4 +54,4 @@ All in all, the original Oslo Revolution was caused by the invasion of the now-r
 My goal, or plan, is to repurpose the Oslo Revolution and downscale the size of the "Revolution". In a future planned world where I try to keep conflicts at al all time low (barring the **Máneá-Zakh'Háfo conflict**), meaning the outbreak of a full-scale war doesn't sit right on the time scale nor state of society I try to describe. A possible future for this particular topic for me would probably be a revolution rallying for independence of the state that Oslo is present within, leading to smaller incidents similar to the **2075 Keustellet Terrorist attacks**, which don't escalate into civil war. 
 
 
-### 
+### The Kágos Núje Legacy
