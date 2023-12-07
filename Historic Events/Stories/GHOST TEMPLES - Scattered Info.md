@@ -2,10 +2,11 @@
 
 ## Known Temples
 ### Temple of Vestia
-Despite the Ghost of Luna frequently roaming through Zhuehai, their own temple is actually located deep within the forest which separates Zhuehai from Álusken. 
+Settled together by Cziskvelén and Vászi, the *Temple of Vestia* is where the main focus lays within the story of **Ghost Temples**. Located deep within the The Vászi Nature reserve, within the forest separating Zhuehai from Álusken, is where the majority of Ghosts that are present within the story will reside in.
 - **Present Symbols:** Water, Choreos, Zeta, Aries, Cziskvelén, Jérrat, Phereos
 - **Guardian**: Settler of Vászi
 ### Temple of Álusken
+The Temple of Álusken was the last temple to be settled by *Cziskvelén*, before his disappearance and beginning of his Legacy. Together with Matéis, who remains the present Settler and Guardian, this temple was settled deeper within the nation of Álusken, bordering the capital city Álusken. It's widely believed that the Temple has a direct relation to [[Álusken's Mysteries]].
 - **Present Symbols**: Earth, Choreos, Rho, Pisces, Cziskvelén, Luna
 - **Guardian**: Settler Matéis
 ### Temple of Zhuehai
@@ -29,4 +30,4 @@ Temple symbols are organized in the following manner:
 - **Greek letter** (Alfa through Zeta)
 - **Starsign** (Aries through Pisces)
 - **Temple God** (Original settler of The Temple)
-- **Moon(s)** (Varies a lot, may contain multiple, includes moon from Sol and from Choreos)
+- **Moon(s)** (Varies a lot, may contain multiple, includes moons from within the Sol system and Choreos system)

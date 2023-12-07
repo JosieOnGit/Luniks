@@ -1,5 +1,5 @@
-# GHOST TEMPLES // SUPERNATURAL
-As existing ghosts
+# GHOST TEMPLES // SIGNATURES
+All existing ghosts can gather *Spiritual Energy* and use this in various different ways. Below is a list of said **Signatures**, as they are most commonly referred to, and how they are used.
 
 ## Settler of Vászi  
 **Signature:** Guarding Light  \

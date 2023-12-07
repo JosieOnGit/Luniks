@@ -55,3 +55,4 @@ My goal, or plan, is to repurpose the Oslo Revolution and downscale the size of 
 
 
 ### The Kágos Núje Legacy
+**Kágos Núje** (2018: *Kágos Nûje*) is a characterless name that has been floating around without a goal since drafts dating back to 2018. My end goal is to finally implement this name in *any* story, where it will most likely become a highly notable character, hence the **Legacy** preposition. Whether this will happen within *The Leremkov Trials*, *Ghost Temples*, or a yet-to-happen story, is still unclear!

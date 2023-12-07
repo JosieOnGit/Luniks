@@ -15,3 +15,10 @@ RKU provides international services between **Thórirsant**, **Kérisant**, and 
 
 ## Vestia Rapid
 Vestia Rapid is the high-speed train service that operated between **Zhuehai**, **Álusken**, with split connections to **Denmark** and **Benelux**, which is most known for the fatal rail incident ever since its inauguration, as described in [[GHOST TEMPLES - LAST LIGHT#// LUNA]]. 
+
+
+# Ship Services
+Only a couple of cargo services by ship exist throughout all of Luniks. This is because overseas shipment has mostly been replaced by solar plane cargo.
+
+## Álusken-Thórirsant Ferry
+A ferry (rather, a cruiseship) connects the two continents of Ubunia and Vestia, providing a ferry both ways every 3 hours. 

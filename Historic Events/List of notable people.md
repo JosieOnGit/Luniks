@@ -13,6 +13,9 @@ Having studied in Oxford, Tagip came in close contact with the ESA and quickly r
 ### Seventh Léjtuse (Awaiting inclusion)
 The Seventh Léjtuse is intended to be an insurgent army also involved in the Oslo revolution, but as described with Persson and Reiut above, this is put back to the concept board.
 
+### Aélu Akájune (Awaiting inclusion)
+Aélu is a well-known spaceship designer, that created the smaller passenger ships with the help of Panjit in order to design and build spaceships rapid shuttle services between Earth and Luniks.
+
 ## Leremkov Trials (2022)
 ### Vitaly Leremkov
 Leremkov's story is described in [[Vitaly Leremkov, 2039-2098]].
@@ -42,14 +45,14 @@ Cziskvelén is a **Swordsman** and **Settler**, having settled the *Temple of Ve
 Cziskvelén bears a **Plain White Mask**, albeit more worn down than that of Vászi. Being a swordsman, he also bears a long two-handed sword, which channels light as a power (As seen in Vászi's *Blade of Cziskvelén* Signature). 
 
 ### Guardian Marten
-Marten, along with a number of others, is a **Junior Guardian** at the Temple of Vestia. Alongside Kágos, he studies to become a Temple Guardian in similar fashion to what Vászi currently is, minus the attire, which he strongly opposes. Unlike Vászi, Marten tends to wear formal clothing, usually meant for winter, that doesn't use the *White/Grey* dress code which is otherwise mandatory for Guardians.
+Marten, along with a number of others, is a **Junior Guardian** at the Temple of Vestia. Alongside Souvis, he studies to become a Temple Guardian in similar fashion to what Vászi currently is, minus the attire, which he strongly opposes. Unlike Vászi, Marten tends to wear formal clothing, usually meant for winter, that doesn't use the *White/Grey* dress code which is otherwise mandatory for Guardians.
 
 Marten bears **no Mask**, as he is granted one upon completing his apprenticeship. Nevertheless, Marten also stated that he *"strongly dislikes the feel of any mask"*, which may become troublesome to his *Guardian Inheritance*. 
 
 Despite the fact he's mostly against the established standards within the Temple of Vestia, he does have a good heart and the right mindset to become a Guardian, as seen in **EXPOSURE // SNOW**.
 
 #### Past Life
-Marten is the only ghost (as of Dec 2023) to not be assigned a new name upon Rebirth. In agreement with Vászi, who guided him through Rebirth, he maintained a set of his memories and pursued his original dream career: Guiding and teaching others. At the time of his death, Marten was 28 years old and actively working towards becoming a university teacher in health and community work, amongst studying regular science. In the end, he fell short to his dreams and was diagnosed with heart cancer, and succumbing to it within a year. Because Vászi believed that Marten had a good enough heart with infinite willpower, he offered him to go through Rebirth and guide him to become a Guardian, giving him a second chance at reaching his dreams.
+Marten is the only ghost (as of Dec 2023) to not be assigned a new name upon Rebirth. In agreement with Vászi, who guided him through Rebirth, he maintained a set of his memories and pursued his original dream career: Guiding and teaching others. At the time of his death, Marten was 26 years old and actively working towards becoming a university teacher in health and community work, amongst studying regular science. In the end, he fell short to his dreams and was diagnosed with heart cancer, and succumbing to it within a year. Because Vászi believed that Marten had a good enough heart with infinite willpower, he offered him to go through Rebirth and guide him to become a Guardian, giving him a second chance at reaching his dreams.
 
 ### Ghost of Luna
 Appearance wise, the **Ghost of Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their strong *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
@@ -72,6 +75,9 @@ Before her Rebirth, Snow originally was a young man who studied Arts & Crafts, w
 Zakh'háfo spokesperson. Involved in the Máneán-Zakh'háfon conflict.  
 ### Makh'lon Uwaalib 
 Malawi spokesperson. Currently has no place within the project just yet as Malaw still has to be placed on the planet.  
+### Omáti Honofatus
+### Ahmed Hafarna
+
 
 ## Álusken's Mysteries
 ### Lia Mazsestéia Matthias-Eden Féoresen, II Kunge d-Álusken

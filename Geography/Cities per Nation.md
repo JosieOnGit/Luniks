@@ -18,12 +18,13 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - Mónsan Republic
 - Zhuehai
 - Hédenis
+- Morrésik (Unregulated mountains)
 
 ### Skádia (Lower left half)
 
 ### Deónia (Right half)
 
-As you can see, two continents are currently completely empty spaces, with no countries located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
+// As you can see, two continents are currently completely empty spaces, with no countries located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
 
 ## Thórirsant
 #### Nóve Réjkjavik (Capital)
@@ -34,6 +35,7 @@ The city is best known for its "dart board" approach to city district planning. 
 Harbour city to the northwest of Thórirsant, allows for intercontinental connection and trade, most importantly with Zhuehai and Álusken.
 
 #### Kósfrii
+*// The following text is from an older draft. Since then, the timescales have changed, meaning the below timestamps are subject to change*
 City most notable by its civil war after a fallen local government, lasting from 2166 to 2172. The end of this war is noted in the [[Liétivus Pact,  Mar 30 2168]] document.
 
 #### Kirwijets
@@ -44,10 +46,14 @@ City most notable by its civil war after a fallen local government, lasting from
 It's still unclear what will be done with the city of Nóve Osló project-wise. This city was founded after the Oslo revolution, which the Persson family and the Seventh Léjtuse also connect to, but considering how the course of the project has gone over the last years, the drafted story from 2019 no longer properly fits, so both the Oslo revolution and the city of Nóve Osló are drafts as of now (Dec 2022).
 
 #### Ljívk
+Founded soon after the settlement that landed on Luniks, Ljívk is a city focused purely on the construction of space transport, for both passenger and cargo shipments. Long before the first Starships landed on Luniks, Ljívk was already noted on the map on Ubinia, because it was a perfect location for mining the required materials used in spaceship production. After the immense demand for space travel plummeted when Luniks was properly settled, the priorities shifted to planetary travel and further researching and developing maglev technology.
 
 #### Némiskéi
 
 #### Meskitái
+To reduce the extreme load on Sórskist as the nation of Thórirsant continued to grow exponentially, a new harbour was built on the coastal city of Meskitái, intended to divert the stream of ships away from Sórskist and reduce its stress. 
+
+#### Kasztávje
 
 
 ## Ellitroomi
@@ -65,11 +71,11 @@ It's still unclear what will be done with the city of Nóve Osló project-wise. 
 Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubunia. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of the Luniksan revolution passed. 
 
 #### Kérisant-Bilczat
+
+*// Below is a drafted story written in 2021, but as described above under Nóve Osló, the description clashes with what is currently on the table and timeline, so in the final lore, this might not be the same as written below*
 ##### Lake Dnherá is located near Kérisant-Bilćat, which itself is near the capital of Kérisant
 
 Lake Dnherá is located right in the very center of the Bilćat District in central Kérisant. It lays east to the Kérisant-Bilćat train station, as well as the storage warehouses for numerous transport firms throughout Kérisant.  
-
-*Below is a drafted story written in 2021, but as described above under Nóve Osló, the description clashes with what is currently on the table and timeline, so in the final lore, this might not be the same as written below*
 
 "Lake Dnherá used to be visited by lots of different people, it was one of the most popular tourist attractions, after all. After the Collapse of Nóve-Osló in 2303, tourism collapsed along with it, leaving Lake Dnherá completely empty of visitors, yet this allowed the surrounding areas to flourish, giving life to new colours, lightening up Bilćat in ways never seen before." \
 One thing to note here, is that the supposed collapse of Nóve-Osló in 2303 causes a collapse in tourism as well surrounding Lake Dnherá. As the development progressed, the city of Nóve-Osló was moved to be located in Thórirsant instead, meaning that the two events cannot be a cause & affect of one another. This is noted down and will be adjusted in the future!
