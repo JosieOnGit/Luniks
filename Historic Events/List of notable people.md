@@ -19,8 +19,8 @@ Aélu is a well-known spaceship designer, that created the smaller passenger shi
 ## Leremkov Trials (2022)
 ### Vitaly Leremkov
 Leremkov's story is described in [[Vitaly Leremkov, 2039-2098]].
-### Dénis Terczekv (Awaiting inclusion)
-Of Kérisantic descent, but has no affiliation or purpose within the project just yet. A likely purpose for Terczekv will be the lockdown of Leremkov's labs within Kérisant.  
+### Dénis Terczekv
+Of Kérisantic descent, affiliated with the private division responsible for tracking down Leremkov's Labs, as well as Leremkov himself. Appearing in [[Leremkov - BREACH]], Dénis 
 ### Stacy & David 
 From the drafted "victim story" in [[Story Drafts]]. \
 As of yet, neither have a family name yet, nor a good bit of history. Their most basic identities are described in the above linked draft. Once more information surfaces on them, this part will be properly updated.
@@ -45,7 +45,7 @@ Cziskvelén is a **Swordsman** and **Settler**, having settled the *Temple of Ve
 Cziskvelén bears a **Plain White Mask**, albeit more worn down than that of Vászi. Being a swordsman, he also bears a long two-handed sword, which channels light as a power (As seen in Vászi's *Blade of Cziskvelén* Signature). 
 
 ### Guardian Marten
-Marten, along with a number of others, is a **Junior Guardian** at the Temple of Vestia. Alongside Souvis, he studies to become a Temple Guardian in similar fashion to what Vászi currently is, minus the attire, which he strongly opposes. Unlike Vászi, Marten tends to wear formal clothing, usually meant for winter, that doesn't use the *White/Grey* dress code which is otherwise mandatory for Guardians.
+Marten, along with a number of others, is a **Junior Guardian** at the Temple of Vestia. Alongside Sóvis, he studies to become a Temple Guardian in similar fashion to what Vászi currently is, minus the attire, which he strongly opposes. Unlike Vászi, Marten tends to wear formal clothing, usually meant for winter, that doesn't use the *White/Grey* dress code which is otherwise mandatory for Guardians.
 
 Marten bears **no Mask**, as he is granted one upon completing his apprenticeship. Nevertheless, Marten also stated that he *"strongly dislikes the feel of any mask"*, which may become troublesome to his *Guardian Inheritance*. 
 

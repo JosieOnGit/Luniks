@@ -6,15 +6,17 @@ All existing ghosts can gather *Spiritual Energy* and use this in various differ
 Upon casting his signature, Vászi will levitate himself above the ground as various tiny particles begin forming around him. With the chime of a church bell, a light from the heavens will strike down on Vászi, as he then channels this energy to his surroundings, forming an invisible dome in which every being within it will gain extra resistance and energy.  
 
 **Signature (2)**: Blade of Cziskvelén \
-Upon casting his signature, Vászi summons the *Blade of Cziskvelén*, which he will lift high up towards the sky, causing him to levitate in similar fashion to **Guarding Light**. Much like that signature, a light from the heavens will strike the blade and cause a church bell to ring, however, this will not form a protective dome, and instead, Vászi will strike the blade forwards and channel the immense energy towards the enemy force.
+Upon casting his signature, Vászi summons the *Blade of Cziskvelén*, which he will lift high up towards the sky, causing him to levitate in similar fashion to **Guarding Light**. Much like that signature, a light from the heavens will strike the blade and lead to the ring of a church bell, however, this will not form a protective dome, and instead, Vászi will strike the blade forwards and channel the immense energy towards the enemy force.
+
+**Signature (3)**: A Promise Kept \
+Combining the **Guarding Light** and **Blade of Cziskvelén** signatures, Vászi summons the Blade and holds it upright, summoning and forming a shallow, golden-coloured dome in which new glowing particles will form. Upon the chime of a church bell, a light from the heavens will strike down on Vászi, channelling through the blade and himself. Wherever Cziskvelén may be, the particles will form into an arrow or spear pointing at that direction. With a swift motion, he will position the Blade in the direction of the particles, and to Cziskvelén. And with a quick strike, the dome will vanish, the light will channel through the blade, leaving behind an arrow of light and a gust of wind.
 
 ## Guardian Marten
-**Signature**: (Hypothesised) Silent Step \
+**Signature**: Healing Pulse \
+A simple healing pulse. Carried over during his Rebirth, he retained his knowledge within his health science, and uses this to support and heal others if needed. Upon casting, his right hand will start to glow a faint amber colour, which will also reflect in his eyes, and upon pressing against his target directly or from a short range, he can boost their strength and stamina, or help them recover more quickly from inflicted wounds or pain.
 
-**Signature (2)**: (Hypothesised) Guarding Light (In apprenticeship)
-
-**Signature (3)**: (Hypothesised) (Unnamed)
-A healing pulse. Carried over during his Rebirth, he retained his knowledge within his health science, and uses this to support and heal others if needed.
+**Signature (2)**: Guarding Light \
+Similarly to Vászi, Sóvis, and every other Guardian to ever have guarded a Temple, it's vital to know how to master the **Guarding Light** signature. Traditionally, the light from the heavens that strikes down upon the casting of the signature is a bright and vibrant yellow colour. In Marten's case, however, this is a deeper, amber-coloured pulse, mirroring the colour of his **Healing Pulse**. 
 
 ## Ghost of Luna  
 **Signature**: Curious Eye  \

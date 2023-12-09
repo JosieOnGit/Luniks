@@ -10,6 +10,9 @@ Vitaly Leremkov's story has grown too big to remain a draft. It is now available
 ### PENDULUM
 Though part of the **Leremkov Trials**, the *PENDULUM* entry has grown too big to remain a draft and is now available at [[Leremkov - PENDULUM]].
 
+### BREACH
+*BREACH* is an in-depth look at how **Dénis Tercekv** infiltrated Leremkov's secret *Genetic Labs*, where he produced the vaccine that cause the irreversible damage to humanity's genes and DNA. Currently (December 2023), this is still in its starting phase, but will be gradually developed into it's own entry, available at [[Leremkov - BREACH]].
+
 
 ## Oslo Revolution
 The Oslo Revolution originally happened in 2247, and was first drafted in 2018 in the so-called "Alva-Line project", which has evolved countless times into where we are today with the Luniks project. Putting away the worries of repurposing the entire project and events in 2247 in Oslo, all I'd like to note here is that this will eventually happen! As of right now, the main planning is to properly note down the main outline of the project and the main timeline of Luniks, and slowly but surely Oslo will gain it's time and place where it will finally fall, as Nóve Osló doesn't have a similar reason for existence like Nóve Réjkjavik.
