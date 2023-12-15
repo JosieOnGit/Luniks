@@ -20,10 +20,15 @@ Aélu is a well-known spaceship designer, that created the smaller passenger shi
 ### Vitaly Leremkov
 Leremkov's story is described in [[Vitaly Leremkov, 2039-2098]].
 ### Dénis Terczekv
-Of Kérisantic descent, affiliated with the private division responsible for tracking down Leremkov's Labs, as well as Leremkov himself. Appearing in [[Leremkov - BREACH]], Dénis 
+Of Kérisantic descent, affiliated with the private division responsible for tracking down Leremkov's Labs, as well as Leremkov himself. Appears in [[Leremkov - BREACH]], alongside a number of other squad members:
+- Leo Hartleigh
+- Mike Kungsen
+- Emil Bilczátni
+- Albert Lorenzo
+- Marco Gentileschi
 ### Stacy & David 
 From the drafted "victim story" in [[Story Drafts]]. \
-As of yet, neither have a family name yet, nor a good bit of history. Their most basic identities are described in the above linked draft. Once more information surfaces on them, this part will be properly updated.
+As of yet, neither have a good bit of history. Their most basic identities are described in the above linked draft. Once more information surfaces on them, this part will be properly updated.
 ### Vienna Méckláz & Olen Rosenqvist
 Vienna and Olen are described in detail in [[Leremkov Trials#Vienna & Olen]].
 

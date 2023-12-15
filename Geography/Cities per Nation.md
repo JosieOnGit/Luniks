@@ -68,7 +68,7 @@ To reduce the extreme load on Sórskist as the nation of Thórirsant continued t
 
 ## Kérisant
 #### Kérisant-Civem (Capital)
-Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubunia. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of the Luniksan revolution passed. 
+Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubunia. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of the Luniksan revolution passed. However, even with the short-lasted construction revolution, some buildings still maintain this original style even far into the future, such as the *Kérisantic town hall*, and *Kérisant-Centrále*, the busiest railway station within the nation.
 
 #### Kérisant-Bilczat
 
@@ -92,7 +92,7 @@ Two events are drafted within this city, namely:
 - Tiái Czi 203 Factory and its 2246 fireworks explosion
 - Leremkov's labs
 
-While Leremkov's labs have been mentioned in [[Vitaly Leremkov, 2039-2098]], what actually happened in these labs in Cévok remains unclear. Dénis Terczekv (Described in [[List of notable people]]) is most likely going to be the lead investigator of these labs during Leremkov's return to Poland, as well as after his death. 
+Leremkov's labs, and the investigation that was launched to find out the exact reasons how the Leremkov virus came to spread, are thoroughly detailed in [[Leremkov - BREACH]].
 
 #### Weshalt
 
