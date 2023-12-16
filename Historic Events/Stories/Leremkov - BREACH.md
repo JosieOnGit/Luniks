@@ -53,7 +53,7 @@ A few laughs later, the main warehouse door suddenly opens, with Albert from the
 
 Putting his transmitter to the side, he locks his rifle, putting it back to safety mode, and leaning back in his seat. Both he and Leo knew that every single bit of information they discovered would be vital for tracking down Leremkov, and for their mission to put his irreversible actions to an end. Taking the USB from his bag, he lifts it up, making sure it catches Leo's attention, as a wide smile forms on both of their faces. With a wide grin, Leo raises his fist, quickly followed by Dénis's fist, clenching the USB drive safely, as they chant proudly together:
 
-**"Cz-ést prá Kérisant!"**
+**"Cz-ést sur Kérisant!"**
 
 
 # Snippets
