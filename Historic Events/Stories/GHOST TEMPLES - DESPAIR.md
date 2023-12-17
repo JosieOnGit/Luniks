@@ -3,7 +3,8 @@
 
 ## // VÁSZI
 ### Prologue
-*// POV: Marten* \
+*// POV: Marten* 
+
 It's been a few weeks since the ceremony already. Sóvis and I both were granted Guardianship, but ever since it felt like we were bombarded with new duties. Back when Vászi was still showing us the ropes and guiding us through our future destiny, he said that we'd start out lightly. And despite that, Sóvis and I both knew that that promise was broken. \
 I'd looked through the archives in the Temple's library, with every symbol staring at my back, judging me as I skimmed through every past and present Guardian. I'd seen names I recognised, but mostly names that I'd never heard of before, until I spotted my own name near the tail end of the entry. I mumbled to myself, *"What on Earth is a Higher Guardian?"*, having spotted the title next to my own name, as well as Sóvis's entry. I continued to skim through the pages, knowing that the judgemental eyes of the higher spirits were looking down on me as I rushed through more and more pages, trying to find a reason as to why we were given this many duties this early on.
 
@@ -28,8 +29,8 @@ I counted the steps below me, my head faced downwards, seeing my own reflection 
  
 ### Vászi's Last Dance
 // Requires a proper lead to the current first paragraph
+*// POV: Snow* 
 
-*// POV: Snow* \
 Chasing after Vászi, I struggled to keep my breath stable as he continued to veer off into the distance. I yelled for his name, my feet sinking deeper into the snow, as the clouds seemed to get thicker and thicker. I felt like I was going to pass out, but I didn't want to let go, not now. The only person who gave me a second chance greater than anything a person could dream of, the only person who could've revived me from death, I wouldn't let go of him so easily.  
 
 He suddenly stood still. Struggling to take further steps, I felt Marten's hand press against my back, as I turned to my left to face him. With a quick glance and nod to me, he faced back to Vászi, a stern look in his eyes as they began to faintly glow in an amber colour. With his hand on my back, I felt him slowly begin to warm me up, understanding he was using his healing pulse to give me the extra strength I need to step through the ever thickening snow.  

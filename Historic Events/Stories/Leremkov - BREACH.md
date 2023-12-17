@@ -55,9 +55,3 @@ Putting his transmitter to the side, he locks his rifle, putting it back to safe
 
 **"Cz-ést sur Kérisant!"**
 
-
-# Snippets
-**Snippet of Eagle spotting a series of cars approaching in the far distance (noise)** \
-// In the far distance, Eagle, who were on scout and guarding duty, take notice of a series of cars approaching from the far distance. In distress, they alert Lion and Tiger, who were already making their way back to the trucks. \
-// They had successfully collected evidence and data, and locked down the entrance to the facility so nobody else could enter and tamper with the evidence site. Locking down the warehouse, all three squads re-enter their trucks and take their leave well before the other cars arrive, warning Control of the situation, who then keeps the cloaked drone in position to see what will happen. \
-// As it turns out, the series of cars skip past the warehouse, making the squadrons believe it was a false alarm. (Open end. Were they really just passerby's, or did an alarm go off after all?)

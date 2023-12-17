@@ -56,7 +56,7 @@ Marten bears **no Mask**, as he is granted one upon completing his apprenticeshi
 
 Marten originally did not bear a mask, but has since switched to a **half-Mask**, covering just his mouth and jaw. He did choose to keep this in a pale white, similar to other Temple Guardians, as a form of respect to his *Guardianship*.
 
-Despite the fact he originally was against the established standards within the Temple of Vestia, he does have a good heart and the right mindset to become a Guardian, as seen in **EXPOSURE // SNOW**.
+Despite the fact he originally was against the established standards within the Temple of Vestia, he does have a good heart and the right mindset to become a Guardian, as seen in **EXPOSURE // SNOW**. This gave Vászi and Matéis enough reason to 
 
 #### Past Life
 Marten is the only ghost (as of Dec 2023) to not be assigned a new name upon Rebirth. In agreement with Vászi, who guided him through Rebirth, he maintained a set of his memories and pursued his original dream career: Guiding and teaching others. At the time of his death, Marten was 26 years old and actively working towards becoming a university teacher in health and community work, amongst studying regular science. In the end, he fell short to his dreams and was diagnosed with heart cancer, and succumbing to it within a year. Because Vászi believed that Marten had a good enough heart with infinite willpower, he offered him to go through Rebirth and guide him to become a Guardian, giving him a second chance at reaching his dreams.

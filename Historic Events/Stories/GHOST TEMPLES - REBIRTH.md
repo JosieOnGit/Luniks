@@ -103,6 +103,6 @@ Without hesitation the figure before me replies, and begins to explain. His tone
 *"S-so.. now..?"* \
 **"It means you were killed wrongly, and it wouldn't be right for us to let your life go to waste like this."** 
 
-With a quick, but careful motion, he takes his left hand and slowly presses it on his mask. Within a second, the mask lets go, as he brings it down, revealing his face to me, a warm, inviting smile having been kept hidden behind the mask. The rain in the supermarket quickly came to a stop, the white mist that had formed slowly began to dissipate, as I felt a strange, and especially mysterious ray of warmth encompass me while tears began to stream down my cheeks. A mixture of hope and grief rushing through my blood. 
+With a quick, but careful motion, he takes his left hand and slowly presses it on his mask. Within a second, the mask lets go, as he brings it down, revealing his face to me, a warm, inviting smile having been kept hidden behind the mask, nestled within a ruffled beard. The rain in the supermarket quickly came to a stop, the white mist that had formed slowly began to dissipate, as I felt a strange, and especially mysterious ray of warmth encompass me while tears began to stream down my cheeks. A mixture of hope and grief rushing through my blood. 
 
 **"My name is Sóvis, the Guardian of the Temple of Vestia. I'd like to guide you through this sudden change, Raine, you are deserving of this second life."**
