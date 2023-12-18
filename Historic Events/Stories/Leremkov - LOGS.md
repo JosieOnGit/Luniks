@@ -5,6 +5,25 @@ A rough draft of the storyline through drafts will be a series of personal lette
   
 Throughout the storyline, Dénis will write personal letters, but also write professional data analyses from missions, such as *BREACH*.
 
+
+## Log 05-06-2087
+// Context: Emilia, who caught Influenza and took an infected vaccine in hopes that it would help cure her from said disease, now contracts Leremkov on top of it, causing her to be bed-ridden for the rest of her lifetime. This takes place a week after her death and burial.
+
+### Drafted Log
+Hey, Emilia, this isn't easy for me to write, especially now that you can't reply to me anymore.
+
+It's been a week already since we lowered you down there into the ground, in your beautifully decorated coffin that your kindergarten class had helped you paint. I hope wherever you might be now, that you're long gone from the horrible amount of suffering you endured, that you can live on in pure peace and without pain. 
+
+It's still tough to write this, Emilia, the tears are already rolling down my cheeks as I write this, I feel like I've hit a dead end, that I don't know where to go next, but just like you had a wish to be buried next you your parents in the garden of Égézeha, you wished for me to live onwards and carefree, and that you never wanted anyone else to suffer the way you did before your last breath.
+
+That brings me to what I wanted to let you know, Emilia. I'd brought you a bouquet of flowers like I promised I would every Friday after your death, before I was tapped on the shoulder by a man I didn't know. He introduced himself to me as Leo Hartleigh, saying that he too felt sorry for the loss of your beautiful life. But not just that, he offered me a job, and not just any job. He handed me a postcard with an address, which he claimed belonged to "A private research organisation". 
+
+In short, I will be working in Weshalt, starting in August, where I will join Leo and a few others in tracking down the source of this "Leremkov disease" that costed you your life. Everyone, including me, believed that it *had* to be a hand-made virus, because there was no such thing as a natural virus that would cause the DNA-alterations and side-effects that you had experienced, much like any other person that had undergone the same. 
+
+Emilia, you had one wish, which was that you never wanted anyone else to suffer the same way you did anymore. With this job, I will help you achieve that dream, and make sure nobody needs to go through the same hell that you have gone through.
+
+I love you, Emilia, rest easy.
+
 ## Log 21-08-2090
 // Context: This is before Dénis enters the now-abandoned laboratory with his 5 other squad members.
 
@@ -39,3 +58,12 @@ But more interestingly, I discovered that a lot of the symptoms you were showing
 Emilia, I will make my way to Earth, but I will bring you along with me. Even if I need to personally take matters in my own hands and take his life by force, I will do so. I will never forgive this man for the damage he has done to you, to everyone else. Leo and I both agreed that we would make this our life goal, that we would track down Leremkov and put an end to this once and for all. Even though the irreversible damage has been dealt, and many others have lost family or friends, just like I had lost you, I will make sure that nobody else will need to suffer like you have.
 
 I love you, rest easy.
+
+
+## Log 12-01-2091
+// Context: Soon after Dénis lands and takes temporary residence in Poland in the hunt for Leremkov, ultimately leading towards a dead end.
+
+### Drafted Log
+Hey Emilia, remind me to travel back to Kérisant and never again travel between planets. It's a stomach-turning experience, and I really have no idea how they made this commercial.  
+  
+But with that said, you can assume that I made my way to Earth, to Poland now. Leo, Emil, and myself were granted a temporary home in the outskirts of Toruń, a city I had never heard of before but seemingly holds a vast amount of history. It's going to be a long hunt, Poland might not be as big as Kérisant itself, but it would be trying to find a needle in a haystack, we need to track down a basement laboratory in an area as big as the Biszhúvek and Gálinian provinces combined. 

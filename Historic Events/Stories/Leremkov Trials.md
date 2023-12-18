@@ -10,7 +10,7 @@ The Leremkov Trials as a whole is a big project. Below is a draft image of the c
 ![[Leremkov Trials reqs.jpg]]
 
 ## Vitaly Leremkov 
-*Vitaly's complete story is available at [[Vitaly Leremkov, 2039-2098]].* \
+*Vitaly's complete story is available at [[Vitaly Leremkov, 2039-2095]].* \
 Vitaly Leremkov, born in Sochi but having lived in Poznań for most of his life, was a biologist who specialized in genetics and DNA, using his knowledge for evil, rather than good, later on in his life, as he devoted the remaining years altering humanity's DNA in order to incorporate animal DNA and create a perfect blend, claiming he "desired a destiny like Þórirson".
 
 ## David & Stacy

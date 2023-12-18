@@ -7,7 +7,7 @@ These ideas are currently under construction and are noted down separately as th
 ### November 2023 note
 *As of November 2023, the decision to fully implement magic as a concept into the world of Luniks has been greenlit. This means existing stories such as the **Leremkov Trials** and **Álusken's Mysteries** may be altered accordingly to make use of magic, in order to make the storyline gain a smoother flow. This decision has been made to give [[GHOST TEMPLES]] a proper space in which it can grow in develop without boundaries, allowing things that might be completely ridiculous to describe in a "logical" sense.*
 ### Magic
-Much like the word suggests, the introduction of magic into the world of Luniks would make things take on a completely different concept. The story of [[Vitaly Leremkov, 2039-2098]] would gain a differently concept, ruling out vaccines and becoming centered around magic instead.
+Much like the word suggests, the introduction of magic into the world of Luniks would make things take on a completely different concept. The story of [[Vitaly Leremkov, 2039-2095]] would gain a differently concept, ruling out vaccines and becoming centered around magic instead.
 
 As much complication as it brings, it would also become a trump card for anything currently unexplainable. A complete terraformation of a piece of land would be considered impossible in today's knowledge and technology, but simply saying it's because of the understanding of magic at that moment would reduce the need for complex lore as well.
 

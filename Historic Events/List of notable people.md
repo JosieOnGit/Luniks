@@ -18,7 +18,7 @@ Aélu is a well-known spaceship designer, that created the smaller passenger shi
 
 ## Leremkov Trials (2022)
 ### Vitaly Leremkov
-Leremkov's story is described in [[Vitaly Leremkov, 2039-2098]].
+Leremkov's story is described in [[Vitaly Leremkov, 2039-2095]].
 ### Dénis Terczekv
 Of Kérisantic descent, affiliated with the private division responsible for tracking down Leremkov's Labs, as well as Leremkov himself. Appears in [[Leremkov - BREACH]], alongside a number of other squad members:
 - Leo Hartleigh

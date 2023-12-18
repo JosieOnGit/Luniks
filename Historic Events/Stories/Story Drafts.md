@@ -5,7 +5,7 @@ Much like the title suggests, these are drafts for the story surrounding Luniks 
 The Leremkov Trials have grown too big to remain a draft, and are now available at [[Leremkov Trials]]. This includes character information for David & Stacy on [[Leremkov Trials#David & Stacy]] and Vienna & Olen on [[Leremkov Trials#Vienna & Olen]].
 
 ### Vitaly Leremkov
-Vitaly Leremkov's story has grown too big to remain a draft. It is now available at [[Vitaly Leremkov, 2039-2098]].
+Vitaly Leremkov's story has grown too big to remain a draft. It is now available at [[Vitaly Leremkov, 2039-2095]].
 
 ### PENDULUM
 Though part of the **Leremkov Trials**, the *PENDULUM* entry has grown too big to remain a draft and is now available at [[Leremkov - PENDULUM]].
