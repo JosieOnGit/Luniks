@@ -83,7 +83,7 @@ Zakh'háfo spokesperson. Involved in the Máneán-Zakh'háfon conflict.
 ### Makh'lon Uwaalib 
 Malawi spokesperson. Currently has no place within the project just yet as Malaw still has to be placed on the planet.  
 ### Omáti Honofatus
-### Ahmed Hafarna
+### Ahmed Khafarna
 
 
 ## Álusken's Mysteries

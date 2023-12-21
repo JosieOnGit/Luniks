@@ -59,3 +59,10 @@ My goal, or plan, is to repurpose the Oslo Revolution and downscale the size of 
 
 ### The Kágos Núje Legacy
 **Kágos Núje** (2018: *Kágos Nûje*) is a characterless name that has been floating around without a goal since drafts dating back to 2018. My end goal is to finally implement this name in *any* story, where it will most likely become a highly notable character, hence the **Legacy** preposition. Whether this will happen within *The Leremkov Trials*, *Ghost Temples*, or a yet-to-happen story, is still unclear!
+
+### Unnamed and unused draft
+*// POV: Unnamed character*
+
+My ears continued ringing, smoke filled the room from the rubble that had collapsed on top of me. I struggled to make my way out of the pile I was buried under. Just what had gone wrong here? How did this even escalate as far as it has? The protocol seemed to progress just fine, we'd gone through 4 stages like we routinely have every week, and yet this time around, after 30 weeks, how come it failed now?
+
+I coughed violently, trying to keep myself from inhaling the smoke that filled the room. I had no idea what was leaking, what the smoke might be from. Was it the rubble? Were it the pipes that had blown? The toxic fumes from the reactor? I didn't want to find out, and with all my might managed to crawl my way under the pile of rocks. My left calf was torn open, and the excessive amount of adrenaline surging through my body was the only thing keeping me from collapsing right here right now. With a shaky leg, I scanned myself and my surroundings, finding the roof having collapsed and electric arcs waving before me where the reactor once used to stand. My left arm was also severely injured, and I knew I had mere minutes left to find help, aware that if I failed to do so, I would collapse and that would be the end for me.
