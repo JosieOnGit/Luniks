@@ -91,7 +91,7 @@ My eyes fixate on the main entrance of the small supermarket, right behind the c
 
 With the lump still well and present high up in my throat, I do my best to swallow it away, failing in the process. Keeping myself from coughing violently, I take a deep breath, and finally decide to reach out my hand towards the creepy white figure before me, managing to spurt out a few words as I gently hold his hand, as careful as I can be. \
 *"Y-you.. won't kill me.. right..?"* \
-**"I'm afraid we're already past that stage. I'm here to grant you a second chance at life."**
+**"I'm afraid we're already past that stage. This will be your revival."**
 
 An ice cold breeze immediately rushed throughout the supermarket, the rain becoming even colder, with his words echoing through the aisles and walls. "Past that stage"? Just what was this guy on? Every single thought dashed across and through my head. Had I died? When? How? Just what happened? Is this a joke, was this an out of season prank? I had a bad relationship with the neighbours two doors down, but this would be out of this world, even for them! \
 Doing my absolute best to keep my tears at bay, keeping myself from panicking or collapsing under my fears, I whisper under my breath, my eyes tracing down from the luminescent mask, down to his pitch-black harness. \
