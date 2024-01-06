@@ -59,3 +59,21 @@ My goal, or plan, is to repurpose the Oslo Revolution and downscale the size of 
 
 ### The Kágos Núje Legacy
 **Kágos Núje** (2018: *Kágos Nûje*) is a characterless name that has been floating around without a goal since drafts dating back to 2018. My end goal is to finally implement this name in *any* story, where it will most likely become a highly notable character, hence the **Legacy** preposition. Whether this will happen within *The Leremkov Trials*, *Ghost Temples*, or a yet-to-happen story, is still unclear!
+
+
+### TRAVEL RISK 
+**TRAVEL RISK** has grown too big to remain a draft, and is now available at [[TRAVEL RISK]].
+#### Focus one: Civil unrest in Deth-Kelétam
+This specific draft is now available at [[TRAVEL RISK#FOCUS ONE LUCKY WATER]].
+
+
+### Unspecified conflict scenarios
+// Oslo Revolution *might* fall under this as well, as well as the drafted *Kágos Núje Legacy*. \
+Building onwards from **TRAVEL RISK**, I feel like more in-depth scenarios could be drafted as well, shining a light on certain characters that might be important to that story, and may also play a major and/or minor role in other stories. I still struggle to properly describe this idea, but it could open up the door to a lot of different and completely new stories that haven't been drafted yet!
+
+### Early Drafted Álusken's Mysteries addition
+I've additionally been thinking of adding supernaturalism in one form or another to the existing story of **Álusken's Mysteries**, giving additional roles to *Matthias-Eden* and shining a proper light on the vast difference between the capital city and surrounding cities such as *Keustellet* and *Ippavím*. Additionally, I'd like to introduce more small towns within Álusken as well that might gain a connection to **GHOST TEMPLES** as well, but the future will need to tell, and especially what I will come up with within this addition!
+
+I've been drafting a strange, central spot in the middle of the country of Álusken, which is seemingly "possessed" by an unnatural force of some sorts, which can explain the other various mysteries that occur within the country and can be connected to **GHOST TEMPLES** as well. This will need proper additions, though, and is very subject to change because of the lack of depth as of right now! (January 2024).
+
+### Deep dive into the history of early Luniksan settlements
