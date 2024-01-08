@@ -20,7 +20,7 @@ Aélu is a well-known spaceship designer, that created the smaller passenger shi
 ### Vitaly Leremkov
 Leremkov's story is described in [[Vitaly Leremkov, 2039-2095]].
 ### Dénis Terczekv
-Of Kérisantic descent, affiliated with the private division responsible for tracking down Leremkov's Labs, as well as Leremkov himself. Appears in [[Leremkov - BREACH]], alongside a number of other squad members:
+Of Kérisantic descent, affiliated with the private division responsible for tracking down Leremkov's Labs, as well as Leremkov himself. Appears in [[BREACH]], alongside a number of other squad members:
 - Leo Hartleigh
 - Mike Kungsen
 - Emil Bilczátni
@@ -89,3 +89,19 @@ Malawi spokesperson. Currently has no place within the project just yet as Malaw
 ## Álusken's Mysteries
 ### Lia Mazsestéia Matthias-Eden Féoresen, II Kunge d-Álusken
 Shortened to simply "Matthias-Eden, King Álusken II", he is the second King of Álusken since its inception from the very start of colonial Luniks. Succeeding his Grandmother, **Johanna, Queen Álusken I**, and his father, **Matthias-Déonis, King Álusken I**, he has made radical changes within the country, denying a portion of modern technology, especially in experimental healthcare, something Johanna was very fond of doing, and gave the country its medieval look and state, which it's currently most recognizable by. 
+
+
+## TRAVEL RISK
+### Nils Lorieux
+
+### Raléi 
+
+### Antoine
+
+### Niko
+
+### Kasper
+
+### Mitch
+
+### Omáti

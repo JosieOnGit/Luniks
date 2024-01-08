@@ -8,10 +8,10 @@
 - Temple name: Temple of Vestia
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
 - Temple guardian: Settler of Vászi
-- Last Light: [[GHOST TEMPLES - LAST LIGHT#// LUNA]]
+- Last Light: [[LAST LIGHT#// LUNA]]
 
-Info on Temple: [[GHOST TEMPLES - Scattered Info#Temple of Vestia]] \
-Info on Symbols: [[GHOST TEMPLES - Scattered Info#Known Symbols]]
+Info on Temple: [[Scattered Info#Temple of Vestia]] \
+Info on Symbols: [[Scattered Info#Known Symbols]]
 ### Drafted Story
 **// Subject to tweaks**: Originally, I wanted Luna to be unaware of the Ghost Temples existing as a whole, especially being unaware that there was an underlying connection. After the creation of *REBIRTH // SNOW*, this approach changed, and drastically changed the timescales as well. Because of this, several tweaks need to be put through the currently drafted story so that it becomes more in line with *EXPOSURE // SNOW*. Tweaks might include:
 - Revealing the mysterious girl is also a ghost.
@@ -39,8 +39,8 @@ For **EXPOSURE // LUNA**, the main approach is following the Ghost of Luna throu
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos
 - Temple Guardian: Settler of Vászi
 
-Info on Temple: [[GHOST TEMPLES - Scattered Info#Temple of Vestia]] \
-Info on Symbols: [[GHOST TEMPLES - Scattered Info#Known Symbols]]
+Info on Temple: [[Scattered Info#Temple of Vestia]] \
+Info on Symbols: [[Scattered Info#Known Symbols]]
 
 This is a very bold and rough draft because I struggle to properly put it to words and have it flow nicely into an actual story. Nevertheless, this is exciting to me because it showcases one of Snow's personal strengths, rather than her weaknesses.  
 

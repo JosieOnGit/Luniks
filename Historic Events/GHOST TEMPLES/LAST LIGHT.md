@@ -16,6 +16,6 @@ Upon boarding in Shánzhe, the train was scheduled to pass through Matéiazhu an
 
 ## // SNOW
 
-Reserved for an expansion on the snippet from [[GHOST TEMPLES - REBIRTH#// SNOW]]:
+Reserved for an expansion on the snippet from [[REBIRTH#// SNOW]]:
 
 ***"On October 4th, 2075, a missile struck the market you find yourself in. At the same time, criminals entered through the North and South sides to plunder and raid the market. Ever since, it has been left vacant. We were not able to rescue your body, but we rescued your soul, and gave you another chance in the body that matches your soul."***

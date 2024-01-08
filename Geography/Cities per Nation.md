@@ -21,8 +21,10 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - Morrésik (Unregulated mountains)
 
 ### Skádia (Lower left half)
-
+- 
 ### Deónia (Right half)
+- 
+
 
 // As you can see, two continents are currently completely empty spaces, with no countries located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
 
@@ -92,7 +94,7 @@ Two events are drafted within this city, namely:
 - Tiái Czi 203 Factory and its 2246 fireworks explosion
 - Leremkov's labs
 
-Leremkov's labs, and the investigation that was launched to find out the exact reasons how the Leremkov virus came to spread, are thoroughly detailed in [[Leremkov - BREACH]].
+Leremkov's labs, and the investigation that was launched to find out the exact reasons how the Leremkov virus came to spread, are thoroughly detailed in [[BREACH]].
 
 #### Weshalt
 
@@ -112,10 +114,16 @@ After a sudden split from United Máneá, Ákros was left in a fallen, newly for
 
 ## Máneá (Unifísai Ertbitsai da Máneá)
 #### Fsát-Hokh (Capital)
+Together with Zakh'háfo, Máneá entered a similar economic recession quickly after gaining independence. However, due to the uprising in civil unrest soon after the forcefully created government tried to limit the everyday life of its citizens in hopes to restore the collapsing economy, the capital soon collapsed under its own weight. 
 
 #### Deth-Kelétam
 
+
 #### Amadnésam
+Before the collapse of **United Máneá**, Amadnésam was considered to be the research capital of Máneá, a title it retained after the collapse for another few years, until the economic collapse of the entire country. The city had been divided into several zone, which included various residential zones, an economic district, and research/science districts, all connected through a tightly woven metro network. 
+
+## Rhódisz
+#### Kristensend (Capital)
 
 
 ## Álusken

@@ -14,18 +14,22 @@ Each temple has a name and a set of present symbols (Elements, Zodiacs, Sprits) 
 ## The Lifecycle
 Every ghost has gone through three stages upon introduction to their new Temple. These are:
 - **LAST LIGHT** // The event that led to their death in their original life.
+	- **LAST LIGHTS** are available at [[LAST LIGHT]].
 - **REBIRTH** // The process in which a Guardian rescues and restores the spirit of someone that has gone through *Last Light*.
+	- **REBIRTHS** are available at [[REBIRTH]].
 - **EXPOSURE** // The event in which everything clicks together. Every memory that was able to be restored from the rescued spirit has been restored, and the new Ghost has now been permanently connected to their corresponding Temple. 
+	- **EXPOSURES** are available at [[EXPOSURE]].
 
 *// The cycle below is events that happen during the end of a lifetime for a ghost. However, said cycle is still on the drawing board and might end up being excluded altogether*
 
 - ***DESPAIR** // The stage in which the quality of life of the Ghost or Temple is rapidly declining and in danger of running out.* // The **DESPAIR** entry is currently used in *DESPAIR // VÁSZI*, carrying a different meaning.
+	- **DESPAIR // VÁSZI**, which uses the alternative meaning for **DESPAIR**, is available at [[DESPAIR]].
 - ***TRAGEDY** // The event in which the Temple falls, or in which the ghost simply dies and vanishes, leaving behind just their mask.*
 
 ## A quick rundown
 The current focus lays on the **Temple of Vestia**, where a small group of characters is actively being developed and have sprung to life. This list of characters is still rapidly growing, but is available at [[List of notable people#GHOST TEMPLES // VESTIA (2023)]], as well as under its corresponding header in the current page. 
 
-Each Temple has a **Settler**, which reflects in the symbol that is created upon the foundation of the temple, and will forever be stored as a *plaque* within the *Memorial Hall*. Within this Hall, all sprits of present and past ghosts are available, as well as basic information regarding the temple and its symbols. The symbols are properly explained at [[GHOST TEMPLES - Scattered Info#Known Symbols]].
+Each Temple has a **Settler**, which reflects in the symbol that is created upon the foundation of the temple, and will forever be stored as a *plaque* within the *Memorial Hall*. Within this Hall, all sprits of present and past ghosts are available, as well as basic information regarding the temple and its symbols. The symbols are properly explained at [[Scattered Info#Known Symbols]].
 
 A **Settler** possesses a tremendously high amount of *Spiritual Energy*, the same energy that forms around a Guardian's Signature *Guarding Light*. In order to become a **Settler** and settle your own Temple, *Guardianship* is a requirement, which is why many Ghosts choose to go through Guardian Apprenticeship, in order to gain the required knowledge, but also the required skills and power, to settle a Temple close to their birthplace, or place of death. 
 
@@ -36,9 +40,9 @@ A **Settler** possesses a tremendously high amount of *Spiritual Energy*, the sa
 
 ## // GHOST TEMPLES - EXPOSURE
 
-Luna's Exposure has moved to [[GHOST TEMPLES - EXPOSURE#// LUNA]]
+Luna's Exposure has moved to [[EXPOSURE#// LUNA]]
 ## // GHOST TEMPLES - REBIRTH
 
-Snow's Rebirth has moved to [[GHOST TEMPLES - REBIRTH#// SNOW]]
+Snow's Rebirth has moved to [[REBIRTH#// SNOW]]
 ## External Info
-Smaller bits of information are available in [[GHOST TEMPLES - Scattered Info]]
+Smaller bits of information are available in [[Scattered Info]]

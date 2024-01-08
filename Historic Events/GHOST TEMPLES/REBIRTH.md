@@ -12,8 +12,8 @@ Upon rebirth, a newly born Ghost is introduced to their new Guardian, that will 
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
 - Temple Guardian: Settler of Vászi
 
-Info on Temple: [[GHOST TEMPLES - Scattered Info#Temple of Vestia]] \
-Info on Symbols: [[GHOST TEMPLES - Scattered Info#Known Symbols]]
+Info on Temple: [[Scattered Info#Temple of Vestia]] \
+Info on Symbols: [[Scattered Info#Known Symbols]]
 
 ### Drafted Story
 *POV: Ghost of Luna*
@@ -40,8 +40,8 @@ He reached out his hand to me, showing no signs of hostility whatsoever, as I wa
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
 - Temple guardian: Settler of Vászi
 
-Info on Temple: [[GHOST TEMPLES - Scattered Info#Temple of Vestia]] \
-Info on Symbols: [[GHOST TEMPLES - Scattered Info#Known Symbols]]
+Info on Temple: [[Scattered Info#Temple of Vestia]] \
+Info on Symbols: [[Scattered Info#Known Symbols]]
 
 ### Drafted Story
 *POV: Ghost of Snow
@@ -73,8 +73,8 @@ A chill runs through my spine, and an everlasting moment of silence begins betwe
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
 - Temple guardian: Guardian Marten, Guardian Sóvis
 
-Info on Temple: [[GHOST TEMPLES - Scattered Info#Temple of Vestia]] \
-Info on Symbols: [[GHOST TEMPLES - Scattered Info#Known Symbols]]
+Info on Temple: [[Scattered Info#Temple of Vestia]] \
+Info on Symbols: [[Scattered Info#Known Symbols]]
 
 ### Drafted Story
 *POV: Ghost of Raine*

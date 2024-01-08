@@ -8,14 +8,16 @@ The Leremkov Trials have grown too big to remain a draft, and are now available 
 Vitaly Leremkov's story has grown too big to remain a draft. It is now available at [[Vitaly Leremkov, 2039-2095]].
 
 ### PENDULUM
-Though part of the **Leremkov Trials**, the *PENDULUM* entry has grown too big to remain a draft and is now available at [[Leremkov - PENDULUM]].
+Though part of the **Leremkov Trials**, the *PENDULUM* entry has grown too big to remain a draft and is now available at [[PENDULUM]].
 
 ### BREACH
-*BREACH* is an in-depth look at how **Dénis Tercekv** infiltrated Leremkov's secret *Genetic Labs*, where he produced the vaccine that cause the irreversible damage to humanity's genes and DNA. Currently (December 2023), this is still in its starting phase, but will be gradually developed into its own entry, available at [[Leremkov - BREACH]].
+*BREACH* is an in-depth look at how **Dénis Tercekv** infiltrated Leremkov's secret *Genetic Labs*, where he produced the vaccine that cause the irreversible damage to humanity's genes and DNA. Currently (December 2023), this is still in its starting phase, but will be gradually developed into its own entry, available at [[BREACH]].
 
 
 ## Oslo Revolution
 The Oslo Revolution originally happened in 2247, and was first drafted in 2018 in the so-called "Alva-Line project", which has evolved countless times into where we are today with the Luniks project. Putting away the worries of repurposing the entire project and events in 2247 in Oslo, all I'd like to note here is that this will eventually happen! As of right now, the main planning is to properly note down the main outline of the project and the main timeline of Luniks, and slowly but surely Oslo will gain it's time and place where it will finally fall, as Nóve Osló doesn't have a similar reason for existence like Nóve Réjkjavik.
+
+Further development on the **OSLO REVOLUTION** will be available at [[OSLO REVOLUTION]].
 
 
 ## Máneá-Zakh'háfo Conflict / Collapse of United Máneá
@@ -54,31 +56,30 @@ This specific draft is now available at [[TRAVEL RISK#FOCUS ONE LUCKY WATER]].
 
 
 
-## Other various smaller ideas
-### Repurposing of Oslo Revolution (Alva-Line project)
+# Other various smaller ideas
+## Repurposing of Oslo Revolution (Alva-Line project)
 Back in 2018, when I originally had the idea of making my own futuristic story, the planet of Luniks was then still a side story. Ever since, the original *Alva-Line Project*, as it was then called, dissipated in favour of the development of the planet Luniks (Originally called *Linux*) and its countries, languages, and every small detail and event it would bring with it. Since then, it has been rolled over various times and the original time scale that I had in mind (With an *Anno Luniks* calendar) quickly began to become too loosely coupled to still make sense.
 
 All in all, the original Oslo Revolution was caused by the invasion of the now-returning **Alva Division**, who had escaped to colonize Luniks and returned to re-colonize Earth, using as much brutal force as they might have needed. The newly founded **Omega Division** would do all they could to prevent this from escalating and breaking out in a full-scale war. The third and final division that I had created before abandoning this aspect of the project, was the **Union of the Free**, who provided shelter and tried to escape the unavoidable war that was about to occur. This all, of course, is far too unrelated to present day Luniks. 
 
 My goal, or plan, is to repurpose the Oslo Revolution and downscale the size of the "Revolution". In a future planned world where I try to keep conflicts at al all time low (barring the **Máneá-Zakh'Háfo conflict**), meaning the outbreak of a full-scale war doesn't sit right on the time scale nor state of society I try to describe. A possible future for this particular topic for me would probably be a revolution rallying for independence of the state that Oslo is present within, leading to smaller incidents similar to the **2075 Keustellet Terrorist attacks**, which don't escalate into civil war. 
 
-
-### The Kágos Núje Legacy
+## The Kágos Núje Legacy
 **Kágos Núje** (2018: *Kágos Nûje*) is a characterless name that has been floating around without a goal since drafts dating back to 2018. My end goal is to finally implement this name in *any* story, where it will most likely become a highly notable character, hence the **Legacy** preposition. Whether this will happen within *The Leremkov Trials*, *Ghost Temples*, or a yet-to-happen story, is still unclear!
 
-### Unspecified conflict scenarios
-// Oslo Revolution *might* fall under this as well, as well as the drafted *Kágos Núje Legacy*. \
+## Unspecified conflict scenarios
+// Oslo Revolution *might* fall under this as well, as well as the drafted *Kágos Núje Legacy*. 
+
 Building onwards from **TRAVEL RISK**, I feel like more in-depth scenarios could be drafted as well, shining a light on certain characters that might be important to that story, and may also play a major and/or minor role in other stories. I still struggle to properly describe this idea, but it could open up the door to a lot of different and completely new stories that haven't been drafted yet!
 
-### Early Drafted Álusken's Mysteries addition
+## Early Drafted Álusken's Mysteries addition
 I've additionally been thinking of adding supernaturalism in one form or another to the existing story of **Álusken's Mysteries**, giving additional roles to *Matthias-Eden* and shining a proper light on the vast difference between the capital city and surrounding cities such as *Keustellet* and *Ippavím*. Additionally, I'd like to introduce more small towns within Álusken as well that might gain a connection to **GHOST TEMPLES** as well, but the future will need to tell, and especially what I will come up with within this addition!
 
 I've been drafting a strange, central spot in the middle of the country of Álusken, which is seemingly "possessed" by an unnatural force of some sorts, which can explain the other various mysteries that occur within the country and can be connected to **GHOST TEMPLES** as well. This will need proper additions, though, and is very subject to change because of the lack of depth as of right now! (January 2024).
 
-### Deep dive into the history of early Luniksan settlements
+## Deep dive into the history of early Luniksan settlements
 
-
-### Unnamed and unused draft
+## Unnamed and unused draft
 *// POV: Unnamed character*
 
 My ears continued ringing, smoke filled the room from the rubble that had collapsed on top of me. I struggled to make my way out of the pile I was buried under. Just what had gone wrong here? How did this even escalate as far as it has? The protocol seemed to progress just fine, we'd gone through 4 stages like we routinely have every week, and yet this time around, after 30 weeks, how come it failed now?
