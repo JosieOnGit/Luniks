@@ -21,7 +21,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - Morrésik (Unregulated mountains)
 
 ### Skádia (Lower left half)
-- 
+- Emyria
 ### Deónia (Right half)
 - 
 
@@ -117,13 +117,21 @@ After a sudden split from United Máneá, Ákros was left in a fallen, newly for
 Together with Zakh'háfo, Máneá entered a similar economic recession quickly after gaining independence. However, due to the uprising in civil unrest soon after the forcefully created government tried to limit the everyday life of its citizens in hopes to restore the collapsing economy, the capital soon collapsed under its own weight. 
 
 #### Deth-Kelétam
-
+Frequently dubbed as the "Capital of drugs", Deth-Kelétam served home soon after the collapse of Máneá, and its deteriorated automated transport system still chugs along to this day, giving way to every sort of illegal trade in broad daylight. 
 
 #### Amadnésam
 Before the collapse of **United Máneá**, Amadnésam was considered to be the research capital of Máneá, a title it retained after the collapse for another few years, until the economic collapse of the entire country. The city had been divided into several zone, which included various residential zones, an economic district, and research/science districts, all connected through a tightly woven metro network. 
 
 ## Rhódisz
 #### Kristensend (Capital)
+
+
+## Léjtis (Free State of)
+Léjtis is placed on the island under **Máneá** and **Zakh'háfo**. This is reflected on the 2020 map sketch.
+#### Pórtvéj (Capital)
+
+#### Jíriskod
+
 
 
 ## Álusken
@@ -147,7 +155,10 @@ Unlike the capital, Keustellet is a very modern city, matching the looks of Cév
 #### Shánzhe
 
 
-## Monsán Republic 
+## Mónsan Republic
+#### Ti Péli
+
+#### Myradsked
 
 
 ## Hédenis
@@ -173,6 +184,5 @@ Hédenis has a very concrete way of naming cities and towns influenced by their 
 
 ___
 Below are a few countries that are only currently known by name, and might not yet be placed on the map. 
-
-## Léjtis (Free State of)
+## Emyria
 

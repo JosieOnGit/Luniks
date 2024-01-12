@@ -11,7 +11,7 @@ Vitaly Leremkov's story has grown too big to remain a draft. It is now available
 Though part of the **Leremkov Trials**, the *PENDULUM* entry has grown too big to remain a draft and is now available at [[PENDULUM]].
 
 ### BREACH
-*BREACH* is an in-depth look at how **Dénis Tercekv** infiltrated Leremkov's secret *Genetic Labs*, where he produced the vaccine that cause the irreversible damage to humanity's genes and DNA. Currently (December 2023), this is still in its starting phase, but will be gradually developed into its own entry, available at [[BREACH]].
+*BREACH* is an in-depth look at how **Dénis Terczekv** infiltrated Leremkov's secret *Genetic Labs*, where he produced the vaccine that cause the irreversible damage to humanity's genes and DNA. Currently (December 2023), this is still in its starting phase, but will be gradually developed into its own entry, available at [[BREACH]].
 
 
 ## Oslo Revolution

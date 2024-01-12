@@ -64,3 +64,10 @@ Without any effort, Marten stood back upright as the white dome surrounding us g
 For **EXPOSURE // SNOW** I really want Snow to reflect on her new life and overcome her deeply rooted fears. Dying one day and waking up the next day in a completely different body, headspace, and situation isn't easy for anyone. To reflect both sides of her personality, the rooted fears but desire to overcome those, the two Signatures, *Whiteout* and *Channelling Astárout*, help visualize those two sides. 
 
 As for Marten, I'd like him to gradually grow into a non-characteristic Guardian. He has all needed skills and the right desire to become a Guardian, but much like Luna, really dislikes their formal attire, and thus chooses to wear his own. In his journey, I'd like to help him guide a new ghost through Rebirth together with Vászi, but I'll still need to come up with a proper story for this, since I don't want to make it too barebones! 
+
+
+## // WINTER
+
+Reserved for the expansion on the drafted story:
+
+*Almost immediately after her Rebirth, Winter immediately understood the new world she found herself in, and adapted to it as if it was her second nature. Her Exposure will be where she meets **Snow**, soon after her rebirth, since **Marten** brings her along for shelter and care. Upon meeting Snow, the two immediately get along and immediately seem like twins, which is how Winter integrates into the Temple of Vestia right away.*

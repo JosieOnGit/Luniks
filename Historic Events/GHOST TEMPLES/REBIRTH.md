@@ -65,6 +65,14 @@ Without hesitation, the Settler takes a step forward to put a hand on my shoulde
 A chill runs through my spine, and an everlasting moment of silence begins between us. My body had felt odd from the very second I had reawakened, and the glimpse I got of myself in the mirror fully explained why. Moving my hands to my face, I carefully take off the mask, feeling a cold breeze enter my lungs as I take a deep breath, struggling to keep my head high, to keep my emotions beside me for the time being. After what feels like hours, I finally find the strength to stand up, as I stare before me, Vászi's arm extended, feeling his eyes gaze deeply at mine through his mask once more, but feeling a much more inviting, a much more pleasant warmth this time around. Taking his hand, I try to speak, but get cut short, still struggling to speak without wearing my mask, and being interrupted by Vászi. \
 **I'm terribly sorry that you had lost your previous life, and I understand your new form is vastly different. I will make a promise: I will guide you, and I will guard you, for I am your Guardian from now on.**
 
+
+## // WINTER
+
+Reserved for the expansion on the drafted story:
+
+*With the help of **Sóvis**, **Marten** guides Winter through her rebirth in the woods of Morrésik, just shy of the border of Mónsan and near the city of **Ti Péli**. With the three of them, Winter adapts to her body on the way back towards the Temple of Vestia, having a very hopeful and understanding sense of mind as compared to the usual behaviour of ghosts so soon after rebirths.*
+
+
 ## // RAINE
 **KEY NOTES**:  
 - Ghost name: Ghost of Raine

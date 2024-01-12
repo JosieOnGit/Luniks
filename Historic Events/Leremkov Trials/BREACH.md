@@ -1,5 +1,5 @@
 # Leremkov - BREACH
-*BREACH* is an in-depth look at how **Dénis Tercekv** infiltrated Leremkov's secret *Genetic Labs*, where he produced the vaccine that cause the irreversible damage to humanity's genes and DNA. As a start, various snippets will be developed, after which they will gradually be tied together and form a cohesive story. 
+*BREACH* is an in-depth look at how **Dénis Terczekv** infiltrated Leremkov's secret *Genetic Labs*, where he produced the vaccine that cause the irreversible damage to humanity's genes and DNA. As a start, various snippets will be developed, after which they will gradually be tied together and form a cohesive story. 
 
 ## Drafted Story
 ### INFILTRATE 

@@ -31,3 +31,10 @@ While Snow continues to struggle to adapt to her new form, she developed a signa
 
 **Signature (2)**: Channelling Astárout \
 Utilizing a strength from far beyond the realms of discovered Luniks, Snow has discovered and learned how to channel the powers of the Ancient Spirit of Astárout. This allows her to gain extra strength in dire situations, as described in her **EXPOSURE** entry, where she combined this signature with Whiteout to confront the **Junior Guardian Marten**. As she channels Astárout, her eyes (which are usually a faint, light blue) will glow brightly, as well waving blue fire appearing on her right arm, the tip of her ears and tail. Lastly, the black spots on her right ear (which she reflected in her mask) will also turn a deep, vibrant blue that pulses wildly.
+
+## Ghost of Winter
+**Signature**: Arctic Blaze \
+Similarly to Snow's *Whiteout*, Winter summons a shallow dome of a snowstorm that traps and encompasses only the targets she intends to cast her Signature on. She frequently mentions that she "Feels home in the snow", which is why she also uses her Arctic Blaze similarly to Snow's Whiteout, when she feels like she needs to regain a moment of peace.
+
+**Signature (2)**: **Channelling Leopald**: \
+Similarly to Snow's *Channelling Astárout*, Winter channels the ancient power of the **Spirit of Leopald**, a myth in Álusken's culture, to give her an extra surge of energy and strength. 

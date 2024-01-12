@@ -21,13 +21,13 @@ Aélu is a well-known spaceship designer, that created the smaller passenger shi
 Leremkov's story is described in [[Vitaly Leremkov, 2039-2095]].
 ### Dénis Terczekv
 Of Kérisantic descent, affiliated with the private division responsible for tracking down Leremkov's Labs, as well as Leremkov himself. Appears in [[BREACH]], alongside a number of other squad members:
-- Leo Hartleigh
-- Mike Kungsen
-- Emil Bilczátni
-- Albert Lorenzo
-- Marco Gentileschi
+- Leo Hartleigh (Australia)
+- Mike Kungsen (Thórirsant)
+- Emil Bilczátni (Kérisant)
+- Albert Lorenzo (Italy)
+- Marco Gentileschi (Italy)
 ### Stacy & David 
-From the drafted "victim story" in [[Story Drafts]]. \
+From the drafted "victim story" in [[PENDULUM]]. \
 As of yet, neither have a good bit of history. Their most basic identities are described in the above linked draft. Once more information surfaces on them, this part will be properly updated.
 ### Vienna Méckláz & Olen Rosenqvist
 Vienna and Olen are described in detail in [[Leremkov Trials#Vienna & Olen]].
@@ -76,6 +76,14 @@ Snow bears a **Kitsune Mask**, which she began personalizing by adding black spo
 
 #### Past Life
 Before her Rebirth, Snow originally was a young man who studied Arts & Crafts, which further explains her continuous struggle to adapt to her new form and new life within the Temple and within the protection of Vászi. Besides this, not much is known about Snow's past life either, except for her previous identity and her cause of death, but what especially sparked Vászi's and Marten's interest is how vastly different her spirit was compared to her physical body. Because of this, Snow and Marten frequently spend time together ever since Snow's Exposure, to go over this and help Snow get more accustomed to her new life. 
+
+### Ghost of Winter 
+**// Drafted**: \
+The **Ghost of Winter** is a fairly young girl, with the animal traits of a *Snow Leopard*, and is frequently seen wearing thicker types of clothing, traditionally suited for winter weather, contra *Snow*, who is also a "Ghost of Winter" in a sense, but instead wears more thin dresses.
+
+Having mentioned Snow, she and Winter get along very well, and are sometimes almost passed along as twins, despite Winter originally coming from Karlsborg whereas Snow lived in Keustellet before both of their respective *Last Lights*. 
+
+Winter was led through *Rebirth* by **Temple Guardian Marten**, which is why she was immediately introduced to **Snow**, and why the three get along together well now. Originally having refuged in their home, they now simply live together as a family.
 
 ## Collapse of United Máneá
 ### Anita Arkh'ivlam
