@@ -1,7 +1,7 @@
 # NEUROKICK
 ## FOCUS TWO: NEUROKICK
 **NEUROKICK** is an electronic injection-type drug that greatly exaggerates the visual feedback the brain can produce. This additionally forces the user to enter a REM sleep, where the rest of the drug continues its effect during the forced dream state. \
-**NEUROKICK** is a *2085 greenlit drug* that was originally used for science within the booming science area in *Amadnésam*, but ever since the **Collapse of United Máneá**, the technology used for the scientific research quickly ended up on the streets, and various clones appeared, all providing the same result in altered forms. 
+**NEUROKICK** is a *2080 greenlit drug* that was originally used for science within the booming science area in *Amadnésam*, but ever since the **Collapse of United Máneá**, the technology used for the scientific research quickly ended up on the streets, and various clones appeared, all providing the same result in altered forms. 
 
 ## Functionality
 ### 2080 Greenlit program
