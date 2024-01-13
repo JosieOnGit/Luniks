@@ -8,7 +8,7 @@ Described above, Reiut is also part of the Oslo revolution, or at least part of 
 ### Jonathán Þórirson
 Often referred to as the "Settler of the next generation", or simply "Settler of Luniks", Þórirson (Also written as Thórirson), is known this way as he was the first man to set foot on this new planet and settled the first city on the planet as well, *Nóve Réjkjavik*.
 ### Tagip Panjit 
-Panjit is of Indian descent and is the scientific wonder that enabled Earth to leap forward years in time with travelling to Luniks, creating and realising the technology needed to reduce the travel time from 74 years, to just 4.5 hours, with even further shortening options ready to be developed. 
+Panjit is of Indian descent and is the scientific wonder that enabled Earth to leap forward years in time with travelling to Luniks, creating and realising the technology needed to reduce the travel time from 74 years, to just 4.5 hours, with even further shortening options ready to be developed. \
 Having studied in Oxford, Tagip came in close contact with the ESA and quickly researched and developed the technology needed to reach Luniks in such speed. 
 ### Seventh Léjtuse (Awaiting inclusion)
 The Seventh Léjtuse is intended to be an insurgent army also involved in the Oslo revolution, but as described with Persson and Reiut above, this is put back to the concept board.

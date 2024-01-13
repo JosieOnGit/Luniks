@@ -71,3 +71,6 @@ As for Marten, I'd like him to gradually grow into a non-characteristic Guardian
 Reserved for the expansion on the drafted story:
 
 *Almost immediately after her Rebirth, Winter immediately understood the new world she found herself in, and adapted to it as if it was her second nature. Her Exposure will be where she meets **Snow**, soon after her rebirth, since **Marten** brings her along for shelter and care. Upon meeting Snow, the two immediately get along and immediately seem like twins, which is how Winter integrates into the Temple of Vestia right away.*
+
+### Drafted Story
+*// POV: Winter*

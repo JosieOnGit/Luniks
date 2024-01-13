@@ -67,10 +67,43 @@ A chill runs through my spine, and an everlasting moment of silence begins betwe
 
 
 ## // WINTER
+**KEY NOTES**:  
+- Ghost name: Ghost of Winter
+- Present guardian: Guardian Marten, Guardian Sóvis
+- Temple name: Temple of Vestia
+- Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
+- Temple guardian: Guardian Marten, Guardian Sóvis
 
-Reserved for the expansion on the drafted story:
+Info on Temple: [[Scattered Info#Temple of Vestia]] \
+Info on Symbols: [[Scattered Info#Known Symbols]]
 
-*With the help of **Sóvis**, **Marten** guides Winter through her rebirth in the woods of Morrésik, just shy of the border of Mónsan and near the city of **Ti Péli**. With the three of them, Winter adapts to her body on the way back towards the Temple of Vestia, having a very hopeful and understanding sense of mind as compared to the usual behaviour of ghosts so soon after rebirths.*
+### Drafted Story
+*// POV: Ghost of Winter*
+
+With a loud thud, I suddenly jumped back to my senses, even if everything felt off and wrong. I felt oddly energetic, yet sore all over, and especially nauseated. It felt like I was hit by a truck, on the highway which was carrying nothing but dense metals at high speed, my body hurt more than I had ever felt before and I couldn't place a finger on why that was the case. With a loud cough, I feel my head begin to pulse in pain too, before all of a sudden, all the soreness and pain vanish into nothingness. Struggling to fight through the new numbness in my body and mind, I gradually lean upwards and open my eyes, expecting to see total darkness after the fall, but instead finding myself buried in snow, right next to the ravine I thought I had fallen into. Now realising what was going on, I desperately look around, trying to find a glimpse of Anita, or Markus, or anyone that witnessed me fall. Did they somehow manage to pull me out of the ravine, but then abandon me? *"If they did.. how did I.. survive?"* I thought to myself, panic rushing through my veins as I desperately look around, needing to find an answer, needing to find where the others were, so I could tell them that a miracle had happened, that I had survived the fall. But instead of finding the others, my eyes landed on two mysterious figures before me, turning my panic into worry.
+
+**"Unfortunately, your fall was fatal. You did not survive."** 
+
+Upon hearing his voice, my worry became fear. My mind short-circuited, and I struggled to find a reasonable explanation as to why these people were standing before me. They weren't my friends, they wouldn't be waving me farewell before I would go to heaven. No matter how much I tried, I couldn't find a reason, I couldn't understand what was going on. This all seemed too real, and yet, so.. unreal.. what was going on?
+
+*"What.. what happened..?"* I mutter under my breath, my voice sounding hollow and raspy, as if I had awoken from a bad sleep on top of the Kálisgerou, I struggled to breathe, to think, to do anything in the state I was in right now. \
+But without a second thought, I looked upwards again, the icy chill that took a hold on my body slowly vanished, as I saw that the man before me had held his hand out to me. Taking his hand immediately, I got lifted upright, in awe at how he managed to pull me up that effortlessly, as I eagerly listened to his voice again. 
+
+**"I'm sorry if this is a sudden shift, Winter. My name is Marten, beside me is Sóvis. From today on, we'll be your guardians."**
+
+After a few seconds of wobbling, I find my proper footing again, having a sense of normality again ‒ as far as normality goes ‒ and continue to hold his hand tightly. It seemed like an immense burst of information at once, and yet, I felt very understanding and complacent with what was going on. By now I had realised that my body had shifted, the feeling of a tail dangling behind me was obvious at this point, and I know that my ears weren't in their usual place either, and even despite all of that, everything already felt natural. 
+
+Before long I saw Marten take off his mask, revealing his slight beard, while Sóvis kept his mask on, paving the way and escorting us as we slowly began to move forward again, away form the ravine, towards my new home. Hesitating just slightly, I held Marten's hand tightly, looking him deeply into the eyes and feeling a sense of comfort and confidence, as I asked him gently. *"Marten, what happened.. before.. this..?"*
+
+Without a single bit of hesitation, he immediately replied, holding my hand tightly in return as he began to explain. **"It's a lot to take in, I'm sorry. The simplest way to say this, is that you had died, and we have revived you into your current state. The three of us, along with many others, are all part of the Temple of Vestia, a commune of ghosts that have all gone through the same situation you're in right now. We rescue ghosts, just like you, when they're taken from their previous lives too soon."** \
+Nodding carefully, I felt understanding, and especially grateful that I was given such a chance to start anew, even if it meant saying farewell to my friends. \
+*"How come my body is so.. different.. though? I don't remember much.. but.."* \
+**"We're never able to rescue a person's body, but only their soul. In some cases, your soul doesn't exactly match the body you lived your past life in, just like yours."**
+
+I nodded again, the cold and icy feelings finally disappearing, trading places with warmer, comforted feelings. A sense of belonging, a sense of being cared for. Something I didn't miss in my previous life, but something I didn't expect to feel again either. 
+
+*"Thank you.. Marten, for all of this.."* \
+**"I should be thanking you instead, Winter, for your good heart. Let's continue on home, now, you deserve to rest after all of this."**
 
 
 ## // RAINE
