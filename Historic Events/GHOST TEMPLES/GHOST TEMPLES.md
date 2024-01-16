@@ -35,7 +35,17 @@ A **Settler** possesses a tremendously high amount of *Spiritual Energy*, the sa
 
 **Cziskvelén** and **Vászi** are the Settlers of the *Temple of Vestia*. It's widely believed that **Cziskvelén** was granted his Guardianship by a higher, unknown power, which he himself referred to as *"The Higher Spirit"*, and passed this knowledge onto Vászi before settling the *Temple of Vestia*. However, as the *Temple of Zhuehai* is much older, there is also a legend that **Cziskvelén** is the *Higher Spirit* himself, and has since guided Settlers like **Guǎnzhù**, **Matéis**, and **Yun Li** to settle their own Temples first, before disappearing after the *Temple of Álusken* was settled.
 
-  
+## A Brief Timeline
+### First Light
+**First Light** is the most commonly used term to describe the legend of *Cziskvelén*, as he is widely renowned for being the first Ghost to have settled a Temple. Many years after his rebirth into a ghost, he settles the **Temple of Zhuehai** together with *Yun Li*, which is widely believed to be the oldest Temple still standing and still active to this day.
+### Era of Vászi & Matéis
+Together with *Cziskvelén*, *Vászi* settles the **Temple of Vestia** and *Matéis* settles the **Temple of Álusken**, where they both stay as Temple Guardians respectively as Cziskvelén departs into the unknown, disappearing for many years to come.
+### Marten's Guardianship 
+As the focus lays on the **Temple of Vestia**, *Marten* is reborn into a ghost, maintaining his original name from before his death. During this time, *Sóvis* joins the Guardianship, while *Átem* instead leaves, and *Luna* and *Snow* are reborn under this Temple.
+### Era of Marten & Sóvis
+Many months later, *Marten* and *Sóvis* near the end of their Guardianship, while *Vászi* begins to prepare for his departure from the **Temple of Vestia** for a final time, after *Matéis* had picked up a signal from *Cziskvelén*, far beyond the Morrésik mountains. Haphazardly, Marten and Sóvis are promoted to **Temple Guardians** at the help of Matéis, and sooner or later begin getting the hang of being a Tempel Guardian. During this era, *Raine* and *Winter* are reborn under this Temple.
+
+
 # // GHOST TEMPLE: VESTIA  
 
 ## // GHOST TEMPLES - EXPOSURE

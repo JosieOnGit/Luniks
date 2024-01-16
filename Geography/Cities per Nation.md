@@ -26,7 +26,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - 
 
 
-// As you can see, two continents are currently completely empty spaces, with no countries located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
+// **NOTE**: As you can see, two continents are currently completely empty spaces, with no countries located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
 
 ## Thórirsant
 #### Nóve Réjkjavik (Capital)
@@ -37,7 +37,7 @@ The city is best known for its "dart board" approach to city district planning. 
 Harbour city to the northwest of Thórirsant, allows for intercontinental connection and trade, most importantly with Zhuehai and Álusken.
 
 #### Kósfrii
-*// The following text is from an older draft. Since then, the timescales have changed, meaning the below timestamps are subject to change*
+*// The following text is from an older draft. Since then, the timescales have changed, meaning the below timestamps are subject to change.*
 City most notable by its civil war after a fallen local government, lasting from 2166 to 2172. The end of this war is noted in the [[Liétivus Pact,  Mar 30 2168]] document.
 
 #### Kirwijets
@@ -94,7 +94,7 @@ Two events are drafted within this city, namely:
 - Tiái Czi 203 Factory and its 2246 fireworks explosion
 - Leremkov's labs
 
-Leremkov's labs, and the investigation that was launched to find out the exact reasons how the Leremkov virus came to spread, are thoroughly detailed in [[BREACH]].
+Leremkov's labs, and the investigation that was launched to find out the exact reasons how the Leremkov virus came to be and subsequently spread, are thoroughly detailed in [[BREACH]].
 
 #### Weshalt
 
@@ -129,7 +129,7 @@ Before the collapse of **United Máneá**, Amadnésam was considered to be the r
 ## Léjtis (Free State of)
 Léjtis is placed on the island under **Máneá** and **Zakh'háfo**. This is reflected on the 2020 map sketch.
 #### Pórtvéj (Capital)
-
+What once started as a simple settlement on the island, quickly became a thriving harbour for anything the island and bay could offer. Within a few years, the town of Pórtvéj grew out to encompass almost a third of the island, becoming a hub for fishery, naval transport, and everything inbetween.
 #### Jíriskod
 
 
@@ -156,6 +156,8 @@ Unlike the capital, Keustellet is a very modern city, matching the looks of Cév
 
 
 ## Mónsan Republic
+#### Iskedir (Capital)
+Literally translating to "Within the towns", Iskedir was the first town to be settled within the Mónsan Republic, and has since grown to become the biggest city within the nation, positioned in the very centre, it's also a transport hub to every other town and city, as well as an international hub that connects to other nations.
 #### Ti Péli
 
 #### Myradsked

@@ -101,3 +101,7 @@ With more tears building up in my eyes, I look back to Snow, instinctively leani
 With a quiet sniff, I feel the wind begin to pick up around us again, the snowy fog gradually returning as our vision reduces, encapsulating the both of us in the white dome within a snowstorm that I trapped Snow in earlier. Slowly feeling my body warm up, I hug Snow as tightly as I can, doing my best to keep my tears at bay, before whispering quietly, knowing that I'll be safe wherever I go with her and Marten. 
 
 *"Thank you.. Snow.. for letting me be your sister.."*
+
+### What's next? 
+For **EXPOSURE // WINTER**, I've honestly already reached the end of what I intended to write about Winter adapting to her new situation within the *Temple of Vestia*. She has bonded both with Marten as a Guardian, and Snow as a sister, and from here on I will probably include Winter in other various stories together with Snow, considering the two are almost inseparable now. \
+Over time, I'd like her to further develop her *Signatures*, but especially pick up various hobbies for her to kill time as wel, whether that is alone, or together with Marten and Snow. During this, she will gradually open up, as she originally had a very closed-off and bold personality that gradually loosens up over time as she gets introduced to new people within the Temple. 

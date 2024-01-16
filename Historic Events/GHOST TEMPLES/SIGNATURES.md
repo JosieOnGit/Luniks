@@ -34,7 +34,7 @@ Utilizing a strength from far beyond the realms of discovered Luniks, Snow has d
 
 ## Ghost of Winter
 **Signature**: Arctic Blaze \
-Similarly to Snow's *Whiteout*, Winter summons a shallow dome of a snowstorm that traps and encompasses only the targets she intends to cast her Signature on. She frequently mentions that she "Feels home in the snow", which is why she also uses her Arctic Blaze similarly to Snow's Whiteout, when she feels like she needs to regain a moment of peace.
+Similarly to Snow's *Whiteout*, Winter summons a shallow dome within a snowstorm that traps and encompasses only the targets she intends to cast her Signature on. She frequently mentions that she "Feels home in the snow", which is why she also uses her Arctic Blaze similarly to Snow's Whiteout, when she feels like she needs to regain a moment of peace.
 
-**Signature (2)**: **Channelling Leopald**: \
+**Signature (2)**: Channelling Leopald: \
 Similarly to Snow's *Channelling Astárout*, Winter channels the ancient power of the **Spirit of Leopald**, a myth in Álusken's culture, to give her an extra surge of energy and strength. 
