@@ -78,7 +78,7 @@ Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
 
 ### Drafted Story
-*// POV: Ghost of Winter*
+*POV: Ghost of Winter*
 
 With a loud thud, I suddenly jumped back to my senses, even if everything felt off and wrong. I felt oddly energetic, yet sore all over, and especially nauseated. It felt like I was hit by a truck, on the highway which was carrying nothing but dense metals at high speed, my body hurt more than I had ever felt before and I couldn't place a finger on why that was the case. With a loud cough, I feel my head begin to pulse in pain too, before all of a sudden, all the soreness and pain vanish into nothingness. Struggling to fight through the new numbness in my body and mind, I gradually lean upwards and open my eyes, expecting to see total darkness after the fall, but instead finding myself buried in snow, right next to the ravine I thought I had fallen into. Now realising what was going on, I desperately look around, trying to find a glimpse of Anita, or Markus, or anyone that witnessed me fall. Did they somehow manage to pull me out of the ravine, but then abandon me? *"If they did.. how did I.. survive?"* I thought to myself, panic rushing through my veins as I desperately look around, needing to find an answer, needing to find where the others were, so I could tell them that a miracle had happened, that I had survived the fall. But instead of finding the others, my eyes landed on two mysterious figures before me, turning my panic into worry.
 
