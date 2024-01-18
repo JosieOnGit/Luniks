@@ -37,7 +37,7 @@ A **Settler** possesses a tremendously high amount of *Spiritual Energy*, the sa
 
 ## A Brief Timeline
 ### First Light
-**First Light** is the most commonly used term to describe the legend of *Cziskvelén*, as he is widely renowned for being the first Ghost to have settled a Temple. Many years after his rebirth into a ghost, he settles the **Temple of Zhuehai** together with *Yun Li*, which is widely believed to be the oldest Temple still standing and still active to this day.
+**First Light** is the most commonly used term to describe the legend of *Cziskvelén*, as he is widely renowned for being the first Ghost to have settled a Temple, the **Temple of Chroma**. Many years after his rebirth into a ghost, he settles the **Temple of Zhuehai** together with *Yun Li*, which is widely believed to be the oldest Temple still standing and still active to this day.
 ### Era of Vászi & Matéis
 Together with *Cziskvelén*, *Vászi* settles the **Temple of Vestia** and *Matéis* settles the **Temple of Álusken**, where they both stay as Temple Guardians respectively as Cziskvelén departs into the unknown, disappearing for many years to come.
 ### Marten's Guardianship 

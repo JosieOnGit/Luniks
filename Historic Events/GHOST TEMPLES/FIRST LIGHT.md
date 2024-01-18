@@ -1,7 +1,7 @@
 # FIRST LIGHT
+**First Light** happens once and never again. It is the beginning of the world that **GHOST TEMPLES** is placed in. Cziskvelén is the only person to have ever experienced the First Light, and has decided to not share the experience he went through with others. The "Chromatic Eyes" are what he referred to as **Higher Spirits**, which is where that name originated from. 
 
-
-## FIRST LIGHT // CZISKVELÉN
+## // CZISKVELÉN
 ### Drafted story
 *// POV: Cziskvelén*
 
@@ -33,5 +33,14 @@ With a deep sigh, the quiet metallic voice of the eye before me echoed through t
 
 **"Go, Cziskvelén,**
 
-**and shape the world for them."**
+**and shape the world. For them."**
+
+
+### What happens after?
+Over the span of 50 years, Cziskvelén guides million of lost spirits and elevates them into the universe they find themselves in now. As the **Chromatic Eye** described, is that the Ghost Temples are **"Elevated Realms"**. This mean that any temples that are constructed will not reflect onto the lower realm, where life like normal takes place before death, and is elevated upwards and stays aligned. In short: Any construction that takes place on Luniks is reflected into the **Elevated Realm**, but any construction that takes place within the Temples is **not** reflected back to Luniks itself.
+
+Leading into the **Era of Vászi and Matéis**, he settles his last two Temples and makes way back to where the **Temple of Chroma** once stood. By this time, Vászi and Matéis are both aware of the reason he's doing this, as his strength has slowly run out. 
+
+In a currently unwritten story, Cziskvelén will return to the **Timeless Gate** where once the **Temple of Chroma** stood, to meet the **Chromatic Eye** once more. From there, it's explained that this **Elevated Realm** is merely a continuation of the life that Ghosts were robbed of on Luniks. Having been killed himself when he was 35, he was now nearing 87, and the end of his life by natural means was near. The Eye sends a signal to the last settled Temple, the **Temple of Álusken**, and from there on Vászi makes his way (as written in [[DESPAIR]]) towards the Chroma with Cziskvelén, to offer his farewell and to accept the handover of Cziskvelén's strength to him, succeeding him in his role of the **Chosen Settler**.
+
 
