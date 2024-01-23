@@ -28,9 +28,11 @@ Luniks has four continents over the entire planet, each containing a landmass si
 
 // **NOTE**: As you can see, two continents are currently completely empty spaces, with no countries located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
 
+# Ubunia
+Ubunia was the first continent out of four on the planet to be settled. Right in the very heart of the western wing of the continent, Þórirsson set foot and settled the city of Nóve Réjkjavik, before the imminent boom in further developments throughout the continent.
 ## Thórirsant
 #### Nóve Réjkjavik (Capital)
-Named after the city of birth of Jonathán þórirsson, founder and first settler of the planet of Lúniks. Commonly referred to as "Capital of the planet". \
+Named after the city of birth of Jonathán Þórirsson, founder and first settler of the planet of Lúniks. Commonly referred to as "Capital of the planet". \
 The city is best known for its "dart board" approach to city district planning. It's divided into a circle with eight slices, each of which have three layers, going from main district (city center) and residential areas -> park area and roads -> district centers and residential areas. This type of layering was suggested by Xárif Álufxent, a close friend of þórirsson who studied architecture and expertise in urban planning. Together with a team that was formed at the university he studied at, the foundations and blueprints for Nóve Réjkjavik took shape.
 
 #### Sorskist
@@ -133,7 +135,8 @@ What once started as a simple settlement on the island, quickly became a thrivin
 #### Jíriskod
 
 
-
+# Vestia
+Soon after **Ubinia** was officially settled and divided up into several zones with nations, **Vestia** was next to be partitioned. Several nations on Earth that had lost the majority of their land and needed relocation elsewhere, like the Benelux and Denmark, were granted a sizeable strip of land on which they could relocate their citizens on, free of the threat of rising water levels.
 ## Álusken
 #### Álusken (Capital)
 This city is most known for its giant castle in the centre of the city, home to the current King Álusken II. It's most known for its medieval looks and feel, especially in the center of the city, almost making it feel like a time capsule that leads to 700 years back in the past, despite being a city of barely 50 years old. Outside Álusken is a grand, wild forest, known for its mysterious events and creatures that may hide inside (See: [[Álusken's Mysteries]]).
@@ -142,6 +145,16 @@ This city is most known for its giant castle in the centre of the city, home to 
 Unlike the capital, Keustellet is a very modern city, matching the looks of Cévok, Sattijáárva, and Sórskist, with skyscrapers nested tightly together in the city centres and broad parks and housing spreading over the rest of the city. This modern cityscape can exist for Keustellet too, since Álusken II's rule does not cover Keustellet, which means it doesn't need to adhere the building and design standards of the capital.
 
 #### Ippavím
+
+
+## Benelux
+#### Nieuw-Amsterdam (Capital)
+
+#### Nieuw-Brussel
+
+
+## Denmark
+#### Karlsborg
 
 
 ## Zhuehai
@@ -184,7 +197,11 @@ Hédenis has a very concrete way of naming cities and towns influenced by their 
 
 #### Elysgerou
 
-___
-Below are a few countries that are only currently known by name, and might not yet be placed on the map. 
+
+# Skádia
+With the counter-clockwise pattern of partitioning the four continents, **Skádia** would be up next to give way to young nations after **Vestia**.
+
 ## Emyria
 
+___
+Below are a few countries that are only currently known by name, and might not yet be placed on the map. 
