@@ -11,13 +11,15 @@ Luniksan has two official scripts, one being the standard Latin alphabet, the ot
 
 ### Mithrí
 Mithrí has been the unique identifying script that first developed around the Máneán area on Luniks. Ever since, it has gradually spread throughout the continent and is now most noticeable in Thórirsant, Máneá, and Kérisant. An Ellitróómi version of this script exists, but hasn't been properly documented as of yet. \
-This table is read as follows, top to bottom:
-- **Left Row**: A, E, I, O, U
-- **Middle Row, left part**: B, C, D, F, G, H, J, K, L
-- **Middle Row, right part**: M, N, P, R, S, T, V, W, Z
-- **Right Row, top part**: Ć, Ś
-- **Right Row, bottom part**: Á, É, Í, Ó, Ú
-![[Mithrí Script.jpg]]
+This table is read as follows, left to right, top to bottom:
+- **Vowels**: A, E, I, O, U
+- **Consonants, row 1**: B, C, D, F, G
+- **Consonants, row 2**: H, J, K, L, M
+- **Consonants, row 3**: N, P, R, S, R
+- **Consonants, row 4**: V, W, Z
+- **Accents, row 1**: Á, É, Í, Ó, Ú
+- **Accents, row 2**: Ć/*CS*, Ś/*SZ*, Ź/*ZS* 
+![[Mithrí script.png]]
 There isn't much documentation yet written in Luniksan, let alone in Mithrí, as this language and this script aren't anywhere close to being near-functional as a language. As time progresses and this project grows, slowly but sure the amount of documentation in Luniksan and Mithrí will grow.
 
 ### Latin
