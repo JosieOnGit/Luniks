@@ -1,5 +1,9 @@
 # Kérisant
 ![[Flag_Kérisant.png]]
+
+Kérisant lays in the southwest of Ubunia, sharing an enormous border with **Ellitróómi** and most of its tropical southern borders connect to Deónia. Behind **Thórirsant**, Kérisant is the biggest nation in terms of population across a generous number of cities and towns, with *Kérisant-Civem*, its capital, having the most inhabitants. 
+
+Kérisant is home to many different sorts of climates, from tropical to desert climates in the south, to grass plains and dense forests in the north.
 ## Kérisant-Civem (Capital)
 Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the most authentic cultural experiences in South-Ubunia. Deep within the city centre remains older architecture, having become obsolete soon after the first wave of the Luniksan revolution passed. However, even with the short-lasted construction revolution, some buildings still maintain this original style even far into the future, such as the *Kérisantic town hall*, and *Kérisant-Centrále*, the busiest railway station within the nation.
 

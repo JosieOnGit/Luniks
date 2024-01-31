@@ -19,7 +19,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - [[Denmark]]
 - [[Mónsan Republic]]
 - [[Zhuehai]]
-- [[Vaun]]
+- [[Vao]]
 - [[Hédenis]]
 - Morrésik (Unregulated mountains)
 - [[Kostanzá]]
@@ -63,7 +63,7 @@ Soon after **Ubunia** was officially settled and divided up into several zones w
 
 ## Zhuehai
 
-## Vaun
+## Vao
 
 ## Mónsan Republic
 
