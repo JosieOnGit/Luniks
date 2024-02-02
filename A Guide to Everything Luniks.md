@@ -2,9 +2,9 @@
 To most, this entire repository filled to the brim with loosely related stories and documentations of events, might be **very overwhelming**. That's why this little document should help you guide through the maze of stories that the world of Luniks has to offer!
 
 # Geography
-The **Geography** is fairly straightforward. Two notable documents are here that are infrequently updated, which are:
+The **Geography** is fairly straightforward. One document and several folders are here that are infrequently updated, which are:
 - **Adding a Nation to Lúniks**: An older (February 2023) document that remains unfinished but briefly describes the planet map and its continents, and how I struggle to place certain countries on top if it. Because of the high velocity in which nations and stories add new places and cities to the existing nations, I paused this while I develop those stories, before I'll continue writing this particular document.
-- **Cities per Nation**: A very straightforward document that lists every continent, nation, and its cities. This is frequently being updated and various descriptions to existing cities will be added to add further depth to the enormous planet.
+- **Continent Folders**: These folders are divided up into the four continents, each of which contain separate documents of each of the nations that are present on that continent, which themselves have a bit of history and contain a list of cities and towns within that nation.
 
 # Historic Events
 **Historic Events** is the maze of the repository, where every developed story is written down in. We'll go through every story, and tailing documents together, so you can dive in whereever you wish!
@@ -40,7 +40,7 @@ Main document: [[TRAVEL RISK]]. \
 Lastly, three lists are present: \
 - **List of historic events**: This list discusses the brief history of how modern Luniks came to be, going over where the timeline from our real world deviated and how Luniks quickly became habitable for modern human life.
 - **List of notable names**: This list mentions various company names, that might frequently appear throughout all stories.
-- **List of notable people**: This list is the most important, and is also frequently updated, as this contains all the existing characters (As well as drafted and yet unused characters), with a brief description of their appearance, but especially the roles they have in the story they are included in.
+- **List of notable people** (Subject to extraction and folder division): This list is the most important, and is also frequently updated, as this contains all the existing characters (As well as drafted and yet unused characters), with a brief description of their appearance, but especially the roles they have in the story they are included in.
 
 # Languages
 **Luniks** is also home to various languages, and in this folder, three of those languages (which are constructed and hand-made), are described.

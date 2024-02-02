@@ -26,6 +26,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 
 ### Skádia (Lower left half)
 - [[Emyria]]
+- [[Náhrekv]]
 ### Deónia (Right half)
 - 
 
@@ -76,6 +77,8 @@ Soon after **Ubunia** was officially settled and divided up into several zones w
 With the counter-clockwise pattern of partitioning the four continents, **Skádia** would be up next to give way to young nations after **Vestia**.
 
 ## Emyria
+
+## Náhrekv
 
 ___
 Below are a few countries that are only currently known by name, and might not yet be placed on the map. 
