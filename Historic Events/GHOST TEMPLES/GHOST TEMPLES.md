@@ -26,14 +26,17 @@ Every ghost has gone through three stages upon introduction to their new Temple.
 	- **DESPAIR // VÁSZI**, which uses the alternative meaning for **DESPAIR**, is available at [[DESPAIR]].
 - ***TRAGEDY** // The event in which the Temple falls, or in which the ghost simply dies and vanishes, leaving behind just their mask.*
 
-## A quick rundown
+## A Quick Rundown
 The current focus lays on the **Temple of Vestia**, where a small group of characters is actively being developed and have sprung to life. This list of characters is still rapidly growing, but is available at [[List of notable people#GHOST TEMPLES // VESTIA (2023)]], as well as under its corresponding header in the current page. 
 
 Each Temple has a **Settler**, which reflects in the symbol that is created upon the foundation of the temple, and will forever be stored as a *plaque* within the *Memorial Hall*. Within this Hall, all sprits of present and past ghosts are available, as well as basic information regarding the temple and its symbols. The symbols are properly explained at [[Scattered Info#Known Symbols]].
 
+Every **Ghost** has a unique set of abilities and powers that they either acquired through experience in their new realm, or were carried over during *Rebirth*. These abilities are referred to as [[SIGNATURES]], and require a varying amount of *Spiritual Energy* before they can be activated. 
+
 A **Settler** possesses a tremendously high amount of *Spiritual Energy*, the same energy that forms around a Guardian's Signature *Guarding Light*. In order to become a **Settler** and settle your own Temple, *Guardianship* is a requirement, which is why many Ghosts choose to go through Guardian Apprenticeship, in order to gain the required knowledge, but also the required skills and power, to settle a Temple close to their birthplace, or place of death. 
 
 **Cziskvelén** and **Vászi** are the Settlers of the *Temple of Vestia*. It's widely believed that **Cziskvelén** was granted his Guardianship by a higher, unknown power, which he himself referred to as *"The Higher Spirit"*, and passed this knowledge onto Vászi before settling the *Temple of Vestia*. However, as the *Temple of Zhuehai* is much older, there is also a legend that **Cziskvelén** is the *Higher Spirit* himself, and has since guided Settlers like **Guǎnzhù**, **Matéis**, and **Yun Li** to settle their own Temples first, before disappearing after the *Temple of Álusken* was settled.
+
 
 ## A Brief Timeline
 ### First Light

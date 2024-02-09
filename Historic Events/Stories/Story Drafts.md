@@ -2,7 +2,7 @@
 Much like the title suggests, these are drafts for the story surrounding Luniks as a whole. This project will be grand, and span a small percentage of all of Earth's history. Key points can be found in [[List of Historic Events]]. 
 
 ## Leremkov Trials
-The Leremkov Trials have grown too big to remain a draft, and are now available at [[Leremkov Trials]]. This includes character information for David & Stacy on [[Leremkov Trials#David & Stacy]] and Vienna & Olen on [[Leremkov Trials#Vienna & Olen]].
+The Leremkov Trials have grown too big to remain a draft, and are now available at [[Leremkov Trials]]. The info on the characters is now available at its corresponding [[Historic Events/Leremkov Trials/Character List|Character List]].
 
 ### Vitaly Leremkov
 Vitaly Leremkov's story has grown too big to remain a draft. It is now available at [[Vitaly Leremkov, 2039-2095]].
@@ -21,7 +21,7 @@ Further development on the **OSLO REVOLUTION** will be available at [[OSLO REVOL
 
 
 ## Máneá-Zakh'háfo Conflict / Collapse of United Máneá
-The title should be read as cause -> effect. The sudden split between Mánea and Zakh'háfo caused not only Zakh'háfo to crumble into economical and political discourse and instability, this also opened up doors to provinces and areas which were located between the two newly-formed countries to fight for their own independence too, most notably being Rhódiś. 
+The title should be read as cause -> effect. The sudden split between Máneá and Zakh'háfo caused not only Zakh'háfo to crumble into economical and political discourse and instability, this also opened up doors to provinces and areas which were located between the two newly-formed countries to fight for their own independence too, the most notable of which being Rhódisz. 
 ### Máneá-Zakh'háfo conflict
 Note: This is part of a draft first made in 2020, and might contain content that no longer exists, or never properly existed. It might be highly inaccurate within the present state of the project.
 
@@ -35,19 +35,33 @@ A few things to note: The **Luniksan calendar** only existed as a draft in the p
 ### Collapse of United Máneá
 There's currently no proper date for when United Máneá is officially declared and recognised as a split nation. The Luniksan calendar would suggest that this takes place in Anno Luniks 447, which would be roughly 480 years after the colonisation of Luniks. This would take a very long time, and with existing characters interacting with others that live around the late 21st century, the Collapse of Máneá will probably take place around the year 2090-2100 mark. 
 
-United Máneá will break apart into Máneá, Zakh'háfo, Rhódisz (disputed).
+United Máneá will break apart into Máneá, Zakh'háfo, Rhódisz.
 
 
 ## Álusken's Mysteries
 Álusken's Mysteries has grown too big to remain a draft. It's now available at [[Álusken's Mysteries]].
 
+### Drafted Story: The myths of Vao
+*// Context:* This is a drafted story that takes place in *Estre Donnore* in **Vao**. Although falling under **Álusken's Mysteries**, the actual mysteries take place outside Álusken as well, such as in the southwestern areas of Vao. The mixture of dragon myths and supernaturalism that are present in Vao and Álusken, respectively, create exceptionally odd supernatural situations in northeastern Álusken and southwestern Vao. \
+*// POV: Unnamed Character*
+
+With a quiet knock on the wooden door before me, I peek through the little window embedded within it, spotting a faint shadow at the end of the hall raising their hand in an effort to reach out to me. **"Wait just a tad!"** The voice echoes through the hall, muffled behind the thick door before me, as I awkwardly look around me, waiting for time to pass quickly. I look around the house, seeing through the window in the door that the person down the hall was putting something around her arms, wrapping something around it. thinking nothing of it, I turn to my right and look into the living room, seeing various oil paintings, all traditional and somewhat abstract art of the cultures that are prominent in Vao. Having been raised in Álusken myself, I never had proper exposure to the deeply rooted culture that was so prominent in Vao. The artworks were oddly mesmerising, the mixture and blends of colours, these should be stored in a museum, so why are they not?
+
+The door suddenly opens before me, immediately snapping me out of my trance that I found myself in. Shaking my head to get back into focus, I immediately apologise and enter the little house.
+
+--- interim because i cant come up with something for filler lmfao
+
+*"I'm sorry-"* I suddenly ask, interrupting Estre from finishing her story, *"I have to ask. Your arms are covered up completely, are you in pain?"* \
+With a deep sigh, Estre rests her hands flat on the table. **"Pain is a strong word, it's hard to explain."** She replies quietly, beginning to peel off a part of the leather wraps she has around her right arm. Staring deeply at her hands as she carefully removes the wraps, I expect to see bruised and damaged skin, but instead seeing a blueish, colourfully decorated hand appear under the otherwise grey leather that covered it. **"It's not frostbite, before you ask."** Estre mutters quietly, giving off a very uncomfortable feeling as more of her arm is slowly revealed to me. Next to the blue colour that covered her entire arm, patterns of yellow and white began to appear as well, with my first thought being the flag of Vao, and just how similar the tones are. *"It's.. mesmerising.. I'm sorry if it's rude to stare."* I apologise right away, doing my best to not come off as a creep of some sorts, but showing genuine interest. \
+**"It runs in the family.**
+
 
 ## Hédenis
-As Hédenis lays closely to Álusken, its mysteries and secrets, as well as the weird events that occur in Álusken, slowly but surely flow over to Hédenis as well. One major difference between the two nations is that Hédenis has a very open and philosophical approach to these events, whereas Álusken is very closed-off and secretive. The fact that Hédenis has such an open approach to these mysteries allows them to more quickly get used to them, and normalize these events as well, as they were quicker to learn the root cause (Deviations of Leremkov), and more quickly allowed the people that were affected to still be able to live an otherwise "normal" life in Hédenis. 
+As Hédenis lays closely to Álusken, its mysteries and secrets, as well as the weird events that occur in Álusken, slowly but surely flow over to Hédenis as well. One major difference between the two nations is that Hédenis has a very open and philosophical approach to these events, whereas Álusken is very closed-off and secretive. The fact that Hédenis has such an open approach to these mysteries allows them to more quickly get used to them, and normalise these events as well, as they were quicker to learn the root cause (Deviations of Leremkov), and more quickly allowed the people that were affected to still be able to live an otherwise "normal" life in Hédenis. 
 
 
 ## GHOST TEMPLES
-GHOST TEMPLES has grown too big to remain a draft. It's now available at [[GHOST TEMPLES]].
+**GHOST TEMPLES** has grown too big to remain a draft, and is now available at [[GHOST TEMPLES]].
 
 ## TRAVEL RISK 
 **TRAVEL RISK** has grown too big to remain a draft, and is now available at [[TRAVEL RISK]].
@@ -75,7 +89,7 @@ Building onwards from **TRAVEL RISK**, I feel like more in-depth scenarios could
 ## Early Drafted Álusken's Mysteries addition
 I've additionally been thinking of adding supernaturalism in one form or another to the existing story of **Álusken's Mysteries**, giving additional roles to *Matthias-Eden* and shining a proper light on the vast difference between the capital city and surrounding cities such as *Keustellet* and *Ippavím*. Additionally, I'd like to introduce more small towns within Álusken as well that might gain a connection to **GHOST TEMPLES** as well, but the future will need to tell, and especially what I will come up with within this addition!
 
-I've been drafting a strange, central spot in the middle of the country of Álusken, which is seemingly "possessed" by an unnatural force of some sorts, which can explain the other various mysteries that occur within the country and can be connected to **GHOST TEMPLES** as well. This will need proper additions, though, and is very subject to change because of the lack of depth as of right now! (January 2024).
+I've been drafting a strange, central spot in the middle of the country of Álusken, which is seemingly "possessed" by an unnatural force of some sorts, which can explain the other various mysteries that occur within the nation and can be connected to **GHOST TEMPLES** as well. This will need proper additions, though, and is very subject to change because of the lack of depth as of right now! (January 2024).
 
 ## Deep dive into the history of early Luniksan settlements
 

@@ -2,11 +2,11 @@
 Settled by [[List of notable people#Jonathán Þórirson]], the nation of Thórirsant was the first nation to set its borders, which had quickly after gone through many changed with the births of various other countries. It's flag is identical to the flag that is usually passed on as the "Flag of Luniks", a horizontal three-coloured white-green-black flag. \
 ![[Flag_Thórirsant.png]]
 ## Nóve Réjkjavik (Capital)
-Named after the city of birth of Jonathán Þórirsson, founder and first settler of the planet of Lúniks. Commonly referred to as "Capital of the planet". \
-The city is best known for its "dart board" approach to city district planning. It's divided into a circle with eight slices, each of which have three layers, going from main district (city center) and residential areas -> park area and roads -> district centers and residential areas. This type of layering was suggested by Xárif Álufxent, a close friend of þórirsson who studied architecture and expertise in urban planning. Together with a team that was formed at the university he studied at, the foundations and blueprints for Nóve Réjkjavik took shape.
+Named after the city of birth of Jonathán Þórirsson, founder and first settler of the planet of Lúniks. Initially, it was often referred to as "Capital of the planet", though this quickly disappeared again once *Vestia* started to get gradually settled. \
+The city is best known for its "dart board" approach to city district planning. It's divided into a circle with eight slices, each of which have three layers, going from main district (city center) and residential areas -> park area and roads -> district centers and residential areas. This type of layering was suggested by Xárif Álufxent, a close friend of þórirsson who studied architecture and expertise in urban planning. Together with a team that was formed at the university he studied at, the foundations and blueprints for Nóve Réjkjavik took shape. Inspired by this dart board approach are other capitals like *Kérisant-Civem*, and cities like *Keustellet* and Kirwijets.
 
 ## Sorskist
-Harbour city to the northwest of Thórirsant, allows for intercontinental connection and trade, most importantly with Zhuehai and Álusken.
+Harbour city to the northwest of Thórirsant, allows for intercontinental connections and trade to the other continents. Next to trade, Sorskist also serves as the *Ubunian Harbour* for the **Álusken-Thórirsant Ferry**.
 
 ## Kósfrii
 *// The following text is from an older draft. Since then, the timescales have changed, meaning the below timestamps are subject to change.*

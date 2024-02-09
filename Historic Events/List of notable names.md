@@ -17,7 +17,16 @@ RKU provides international services between **Thórirsant**, **Kérisant**, and 
 Vestia Rapid is the high-speed train service that operated between **Zhuehai**, **Álusken**, with split connections to **Denmark** and **Benelux**, which is most known for the fatal rail incident ever since its inauguration, as described in [[LAST LIGHT#// LUNA]]. 
 
 Currently planned (December 2023) is developing a brand identity for this service. Taken from the Trello board: \
-*Existing concept is a slogan of “We’ll bring you there”*
+*Existing concept is a slogan of “We’ll bring you there” Some examples include:* \
+"Whether you:
+- Want to visit Sui Donnore
+- Have a friend in Ippavím 
+- Want to see the sun in Myriapolou
+- Have an appointment in Shánzhe
+- Feel like visiting Lëtzebuerg
+- Want to hike in Zhuehai
+
+We'll bring you there."
 
 *Planned is a combination of purple and grey colours with stock high speed rail footage. Just like now LTS banners were proposed and created as a concept, the same process should happen for the brand identity of Vestia Rapid.*
 
