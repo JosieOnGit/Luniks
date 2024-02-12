@@ -9,7 +9,7 @@ These temples are frequently visited and occupied by masked ghosts, each wearing
   
 Some of these ghosts adore teasing regular everyday people, some adore the freedom and vastness of the countryside, and spend the rest of their days here, and others might seek a trace to their previous, now lost identity. 
   
-Each temple has a name and a set of present symbols (Elements, Zodiacs, Sprits) that represent the state and wellbeing of the temple and its ghosts. Additionally, a temple also has a set of Guardians, ghosts that have pledged their existence to guard their temple, in the event something endangers the safety of the temple.  
+Each temple has a name and a set of present symbols (Elements, Zodiacs, Spirits) that represent the state and wellbeing of the temple and its ghosts. Additionally, a temple also has a set of Guardians, ghosts that have pledged their existence to guard their temple, in the event something endangers the safety of the temple.  
 
 ## The Lifecycle
 Every ghost has gone through three stages upon introduction to their new Temple. These are:

@@ -28,6 +28,8 @@ Currently planned (December 2023) is developing a brand identity for this servic
 
 We'll bring you there."
 
+*Alternatively, this list of examples can also be exchanged for simply a list of cities that are connected to Vestia Rapid.*
+
 *Planned is a combination of purple and grey colours with stock high speed rail footage. Just like now LTS banners were proposed and created as a concept, the same process should happen for the brand identity of Vestia Rapid.*
 
 

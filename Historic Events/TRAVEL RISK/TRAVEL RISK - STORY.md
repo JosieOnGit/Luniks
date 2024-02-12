@@ -22,9 +22,21 @@ Driving off into the horizon, they make their way to Ákros, ready to face Mitch
 ### Drafted 
 A story that follows Nils Lorieux in his first exposure to the company that his friend Antoine had recommended him. 
 
+### Story
+*"Antoine, you've got to be kidding me."*
+
+With a quiet rustle through the wind, the subtle footsteps of two young men echo through the alleys of Deth-Kelétam. The city reeked of bad smells. Flooded sewage systems that have been neglected since the fall of United Máneá, which had put not only the city in despair, but the rest of the remaining nation as well. **"Sorry to keep you waiting long enough, Nils"** Antoine said quietly to him, turning his head around to face him while his hand rested on a doorknob that led to an otherwise suspiciously unmarked building. **"We're here, keep quiet."** 
+
+Taking a deep breath as the door closes behind them, Nils lets out a relieved sigh, finally able to breathe normal air now that the door sealed them off from the horrible air quality within the city. 
+
+
 ## TWO - untitled
 ### Drafted
 A story in which Nils Lorieux enters his first mission within the company that Antoine had recommended him. He is set to deliver a bag that is packed to the brim with Lucky Water, amongst other various yet-unspecified drugs. Before delivery, he is caught on the way there by two mysterious men dressed in black and is brought to "The Agency".
+
+
+*// Tail snippet, leads into THREE*
+*"Nest halt: Krónapláca."* The 
 
 ## THREE - Youngblood
 ### Drafted Story: Youngblood 
