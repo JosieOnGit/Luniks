@@ -68,11 +68,6 @@ As for Marten, I'd like him to gradually grow into a non-characteristic Guardian
 
 
 ## // WINTER
-
-Reserved for the expansion on the drafted story:
-
-*Almost immediately after her Rebirth, Winter immediately understood the new world she found herself in, and adapted to it as if it was her second nature. Her Exposure will be where she meets **Snow**, soon after her rebirth, since **Marten** brings her along for shelter and care. Upon meeting Snow, the two immediately get along and immediately seem like twins, which is how Winter integrates into the Temple of Vestia right away.*
-
 ### Drafted Story
 *// POV: Winter* \
 It's been a while since that strange day in the Morrésik woods, where I was revived and reborn into the place and time I find myself in now. Marten had led me to his home, which he shared with Snow, and had since treated me as if I'd been family from the very first second onwards. I've frequently been in contact with Sóvis and Marten respectively, both aiding me and teaching me the ropes in my new life, the new world and culture I was put into, and both said they were very impressed with how quickly I managed to get the hang of everything. Apparently, most ghosts in my situation would go through a series of traumas from their past lives, or struggle immensely to adapt, but I didn't experience any of that myself. It worries me, and makes me feel like something is fundamentally wrong with me or missing, but I've also been feeling at peace with it. I can't combat any of this, because I have no choice but to believe that I did in fact go through rebirth, but even if so, things seem fine, so that makes me feel fine.
@@ -95,6 +90,19 @@ Another moment of silence passes after Snow finished explaining everything, afte
 
 **"It might not be the same as back then, Winter, but we'll make many more memories together as well, I promise."** 
 
+With more tears building up in my eyes, I look back to snow in disbelief. Having felt ready to abandon everything now that I felt like I had lost everything, my ears perked straight up as Snow continued to speak to me. I could see tears dwell up in her eyes too, glimmering in the light of the sunset and on the verge of streaming down her cheeks like mine.
+
+**"We don't share similar characteristics, I'm a fox, you're a leopard.."** Snow slowly begins to whisper, her grip tightening around my back, **"I was raised in Keustellet, you were born in Karlsborg, but even despite all of those differences, you're like a sister to me, Winter.."** 
+
+My heart was pounding, the tears broke free and I instinctively leapt forward with my arms wide, holding dearly onto Snow and letting out my tears, letting actions speak where words failed. My body began warming up, and the wind began to pick up, slowly but surely engulfing us in the same snowstorm that appeared when Snow first approached me. Before long, I felt Snow's arms wrap back around my back while the last bit of light from the sun disappeared with the sunset, handing the realm to Jerrát and its moonlight. 
+
+**"It's all going to end up fine"** I heard Snow whisper to me after minutes had passed, and I slowly moved my face back out of her shoulder, feeling like I'd cried my heart out. 
+
+**"As long as we stick together, forever."**
+
+
+
+*// Below is the original tail snippet, that has been reworked into what is now implemented into the story. This will be kept for proofreading, and is subject to be removed*
 With more tears building up in my eyes, I look back to Snow, instinctively leaning forward and giving her a tight hug, making sure to never let go of her in whatever situation or state I'll ever find myself in. As the tears begin streaming down my cheeks while the sun completely sets, Snow's arms carefully and gently wrap around my back, granting me the comfort and feeling of safety that I needed while the orange glow of the sun begins to fade away as well as the evening begins to set in. 
 
 **"We don't share similar characteristics, I'm a fox, you're a leopard.."** Snow slowly begins to whisper, her grip tightening around my back, **"I was raised in Keustellet, you were born in Karlsborg, but even despite all of those differences, you're like a sister to me, Winter.."** 

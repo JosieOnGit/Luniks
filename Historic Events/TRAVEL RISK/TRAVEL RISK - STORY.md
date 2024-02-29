@@ -36,7 +36,13 @@ A story in which Nils Lorieux enters his first mission within the company that A
 
 
 *// Tail snippet, leads into THREE*
-*"Nest halt: Krónapláca."* The 
+The metro chimed again. *"Nest halt: Krónapláca."* Double checking the note that was given to me by Karl, I pressed the stop button on the pole beside me. Preparing myself to hop off the automated metro, I take the sports bag and make my way to the doors, watching the platform approach while the metro slows down. \
+Reaching the end of the platform, the metro stops, and looking through the window I realise there were two men dressed in black attire right outside. Already feeling ticked off, I step out of the metro and see them approach me, my heart racing in my chest with worries and scenarios playing back and forth in my mind. 
+
+**"Afternoon, Nils"**, the man on the left spoke to me, taking my left hand and holding it firmly. **"Follow us."** \
+Fully panicked, the scenario that Karl had described to me began falling apart. I'd have to make my way to Sk. Garist myself, he hadn't said anything about two men awaiting me for the handover. \
+*"Are you.. from Dáritke?"* \
+**"Not quite. We'll explain later."**
 
 ## THREE - Youngblood
 ### Drafted Story: Youngblood 

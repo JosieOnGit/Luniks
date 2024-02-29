@@ -1,6 +1,14 @@
 # List of notable names
 This document lists various names, such as those of products, companies, or other various names that might reappear frequently through the different stories and items, as a dictionary and collection.
 
+# Interplanetary Travel
+
+## ELE - Earth-Luniks Express
+Soon after Luniks was first settled, it became a top priority to establish a stable and steady connection between the two planets. Initially, the travel ports were build and activated between Switzerland and Nóve Rejkjavík, with many other ports quickly being built afterwards to allow a smooth transfer of many people that had an intent to move to Luniks and help settle the young planet. Because of its rapid activation, Luniks could grow as quickly as it has.
+
+**ELE** travels through the wormhole that's also referred to as the *Panjit Loop*, which is named after **Tagip Panjit**, who was the key factor to discovering the fast interplanetary travel and enabled travel to Luniks in the first place.
+
+
 # Rail Services
 Each nation has their own national railway, which will slowly spring to life as this document evolves, but until then, the existing rail companies and lines are described in this section. 
 
@@ -17,20 +25,23 @@ RKU provides international services between **Thórirsant**, **Kérisant**, and 
 Vestia Rapid is the high-speed train service that operated between **Zhuehai**, **Álusken**, with split connections to **Denmark** and **Benelux**, which is most known for the fatal rail incident ever since its inauguration, as described in [[LAST LIGHT#// LUNA]]. 
 
 Currently planned (December 2023) is developing a brand identity for this service. Taken from the Trello board: \
-*Existing concept is a slogan of “We’ll bring you there” Some examples include:* \
-"Whether you:
-- Want to visit Sui Donnore
-- Have a friend in Ippavím 
-- Want to see the sun in Myriapolou
-- Have an appointment in Shánzhe
-- Feel like visiting Lëtzebuerg
-- Want to hike in Zhuehai
+*Existing concept is a slogan of “Wherever you're going, we'll bring you there” Some examples include:* \
+"Whether you're going to:
+- Sui Donnore
+- Ippavím 
+- Myriapolou
+- Shánzhe
+- Lëtzebuerg
+- Matéiazhu
 
 We'll bring you there."
 
 *Alternatively, this list of examples can also be exchanged for simply a list of cities that are connected to Vestia Rapid.*
 
 *Planned is a combination of purple and grey colours with stock high speed rail footage. Just like now LTS banners were proposed and created as a concept, the same process should happen for the brand identity of Vestia Rapid.*
+
+## Máneán Metro
+Despite the **Collapse of United Máneá**, the metro keeps its original name and services various cities within both **Máneá** and **Zakh'háfo**, where it services various big cities such as their respective capitals. 
 
 
 # Ship Services

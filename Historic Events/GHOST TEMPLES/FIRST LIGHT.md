@@ -36,7 +36,7 @@ With a deep sigh, the quiet metallic voice of the eye before me echoed through t
 
 
 ### What happens after?
-Over the span of 50 years, Cziskvelén guides millions of lost spirits and elevates them into the universe they find themselves in now. As the **Chromatic Eye** described, is that the Ghost Temples are **"Elevated Realms"**. This mean that any temples that are constructed will not reflect onto the lower realm, where life like normal takes place before death, and is elevated upwards and stays aligned. In short: Any construction that takes place on Luniks is reflected into the **Elevated Realm**, but any construction that takes place within the Temples is **not** reflected back to Luniks itself.
+Over the span of 50 years, Cziskvelén guides thousands of lost spirits and elevates them into the universe they find themselves in now. As the **Chromatic Eye** described, is that the Ghost Temples are **"Elevated Realms"**. This mean that any temples that are constructed will not reflect onto the lower realm, where life like normal takes place before death, and is elevated upwards and stays aligned. In short: Any construction that takes place on Luniks is reflected into the **Elevated Realm**, but any construction that takes place within the Temples is **not** reflected back to Luniks itself.
 
 Leading into the **Era of Vászi and Matéis**, he settles his last two Temples and makes way back to where the **Temple of Chroma** once stood. By this time, Vászi and Matéis are both aware of the reason he's doing this, as his strength has slowly run out. 
 

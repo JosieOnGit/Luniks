@@ -11,3 +11,6 @@ The above described drug, *Lucky Water*, has moved to [[LUCKY WATER]] in order t
 
 ## FOCUS TWO: NEUROKICK
 Available at [[NEUROKICK]]. **NEUROKICK** is an electronic injection-type drug that greatly exaggerates the visual feedback the brain can produce. This additionally can force the user to enter a REM sleep, where the rest of the drug continues its effect during the forced dream state. 
+
+## FOCUS THREE: LEREMKOV
+Available at [[LEREMKOV]]. While Leremkov is described as a disease similar to Influenza and Covid, it has been altered and modified even further behind closed, underground doors. Despite not being as prominent as drugs like **Lucky Water**, its effects are more of a threat to the human race than Leremkov itself is. 

@@ -1,15 +1,12 @@
 # GHOST TEMPLES
-Location: Spread over the entire planet (With a planned expansion on Earth)
-  
-Located throughout the planet in seemingly desolate places, such as ancient forests, empty grass plains, or hidden right in the heart of a blooming city, are various mysterious temples. Dating back to almost the very start of the first settlements of Lúniks, they are visually similar to other temples that are seen in Old Asia, as well as the first wave in Zhuehai.
-  
-These temples contain a deep, hidden secret. They are usually surrounded by a curious, lingering white mist, hiding the temple from any trespasser, until they're practically at the gate. Beyond the gate, is a cold, grand, and open temple space, decorated with gold statues, ancient banners, but if it's so cold and seemingly left alone, why are these temples such a secret?  
-  
-These temples are frequently visited and occupied by masked ghosts, each wearing a mask they've crafted themselves, meaning every ghost or shadow is a unique one. Their names might have been lost after they vanished from their previous lives, but their new identity is what makes them stand out in their own way.  
-  
-Some of these ghosts adore teasing regular everyday people, some adore the freedom and vastness of the countryside, and spend the rest of their days here, and others might seek a trace to their previous, now lost identity. 
-  
-Each temple has a name and a set of present symbols (Elements, Zodiacs, Spirits) that represent the state and wellbeing of the temple and its ghosts. Additionally, a temple also has a set of Guardians, ghosts that have pledged their existence to guard their temple, in the event something endangers the safety of the temple.  
+**Location**: Spread out throughout the entire planet of Luniks (With a planned expansion on Earth)
+
+The **Ghost Temples** are located throughout the planet in various desolate places, such as old forests, empty grass fields, or hidden right in the heart of a blooming temples. Unbeknownst to the masses of people on Luniks, the ghosts themselves find their home in these temples.
+
+Observed by the sun *Choreos*, guarded by the moon *Jerrát*, the Temples find themselves on an **elevated plane of existence**. Commonly understood is that the Ghost Temples are an **"Elevated Realm"**, while the world below — the everyday life on Luniks — is the **"Lower Realm"**. This means that any changes that happen on Luniks, are mirrored into the elevated realm where the Ghost Temples find themselves in, but any Temples that are settled, and any homes that are built, do not reflect to the lower realm. 
+
+The **Ghost of Cziskvelén** was the first Ghost to set foot in this Elevated Realm after his death on the Lower Realm. During his rebirth, it was explained to him by the **Higher Spirit**, the **Eye of Chroma**, that he now possessed a power to guide many more people that lost their lives in the Lower Realm upwards to the Elevated Realm, to continue their lives "as normal", and to grant them a chance to continue their lives after having them taken from them too soon in life. 
+
 
 ## The Lifecycle
 Every ghost has gone through three stages upon introduction to their new Temple. These are:
