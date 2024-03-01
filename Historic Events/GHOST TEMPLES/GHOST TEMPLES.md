@@ -16,6 +16,14 @@ Every ghost has gone through three stages upon introduction to their new Temple.
 	- **REBIRTHS** are available at [[REBIRTH]].
 - **EXPOSURE** // The event in which everything clicks together. Every memory that was able to be restored from the rescued spirit has been restored, and the new Ghost has now been permanently connected to their corresponding Temple. 
 	- **EXPOSURES** are available at [[EXPOSURE]].
+- **GLIMMER** // An event that was memorable during the Ghost's life, and didn't have an extreme impact on them (e.g. Meeting another Ghost and sharing a fun experience together). These can be short snippets, long stories, and everything inbetween.
+	- **GLIMMERS** are available at [[GLIMMER]].
+
+*// The two stages below are special to Cziskvelén, as he was the first ghost to experience them, as well as the last.*
+- **FIRST LIGHT** // The event in which **Cziskvelén**, and later **Vászi**, received their powers from the **Chroma** to shape the *Elevated Realm* in order to support new Ghosts through their new lives.
+	- **FIRST LIGHTS** are available at [[FIRST LIGHT]].
+- **CLOSURE** // The event in which **Cziskvelén** succumbed to the void, bidding farewell to **Vászi**, and handing **Chroma**, as well as the World with it over to him.
+	- **CLOSURE // CZISKVELÉN** is available at [[CLOSURE]]. 
 
 *// The cycle below is events that happen during the end of a lifetime for a ghost. However, said cycle is still on the drawing board and might end up being excluded altogether*
 
