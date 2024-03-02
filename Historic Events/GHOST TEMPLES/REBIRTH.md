@@ -6,7 +6,7 @@ Upon rebirth, a newly born Ghost is introduced to their new Guardian, that will 
 
 ## // LUNA
 **KEY NOTES**:
-- Ghost name: Ghost of Luna
+- Ghost name: Luna
 - Present Guardian: Settler of Vászi
 - Temple name: Temple of Vestia
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
@@ -33,8 +33,7 @@ He reached out his hand to me, showing no signs of hostility whatsoever, as I wa
 
 ## // SNOW
 **KEY NOTES**:  
-- This story is directly inspired by the 2021 **TIME RIFT** draft.
-- Ghost name: Ghost of Snow (Ghost of Kitsune)
+- Ghost name: Snow
 - Present guardian: Settler of Vászi
 - Temple name: Temple of Vestia
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
@@ -68,7 +67,7 @@ A chill runs through my spine, and an everlasting moment of silence begins betwe
 
 ## // WINTER
 **KEY NOTES**:  
-- Ghost name: Ghost of Winter
+- Ghost name: Winter
 - Present guardian: Guardian Marten, Guardian Sóvis
 - Temple name: Temple of Vestia
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
@@ -105,10 +104,16 @@ I nodded again, the cold and icy feelings finally disappearing, trading places w
 *"Thank you.. Marten, for all of this.."* \
 **"I should be thanking you instead, Winter, for your good heart. Let's continue on home, now, you deserve to rest after all of this."**
 
+## // MARTEN  
+**Drafted:** \
+Just like a normal day in his hospital bed, Marten would wake up expecting nothing, even though his entire world had just changed. He finds himself in his hospital bed, oddly enough without any pain at all. He remembers his name, his situation, and all that had happened, and his memories don't fade either.  
+- He steps out of bed in awe, stretching and moving like he hadn't been able to do, before deciding to step out of hospital room, wondering why it's do quiet in the otherwise busy and lively hospital  
+- Instead, upon stepping out, Vászi stands at the end of the hallway, who then explains Marten's situation and guides him through his rebirth
+
 
 ## // RAINE
 **KEY NOTES**:  
-- Ghost name: Ghost of Raine
+- Ghost name: Raine
 - Present guardian: Guardian Sóvis
 - Temple name: Temple of Vestia
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  

@@ -3,7 +3,7 @@
 
 ## // LUNA
 **KEY NOTES**:  
-- Ghost name: Ghost of Luna  
+- Ghost name: Luna  
 - Mysterious girl: **UNNAMED**
 - Temple name: Temple of Vestia
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos  
@@ -34,7 +34,7 @@ For **EXPOSURE // LUNA**, the main approach is following the Ghost of Luna throu
 
 ## // SNOW
 **KEY NOTES**:
-- Ghost name: Ghost of Snow
+- Ghost name: Snow
 - Mysterious man: **Guardian Marten**
 - Temple name: Temple of Vestia
 - Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos
@@ -68,6 +68,16 @@ As for Marten, I'd like him to gradually grow into a non-characteristic Guardian
 
 
 ## // WINTER
+**KEY NOTES**:
+- Ghost name: Winter
+- Exposing Ghost: **Snow**
+- Temple name: Temple of Vestia
+- Present symbols: Water, Choreos, Zeta, Aries, Czískvelén, Jérrat, Phereos
+- Temple Guardian: Settler of Vászi
+
+Info on Temple: [[Scattered Info#Temple of Vestia]] \
+Info on Symbols: [[Scattered Info#Known Symbols]]
+
 ### Drafted Story
 *// POV: Winter* \
 It's been a while since that strange day in the Morrésik woods, where I was revived and reborn into the place and time I find myself in now. Marten had led me to his home, which he shared with Snow, and had since treated me as if I'd been family from the very first second onwards. I've frequently been in contact with Sóvis and Marten respectively, both aiding me and teaching me the ropes in my new life, the new world and culture I was put into, and both said they were very impressed with how quickly I managed to get the hang of everything. Apparently, most ghosts in my situation would go through a series of traumas from their past lives, or struggle immensely to adapt, but I didn't experience any of that myself. It worries me, and makes me feel like something is fundamentally wrong with me or missing, but I've also been feeling at peace with it. I can't combat any of this, because I have no choice but to believe that I did in fact go through rebirth, but even if so, things seem fine, so that makes me feel fine.

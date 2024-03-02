@@ -95,6 +95,10 @@ I've been drafting a strange, central spot in the middle of the country of Álus
 
 
 ## Unnamed and unused draft
+### Important note
+This snippet of a story could be extracted into **Snow's Last Light**, which is available at [[LAST LIGHT#// SNOW]]. In that case, it will no longer be a draft, and not find a purpose elsewhere either.
+
+
 *// POV: Unnamed character*
 
 My ears continued ringing, smoke filled the room from the rubble that had collapsed on top of me. I struggled to make my way out of the pile I was buried under. Just what had gone wrong here? How did this even escalate as far as it has? The protocol seemed to progress just fine, we'd gone through 4 stages like we routinely have every week, and yet this time around, after 30 weeks, how come it failed now?

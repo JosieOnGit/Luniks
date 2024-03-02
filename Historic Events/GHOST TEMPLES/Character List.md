@@ -17,7 +17,7 @@ Cziskvelén is a **Swordsman** and **Settler**, having settled the *Temple of Ve
 Cziskvelén bears a **Plain White Mask**, albeit more worn down than that of Vászi. Being a swordsman, he also bears a long two-handed sword, which channels light as a power (As seen in Vászi's *Blade of Cziskvelén* Signature). 
 
 ### Past Life
-Before being killed and subsequently approached by the **Eye of Chroma**, Cziskvelén was a hitman in **United Máneá**, soon before it fell. Having gone through blood and sweat without emotions, he initially was confused why he was given the chance to go through Rebirth at all, especially since the targets that he eliminated on Luniks ultimately led to the **Collapse of United Máneá**, but even despite this, **Chroma** knew that Cziskvelén would be the right person to guide others into a new life.
+Before being killed and subsequently approached by the **Eye of Chroma**, Cziskvelén was a hitman (Nikec Kráminsz) in **United Máneá**, soon before it fell. Having gone through blood and sweat without emotions, he initially was confused why he was given the chance to go through Rebirth at all, especially since the targets that he eliminated on Luniks ultimately led to the **Collapse of United Máneá**, but even despite this, **Chroma** knew that Cziskvelén would be the right person to guide others into a new life.
 
 
 ## Guardian Marten
