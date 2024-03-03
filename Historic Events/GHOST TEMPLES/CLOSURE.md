@@ -25,7 +25,7 @@ Slowly letting go of each other's hands, the two bid each other farewell one las
 *"Thank you, Cziskvelén, farewell."*
 
 ### Farewell, Chroma
-*POV: Cziskvelén*
+*POV: Cziskvelén* \
 Together with the blackness of the void surrounding and covering all of Vászi's body, the same blackness began to seep into the corners of my own eyes, surrounded by the rainbow glimmering of the Chroma. It didn't take long before I saw the gate of Chroma disappear from my field of view, and gravity ceased to exist. Without wind, without weight, I floated in the infiniteness of blackness, stars, and rainbows, until I saw the Eye of Chroma appear before me, filling up the empty void as far as my eyes could see, just like in my First Light.
 
 **"Had you not been reborn by Chroma back then, your original death would look like this."** The metallic voice echoed into the void, although in a much more pleasant tone as compared to my First Light, when I first met the Chroma. Feeling like I had nothing to lose anymore at this point, I replied quietly, already having come to peace with my end. *"In the end, I guess it's no different from dying naturally. I've lived my life to my fullest, I've brought life back for so many Ghosts. Just like me, they can now live onwards and experience life and death like normal."*

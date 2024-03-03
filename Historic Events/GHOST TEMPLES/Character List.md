@@ -36,8 +36,8 @@ Together with **Marten**, Sóvis went through *Guardian Apprenticeship* soon aft
 ### Past Life
 Before his death, Sóvis was a simple office worker
 
-## Ghost of Luna
-Appearance wise, the **Ghost of Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their strong *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
+## Luna
+Appearance wise, **Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their strong *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
 
 Luna bears an **Oni Mask**, handcrafted to their preference and integrated a mask featuring *Golden/Red* and Chinese-inspired characters and artworks, as a tribute to the many days they had spent in Matéiazhu ever since being reborn.
 
@@ -47,8 +47,8 @@ Their name is directly derived from **Luna**, Earth's moon.
 Before their death, Luna was still in college, where they studied computer science and intelligence. Unlike their usual appearance, Luna actually dreamed of getting into fashion and starting their own, non-standard clothing brand. The sudden lapse between their death and rebirth gave them the opportunity to utilize their previously gained knowledge about neuroscience and computer intelligence (As seen in their *Curious Eye* Signature), and while they're still very insecure and shy about it, also allows them to experiment with clothing of their own, now that the entire palette and canvas are available to them.
 
 
-## Ghost of Snow
-The **Ghost of Snow** has primarily worn simple, white dresses and suits ever since her Rebirth, still adapting to her sudden changes, especially those that were brought over through the recovery of her spirit by *Vászi* during her Rebirth. Next to wearing primarily white clothing, she also sports long, wavy white hair and possesses the animal characteristics of an *Arctic Fox*, such as her snow-white tail and ears. Smaller details include a slight black tip on her tail, as well as small black spots on her left ear. She has *heterochromia*, as her left eye is a **darker blue** while her right eye is a **faint blue**.
+## Snow
+**Snow** has primarily worn simple, white dresses and suits ever since her Rebirth, still adapting to her sudden changes, especially those that were brought over through the recovery of her spirit by *Vászi* during her Rebirth. Next to wearing primarily white clothing, she also sports long, wavy white hair and possesses the animal characteristics of an *Arctic Fox*, such as her snow-white tail and ears. Smaller details include a slight black tip on her tail, as well as small black spots on her left ear. She has *heterochromia*, as her left eye is a **darker blue** while her right eye is a **faint blue**.
 
 Snow bears a **Kitsune Mask**, which she began personalizing by adding black spots to the left ear, mirroring the black spots on her actual ears, and integrating various pastel colours to *"add colour to the empty space of heaven"*, as she prefers to call it. However, after several of weeks of training with Vászi, and after her **EXPOSURE**, she no longer needed her Mask for the majority of cases, and keeps it as a remembrance piece to her **REBIRTH**.
 
@@ -58,8 +58,8 @@ Her name is directly derived from the area in which she died in her previous lif
 Before her Rebirth, Snow originally was a young man who studied Arts & Crafts, which further explains her continuous struggle to adapt to her new form and new life within the Temple and within the protection of Vászi. Besides this, not much is known about Snow's past life either, except for her previous identity and her cause of death, but what especially sparked Vászi's and Marten's interest is how vastly different her spirit was compared to her physical body. Because of this, Snow and Marten frequently spend time together ever since Snow's Exposure, to go over this and help Snow get more accustomed to her new life. 
 
 
-## Ghost of Winter 
-The **Ghost of Winter** is a fairly young girl, with the animal traits of a *Snow Leopard*, and is frequently seen wearing thicker types of clothing, traditionally suited for winter weather, contra *Snow*, who is also a "Ghost of Winter" in a sense, but instead wears more thin dresses.
+## Winter 
+**Winter** is a fairly young girl, with the animal traits of a *Snow Leopard*, and is frequently seen wearing thicker types of clothing, traditionally suited for winter weather, contra *Snow*, who is also a "Ghost of Winter" in a sense, but instead wears more thin dresses.
 
 Having mentioned Snow, she and Winter get along exceptionally well, and are sometimes even passed along as twins, despite Winter originally coming from Karlsborg whereas Snow lived in Keustellet before both of their respective *Last Lights*. Winter was led through *Rebirth* by **Temple Guardian Marten**, which is why she was immediately introduced to **Snow**, and why the three get along together well now. Originally having refuged in their home, they now simply live together as a family.
 
