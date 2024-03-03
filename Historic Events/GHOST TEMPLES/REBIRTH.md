@@ -1,6 +1,6 @@
 # GHOST TEMPLES // REBIRTH
 
-**Rebirth** refers to the rebirth of those that died in accidents of no fault of their own, and were granted another chance to live through the process of rebirth, granted by a Temple Guardian. In standard cases, Temple Guardians choose the most pure souls that were robbed of the proper, long life that they deserved and died too soon in an accident or circumstance they had no control over. This includes accidents like the **2074 Matéiazhu Rail Disaster**, and the **2075 Keustellet Terrorist attacks**, where the Ghosts of *Luna* and *Snow* lost their lives, respectively. 
+**Rebirth** refers to the rebirth of those that died in accidents of no fault of their own, and were granted another chance to live through the process of rebirth, granted by a Temple Guardian. In standard cases, Temple Guardians choose the most pure souls that were robbed of the proper, long life that they deserved and died too soon in an accident or circumstance they had no control over. This includes accidents like the **2074 Matéiazhu Rail Disaster**, and the **2075 Keustellet missile strike, where the Ghosts of *Luna* and *Snow* lost their lives, respectively. 
 
 Upon rebirth, a newly born Ghost is introduced to their new Guardian, that will introduce them to their new life and explain in a light amount of detail what had happened to them in their past one. As all Ghosts struggle with amnesia, where all memories but the Last Light rapidly vanish upon rebirth, this means it will both be easy yet hard for them to adapt to their new lives. 
 
@@ -43,7 +43,9 @@ Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
 
 ### Drafted Story
-*POV: Ghost of Snow
+*POV: Snow
+
+*// This intro is subject to change, in order to have a tighter connection to Snow's Last Light, which is available at [[LAST LIGHT#// SNOW]]*
 
 I woke up feeling sore and cold all over, my body felt out of place, but I couldn't lay a finger on what exactly was wrong, the first things I noticed were that the market had been abandoned, filled to the brim with lingering clouds of dust, as if a bomb had gone off; the roof had collapsed near the central aisles, which would explain the cold breeze I was feeling.  \
 I slowly tried to move myself upwards, getting more and more accustomed with my shifted body, knowing I'm the same person as I was before, yet also, having no idea where, or rather when, I am. My memories slowly started to seep back in my mind, but as hard as I tried to form a picture of what happened, of who I was, more and more holes began to appear in the picture in my mind, as if it was actively being erased, as if I was forgetting my past right in this very moment. \
@@ -60,7 +62,7 @@ Carefully taking the mask from his hand, I study it deeply. A plain, white mask 
 Finishing his words, Vászi carefully bows in an apologetic manner, his robe delicately wrapping around him in a protective manner, almost as if it's a defensive manoeuvre. In response, I crawl upwards, my legs continuing to wobble, now fully aware of the situation I, and my body, are in, while more and more information seeps into my mind from the mask. Catching my breath and readying my words, I prepare myself for the worst of answers. \
 *"Vászi, if I may ask, what.. happened?"* \
 Without hesitation, the Settler takes a step forward to put a hand on my shoulder, his other hand revealing a copy of an ID card, and flips it around, revealing a small mirror, which in turn reveals my face, mismatching the pictured face on the ID card, as I feel a cold shiver run through my body upon realisation. \
-**"On October 4th, 2075, a missile struck the market you find yourself in. At the same time, criminals entered through the North and South sides to plunder and raid the market. Ever since, it has been left vacant. We were not able to rescue your body, but we rescued your soul, and gave you another chance in the body that matches your soul."** \
+**"On October 4th, 2075, a missile struck the market you find yourself in. You happened to be in the wrong place, at the wrong time, and were trapped right beneath where the roof collapsed. We were not able to rescue your body, but we rescued your soul, and gave you another chance in the body that matches your soul."** \
 A chill runs through my spine, and an everlasting moment of silence begins between us. My body had felt odd from the very second I had reawakened, and the glimpse I got of myself in the mirror fully explained why. Moving my hands to my face, I carefully take off the mask, feeling a cold breeze enter my lungs as I take a deep breath, struggling to keep my head high, to keep my emotions beside me for the time being. After what feels like hours, I finally find the strength to stand up, as I stare before me, Vászi's arm extended, feeling his eyes gaze deeply at mine through his mask once more, but feeling a much more inviting, a much more pleasant warmth this time around. Taking his hand, I try to speak, but get cut short, still struggling to speak without wearing my mask, and being interrupted by Vászi. \
 **I'm terribly sorry that you had lost your previous life, and I understand your new form is vastly different. I will make a promise: I will guide you, and I will guard you, for I am your Guardian from now on.**
 
@@ -77,7 +79,7 @@ Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
 
 ### Drafted Story
-*POV: Ghost of Winter*
+*POV: Winter*
 
 With a loud thud, I suddenly jumped back to my senses, even if everything felt off and wrong. I felt oddly energetic, yet sore all over, and especially nauseated. It felt like I was hit by a truck, on the highway which was carrying nothing but dense metals at high speed, my body hurt more than I had ever felt before and I couldn't place a finger on why that was the case. With a loud cough, I feel my head begin to pulse in pain too, before all of a sudden, all the soreness and pain vanish into nothingness. Struggling to fight through the new numbness in my body and mind, I gradually lean upwards and open my eyes, expecting to see total darkness after the fall, but instead finding myself buried in snow, right next to the ravine I thought I had fallen into. Now realising what was going on, I desperately look around, trying to find a glimpse of Anita, or Markus, or anyone that witnessed me fall. Did they somehow manage to pull me out of the ravine, but then abandon me? *"If they did.. how did I.. survive?"* I thought to myself, panic rushing through my veins as I desperately look around, needing to find an answer, needing to find where the others were, so I could tell them that a miracle had happened, that I had survived the fall. But instead of finding the others, my eyes landed on two mysterious figures before me, turning my panic into worry.
 
@@ -104,6 +106,7 @@ I nodded again, the cold and icy feelings finally disappearing, trading places w
 *"Thank you.. Marten, for all of this.."* \
 **"I should be thanking you instead, Winter, for your good heart. Let's continue on home, now, you deserve to rest after all of this."**
 
+
 ## // MARTEN  
 **Drafted:** \
 Just like a normal day in his hospital bed, Marten would wake up expecting nothing, even though his entire world had just changed. He finds himself in his hospital bed, oddly enough without any pain at all. He remembers his name, his situation, and all that had happened, and his memories don't fade either.  
@@ -123,7 +126,7 @@ Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
 
 ### Drafted Story
-*POV: Ghost of Raine*
+*POV: Raine*
 
 With a deep sigh, I picked the jar of pasta sauce from the cabinet in the supermarket. I personally despised making myself pasta, but with guests coming over, I had to please the guests as well, knowing that Michael surely wouldn't mind me going outside of my comfort box with dinner. A few steps northbound, I headed to the meat section of the store, taking a simple box of ground beef, betting on having some left over beef to treat myself and Michael with something special, just for the two of us. From the thought alone, my cheeks turn into a deep red, imagining all the things I could make, the smile on his face as he would take his first bite, oh, how romantical!
 

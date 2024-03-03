@@ -4,6 +4,7 @@
 
 Before entering the Temple, they are approached by a Guardian of the respective Temple, which gives them the capabilities and strength to undergo the process of rebirth. This is always traditionally done at the same location of the accident, that unfortunately cost them their lives. The location is completely devoided of any other humans or animals, and a white mist will linger around the Guardian and the soon-to-be Ghost.
 
+
 ## // LUNA
 Vestia Rapid is a conventional high-speed rail service connecting the various nations of Vestia, being capable of reaching service speeds up to 400 km/h and connecting the different capitals without sacrificing extra budget for a line that exclusively supports Maglev trains, something that remains dominant in Asia. In 2040, the new train lines had undergone intensive testing and the trains were finally allowed to enter service in 2044, and continued to service the line without any major incidents. \
 That is, until **August 30th, 2074**. Entering regularly scheduled service from Álusken to Benelux, passing through Zhuehai, is a Vestia Rapid VR20. Boarding in Zhuehai is the Ghost of Luna — then known as *Storm* — a non-binary young adult who was out with his friends in Shánzhe, before waving them goodbye early to board the approaching VR20. \
@@ -15,18 +16,6 @@ Upon boarding in Shánzhe, the train was scheduled to pass through Matéiazhu an
 
 
 ## // SNOW
-
-Reserved for an expansion on the snippet from [[REBIRTH#// SNOW]]:
-
-***"On October 4th, 2075, a missile struck the market you find yourself in. At the same time, criminals entered through the North and South sides to plunder and raid the market. Ever since, it has been left vacant. We were not able to rescue your body, but we rescued your soul, and gave you another chance in the body that matches your soul."***
-
-**Drafted:**  \
-We follow Joseph, a 22 year old arts student that had lived in Keustellet his entire life. His Last Light will cover the 2075 Keustellet terrorist attacks, where he happened to be in the wrong place at the wrong time. He was walking through the local supermarket together with his friend, Daniel, who he talked with in the supermarket about a project for school he was extremely stressed about  
-- Said project is for Carbine, a startup tech and weaponry company that was in need of a brand refresh and had asked Joseph to do just that for his college project.  
-- After the missile strike, Joseph finds himself trapped underneath the rubble from the roof that collapsed (Use untitled draft for this without the reactor explosion?)  
-- Daniel begs him to stick around and manage for just a little longer as he looks for help, but to no avail, Joseph succumbs to his injuries and is guided into his Rebirth (REBIRTH // SNOW)  
-
-### Drafted story
 *// POV: Joseph*
 With sketches and notebooks stuffing my backpack to its fullest, Daniel and I departed from school for the holiday, heading to **Norden**, the enormous supermarket that had stood in the heart of Keustellet for as long as my memory could take me back. We had made ambitious plans, we'd travel to Vao at least once, we even aimed to go to Hédenis for a few days for the hot weather, and we'd especially enjoy our time off, but with each bullet point that we had planned for this holiday, another bullet point appeared from a deadline that was soon to follow after the end of the holidays. 
 
@@ -52,7 +41,6 @@ Tears were streaming down Daniel's face, as he screamed for help, desperate to c
 **"I love you too, man, please, not like this, not like this.. Joseph.."**
 
 My eyes struggled to stay open, the nauseating feeling increasing infinitely, until the rest of my body numbed down, no longer seeing Daniel, no longer feeling his hands holding mine, the noise in the supermarket fading away in a mere second, and I breathe. Once more. Once more, and never again.
-
 
 
 ## // WINTER
