@@ -26,10 +26,10 @@ Instead of directly answering the question, the curious girl continues to overan
 The ghost suddenly interrupts, with their hand on their chest, gripping tightly on their suit. **"I've seen other ghosts. An Ox's mask, a Fox's mask, oddest of all, a broken mask of a Deer. If you've seen them too, it must be a sign. It must mean something."**  \
 Nodding slowly, the girl's confidence seems to stagger as her eyes now face the floor, eyeing the ghost's shoes, but not in detail. Speaking softly, she gradually looks back up to face the ghost's mask. *"I've been meaning to ask, but if I may, what is your name?"*  \
 A shiver runs through the ghost's phantom body, as flashbacks suddenly race through their mind. A vision of the train, a vision of family, all sorts of familiar faces, familiar places, seemingly so far away, as words and names refuse to formulate and connect. Raising their hand to their face, they once more struggle to collect words, before finally looking back into the girls eyes, responding confidently and clearly.  \
-**"I am the Ghost of Luna. For now, that is all that matters."**
+**"I am Luna. For now, that is all that matters."**
 
 ### What's next?
-For **EXPOSURE // LUNA**, the main approach is following the Ghost of Luna through their story and describe their experience as a ghost, starting from the very moment of the rail incident in Zhuehai, all the way towards the complete connection of temples spread throughout the planet, maybe even hinting at temples located back at Earth?
+For **EXPOSURE // LUNA**, the main approach is following Luna through their story and describe their experience as a ghost, starting from the very moment of the rail incident in Zhuehai, all the way towards the complete connection of temples spread throughout the planet, maybe even hinting at temples located back at Earth?
 
 
 ## // SNOW
@@ -46,7 +46,7 @@ Info on Symbols: [[Scattered Info#Known Symbols]]
 This is a very bold and rough draft because I struggle to properly put it to words and have it flow nicely into an actual story. Nevertheless, this is exciting to me because it showcases one of Snow's personal strengths, rather than her weaknesses.  
 
 ### Drafted Story
-*POV: Ghost of Snow*  \
+*POV: Snow*  \
 It's been a few weeks ever since. Day in, day out, I met with Vászi at the temple. We'd go through the different halls, the different divisions and wings that were underground, hidden away from other sources of life, except for the occasional group of deer that showed up in our forest. But it hasn't been too long, I've learned to adapt, I've learned to live with what I have now, even after death. 
 
 Today, Vászi gave me a day to rest and recover, so I chose to spend that time at the edge of the forest with a grand view over the flower fields. Knowing that I'd have this view, I brought my mask and a brush, as the hours slowly began to pass as I began to gradually add colour to the mask, watching the sun gradually pass from noon to dusk while my ears continuously and frantically scan around, picking up all sorts of sounds from the nature surrounding me. From the birds flying through and out of the treetops, the wind gently shaking up the leaves, and the soft rustle from the waving flower field before me.

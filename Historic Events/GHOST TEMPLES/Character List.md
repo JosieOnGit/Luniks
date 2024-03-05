@@ -34,7 +34,7 @@ Marten is the only ghost (as of Dec 2023) to not be assigned a new name upon Reb
 Together with **Marten**, Sóvis went through *Guardian Apprenticeship* soon after his own rebirth. With a timid, calm, and friendly personality, both Vászi and Matéis understood that this was the right path for Sóvis, for him to use his good heart to guide others into their new lives as well and take on the Guardian role. 
 
 ### Past Life
-Before his death, Sóvis was a simple office worker
+Before his death, Sóvis was a simple office worker.
 
 ## Luna
 Appearance wise, **Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their strong *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.

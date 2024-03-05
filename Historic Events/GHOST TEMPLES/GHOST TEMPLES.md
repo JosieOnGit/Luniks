@@ -5,7 +5,7 @@ The **Ghost Temples** are located throughout the planet in various desolate plac
 
 Observed by the sun *Choreos*, guarded by the moon *Jerrát*, the Temples find themselves on an **elevated plane of existence**. Commonly understood is that the Ghost Temples are an **"Elevated Realm"**, while the world below — the everyday life on Luniks — is the **"Lower Realm"**. This means that any changes that happen on Luniks, are mirrored into the elevated realm where the Ghost Temples find themselves in, but any Temples that are settled, and any homes that are built, do not reflect to the lower realm. 
 
-The **Ghost of Cziskvelén** was the first Ghost to set foot in this Elevated Realm after his death on the Lower Realm. During his rebirth, it was explained to him by the **Higher Spirit**, the **Eye of Chroma**, that he now possessed a power to guide many more people that lost their lives in the Lower Realm upwards to the Elevated Realm, to continue their lives "as normal", and to grant them a chance to continue their lives after having them taken from them too soon in life. 
+**Cziskvelén** was the first Ghost to set foot in this Elevated Realm after his death on the Lower Realm. During his rebirth, it was explained to him by the **Higher Spirit**, the **Eye of Chroma**, that he now possessed a power to guide many more people that lost their lives in the Lower Realm upwards to the Elevated Realm, to continue their lives "as normal", and to grant them a chance to continue their lives after having them taken from them too soon in life. 
 
 
 ## The Lifecycle

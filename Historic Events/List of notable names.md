@@ -6,7 +6,7 @@ This document lists various names, such as those of products, companies, or othe
 ## ELE - Earth-Luniks Express
 Soon after Luniks was first settled, it became a top priority to establish a stable and steady connection between the two planets. Initially, the travel ports were build and activated between Switzerland and Nóve Rejkjavík, with many other ports quickly being built afterwards to allow a smooth transfer of many people that had an intent to move to Luniks and help settle the young planet. Because of its rapid activation, Luniks could grow as quickly as it has.
 
-**ELE** travels through the wormhole that's also referred to as the *Panjit Loop*, which is named after **Tagip Panjit**, who was the key factor to discovering the fast interplanetary travel and enabled travel to Luniks in the first place.
+**ELE** travels through the wormhole that's also referred to as the *Panjit Loop*, which is named after **Tagip Panjit**, who was the key factor to discovering the methods towards fast interplanetary travel and enabled travel to Luniks in the first place.
 
 
 # Rail Services
@@ -22,10 +22,10 @@ LTS as a company frequently reappears throughout the story, although it only ser
 RKU provides international services between **Thórirsant**, **Kérisant**, and **Zakh'Háfo**, providing both cargo and passenger transport.
 
 ## Vestia Rapid
-Vestia Rapid is the high-speed train service that operated between **Zhuehai**, **Álusken**, with split connections to **Denmark** and **Benelux**, which is most known for the fatal rail incident ever since its inauguration, as described in [[LAST LIGHT#// LUNA]]. 
+Vestia Rapid is the high-speed train service that operates between the various nations across Vestia. Its connections range from **Hédenis** and **Mónsan**, through **Zhuehai**, **Álusken**, and **Vao**, with split connections to **Benelux** and **Denmark**. Its most known for the fatal rail incident ever since its inauguration, as described in [[LAST LIGHT#// LUNA]]. 
 
 Currently planned (December 2023) is developing a brand identity for this service. Taken from the Trello board: \
-*Existing concept is a slogan of “Wherever you're going, we'll bring you there” Some examples include:* \
+*Existing concept is a slogan of “Wherever you're going, we'll bring you there”, or "Across the road or across the border, we'll bring you there." Some examples include:* \
 "Whether you're going to:
 - Sui Donnore
 - Ippavím 
@@ -36,7 +36,7 @@ Currently planned (December 2023) is developing a brand identity for this servic
 
 We'll bring you there."
 
-*Alternatively, this list of examples can also be exchanged for simply a list of cities that are connected to Vestia Rapid.*
+*Alternatively, this list of examples can also be exchanged for simply a list of cities that are connected to Vestia Rapid. Next to that, Vestia Rapid can also be transformed into a general rail company, also providing a means of regional and intercity transport without incredible speeds as their VR20s. However, this might need a rebrand, and exchange the "Rapid" name for something else, such as "Vestia Regio".*
 
 *Planned is a combination of purple and grey colours with stock high speed rail footage. Just like now LTS banners were proposed and created as a concept, the same process should happen for the brand identity of Vestia Rapid.*
 
@@ -59,4 +59,4 @@ Prominent in the north of Álusken (Hence the name **Norden**) is **Norden Super
 **Hammerhead** is a Vestian industry appliances manufacturer, who is best known for snowballing the expansion and normalisation of the settlement of Vestia, soon after the borders were drawn upon landing on Luniks. 
 
 ## Carbine
-Next to offering a various catalogue of weapons, **Carbine** is in the hunt to reach the same level of market share that **Hammerhead** currently has. Jealous of its achievements, Carbine entered the experimental weapon department, in hopes to create a new image for themselves where they failed trying to chase after Hammerhead. 
+Next to offering a various catalogue of weapons, **Carbine** is in the hunt to reach the same level of market share that **Hammerhead** currently has. Jealous of their achievements, Carbine entered the experimental weapon department, in hopes to create a new image for themselves where they failed trying to chase after Hammerhead. 

@@ -86,10 +86,12 @@ My goal, or plan, is to repurpose the Oslo Revolution and downscale the size of 
 
 Building onwards from **TRAVEL RISK**, I feel like more in-depth scenarios could be drafted as well, shining a light on certain characters that might be important to that story, and may also play a major and/or minor role in other stories. I still struggle to properly describe this idea, but it could open up the door to a lot of different and completely new stories that haven't been drafted yet!
 
-## Early Drafted Álusken's Mysteries addition
+## Early Drafted Álusken's Mysteries additions
 I've additionally been thinking of adding supernaturalism in one form or another to the existing story of **Álusken's Mysteries**, giving additional roles to *Matthias-Eden* and shining a proper light on the vast difference between the capital city and surrounding cities such as *Keustellet* and *Ippavím*. Additionally, I'd like to introduce more small towns within Álusken as well that might gain a connection to **GHOST TEMPLES** as well, but the future will need to tell, and especially what I will come up with within this addition!
 
 I've been drafting a strange, central spot in the middle of the country of Álusken, which is seemingly "possessed" by an unnatural force of some sorts, which can explain the other various mysteries that occur within the nation and can be connected to **GHOST TEMPLES** as well. This will need proper additions, though, and is very subject to change because of the lack of depth as of right now! (January 2024).
+
+Next to this (March 2024) is a draft that includes the nation of **Vao**, and its known history with the myths of dragons that roamed its mountains and plains. With borders having shifted a few times since the original settlements on Vestia, were some natural borders crossed, and is **Vaon Dragon** territory actually on **Alusken**?
 
 ## Deep dive into the history of early Luniksan settlements
 
@@ -98,9 +100,10 @@ I've been drafting a strange, central spot in the middle of the country of Álus
 ### Important note
 This snippet of a story could be extracted into **Snow's Last Light**, which is available at [[LAST LIGHT#// SNOW]]. In that case, it will no longer be a draft, and not find a purpose elsewhere either.
 
+**Update (March 2024)**: This snippet has been repurposed to an extent in **Snow's Last Light**. While this is the case, there is no mention of a reactor, or any explosion in rough detail, meaning this draft will survive after all and see a purpose in another story.
 
-*// POV: Unnamed character*
 
+*// POV: Unnamed character* \
 My ears continued ringing, smoke filled the room from the rubble that had collapsed on top of me. I struggled to make my way out of the pile I was buried under. Just what had gone wrong here? How did this even escalate as far as it has? The protocol seemed to progress just fine, we'd gone through 4 stages like we routinely have every week, and yet this time around, after 30 weeks, how come it failed now?
 
 I coughed violently, trying to keep myself from inhaling the smoke that filled the room. I had no idea what was leaking, what the smoke might be from. Was it the rubble? Were it the pipes that had blown? The toxic fumes from the reactor? I didn't want to find out, and with all my might managed to crawl my way under the pile of rocks. My left calf was torn open, and the excessive amount of adrenaline surging through my body was the only thing keeping me from collapsing right here right now. With a shaky leg, I scanned myself and my surroundings, finding the roof having collapsed and electric arcs waving before me where the reactor once used to stand. My left arm was also severely injured, and I knew I had mere minutes left to find help, aware that if I failed to do so, I would collapse and that would be the end for me.

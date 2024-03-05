@@ -18,21 +18,21 @@ A simple healing pulse. Carried over during his Rebirth, he retained his knowled
 **Signature (2)**: Guarding Light \
 Similarly to Vászi, Sóvis, and every other Guardian to ever have guarded a Temple, it's vital to know how to master the **Guarding Light** signature. Traditionally, the light from the heavens that strikes down upon the casting of the signature is a bright and vibrant yellow colour. In Marten's case, however, this is a deeper, amber-coloured pulse, mirroring the colour of his **Healing Pulse**. 
 
-## Ghost of Luna  
+## Luna  
 **Signature**: Curious Eye  \
 Their time in Matéiazhu has given Luna enough time to develop their own signature. From afar, Luna is able to see a person in a distance and immediately learn basic info about them, with more information being collected the longer the gaze stays connected. Upon disconnection from their target, the gained information stays, which may be useful for a future endeavour, or even a threat to the Temple.
 
 **Signature (2)**:  Shadow Dash \
 Channelling the ancient spirit that they carved into the Oni mask, its spirit activates and they begin to focus on the destination they intent to reach. A thick smoke, of which the colour can vary, will seep into the mouthpiece of the mask, which will give Luna the energy and strength they need to take the leap forward. Within the blink of an eye and the snap of a blade, their form vanishes and will reappear in the target destination. Combined with Curious Eye, Luna could use this signature to analyse a potential enemy, and depending on the possible threat, they can use the Shadow Dash to leap forward and confront the target.
   
-## Ghost of Snow
+## Snow
 **Signature**: Whiteout (Personal Space)  \
 While Snow continues to struggle to adapt to her new form, she developed a signature in which she summons a white space, devoid of any other beings but those she's comfortable with, for her to collect her thoughts or regain a moment of peace.
 
 **Signature (2)**: Channelling Astárout \
 Utilizing a strength from far beyond the realms of discovered Luniks, Snow has discovered and learned how to channel the powers of the Ancient Spirit of Astárout. This allows her to gain extra strength in dire situations, as described in her **EXPOSURE** entry, where she combined this signature with Whiteout to confront the **Junior Guardian Marten**. As she channels Astárout, her eyes (which are usually a faint, light blue) will glow brightly, as well waving blue fire appearing on her right arm, the tip of her ears and tail. Lastly, the black spots on her right ear (which she reflected in her mask) will also turn a deep, vibrant blue that pulses wildly.
 
-## Ghost of Winter
+## Winter
 **Signature**: Arctic Blaze \
 Similarly to Snow's *Whiteout*, Winter summons a shallow dome within a snowstorm that traps and encompasses only the targets she intends to cast her Signature on. She frequently mentions that she "Feels home in the snow", which is why she also uses her Arctic Blaze similarly to Snow's Whiteout, when she feels like she needs to regain a moment of peace.
 
