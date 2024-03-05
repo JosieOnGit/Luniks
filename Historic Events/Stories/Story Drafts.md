@@ -41,7 +41,10 @@ United Máneá will break apart into Máneá, Zakh'háfo, Rhódisz.
 ## Álusken's Mysteries
 Álusken's Mysteries has grown too big to remain a draft. It's now available at [[Álusken's Mysteries]].
 
-### Drafted Story: The myths of Vao
+## The Myths of Vao
+Within Vao reign myths that have stood place for many decades since the establishment of Vao soon after Vao was settled. The most basic way to describe the myths are through the **Dragons of Vao**, and the **Aurora**, both of which are frequently mentioned in older scriptures in unison. It's believed that the *Dragons* dance through the mountains at night while the nation sleeps, and their shimmering colours of their scales and fire reflect into the night sky, causing the *Aurora* to appear and shine brightly. 
+
+### Drafted Story: A direct descendant 
 *// Context:* This is a drafted story that takes place in *Estre Donnore* in **Vao**. Although falling under **Álusken's Mysteries**, the actual mysteries take place outside Álusken as well, such as in the southwestern areas of Vao. The mixture of dragon myths and supernaturalism that are present in Vao and Álusken, respectively, create exceptionally odd supernatural situations in northeastern Álusken and southwestern Vao. \
 *// POV: Unnamed Character*
 
