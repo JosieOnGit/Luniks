@@ -1,6 +1,6 @@
 # GHOST TEMPLES // REBIRTH
 
-**Rebirth** refers to the rebirth of those that died in accidents of no fault of their own, and were granted another chance to live through the process of rebirth, granted by a Temple Guardian. In standard cases, Temple Guardians choose the most pure souls that were robbed of the proper, long life that they deserved and died too soon in an accident or circumstance they had no control over. This includes accidents like the **2074 Matéiazhu Rail Disaster**, and the **2075 Keustellet missile strike, where *Luna* and *Snow* lost their lives, respectively. 
+**Rebirth** refers to the rebirth of those that died in accidents of no fault of their own, and were granted another chance to live through the process of rebirth, granted by a Temple Guardian. In standard cases, Temple Guardians choose the most pure souls that were robbed of the proper, long life that they deserved and died too soon in an accident or circumstance they had no control over. This includes accidents like the **2074 Matéiazhu Rail Disaster**, and the **2075 Keustellet missile strike**, where *Luna* and *Snow* lost their lives, respectively. 
 
 Upon rebirth, a newly born Ghost is introduced to their new Guardian, that will introduce them to their new life and explain in a light amount of detail what had happened to them in their past one. As all Ghosts struggle with amnesia, where all memories but the Last Light rapidly vanish upon rebirth, this means it will both be easy yet hard for them to adapt to their new lives. 
 

@@ -22,3 +22,5 @@ The second wave of Luniksan revolution was mostly aimed at building more sustain
 
 ### Modern Luniks (2042-)
 **Modern Luniks** is described as the period after the various cities and nations were formed and founded, and every territory had been laid out in peace. The enormous economic boom that took place in the founding ~30 years reaches an end, and normality, similar to that on Earth, begins.
+
+**Modern Luniks** is also where all of the stories that are documented take place in.

@@ -5,7 +5,6 @@
 Per 2024 I want to develop this project in particular into something that can grow into a fully fledged-out story. One that has a clear start, and a clear end, and a series of characters that frequently return and go through the same chapters together. **LUCKY WATER**, **NEUROKICK**, **LEREMKOV**, and every drug that might be created along the way, will be included and will frequently make a return in one way or another. 
 
 
-
 ## FOCUS ONE: LUCKY WATER
 The above described drug, *Lucky Water*, has moved to [[LUCKY WATER]] in order to free up this document as an informative document. 
 

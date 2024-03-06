@@ -22,19 +22,20 @@ Every ghost has gone through three stages upon introduction to their new Temple.
 *// The two stages below are special to Cziskvelén, as he was the first ghost to experience them, as well as the last.*
 - **FIRST LIGHT** // The event in which **Cziskvelén**, and later **Vászi**, received their powers from the **Chroma** to shape the *Elevated Realm* in order to support new Ghosts through their new lives.
 	- **FIRST LIGHTS** are available at [[FIRST LIGHT]].
-- **CLOSURE** // The event in which **Cziskvelén** succumbed to the void, bidding farewell to **Vászi**, and handing **Chroma**, as well as the World with it over to him.
+- **CLOSURE** // The event in which **Cziskvelén** succumbed to the void, bidding farewell to **Vászi**, and handing **Chroma**, as well as the World with it, over to him.
 	- **CLOSURE // CZISKVELÉN** is available at [[CLOSURE]]. 
 
-*// The cycle below is events that happen during the end of a lifetime for a ghost. However, said cycle is still on the drawing board and might end up being excluded altogether*
+*// The cycle below is events that happen during the end of a lifetime for a ghost. However, said cycle is still on the drawing board and might end up being excluded altogether* \
+*// **March 2024**: Currently it's drafted that all future deaths of Ghosts will happen under **CLOSURE**, meaning that **TRAGEDY** as a concept will be phased out and removed. However, the odds that any other death of a Ghost will be written the same way as **Cziskvelén's** are exceptionally low.*
 
 - ***DESPAIR** // The stage in which the quality of life of the Ghost or Temple is rapidly declining and in danger of running out.* // The **DESPAIR** entry is currently used in *DESPAIR // VÁSZI*, carrying a different meaning.
 	- **DESPAIR // VÁSZI**, which uses the alternative meaning for **DESPAIR**, is available at [[DESPAIR]].
-- ***TRAGEDY** // The event in which the Temple falls, or in which the ghost simply dies and vanishes, leaving behind just their mask.*
+- ***TRAGEDY** // The event in which the Temple falls, or in which the ghost simply dies and vanishes, leaving behind just their mask. (**Due for removal**)*
 
 ## A Quick Rundown
-The current focus lays on the **Temple of Vestia**, where a small group of characters is actively being developed and have sprung to life. This list of characters is still rapidly growing, but is available at [[List of notable people#GHOST TEMPLES // VESTIA (2023)]], as well as under its corresponding header in the current page. 
+The current focus lays on the **Temple of Vestia**, where a small group of characters is actively being developed and have sprung to life. This list of characters is still rapidly growing, but is available at [[Historic Events/GHOST TEMPLES/Character List|Character List]], as well as under its corresponding header in the current page. 
 
-Each Temple has a **Settler**, which reflects in the symbol that is created upon the foundation of the temple, and will forever be stored as a *plaque* within the *Memorial Hall*. Within this Hall, all sprits of present and past ghosts are available, as well as basic information regarding the temple and its symbols. The symbols are properly explained at [[Scattered Info#Known Symbols]].
+Each Temple has a **Settler**, which reflects in the symbol that is created upon the foundation of the temple, and will forever be stored as a *plaque* within the *Memorial Hall*. Within this Hall, all spirits of present and past Ghosts are available, as well as basic information regarding the temple and its symbols. The symbols are properly explained at [[Scattered Info#Known Symbols]].
 
 Every **Ghost** has a unique set of abilities and powers that they either acquired through experience in their new realm, or were carried over during *Rebirth*. These abilities are referred to as [[SIGNATURES]], and require a varying amount of *Spiritual Energy* before they can be activated. 
 
