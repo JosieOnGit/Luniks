@@ -6,6 +6,7 @@ Before entering the Temple, they are approached by a Guardian of the respective 
 
 
 ## // LUNA
+### SPAD (Signal Passed At Danger)
 Vestia Rapid is a conventional high-speed rail service connecting the various nations of Vestia, being capable of reaching service speeds up to 400 km/h and connecting the different capitals without sacrificing extra budget for a line that exclusively supports Maglev trains, a technology that remains dominant in Asia. In 2040, the new train lines had undergone intensive testing and the trains were finally allowed to enter service in 2044, and continued to service the line without any major incidents. \
 That is, until **August 30th, 2074**. Entering regularly scheduled service from Álusken to Benelux, passing through Zhuehai, is a Vestia Rapid VR20. Boarding in Zhuehai is Luna — then known as *Storm* — a non-binary young adult who was out with his friends in Shánzhe, before waving them goodbye early to board the approaching VR20. \
 Upon boarding in Shánzhe, the train was scheduled to pass through Matéiazhu and the Danish exclave of Karlsborg, before reaching their home country of the Benelux. Usually, this means the service should cross the border about 45 minutes after departure.
@@ -16,6 +17,7 @@ Upon boarding in Shánzhe, the train was scheduled to pass through Matéiazhu an
 
 
 ## // SNOW
+### Wrong Place, Wrong Time
 *// POV: Joseph* \
 With sketches and notebooks stuffing my backpack to its fullest, Daniel and I departed from school for the holiday, heading to **Norden**, the enormous supermarket that had stood in the heart of Keustellet for as long as my memory could take me back. We had made ambitious plans, we'd travel to Vao at least once, we even aimed to go to Hédenis for a few days for the hot weather, and we'd especially enjoy our time off, but with each bullet point that we had planned for this holiday, another bullet point appeared from a deadline that was soon to follow after the end of the holidays. 
 
@@ -44,6 +46,7 @@ My eyes struggled to stay open, the nauseating feeling increasing infinitely, un
 
 
 ## // WINTER
+### Neverending Daydream
 *// POV: Winter* \
 With a deep breath, I sit upright in the tent, hearing Martin still snore beside me while the sleeping bag to my left was already empty, meaning Anita had already left the tent to go for her morning walk. Putting on my joggers and hoodie, I carefully and quietly unzip the door of the tent, seeing how it's still fairly dark outside; It's barely dawn, but I do still see bright beams of light on the horizon, and a dark sky slowly turning orange. Right outside the tent was Anita, having plopped down in a folding chair, making herself a simple tea over the induction heater, as she suddenly hears and spots me crawling out of the tent. *"Oh, Julia! I hadn't heard you wake up, good morning!"* She cheerfully whispered to me, making sure to not wake the others still sleeping in the tents up. *"Had a bit of a pleasant sleep in the Mónsan Mountains?"* \
 With my hands rubbing my face to wake myself up, I groggily nodded, still feeling very drowsy from how late we all went to sleep last night, how long it had taken us to even reach this open spot deep into the forest. But despite this spot being temporary, it sure was a sight to see the sun rise like this. **"I slept pretty terrible,"** I whispered back to Anita, realising just how raspy my voice was, worried that I was already developing a cold, but shrugging it off as a morning voice, **"But it sure was worth this view."** 
@@ -62,11 +65,7 @@ But that sense of warmth and hope was short-lived, as none of us could imagine w
 The floor beneath me had given way.
 
 ## // MARTEN  
-**Drafted:** \
-We follow Marten on his deathbed in the University Hospital of Lasz in Vao, where he originally studied to become a teacher on the same department that he was now being taken care of.  
-- A timelapse of how the days pass by rapidly, his condition worsening and getting bleaker every day. Family comes and goes, friends visit and depart, day in day out, it was just waiting for the inevitable, until his cancer spreads to his lungs from his heart 5 months later, ultimately sealing his fate.  
-
-### Drafted Story
+### Dancing with Dragons
 *// POV: Marten* \
 It hadn't just been days that had flown by, it'd been months. Bedridden away from home, stuck at the university I once studied at, unable to do anything but watch the clocks tick away while my condition worsens. The university student I once dreamed to teach at the hospital, were now the once taking care of me, and my dream of becoming a teacher was becoming slimmer by the day. \
 My mom I had lost to cancer, my dad was in Zhuehai for his work, and with how busy he was this fiscal quarter it wasn't easy for him to visit me either, all the way in Lasz. We videocalled, and made the best of my worsening situation, but it was lonely. 

@@ -7,12 +7,12 @@ The **Geography** is fairly straightforward. One document and several folders ar
 - **Continent Folders**: These folders are divided up into the four continents, each of which contain separate documents of each of the nations that are present on that continent, which themselves have a bit of history and contain a list of cities and towns within that nation.
 
 # Historic Events
-**Historic Events** is the maze of the repository, where every developed story is written down in. We'll go through every story, and tailing documents together, so you can dive in whereever you wish!
+**Historic Events** is the maze of the repository, where every developed story is written down in. We'll go through every story, and tailing documents together, so you can dive in wherever you wish!
 ## GHOST TEMPLES
 Main document: [[GHOST TEMPLES]]. \
 **GHOST TEMPLES** is the biggest story to date, that encompasses the entire planet in various temples, where people that have passed will have a chance at death to be reborn there, and continue to live, albeit in the shadows of the "real" world. 
 
-A quick rundown of the Temples, its routines and traditions, and a brief description of all 5 stages in the lifecycle of a ghost, are all available at [[GHOST TEMPLES#A quick rundown]]. Additionally, all 5 stages have an accompanied story (or several), which are all available in the similarly named document in the folder.
+A quick rundown of the Temples, its routines and traditions, and a brief description of all stages in the lifecycle of a ghost, are all available at [[GHOST TEMPLES#A quick rundown]]. Additionally, all stages have an accompanied story (or several), which are all available in the similarly named document in the folder.
 
 ## Leremkov Trials
 Main document: [[Leremkov Trials]]. \
@@ -30,6 +30,7 @@ The **Stories** folder is a collection of unrelated drafts or stories that don't
 - **Alkéisa's Ring**: A development note of the deployment of **The Ring**, a planetary ring that protects the planet of Luniks, which was designed and built by Alkéisa.
 - **Álusken's Mysteries**: Currently a single story, but has the potential to grow and expand to be sorted out into its own folder as well. The nation of Álusken has a very medieval feel, especially around its capital city, where the reigning king actively denies and suppresses modern technologies. Around this city, strange occurrences happen, which are described in this document.
 - **Liétivus Pact**: Originally drafted in 2020, this is a resolution proposed by **Sander Liétivus**, in an effort to calm down the ongoing *Civil War* in *Kósfrii*. However, this doesn't currently exist yet, as the timeline isn't adjusted to this war, but it's still listed for archival purposes and might return to see the light of day in the further future.
+- **Story Drafts**: This document contains small entries that are seeking insertion in the grand scheme of things, and can also be considered drafts that came across my mind in a single moment. The progress on the several drafts, as well as their redirections, can all be found here with an explanation as to what their intended purpose might become.
 - **OSLO REVOLUTION**: Originally drafted in 2018, this document will soon list all the past developments on this revolution while it's actively being altered to fit into modern day Luniks, before it'll gradually grow bigger and fit nicely into the bigger picture.
 
 ## TRAVEL RISK
@@ -40,7 +41,7 @@ Main document: [[TRAVEL RISK]]. \
 Lastly, three lists are present: \
 - **List of historic events**: This list discusses the brief history of how modern Luniks came to be, going over where the timeline from our real world deviated and how Luniks quickly became habitable for modern human life.
 - **List of notable names**: This list mentions various company names, that might frequently appear throughout all stories.
-- **List of notable people** (Subject to extraction and folder division): This list is the most important, and is also frequently updated, as this contains all the existing characters (As well as drafted and yet unused characters), with a brief description of their appearance, but especially the roles they have in the story they are included in.
+- **List of notable people**: This folder has been extracted, and now serves as a diversion document that leads to the respective character lists of all the stories that have been made so far. 
 
 # Languages
 **Luniks** is also home to various languages, and in this folder, three of those languages (which are constructed and hand-made), are described.

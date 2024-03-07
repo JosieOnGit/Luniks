@@ -4,6 +4,7 @@
 *// Context: Leslie and Nick obtained a leaked document of their higher ups, containing a plan for them that could either help them escape Deth-Kelétam, or kill them while trying.*  
 
 ## Drafted story  
+### The Impossible for Everything
 Stepping through the door, carefully and quietly closing it behind him, is Nick. An uneasy look and disgruntled expression painted his mood, taking off his shoes in a more annoyed and rapid manner, tossing them on the floor without much further care. **"Un-fuckin'-believable.."** he mumbled to himself, his anger taking a hold of him as he made his way to the living room, playing his briefcase on the coffee table and immediately opening it, revealing a folder of various documents, all stamped with the same company logo: [WIP]  
   
 *"What's the matter?"* Leslie asked from the hall across, her quiet footsteps making their way to the living room.  

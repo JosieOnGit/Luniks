@@ -10,6 +10,9 @@ His name, *Settler of Vászi*, is derived from the area in which he had settled 
 ### Past Life
 Nothing about Vászi's past life is known, as he was the original settler of the Temple of Vestia, together with Cziskvelén. Soon after, Vászi would stay behind to guard the newly-founded temple, while Cziskvelén would continue to roam the nature reserve and ultimately lay ground to the *Temple of Álusken*, where he would share Guardian duties with **Settler Matéis**. 
 
+### Journey
+**Vászi's Last Dance** (Despair) -> **The Legacy Carries Over** (First Light) 
+
 
 ## Settler Cziskvelén
 Cziskvelén is a **Swordsman** and **Settler**, having settled the *Temple of Vestia* alongside Vászi, and the *Temple of Álusken* alongside Matéis. Cziskvelén's life has mostly become a legacy, as he is usually referred to as the "Original Settler", long after the foundation of the *Temple of Zhuehai*, as his own temples would cause more temples to bloom throughout the planet. 
@@ -18,6 +21,9 @@ Cziskvelén bears a **Plain White Mask**, albeit more worn down than that of Vá
 
 ### Past Life
 Before being killed and subsequently approached by the **Eye of Chroma**, Cziskvelén was a hitman (Nikec Kráminsz) in **United Máneá**, soon before it fell. Having gone through blood and sweat without emotions, he initially was confused why he was given the chance to go through Rebirth at all, especially since the targets that he eliminated on Luniks ultimately led to the **Collapse of United Máneá**, but even despite this, **Chroma** knew that Cziskvelén would be the right person to guide others into a new life.
+
+### Journey
+**Life After Life** (First Light) -> **Farewell, Vászi. Farewell, Chroma** (Closure)
 
 
 ## Guardian Marten
@@ -30,11 +36,19 @@ Despite the fact he originally was against the established standards within the 
 ### Past Life
 Marten is the only ghost (as of Dec 2023) to not be assigned a new name upon Rebirth. In agreement with Vászi, who guided him through Rebirth, he maintained a set of his memories and pursued his original dream career: Guiding and teaching others. At the time of his death, Marten was 26 years old and actively working towards becoming a university teacher in health and community work, amongst studying regular science. In the end, he fell short to his dreams and was diagnosed with heart cancer, and succumbing to it within a year. Because Vászi believed that Marten had a good enough heart with infinite willpower, he offered him to go through Rebirth and guide him to become a Guardian, giving him a second chance at reaching his dreams.
 
+### Journey
+**Dancing with Dragons** (Last Light) -> **Freed From Pain** (Rebirth) -> **A Dream Fulfilled** (Exposure)
+
+
 ## Guardian Sóvis
 Together with **Marten**, Sóvis went through *Guardian Apprenticeship* soon after his own rebirth. With a timid, calm, and friendly personality, both Vászi and Matéis understood that this was the right path for Sóvis, for him to use his good heart to guide others into their new lives as well and take on the Guardian role. 
 
 ### Past Life
 Before his death, Sóvis was a simple office worker.
+
+### Journey
+Sóvis currently has no entries in any of his stages.
+
 
 ## Luna
 Appearance wise, **Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their strong *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
@@ -45,6 +59,9 @@ Their name is directly derived from **Luna**, Earth's moon.
 
 ### Past Life
 Before their death, Luna was still in college, where they studied computer science and intelligence. Unlike their usual appearance, Luna actually dreamed of getting into fashion and starting their own, non-standard clothing brand. The sudden lapse between their death and rebirth gave them the opportunity to utilize their previously gained knowledge about neuroscience and computer intelligence (As seen in their *Curious Eye* Signature), and while they're still very insecure and shy about it, also allows them to experiment with clothing of their own, now that the entire palette and canvas are available to them.
+
+### Journey
+**SPAD** (Last Light) -> **Unplanned Stop** (Rebirth) -> **Untitled** (Exposure)
 
 
 ## Snow
@@ -57,6 +74,9 @@ Her name is directly derived from the area in which she died in her previous lif
 ### Past Life
 Before her Rebirth, Snow originally was a young man who studied Arts & Crafts, which further explains her continuous struggle to adapt to her new form and new life within the Temple and within the protection of Vászi. Besides this, not much is known about Snow's past life either, except for her previous identity and her cause of death, but what especially sparked Vászi's and Marten's interest is how vastly different her spirit was compared to her physical body. Because of this, Snow and Marten frequently spend time together ever since Snow's Exposure, to go over this and help Snow get more accustomed to her new life. 
 
+### Journey
+**Wrong Place, Wrong Time** (Last Light) -> **Despite Everything** (Rebirth) -> **Of All Colours** (Exposure)
+
 
 ## Winter 
 **Winter** is a fairly young girl, with the animal traits of a *Snow Leopard*, and is frequently seen wearing thicker types of clothing, traditionally suited for winter weather, contra *Snow*, who is also a "Ghost of Winter" in a sense, but instead wears more thin dresses.
@@ -67,3 +87,6 @@ Winter bears **no mask**, and when offered one by **Sóvis**, kindly denied the 
 
 ### Past Life
 Before her Rebirth, Winter spent a lot of time roaming through the woods and went thrillseeking with a tight group of friends. She picked up things such as biology and photography as her fields of interest, and planned to study the differences in nature between Luniks and Earth, and hoped to help with reforesting on Earth too. Despite those dreams now lost forever after losing her life in the Morrésik Mountains, she is still often present in the forests and mountains near the **Vászi** and **Vao**, eager to learn more with unlimited time on her hands.
+
+### Journey
+**Neverending Daydream** (Last Light) -> **A New Trail** (Rebirth) -> **Home in the Forests** (Exposure)

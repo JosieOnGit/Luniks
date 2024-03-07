@@ -15,7 +15,7 @@ Upon rebirth, a newly born Ghost is introduced to their new Guardian, that will 
 Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
 
-### Drafted Story
+### Unplanned Stop
 *POV: Luna*
 
 *"The deafening sounds of everything collapsing had passed, I felt like I lost the ability to hear, to see, to feel. Had I died? What happened? I remember the train, the derailing, the crash. I must have died, haven't I?..."* \
@@ -42,7 +42,7 @@ He reached out his hand to me, showing no signs of hostility whatsoever, as I wa
 Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
 
-### Drafted Story
+### Despite Everything
 *POV: Snow* \
 I woke up with immense soreness and icy chills spread throughout my body. It felt out of place, it felt wrong, but I couldn't lay a finger on just what it was. The vivid memories of the explosion, Daniel screaming for help, the numbness, wetness, and immense pain I felt just now, what had happened to that? I opened my eyes slowly, a layer of dust on the floor beneath me, a lingering cloud of dust filling up the rest of the aisles, the single rays of light from the hole in the roof providing the only light in the entire market. My head continued to throb, blood rushing through my veins as it slowly but surely awoke again. Just where was I? Had I been rescued after all? Did Daniel make it in time with calling 992, did I merely pass out? \
 In shock, I look around to find clues, my memories appearing in snippets, one after the other at the speed of light. I saw Daniel, the bottle of Vodka he was holding, my worries about Carbine, until the bang right above me. I felt the pressure from the roof collapsing on top of me once more, the emotions that Daniel and I were going through replaying over and over again, tears streaming down my cheeks now knowing that that was behind me. I was buried under the pile of rubble, waiting for my inevitable death. \
@@ -76,7 +76,7 @@ A chill runs through my spine, and an everlasting moment of silence begins betwe
 Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
 
-### Drafted Story
+### A New Trail
 *POV: Winter* \
 With a loud thud, I suddenly jumped back to my senses, even if everything felt off and wrong. I felt oddly energetic, yet sore all over, and especially nauseated. It felt like I was hit by a truck, on the highway which was carrying nothing but dense metals at high speed, my body hurt more than I had ever felt before and I couldn't place a finger on why that was the case. With a loud cough, I feel my head begin to pulse in pain too, before all of a sudden, all the soreness and pain vanish into nothingness. Struggling to fight through the new numbness in my body and mind, I gradually lean upwards and open my eyes, expecting to see total darkness after the fall, but instead finding myself buried in snow, right next to the ravine I thought I had fallen into. Now realising what was going on, I desperately look around, trying to find a glimpse of Anita, or Markus, or anyone that witnessed me fall. Did they somehow manage to pull me out of the ravine, but then abandon me? *"If they did.. how did I.. survive?"* I thought to myself, panic rushing through my veins as I desperately look around, needing to find an answer, needing to find where the others were, so I could tell them that a miracle had happened, that I had survived the fall. But instead of finding the others, my eyes landed on two mysterious figures before me, turning my panic into worry.
 
@@ -110,6 +110,10 @@ Just like a normal day in his hospital bed, Marten would wake up expecting nothi
 - He steps out of bed in awe, stretching and moving like he hadn't been able to do, before deciding to step out of hospital room, wondering why it's do quiet in the otherwise busy and lively hospital  
 - Instead, upon stepping out, Vászi stands at the end of the hallway, who then explains Marten's situation and guides him through his rebirth
 
+### Freed From Pain
+*// POV: Marten*
+
+
 
 ## // RAINE
 **KEY NOTES**:  
@@ -122,9 +126,8 @@ Just like a normal day in his hospital bed, Marten would wake up expecting nothi
 Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
 
-### Drafted Story
-*POV: Raine*
-
+### A Voice Who Called
+*POV: Raine* \
 With a deep sigh, I picked the jar of pasta sauce from the cabinet in the supermarket. I personally despised making myself pasta, but with guests coming over, I had to please the guests as well, knowing that Michael surely wouldn't mind me going outside of my comfort box with dinner. A few steps northbound, I headed to the meat section of the store, taking a simple box of ground beef, betting on having some left over beef to treat myself and Michael with something special, just for the two of us. From the thought alone, my cheeks turn into a deep red, imagining all the things I could make, the smile on his face as he would take his first bite, oh, how romantical!
 
 But it wasn't until I reached the last aisle that I started to realise things were off. Taking a wine bottle off the shelf as the cherry on the cake, I saw something off in the centre of my eye. Colours were starting to get more muted, the noise of the crowd within the supermarket began to fade out. The combined noise of every customer chatting in a casual, friendly way with the others, began to rapidly fade into the same sound. 

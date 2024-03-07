@@ -12,7 +12,7 @@
 
 Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
-### Drafted Story
+### Unspecified Title (Subject to tweaks)
 **// Subject to tweaks**: Originally, I wanted Luna to be unaware of the Ghost Temples existing as a whole, especially being unaware that there was an underlying connection. After the creation of *REBIRTH // SNOW*, this approach changed, and drastically changed the timescales as well. Because of this, several tweaks need to be put through the currently drafted story so that it becomes more in line with *EXPOSURE // SNOW*. Tweaks might include:
 - Revealing the mysterious girl is also a ghost.
 - Adjusting time scales so that the story doesn't take place after "All those years"
@@ -45,7 +45,7 @@ Info on Symbols: [[Scattered Info#Known Symbols]]
 
 This is a very bold and rough draft because I struggle to properly put it to words and have it flow nicely into an actual story. Nevertheless, this is exciting to me because it showcases one of Snow's personal strengths, rather than her weaknesses.  
 
-### Drafted Story
+### Of All Colours
 *POV: Snow*  \
 It's been a few weeks ever since. Day in, day out, I met with Vászi at the temple. We'd go through the different halls, the different divisions and wings that were underground, hidden away from other sources of life, except for the occasional group of deer that showed up in our forest. But it hasn't been too long, I've learned to adapt, I've learned to live with what I have now, even after death. 
 
@@ -78,7 +78,7 @@ As for Marten, I'd like him to gradually grow into a non-characteristic Guardian
 Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
 
-### Drafted Story
+### Home in the Forests
 *// POV: Winter* \
 It's been a while since that strange day in the Morrésik woods, where I was revived and reborn into the place and time I find myself in now. Marten had led me to his home, which he shared with Snow, and had since treated me as if I'd been family from the very first second onwards. I've frequently been in contact with Sóvis and Marten respectively, both aiding me and teaching me the ropes in my new life, the new world and culture I was put into, and both said they were very impressed with how quickly I managed to get the hang of everything. Apparently, most ghosts in my situation would go through a series of traumas from their past lives, or struggle immensely to adapt, but I didn't experience any of that myself. It worries me, and makes me feel like something is fundamentally wrong with me or missing, but I've also been feeling at peace with it. I can't combat any of this, because I have no choice but to believe that I did in fact go through rebirth, but even if so, things seem fine, so that makes me feel fine.
 
@@ -124,3 +124,11 @@ With a quiet sniff, I feel the wind begin to pick up around us again, the snowy 
 ### What's next? 
 For **EXPOSURE // WINTER**, I've honestly already reached the end of what I intended to write about Winter adapting to her new situation within the *Temple of Vestia*. She has bonded both with Marten as a Guardian, and Snow as a sister, and from here on I will probably include Winter in other various stories together with Snow, considering the two are almost inseparable now. \
 Over time, I'd like her to further develop her *Signatures*, but especially pick up various hobbies for her to kill time as wel, whether that is alone, or together with Marten and Snow. During this, she will gradually open up, as she originally had a very closed-off and bold personality that gradually loosens up over time as she gets introduced to new people within the Temple. 
+
+
+## // Marten
+**Drafted**: \
+
+
+### A Dream Fulfilled
+*// POV: Marten*
