@@ -1,4 +1,5 @@
 # Leremkov Trials // Character List
+This Character List belongs to [[Leremkov Trials]].
 
 ## Vitaly Leremkov
 Leremkov's story is described in [[Vitaly Leremkov, 2039-2095]].

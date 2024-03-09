@@ -1,4 +1,5 @@
 # OSLO REVOLUTION // CHARACTERS
+This Character List belongs to [[OSLO REVOLUTION]].
 
 ## Lars Persson, Sergus Persson (Awaiting inclusion)
 Both have led the revolution that took place in Oslo, Norway. However, since the direction and course of the Luniks project has been changed so often and so much, the Oslo revolution no longer fits within the timeline of Luniks. This means both people will either disappear within the story, or stay and become attached to a different story.    

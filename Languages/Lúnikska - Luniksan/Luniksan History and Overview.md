@@ -64,7 +64,7 @@ Some things to note:
 - **Ś** and **X** sound and are identical, and the letters are interchangable within the language as well, both are represented and understood and are accepted as well. The word "English" can be written both ways: "Angliśká" and "Anglixká".
 - **J** can be pronounced as ~~both~~ **J**ungle ~~and **Y**oung, but the only way to actually figure out which of the two you have to use is completely contextual, and is a matter of knowing the language. This makes it hard for someone who doesn't speak Luniksan to differentiate the two, as it's very prone to switching up.~~ **(2023 edit: This has been revised and is now only pronounced the same way Jungle is. The Y sound in Young is now written with an I: "La Maiai" (The Maya's))**
 - ~~**Ŭ** is sometimes transliterated as **W**, since it's a more accessible letter, and is more easily recognised and understood.~~ **(2023 edit: Ŭ has been replaced completely by W, as this is the more legible option)**
-- Accented vowels like **Á**, **É**, traditionally define the emphasis in a word, but in the case of multiple accented vowels, the emphasis will always be on the second to last vowel.
+- Accented vowels like **Á**, **É**, traditionally define the emphasis in a word, but in the case of multiple accented vowels, the emphasis will always be on the second to last **accented** vowel.
 - Although not explicitly listed, the Luniksan script contains an accentuated **K**, and despite its existence, its only usage is with loanwords containing the /x/ sound, which by itself does not exist and is not used within Luniksan. This is most commonly transliterated as **KH**, see: "Lakh" /ləx/.
 
 

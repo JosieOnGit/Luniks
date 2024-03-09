@@ -35,7 +35,9 @@ A few things to note: The **Luniksan calendar** only existed as a draft in the p
 ### Collapse of United Máneá
 There's currently no proper date for when United Máneá is officially declared and recognised as a split nation. The Luniksan calendar would suggest that this takes place in Anno Luniks 447, which would be roughly 480 years after the colonisation of Luniks. This would take a very long time, and with existing characters interacting with others that live around the late 21st century, the Collapse of Máneá will probably take place around the year 2090-2100 mark. 
 
-United Máneá will break apart into Máneá, Zakh'háfo, Rhódisz.
+United Máneá will break apart into Máneá, Zakh'háfo, and Rhódisz.
+
+// **March 2024 Update**: United Máneá collapses in **2039**. This gives every event that happens afterwards an easy opportunity to connect properly to the two collapsed nations that follow the collapse of the united nation, as well as giving it a more realistic timescale to connect to **GHOST TEMPLES** and **Nikec Krámisz's** involvement in both aforementioned story, as well as the connection with **Travel Risk**. 
 
 
 ## Álusken's Mysteries
