@@ -12,7 +12,7 @@ Originally, this process was intended to research the various effects that elect
 After the **Máneán collapse**, the institute that researched this technology escaped to Rhódisz and Kérisant, where they continue to evolve the technology in safe hands.
 
 ### Máneán collapse and street clones
-After the collapse of **United Mánea** in *2039*, any sort of security was quickly lost and classified technology and research found the streets in no-time. This means that next to **NEUROKICK**, other means of research were soon found on the streets in dark alleyways, either sold for a high price, or faked and sold for a low one. Experimental weaponry, as well as body modifications using electronics and so-called cyberwear, quickly ended up in unauthorised areas with an intent of harm. 
+After the collapse of **United Máneá** in *2039*, any sort of security was quickly lost and classified technology and research found the streets in no-time. This means that next to **NEUROKICK**, other means of research were soon found on the streets in dark alleyways, either sold for a high price, or faked and sold for a low one. Experimental weaponry, as well as body modifications using electronics and so-called cyberwear, quickly ended up in unauthorised areas with an intent of harm. 
 
 A key change in the method is that the drug is now completely *standalone*, and no longer needs the external monitoring nor the external doctors or applicants that supply the drug. This makes the drug easier to apply by a single person. Additionally, the chip is not ejected after usage, and can be used *numerous times*, making it much more attractive for those that are looking for a frequent kick, rather than a dedicated research kick. 
 
@@ -60,3 +60,23 @@ Clearing his throat, Vikram takes a second to collect his thoughts and get a gli
 *"Listen, Mika. Do you want to live, or do you want to die on the way out? I don't care that you cross through Kristánisin, The Agency won't have interest in you anyway. Just go, next in 4."* \
 I shook my head, taking a deep breath upon reaching the ground floor while the sirens in the building became louder with every second. \
 **"Copy. Locking down and extracting. See you in Egórece."**
+
+
+### Drafted story
+*// POV: Mika* \
+*// Metro da Máneá, Egórece*
+
+*Nest halt: Egórece. Sette Metro fortsettést di: Egórece-Júgul, Osselev, i Bwiskvá.* \
+With stress refusing to leave my body, I nervously pressed the marked "STOP" button on the door. Ever since transferring at Álef, I felt like I was continuously being watched, and the adrenaline that my neurotech continued to produce and pump into my veins didn't help in the slightest either. Vikram had told me that passing through Kristánisin wouldn't be a problem, but even so, I couldn't help but worry that The Agency would still capture me, whatever their motive might be. \
+Finally, the metro came to a halt, the once beautifully decorated metro station of Egórece having deteriorated even further in the past few years. The upkeep of the stations were terrible, the only stations that didn't look like a mess were those of the capitals and airports, and Egórece sure wasn't one of those. I put my scarf back over my mouth, the yellow stripes making their appearance again, causing me to stand out for Vikram to easily spot me, but also make me an easy target for any other agency that put money on me.
+
+With my heart pounding in my chest and adrenaline surging through my veins, I held the straps of my backpack with the Neurokicks tightly, making sure I won't be able to lose it. Looking around frantically for any threats or suspicious people, I feel a slight tingle go through my legs, as if my neurotech sensed a threat in the distance and prepared my body to flee. But even then, I made my way up to the stairs as calmly as I could while the quiet whine of the metro departing veers off into the tunnel at the end of the station. The feeling of being watched refused to exit my mind, and I started to look around the station even more nervously as the feeling that I was being watched and hunted increased tenfold. 
+
+Tapping my earpiece, I contacted Vikram, updating him on my whereabouts and where the extraction would be. \
+*"Mika! I take it you're in Egórece?"* \
+I nodded, whispering back quietly: **"I have, making my way to the exit now, feeling like I'm being watched. Can you confirm?"** \
+*"Cannot right now, Mika."* Vikram replied almost immediately. *"I'm afraid we have uninvited guests over at Egórece too, so details are limited."* \
+**"Understood, code 5?"** \
+*"Correct! Take to the skies, as they say!"* Vikram replied, immediately breaking the connection right after as I made my way towards the exit. "Take to the skies" was what Dáritke understood as "Code 5", which was one of the emergency escapes they had established when Dáritke was first approached by the police many years ago. The goal was simple on paper: Reach the top of Hád Bésim Tower, and a helicopter will pick you up there. In theory it's not as easy as it sounds. Hád Bésim is a tower with 70 floors, and even for a runner like me, that takes an extreme toll on you. And to make matters worse, it's also heavily guarded by police. 
+
+I shook my head, taking the stairs to exit the Metro station, and immediately looked to the sky to see Hád Bésim tower above me. I sighed deeply, fastening my backpack extra tightly as I made my way towards the tower, forming my plan to enter and reach the top once more.

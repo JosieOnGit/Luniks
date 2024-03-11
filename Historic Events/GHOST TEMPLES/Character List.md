@@ -1,7 +1,7 @@
 # GHOST TEMPLES // CHARACTERS
 This Character List belongs to [[GHOST TEMPLES]].
 
-## Settler of Vászi
+## // Settler of Vászi
 As the **Guardian of Vestia**, the *White/Grey* dress code is mandatory for a Guardian to wear. Because of this, Vászi wears a blacked-out and grey harness, over which he wears a robe or mantle, with a collar that extends far out.
 
 Vászi bears a **Plain White Mask**. He prefers a featureless mask that hides his expressions and body language while guiding a new ghost through Rebirth. This way, he will give the new ghost the most neutral and natural way to process it all, without giving a first impression, be it good or bad, through an altered and personalized mask.
@@ -16,8 +16,7 @@ Nothing about Vászi's past life is known, as he was the original settler of the
 [[DESPAIR#Prologue]] -> [[FIRST LIGHT#The Legacy Carries Over]]
 
 
-
-## Settler Cziskvelén
+## // Settler Cziskvelén
 Cziskvelén is a **Swordsman** and **Settler**, having settled the *Temple of Vestia* alongside Vászi, and the *Temple of Álusken* alongside Matéis. Cziskvelén's life has mostly become a legacy, as he is usually referred to as the "Original Settler", long after the foundation of the *Temple of Zhuehai*, as his own temples would cause more temples to bloom throughout the planet. 
 
 Cziskvelén bears a **Plain White Mask**, albeit more worn down than that of Vászi. Being a swordsman, he also bears a long two-handed sword, which channels light as a power (As seen in Vászi's *Blade of Cziskvelén* Signature). 
@@ -30,7 +29,7 @@ Before being killed and subsequently approached by the **Eye of Chroma**, Cziskv
 [[FIRST LIGHT#Life After Life]] -> [[CLOSURE#Farewell, Vászi]]
 
 
-## Guardian Marten
+## // Guardian Marten
 Marten, along with a number of others, was a **Junior Guardian** at the Temple of Vestia, up until Vászi's departure. Alongside Sóvis, he studied to become a Temple Guardian in similar fashion to Vászi and Matéis, minus the attire, which he strongly opposes. Unlike Vászi, Marten tends to wear formal clothing, usually meant for winter, that doesn't use the *White/Grey* dress code which is otherwise mandatory for Guardians.
 
 Marten originally did not bear a mask, but has since switched to a **half-Mask**, covering just his mouth and jaw. He did choose to keep this in a pale white, similar to other Temple Guardians, as a form of respect to his *Guardianship*.
@@ -45,7 +44,7 @@ Marten is the only ghost (as of Dec 2023) to not be assigned a new name upon Reb
 [[LAST LIGHT#Dancing with Dragons]] -> [[REBIRTH#Freed From Pain]] -> [[EXPOSURE#A Dream Fulfilled]]
 
 
-## Guardian Sóvis
+## // Guardian Sóvis
 Together with **Marten**, Sóvis went through *Guardian Apprenticeship* soon after his own rebirth. With a timid, calm, and friendly personality, both Vászi and Matéis understood that this was the right path for Sóvis, for him to use his good heart to guide others into their new lives as well and take on the Guardian role. 
 
 ### Past Life
@@ -55,7 +54,7 @@ Before his death, Sóvis was a simple office worker.
 Sóvis currently has no entries in any of his stages.
 
 
-## Luna
+## // Luna
 Appearance wise, **Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their strong *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
 
 Luna bears an **Oni Mask**, handcrafted to their preference and integrated a mask featuring *Golden/Red* and Chinese-inspired characters and artworks, as a tribute to the many days they had spent in Matéiazhu ever since being reborn.
@@ -70,7 +69,7 @@ Before their death, Luna was still in college, where they studied computer scien
 [[LAST LIGHT#SPAD (Signal Passed At Danger)]] -> [[REBIRTH#Unplanned Stop]] -> [[EXPOSURE#Unspecified Title (Subject to tweaks)]]
 
 
-## Snow
+## // Snow
 **Snow** has primarily worn simple, white dresses and suits ever since her Rebirth, still adapting to her sudden changes, especially those that were brought over through the recovery of her spirit by *Vászi* during her Rebirth. Next to wearing primarily white clothing, she also sports long, wavy white hair and possesses the animal characteristics of an *Arctic Fox*, such as her snow-white tail and ears. Smaller details include a slight black tip on her tail, as well as small black spots on her left ear. She has *heterochromia*, as her left eye is a **darker blue** while her right eye is a **faint blue**.
 
 Snow bears a **Kitsune Mask**, which she began personalizing by adding black spots to the left ear, mirroring the black spots on her actual ears, and integrating various pastel colours to *"add colour to the empty space of heaven"*, as she prefers to call it. However, after several of weeks of training with Vászi, and after her **EXPOSURE**, she no longer needed her Mask for the majority of cases, and keeps it as a remembrance piece to her **REBIRTH**.
@@ -85,7 +84,7 @@ Before her Rebirth, Snow originally was a young man who studied Arts & Crafts, w
 [[LAST LIGHT#Wrong Place, Wrong Time]] -> [[REBIRTH#Despite Everything]] -> [[EXPOSURE#Of All Colours]]
 
 
-## Winter 
+## // Winter 
 **Winter** is a fairly young girl, with the animal traits of a *Snow Leopard*, and is frequently seen wearing thicker types of clothing, traditionally suited for winter weather, contra *Snow*, who is also a "Ghost of Winter" in a sense, but instead wears more thin dresses.
 
 Having mentioned Snow, she and Winter get along exceptionally well, and are sometimes even passed along as twins, despite Winter originally coming from Karlsborg whereas Snow lived in Keustellet before both of their respective *Last Lights*. Winter was led through *Rebirth* by **Temple Guardian Marten**, which is why she was immediately introduced to **Snow**, and why the three get along together well now. Originally having refuged in their home, they now simply live together as a family.

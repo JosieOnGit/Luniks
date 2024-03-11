@@ -19,7 +19,7 @@ Separate passenger and cargo corridors were created in order to make passenger a
 LTS as a company frequently reappears throughout the story, although it only services connections between the various countries on **Ubunia**. 
 
 ## RKU - Rail Klaszi Ubunia
-RKU provides international services between **Thórirsant**, **Kérisant**, and **Zakh'Háfo**, providing both cargo and passenger transport.
+RKU provides international services between **Thórirsant**, **Kérisant**, and **Zakh'háfo**, providing both cargo and passenger transport.
 
 ## Vestia Rapid
 Vestia Rapid is the high-speed train service that operates between the various nations across Vestia. Its connections range from **Hédenis** and **Mónsan**, through **Zhuehai**, **Álusken**, and **Vao**, with split connections to **Benelux** and **Denmark**. Its most known for the fatal rail incident ever since its inauguration, as described in [[LAST LIGHT#// LUNA]]. 
@@ -41,7 +41,8 @@ We'll bring you there."
 *Planned is a combination of purple and grey colours with stock high speed rail footage. Just like now LTS banners were proposed and created as a concept, the same process should happen for the brand identity of Vestia Rapid.*
 
 ## Máneán Metro
-Despite the **Collapse of United Máneá**, the metro keeps its original name and services various cities within both **Máneá** and **Zakh'háfo**, where it services various big cities such as their respective capitals. 
+**Máneán Metro** (Metro da Máneá) is the umbrella name for all the metro services that it provides in the various cities in what once was **United Máneá**, such as the *Álef Metro*, *Fsat-Hokh Metro*, or even the unique, single-line, *Kristensend Metro*. The one charm that all of these unique metro lines have in common, is that they're fully autonomous. In fears that there would once day be staff shortages and that some lines would end up abandoned, its government had rallied to invest into autonomous services. After the **Collapse of United Máneá** in 2039, the lines continued to service every city as normal, and continued to do so for many decades onwards.
+
 
 
 # Ship Services
@@ -53,7 +54,7 @@ A ferry (rather, a cruise ship) connects the two continents of Ubunia and Vestia
 
 # Common Brands
 ## Esti
-**Esti** is a worldwide supermarket chain that originated in **Thórirsant**, and has tagged along with every new nation that sprung up ever since the settlement of Luniks, to become the backbone of the newly developing nation. 
+**Esti** is a worldwide supermarket chain that originated in **Thórirsant**, and has tagged along with every new nation that sprung up ever since the settlement of Luniks, to become the backbone of every newly developing nation. 
 
 ## Norden Supermarkets
 Prominent in the north of Álusken (Hence the name **Norden**) is **Norden Supermarktir**, which have been established soon after the handover from *Queen Álusken I's* reign to that of *King Álusken II*, who then attempted to get rid of every sort of modern service since the start of his reign. In a desperate attempt to survive, Norden opened its first few markets in the south of **Vao**, and once it became clear that the plans that King Álusken II had made would be limited to within the boundaries of the capital, Norden quickly returned to the north of Álusken, where it has since outgrown its competitors.
@@ -65,3 +66,6 @@ Hammerhead carried over the production for space travel from **EESA**, after the
 
 ## Carbine
 Next to offering a various catalogue of weapons, **Carbine** is in the hunt to reach the same level of market share that **Hammerhead** currently has. Jealous of their achievements, Carbine entered the experimental weapon department, in hopes to create a new image for themselves where they failed trying to chase after Hammerhead. 
+
+## Ódóni Industries
+Once based in **United Máneá**, **Ódóni**
