@@ -68,4 +68,4 @@ Hammerhead carried over the production for space travel from **EESA**, after the
 Next to offering a various catalogue of weapons, **Carbine** is in the hunt to reach the same level of market share that **Hammerhead** currently has. Jealous of their achievements, Carbine entered the experimental weapon department, in hopes to create a new image for themselves where they failed trying to chase after Hammerhead. 
 
 ## Ódóni Industries
-Once based in **United Máneá**, **Ódóni**
+Once based in **United Máneá**, **Ódóni** supplied the technologies that were needed for research in **Amadnésam**. After the collapse of **United Máneá**, Ódóni fled to **Rhódisz**, together with a number of other industries and companies in hopes to escape from the collapsing economy and increasing crime rates. The Ódóni tower, where the research once took place, was since locked down, but since 2062, it has been reactivated, and has since been the centre of **Neurokick** production.

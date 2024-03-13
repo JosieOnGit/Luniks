@@ -62,12 +62,12 @@ I shook my head, taking a deep breath upon reaching the ground floor while the s
 **"Copy. Locking down and extracting. See you in Egórece."**
 
 
-### Drafted story
+### Drafted story: Code 5
 *// POV: Mika* \
 *// Metro da Máneá, Egórece*
 
 *Nest halt: Egórece. Sette Metro fortsettést di: Egórece-Júgul, Osselev, i Bwiskvá.* \
-With stress refusing to leave my body, I nervously pressed the marked "STOP" button on the door. Ever since transferring at Álef, I felt like I was continuously being watched, and the adrenaline that my neurotech continued to produce and pump into my veins didn't help in the slightest either. Vikram had told me that passing through Kristánisin wouldn't be a problem, but even so, I couldn't help but worry that The Agency would still capture me, whatever their motive might be. \
+With stress refusing to leave my body, I nervously pressed the marked "HALT" button on the door. Ever since transferring at Álef, I felt like I was continuously being watched, and the adrenaline that my neurotech continued to produce and pump into my veins didn't help in the slightest either. Vikram had told me that passing through Kristánisin wouldn't be a problem, but even so, I couldn't help but worry that The Agency would still capture me, whatever their motive might be. \
 Finally, the metro came to a halt, the once beautifully decorated metro station of Egórece having deteriorated even further in the past few years. The upkeep of the stations were terrible, the only stations that didn't look like a mess were those of the capitals and airports, and Egórece sure wasn't one of those. I put my scarf back over my mouth, the yellow stripes making their appearance again, causing me to stand out for Vikram to easily spot me, but also make me an easy target for any other agency that put money on me.
 
 With my heart pounding in my chest and adrenaline surging through my veins, I held the straps of my backpack with the Neurokicks tightly, making sure I won't be able to lose it. Looking around frantically for any threats or suspicious people, I feel a slight tingle go through my legs, as if my neurotech sensed a threat in the distance and prepared my body to flee. But even then, I made my way up to the stairs as calmly as I could while the quiet whine of the metro departing veers off into the tunnel at the end of the station. The feeling of being watched refused to exit my mind, and I started to look around the station even more nervously as the feeling that I was being watched and hunted increased tenfold. 
@@ -80,3 +80,7 @@ I nodded, whispering back quietly: **"I have, making my way to the exit now, fee
 *"Correct! Take to the skies, as they say!"* Vikram replied, immediately breaking the connection right after as I made my way towards the exit. "Take to the skies" was what Dáritke understood as "Code 5", which was one of the emergency escapes they had established when Dáritke was first approached by the police many years ago. The goal was simple on paper: Reach the top of Hád Bésim Tower, and a helicopter will pick you up there. In theory it's not as easy as it sounds. Hád Bésim is a tower with 70 floors, and even for a runner like me, that takes an extreme toll on you. And to make matters worse, it's also heavily guarded by police. 
 
 I shook my head, taking the stairs to exit the Metro station, and immediately looked to the sky to see Hád Bésim tower above me. I sighed deeply, fastening my backpack extra tightly as I made my way towards the tower, forming my plan to enter and reach the top once more.
+
+### Drafted Story: Take to the skies
+*// POV: Mika*
+*// Hád Bésim Tower, Egórece*
