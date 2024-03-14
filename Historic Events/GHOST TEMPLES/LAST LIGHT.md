@@ -92,3 +92,9 @@ A warm smile appeared on my face, the idea of such myths existing warming me up 
 In a hurry, Miranda rushed to my room, a quick glance at the monitor, and a quick glance at my fast asleep face, and she too knew the situation I was in. She smiled, sighing of relief, whispering softly to me. 
 
 **"At last, you're freed from your pain, Marten."**
+
+## // SPARK
+**Drafted**: \
+- Per Spark's Glimmer [[GLIMMER#// SPARK]] she mentions how her **"Memories before her death refused to go away, and that they were "especially haunting" her too."** For this reason, she quit caring and asked Sóvis whether or not smoking would have a physical effect on her, which he promptly denied.
+
+In her Last Light, Spark witnesses her family members die before her eyes, after which she also slowly dies. It's not exactly known what the reason for this will be, as the possible scenarios are juggling between **Terrorism**, **Accidents**, or **Natural Disasters**, but whichever it will be, Spark will see her family members die gradually before slowly dying herself. 
