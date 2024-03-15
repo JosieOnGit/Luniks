@@ -6,7 +6,7 @@ This document lists various names, such as those of products, companies, or othe
 ## ELE - Earth-Luniks Express
 Soon after Luniks was first settled, it became a top priority to establish a stable and steady connection between the two planets. Initially, the travel ports were build and activated between Switzerland and Nóve Rejkjavík, with many other ports quickly being built afterwards to allow a smooth transfer of many people that had an intent to move to Luniks and help settle the young planet. Because of its rapid activation, Luniks could grow as quickly as it has.
 
-**ELE** travels through the wormhole that's also referred to as the *Panjit Loop*, which is named after **Tagip Panjit**, who was the key factor to discovering the methods towards fast interplanetary travel and enabled travel to Luniks in the first place.
+**ELE** travels through the wormhole that's also referred to as the *Panjit Loop*, which is named after **Tagip Panjit**, who was the key factor to discovering the necessary steps towards fast interplanetary travel and enabled travel to Luniks in the first place.
 
 
 # Rail Services
