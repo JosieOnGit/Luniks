@@ -1,8 +1,8 @@
 # GHOST TEMPLES // SIGNATURES
 All existing ghosts can gather *Spiritual Energy* and use this in various different ways. Below is a list of said **Signatures**, as they are most commonly referred to, and how they are used.
 
-## Settler of Vászi  
-**Signature:** Guarding Light  \
+## Settler of Vászi
+**Signature:** Guarding Light \
 Upon casting his signature, Vászi will levitate himself above the ground as various tiny particles begin forming around him. With the chime of a church bell, a light from the heavens will strike down on Vászi, as he then channels this energy to his surroundings, forming an invisible dome in which every being within it will gain extra resistance and energy.  
 
 **Signature (2)**: Blade of Cziskvelén \

@@ -97,3 +97,20 @@ Before her Rebirth, Winter spent a lot of time roaming through the woods and wen
 ### Journey
 **Neverending Daydream** (Last Light) -> **A New Trail** (Rebirth) -> **Home in the Forests** (Exposure) \
 [[LAST LIGHT#Neverending Daydream]] -> [[REBIRTH#A New Trail]] -> [[EXPOSURE#Home in the Forests]]
+
+
+## // Spark
+
+### Past Life
+Before her Rebirth, Spark aspired to become a professional musician and master the different forms of string music. Having studied together with the same teacher for many years, she mastered the guitar and violin, and when she felt like the had hit a wall, a sudden invite from the National Vaon Orchestra sparked her hope and willpower like it had never left. After the meeting at the studio, she dreamed to trial with the rest of the orchestra and learn the essence of the bass and cello too, but fell short of her dreams when her father betrayed and murdered her, along with the rest of her family members. Even with the dreams of playing in the orchestra, and haunted by the vivid memories of her death, her goal never left her side, and with unlimited time on her hands, she was eager to learn and master every string instrument there was to master in her next life.
+
+### Journey
+**Untitled** (Last Light) \
+[[LAST LIGHT#fgsfds]]
+
+
+## // Raine
+
+### Journey 
+**A Voice Who Called** (Rebirth) \
+[[REBIRTH#A Voice Who Called]]

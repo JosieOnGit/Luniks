@@ -6,22 +6,102 @@
       {
         "id": "81f927cea75f4356",
         "type": "tabs",
-        "dimension": 47.26666666666667,
+        "dimension": 47,
         "children": [
           {
-            "id": "d1a0baa76bb2a30a",
+            "id": "d7d0764483bac867",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Cities per Nation.md",
+                "file": "Historic Events/TRAVEL RISK/NEUROKICK.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4e5382ba5663c9f",
+            "id": "e2640ce756944034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/TRAVEL RISK/TRAVEL RISK - STORY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d9d339a744efdee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/GHOST TEMPLES/LAST LIGHT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a86b94886ffea1d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/GHOST TEMPLES/REBIRTH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71d774238f905090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/GHOST TEMPLES/EXPOSURE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "3b0732557f149020",
+        "type": "tabs",
+        "dimension": 53,
+        "children": [
+          {
+            "id": "12f6ad493555f797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/GHOST TEMPLES/GHOST TEMPLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27a5c270469057e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/GHOST TEMPLES/Character List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c96d6f5925c3dbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,98 +113,31 @@
             }
           },
           {
-            "id": "3813f7ba3365fe65",
+            "id": "9c1968ee8cbfcfe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historic Events/List of notable people.md",
+                "file": "Historic Events/List of notable names.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98b89cbe6bdeb3fa",
+            "id": "57d72651dee029c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historic Events/Stories/Leremkov Trials.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d10a87816a43d114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/Stories/Leremkov - PENDULUM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0ad4bf521ddc63ab",
-        "type": "tabs",
-        "dimension": 52.73333333333333,
-        "children": [
-          {
-            "id": "970d8fa7ac520efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/Stories/GHOST TEMPLES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a05b41044d778559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/Stories/GHOST TEMPLES - LAST LIGHT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "994f1a5b9abac5bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/Stories/GHOST TEMPLES - REBIRTH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07458fc5a162ad69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/Stories/GHOST TEMPLES - Scattered Info.md",
+                "file": "Historic Events/TRAVEL RISK/Character List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wordt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historic Events/Stories/GHOST TEMPLES - REBIRTH.md",
+                "file": "Historic Events/GHOST TEMPLES/Character List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,38 +231,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "994f1a5b9abac5bd",
+  "active": "27a5c270469057e5",
   "lastOpenFiles": [
-    "Historic Events/Stories/GHOST TEMPLES - LAST LIGHT.md",
-    "Historic Events/Stories/GHOST TEMPLES.md",
-    "Historic Events/Stories/GHOST TEMPLES - REBIRTH.md",
-    "Geography/Cities per Nation.md",
     "Historic Events/Stories/Story Drafts.md",
-    "Historic Events/Stories/Leremkov - PENDULUM.md",
-    "Historic Events/List of notable people.md",
-    "Historic Events/Stories/Leremkov Trials.md",
-    "Historic Events/Stories/GHOST TEMPLES - Scattered Info.md",
-    "[[Leremkov.md",
-    "Historic Events/Stories/Vitaly Leremkov, 2039-2098.md",
-    "Historic Events/List of historic events.md",
     "Historic Events/List of notable names.md",
-    "Lore Concepts.md",
-    "[[GHOST.md",
-    "Pasted image 20231110221736.png",
-    "Languages/Ellitróómisi - Ellitroomi.md",
-    "Languages/Lúnikska - Luniksan/Basic Luniksan Grammar.md",
-    "Historic Events/Stories/Álusken's Mysteries.md",
-    "Languages/Lúnikska - Luniksan/Luniksan History and Overview.md",
-    "Geography/Adding a nation to Lúniks, The Map.md",
-    "temp.md",
-    "Geography/Mashed together list of locations and cities.md",
-    "Historic Events/Stories/Alkéisa's Ring, 2071-2087.md",
-    "Historic Events/Stories/Liétivus Pact,  Mar 30 2168.md",
-    "README.md",
-    "Temple of Vestia.md",
-    "Historic Events/Stories/Leremkov Trials reqs.jpg",
+    "Historic Events/GHOST TEMPLES/REBIRTH.md",
+    "Historic Events/TRAVEL RISK/Character List.md",
+    "Historic Events/GHOST TEMPLES/Character List.md",
+    "Historic Events/GHOST TEMPLES/SIGNATURES.md",
+    "Historic Events/GHOST TEMPLES/EXPOSURE.md",
+    "Geography/Vestia/Vao.md",
+    "Geography/Vestia/Mónsan Republic.md",
+    "Geography/Vestia/Kostanzá.md",
+    "Geography/Vestia/Kingdom of Álusken.md",
+    "Historic Events/GHOST TEMPLES/LAST LIGHT.md",
+    "Historic Events/GHOST TEMPLES/GLIMMER.md",
+    "Historic Events/GHOST TEMPLES/GHOST TEMPLES.md",
+    "Historic Events/TRAVEL RISK/NEUROKICK.md",
+    "Historic Events/GHOST TEMPLES/FIRST LIGHT.md",
+    "Historic Events/TRAVEL RISK/TRAVEL RISK - STORY.md",
+    "A Guide to Everything Luniks.md",
+    "Geography/Ubunia/Thórirsant.md",
+    "Geography/Ubunia/Rhódisz.md",
+    "Geography/Ubunia/Mharáni Republic.md",
+    "Geography/Ubunia/Máneá.md",
+    "Geography/Ubunia/Léjtis.md",
+    "Geography/Ubunia/Kérisant.md",
+    "Geography/Ubunia/Íszkéde.md",
+    "Geography/Cities per Nation.md",
+    "Languages/Lúnikska - Luniksan/Mithrí script.png",
+    "Geography/Flags/Flag_Zhuehai.png",
+    "Geography/Flags/Flag_Zakh'háfo.png",
+    "Geography/Flags/Flag_Vao.png",
+    "Geography/Flags/Flag_Thórirsant.png",
+    "Geography/Flags/Flag_Mónsan.png",
+    "Geography/Flags/Flag_Máneá.png",
+    "Geography/Flags/Flag_Ellitróómi.png",
+    "Geography/Flags/Flag_Kérisant.png",
+    "Geography/Flags/Flag_Álusken.png",
+    "Historic Events/OSLO REVOLUTION",
+    "Geography/Flags",
+    "Geography/Deónia",
+    "Geography/Skádia",
+    "Geography/Vestia",
+    "Geography/Ubunia",
+    "Historic Events/Leremkov Trials",
+    "Historic Events/TRAVEL RISK",
+    "Historic Events/GHOST TEMPLES",
     "Historic Events/Stories",
-    "Historic Events/Leremkov Trials reqs.jpg",
     "Untitled.canvas"
   ]
 }
