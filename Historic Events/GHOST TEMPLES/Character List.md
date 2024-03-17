@@ -65,8 +65,8 @@ Their name is directly derived from **Luna**, Earth's moon.
 Before their death, Luna was still in college, where they studied computer science and intelligence. Unlike their usual appearance, Luna actually dreamed of getting into fashion and starting their own, non-standard clothing brand. The sudden lapse between their death and rebirth gave them the opportunity to utilize their previously gained knowledge about neuroscience and computer intelligence (As seen in their *Curious Eye* Signature), and while they're still very insecure and shy about it, also allows them to experiment with clothing of their own, now that the entire palette and canvas are available to them.
 
 ### Journey
-**SPAD** (Last Light) -> **Unplanned Stop** (Rebirth) -> **Untitled** (Exposure) \
-[[LAST LIGHT#SPAD (Signal Passed At Danger)]] -> [[REBIRTH#Unplanned Stop]] -> [[EXPOSURE#Unspecified Title (Subject to tweaks)]]
+**SPAD** (Last Light) -> **Unplanned Stop** (Rebirth) -> **Eyes Meet** (Exposure) \
+[[LAST LIGHT#SPAD (Signal Passed At Danger)]] -> [[REBIRTH#Unplanned Stop]] -> [[EXPOSURE#Eyes Meet (Subject to tweaks)]]
 
 
 ## // Snow
@@ -105,8 +105,8 @@ Before her Rebirth, Winter spent a lot of time roaming through the woods and wen
 Before her Rebirth, Spark aspired to become a professional musician and master the different forms of string music. Having studied together with the same teacher for many years, she mastered the guitar and violin, and when she felt like the had hit a wall, a sudden invite from the National Vaon Orchestra sparked her hope and willpower like it had never left. After the meeting at the studio, she dreamed to trial with the rest of the orchestra and learn the essence of the bass and cello too, but fell short of her dreams when her father betrayed and murdered her, along with the rest of her family members. Even with the dreams of playing in the orchestra, and haunted by the vivid memories of her death, her goal never left her side, and with unlimited time on her hands, she was eager to learn and master every string instrument there was to master in her next life.
 
 ### Journey
-**Untitled** (Last Light) \
-[[LAST LIGHT#fgsfds]]
+**The Sparks That Flew** (Last Light) -> **The Flame Reignited** (Rebirth) -> **The Dream Pursued** (Exposure) \
+[[LAST LIGHT#The Sparks That Flew]] -> [[REBIRTH#The Flame Reignited]]
 
 
 ## // Raine

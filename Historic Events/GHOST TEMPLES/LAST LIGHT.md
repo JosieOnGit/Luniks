@@ -96,7 +96,7 @@ In a hurry, Miranda rushed to my room, a quick glance at the monitor, and a quic
 
 
 ## // SPARK
-### fgsfds
+### The Sparks That Flew
 *// POV: Spark* \
 The news had come to me as a complete surprise too. For over 5 years, I'd been learning the essence in string music, trying to specialise myself in guitars and violins, but after continuously feeling hopeless about my development, my teacher had suddenly told me that a studio had taken interest in me. And that wasn't just any studio at all, it was the National Vaon Orchestra, an orchestra I had dreamed to be a part of ever since I was young, ever since I started to learn string music. It had surprised my teacher too, but she had promised me to have my back no matter where this would take me, so with a wide smile on my face and an elated feeling encompassing me, I waved goodbye to my teacher for the night and made my way to the busstop home, to tell the rest of my family the fantastic news.
 

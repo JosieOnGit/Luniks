@@ -12,7 +12,7 @@
 
 Info on Temple: [[Scattered Info#Temple of Vestia]] \
 Info on Symbols: [[Scattered Info#Known Symbols]]
-### Unspecified Title (Subject to tweaks)
+### Eyes Meet (Subject to tweaks)
 **// Subject to tweaks**: Originally, I wanted Luna to be unaware of the Ghost Temples existing as a whole, especially being unaware that there was an underlying connection. After the creation of *REBIRTH // SNOW*, this approach changed, and drastically changed the timescales as well. Because of this, several tweaks need to be put through the currently drafted story so that it becomes more in line with *EXPOSURE // SNOW*. Tweaks might include:
 - Revealing the mysterious girl is also a ghost.
 - Adjusting time scales so that the story doesn't take place after "All those years"

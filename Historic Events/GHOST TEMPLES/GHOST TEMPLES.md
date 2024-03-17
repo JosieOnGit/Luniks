@@ -16,7 +16,7 @@ Every ghost has gone through three stages upon introduction to their new Temple.
 	- **REBIRTHS** are available at [[REBIRTH]].
 - **EXPOSURE** // The event in which everything clicks together. Every memory that was able to be restored from the rescued spirit has been restored, and the new Ghost has now been permanently connected to their corresponding Temple. 
 	- **EXPOSURES** are available at [[EXPOSURE]].
-- **GLIMMER** // An event that was memorable during the Ghost's life, and didn't have an extreme impact on them (e.g. Meeting another Ghost and sharing a fun experience together). These can be short snippets, long stories, and everything inbetween.
+- **GLIMMER** // An event that was memorable during the Ghost's life, and didn't have an extreme impact on them (e.g. Meeting another Ghost and sharing a fun experience together). These can be short snippets, long stories, and everything in-between.
 	- **GLIMMERS** are available at [[GLIMMER]].
 
 *// The two stages below are special to Cziskvelén, as he was the first ghost to experience them, as well as the last.*

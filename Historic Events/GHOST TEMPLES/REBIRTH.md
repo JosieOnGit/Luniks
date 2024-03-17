@@ -114,6 +114,38 @@ Just like a normal day in his hospital bed, Marten would wake up expecting nothi
 *// POV: Marten*
 
 
+## // SPARK
+**Drafted**: \
+Soon after her death, her father had left the house for what it was and drove off into the sunset, leaving behind a mystery crime that left Spark and her family dead. \
+Spark reawakens at the bottom of the stairwell where blood had dripped down from not even an hour ago, facing the front door with the guitar she had dropped besides it. Oddly enough, the pain in her chest from the blade her father had stabbed and killed her with persisted, while the pain in her shoulder had gradually receded again. Sóvis, who was at the top of the stairwell, realised this too, wondering if he was too soon to initiate the Rebirth.
+
+Sóvis holds his hand out, Spark's violin in the other, and offers her to climb up the stairs. Weirdly enough to Spark, she didn't have the same odd feeling as she had before her death, even despite the walls still being soaked in dry blood. Together, they make their way to the various bedrooms, and Sóvis reveals to Spark that she had indeed been killed by her father. The spirits of Bryan and her mother appear too, and she is able to give them a proper farewell one last time. (**Leaves open Rebirths for both -> Hopeless Glimmer into a happy one where her family is reborn too?**) 
+
+### The Flame Reignited
+*// POV: Spark* \
+A wave of dizziness washed over me, and I felt like I was awakening from a month-long slumber, I felt disoriented, lost, but surprisingly enough, everything smelled familiar, like home. \
+Slowly, I opened my eyes, my vision blurry at first, but after a few blinks and seconds it became clear to me just where I was: home. *Or at least, as close to home as I could be.* I thought to myself. I looked around the living room, I saw the front door as I realised that I had been fast asleep while on the stairs. The dizziness persisted, and the smell of dried blood became more prominent as well, especially upon taking a look to my knees. The stream of blood from Bryan's body that dripped down the stairs formed a puddle at the end of the stairs, which had transformed the light wooden floor into a dark, crimson gate to hell.
+
+I shivered, the pain in my shoulder remained there. But after pressing on it with my hand, and checking for blood, I looked back at my hand to see nothing at all. The pain persisted, but the wound was gone, and frantically checking my chest, not finding any ripped clothes or wounds there either. *B-but.. Dad's knife..* I whisper to myself, the images and memories replaying in my mind over and over again, feeling the blade slam against my shoulder, through my chest, again, again. 
+
+Fighting through the pain, I decided to force myself to stand up, to figure out what was going on. A strange mist was forming within the living room, the temperature was dropping further as I stood up from the stairs, eyeing the dried blood on the walls, the floor, and on my guitar at the front door. 
+
+**"Please, do not be afraid, Spark."** 
+
+I stand dead in my tracks, a deep, booming voice suddenly interrupting the silence within my ravaged house. *"Spark?"* I thought to myself, ticked off at being addressed like that. *Only mom called me her sparkle, w-what.. is going on..?* \
+Hesitantly and slowly, I turn around and look up the stairs to discover who the voice had belonged to, only to be met with a confronting image. An otherworldly figure stood before me, dressed in white, wearing a plain mask, a pitch black chestplate. Dried blood, ripped wallpaper behind him, and yet, his mantle and mask were the brightest shade of white I'd ever seen in my life. I knew one thing for sure, this wasn't dad, nor was it a joke from Bryan or Kimi either. This figure was.. strange.. yet oddly familiar.
+
+*"W-what? Who are you?"*
+
+The figure before me opened out his right hand, his body language giving off no harmful intentions at all, as he promptly replied in the same, oddly comforting voice. \
+**"My name is Sóvis, the Guardian of the Temple of Vestia. I know that this is tough and mysterious, but allow me to help you and guide you through this."** \
+I felt my breath become more unstable as I tried my best to formulate my next words. The dizziness that had faded slowly made its return, together with the flashbacks and memories of the night before. The knife appeared before my eyes, my thoughts entered overdrive. *I died, haven't I?* I thought to myself, the pain of my dad's blade piercing through my chest making itself present yet again. *B-But, what's this.. then?* \
+I collapse to the floor, the pain in my left shoulder and my chest causing my entire body to collapse on itself, my left arm returning to the numbness I had felt right after I was hit, right before my mom died in my arms. I heard Sóvis's footsteps come closer, he was coming down the stairs. Having lost sense of what was going on, I tried to cover myself up, my arm covering the top of my head while tears streamed down my cheeks once more, fearing the worst, fearing I would just get killed again.
+
+But with emotions running overtime once more, the footsteps stop, and the creaking of the stairs immediately made it clear to me that Sóvis sat down. I felt his cold, gentle hand rest on my arm, slowly moving towards my right shoulder and resting it there as he whispered quietly and carefully to me. \
+**"Whatever you're seeing, Spark, it's behind you. I promise you it will and cannot happen again."** \
+
+
 
 ## // RAINE
 **KEY NOTES**:  
