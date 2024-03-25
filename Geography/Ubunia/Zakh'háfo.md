@@ -2,7 +2,7 @@
 Natively known as **Zakh'háfónai Ertbitsai**. \
 ![[Flag_Zakh'háfo.png]]
 
-Together with [[Máneá]] and [[Rhódisz]], Zakh'háfo was originally part of a much larger nation, encompassing the entire area below **Thórirsant**, before an economic crisis inevitably split the natiom into two, and all three nations plummeted into a situation that could only be described as "despair". 
+Together with [[Máneá]] and [[Rhódisz]], Zakh'háfo was originally part of a much larger nation, encompassing the entire area below **Thórirsant**, before an economic crisis inevitably split the nation into two, and all three nations plummeted into a situation that could only be described as "despair". 
 
 Zakh'háfo took the worst hit out of the three nations, and still remains in that state of despair as of now. Because of the severely deregulated government, the only things that remained the same were the automated metro and train connections connecting the various cities and districts within them, which paved the way for easy high-traffic drug dealing. 
 
@@ -15,6 +15,8 @@ After a sudden split from United Máneá, Ákros was left in a fallen, newly for
 
 ## Álef
 Álef is the biggest city in the **Álef city cluster**. Many other cities are connected continuously through an automated metro system, which continued to provide service even long after the collapse of **United Máneá**.
+
+- Czerébti
 ## Nódori
 Part of the **Álef city cluster**. Nódori had gone through several construction stages in the span of just a few years, creating a central district that was outdated a mere 5 years after completion. Because of this, Nódori is divided up into five districts:
 - Ald-Nódori (Old Nódori)

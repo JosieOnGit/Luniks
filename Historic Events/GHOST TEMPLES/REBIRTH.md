@@ -111,7 +111,18 @@ Just like a normal day in his hospital bed, Marten would wake up expecting nothi
 - Instead, upon stepping out, Vászi stands at the end of the hallway, who then explains Marten's situation and guides him through his rebirth
 
 ### Freed From Pain
-*// POV: Marten*
+*// POV: Marten* \
+The vivid, colourful dreams of the Dragons of Vao seemed to reach an end. Morning was approaching, and despite being asleep, my mind and my body were both aware of this. Before long, I slowly opened my eyes, finding myself in the ever familiar hospital room that I had spent the last months in. The sun was shining brightly through my window, and it almost seemed like a totally different world without the Aurora dancing over the Vaon mountains. But something seemed off. I still felt bedridden, and looking around my room, I picked up just how eerily quiet the rest of the hospital was. I could usually always pick up at least five different voices in the hallway, laughter from the reception, distant beeping from the other rooms, but neither of those sounds were prominent at this very moment. 
+
+I moved away the bedsheets, still wearing the same, boring white and blue hospital clothes that I've been wearing for what felt like my entire life now. But once more, I felt ticked off. *I usually have to ask Miranda to take intensive actions for me, h-how did I just do that?..* I think to myself, staring and investigating my hands and arms in awe. My heart was beating like normal, and it took me another minute to realise I wasn't being artificially supplied with oxygen. I shrugged it off as nothing, and instead, smiled warmly at the idea of a miracle actually having happened. Miranda and the other nurses always prayed for the best to happen, did their praying actually help? *Maybe I'd been in a coma, and recovered while in it.. This is surreal..* 
+
+After another minute of doing light activity, I finally bite the bullet and move my lower body around in my bed, sliding my legs off the side of the bed with ease and without pain. Miranda would always bring a wheelchair for me to move around the hospital, my legs having deteriorated too much for me to still walk on my own, and yet, I felt confident enough in my mysterious strength that I slid off the bed, and stood on my own legs without support for the first time in months. And it felt, normal, strangely normal.
+
+I continued to scan around my room, seeking a note from Miranda about what was going on. If I had really been in a coma for this long, surely something must have been left behind me to inform me once I woke up? But after minute of carefully stepping around my room, searching for a note or any sort of information at all, I finally take a deep breath and open the door to the big passageway, expecting the worst, but hoping for the best.
+
+But as quick as my hopeful smile had appeared on my face, it had disappeared again as I took a first look in the passageway. It was completely abandoned, but not desolate. A strange, cold, and white mist was lingering on the floors, and every room was left alone. *A bomb threat..?* I thought to myself, the thought being the only one crossing my mind as to what could explain why the entire hospital would be left alone. It didn't seem like it was abandoned too long ago, in fact, it seemed like everyone had left just minutes before I woke up. The feeling of hope that I had desperately try to keep a hold of was finally beginning to dissipate, and taking more steps towards the nurse's office in hopes to find Miranda, I take one look behind me, my eyes meeting with a strange, inexplicable figure in the far distance. I stand dead in my tracks, my heart skipping a beat, my breath held, as the figure's voice booms through the passageway.
+
+**"You have awoken, Marten."**
 
 
 ## // SPARK
@@ -132,19 +143,27 @@ Fighting through the pain, I decided to force myself to stand up, to figure out 
 
 **"Please, do not be afraid, Spark."** 
 
-I stand dead in my tracks, a deep, booming voice suddenly interrupting the silence within my ravaged house. *"Spark?"* I thought to myself, ticked off at being addressed like that. *Only mom called me her sparkle, w-what.. is going on..?* \
-Hesitantly and slowly, I turn around and look up the stairs to discover who the voice had belonged to, only to be met with a confronting image. An otherworldly figure stood before me, dressed in white, wearing a plain mask, a pitch black chestplate. Dried blood, ripped wallpaper behind him, and yet, his mantle and mask were the brightest shade of white I'd ever seen in my life. I knew one thing for sure, this wasn't dad, nor was it a joke from Bryan or Kimi either. This figure was.. strange.. yet oddly familiar.
+I stand dead in my tracks, a deep, booming voice suddenly interrupting the silence within my ravaged house. *"S-Spark?"* I thought to myself, ticked off at being addressed like that. *Only mom called me her sparkle, w-what.. is going on..?* \
+Hesitantly and slowly, I turn around and look up the stairs to discover who the voice had belonged to, only to be met with a confronting image. An otherworldly figure stood before me, dressed in white, wearing a plain mask, a pitch black chestplate. Dried blood, ripped wallpaper behind him, and yet, his mantle and mask were the brightest shade of white I'd ever seen in my life. I knew one thing for sure, this wasn't dad, nor was it a joke from Bryan or Kimi either. This figure was, strange.. yet oddly.. familiar.
 
 *"W-what? Who are you?"*
 
 The figure before me opened out his right hand, his body language giving off no harmful intentions at all, as he promptly replied in the same, oddly comforting voice. \
 **"My name is Sóvis, the Guardian of the Temple of Vestia. I know that this is tough and mysterious, but allow me to help you and guide you through this."** \
-I felt my breath become more unstable as I tried my best to formulate my next words. The dizziness that had faded slowly made its return, together with the flashbacks and memories of the night before. The knife appeared before my eyes, my thoughts entered overdrive. *I died, haven't I?* I thought to myself, the pain of my dad's blade piercing through my chest making itself present yet again. *B-But, what's this.. then?* \
-I collapse to the floor, the pain in my left shoulder and my chest causing my entire body to collapse on itself, my left arm returning to the numbness I had felt right after I was hit, right before my mom died in my arms. I heard Sóvis's footsteps come closer, he was coming down the stairs. Having lost sense of what was going on, I tried to cover myself up, my arm covering the top of my head while tears streamed down my cheeks once more, fearing the worst, fearing I would just get killed again.
+I felt my breath become more unstable as I tried my best to formulate my next words. The dizziness that had faded before, slowly made its return together with the flashbacks and memories of the night before. The knife appeared before my eyes, my thoughts entered overdrive. *I died, haven't I?* I thought to myself, the pain of my dad's blade piercing through my chest making itself present yet again. *B-But, what's this.. then?* \
+My vision reduces to a mere blur, and the dizziness and nausea overwhelms me. I fall to the floor, the pain in my left shoulder and my chest causing my entire body to collapse on itself, my left arm returning to the numbness I had felt right after I was hit, right before my mom died in my arms. I heard Sóvis's footsteps come closer, he was coming down the stairs. Having lost sense of what was going on, I tried to cover myself up, my arm covering the top of my head while tears streamed down my cheeks once more, fearing the worst, fearing I would just get killed again.
 
-But with emotions running overtime once more, the footsteps stop, and the creaking of the stairs immediately made it clear to me that Sóvis sat down. I felt his cold, gentle hand rest on my arm, slowly moving towards my right shoulder and resting it there as he whispered quietly and carefully to me. \
+But with emotions running overtime once more, the footsteps stop, and the creaking of the stairs immediately made it clear to me that Sóvis sat down. I felt his warm, gentle hand radiate its heat on my back, slowly moving towards my right shoulder and resting it there as he whispered quietly and carefully to me. \
 **"Whatever you're seeing, Spark, it's behind you. I promise you it will and cannot happen again."** \
 
+Emotions continued to ravage through my head, and tears streamed out of my eyes without an end in sight. Every memory, every sensation I had felt, every image that I had seen, they all played back to me again and again, causing me to go through the same pain and misery I went through the night before. Without realising, and with my thoughts overwhelmed, I could faintly feel Sóvis move his hand from my right shoulder to my left, beginning to give a gentle massage to where I was struck with my dad's blade not even a day ago. \
+My tears immediately stopped, and I felt the numbness in my shoulder and arm begin to dissipate while his massage continued, wondering if any of these experiences were real at all, and if this wasn't a vivid, lucid dream. 
+
+**"I'm no magician"** Sóvis begins, while my mind finally begins to calm itself down again, **"But this should help you just enough, Spark."**
+
+*Spark.. Spark..* I mumbled to myself, still ticked off and feeling in disbelief that someone other than my mom knew of that nickname, and having calmed down enough for my mind and body to become stable again, I take a deep breath, eager to get the answers to the questions I had since I had woken up. 
+
+*"S-Sóvis.."* I begin, *"Where.. Where did you learn the name.. Sparkle..? Only mom called me that.."*
 
 
 ## // RAINE
