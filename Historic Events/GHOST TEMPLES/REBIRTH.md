@@ -124,6 +124,14 @@ But as quick as my hopeful smile had appeared on my face, it had disappeared aga
 
 **"You have awoken, Marten."**
 
+Dumbfounded and taken aback by the figure's voice, I see them slowly step towards me, realising that I was already at the very end of the passageway and couldn't easily flee if I had to. But something about this figure seemed, off. They seemed, welcoming, inviting, and understanding. Getting lost in my own thoughts at what was going on, I realised that the figure already stood merely a metre before me. Our heights nearly matched, and even if I was a centimetre or two taller than him, I still felt like he was towering above me, but I couldn't pinpoint why. 
+
+After a minute of silence, the figure before me held his hand out for me, offering a simple, introductory handshake, to break the ice. \
+**"I'm sorry if this is a sudden change in pace, Marten. My name is Vászi, the Settler of the Temple of Vestia."** \
+I shook my head, shaking off any thoughts that I had in my mind, and questions that remained, and shook his hand with mine, struggling to formulate a reply. \
+*"V-Vászi? Like.. the Reserve? That's.. quite the name to carry.."*
+
+
 
 ## // SPARK
 **Drafted**: \
@@ -164,6 +172,8 @@ My tears immediately stopped, and I felt the numbness in my shoulder and arm beg
 *Spark.. Spark..* I mumbled to myself, still ticked off and feeling in disbelief that someone other than my mom knew of that nickname, and having calmed down enough for my mind and body to become stable again, I take a deep breath, eager to get the answers to the questions I had since I had woken up. 
 
 *"S-Sóvis.."* I begin, *"Where.. Where did you learn the name.. Sparkle..? Only mom called me that.."*
+
+
 
 
 ## // RAINE
