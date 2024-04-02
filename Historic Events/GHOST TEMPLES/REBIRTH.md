@@ -129,7 +129,18 @@ Dumbfounded and taken aback by the figure's voice, I see them slowly step toward
 After a minute of silence, the figure before me held his hand out for me, offering a simple, introductory handshake, to break the ice. \
 **"I'm sorry if this is a sudden change in pace, Marten. My name is Vászi, the Settler of the Temple of Vestia."** \
 I shook my head, shaking off any thoughts that I had in my mind, and questions that remained, and shook his hand with mine, struggling to formulate a reply. \
-*"V-Vászi? Like.. the Reserve? That's.. quite the name to carry.."*
+*"V-Vászi? Like.. the Reserve? That's.. quite the name to carry.."* \
+He shook his head, and behind his mask, I could see a smile form, after which I shook my own head and smiled as well. Shrugging off the awkward icebreaker, my expression changed to a more serious one again, as I asked another question. \
+*"What exactly.. is going on?"*
+
+Letting go of my hand, Vászi took a moment to formulate his answer, and while I was expecting the worst, I was still feeling hopeful for the best answer. It seemed too real to be a dream, but it also seemed too vivid to be reality. I felt like I was floating in a limbo between the two, as if I was lucid dreaming. But even then, things were so odd, and if it was a lucid dream after all, I still felt so.. limited..
+
+**"Unfortunately, no miracle had happened, Marten. In your last sleep, you have died peacefully."** \
+A smile appeared on my face while existential confusion began to whirl around in my body. *So I finally bit the dust..* I thought to myself, wondering how I managed to survive that long with my cancer in the first place. But even so, my question wasn't answered. This seemed, eerie for an afterlife, and I wasn't religious myself either. More questions arose, and more and more doubts began to form, but Vászi cut me off short before I could speak and ask any further.
+
+**"I understand your confusion, Marten, that is only natural. You find yourself in an Elevated Realm, as you are a Ghost. You, much like I am myself, are part of the Temple of Vestia, a commune of Ghosts that have all gone through death and rebirth the same way you're going through it right now."**
+
+I nodded slowly and understandingly.
 
 
 
