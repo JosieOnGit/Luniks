@@ -1,10 +1,17 @@
 # TRAVEL RISK // CHARACTER LIST
 This Character List belongs to [[TRAVEL RISK]].
 ## Nils Lorieux
-Belongs to **The Agency** (Middleman).
+Belongs to **The Agency** (Middleman). \
+Equipped with neurotech, including **Wrist Rabbit** (Hacking protocol on wrist)
+### Appearance
+Nils is a well-built but slim young man, who has since his acquisition into **The Agency** decided to dye his hair blue, to match the Agency's own colour palette of *Blue/Turqouise*. During his training within the Agency, he has opted to exchange his regular casual wear to a more formal type of clothing, wearing a dark blue suit rather than shirts and jeans, to match **Raléi's** outfit too.
+
 ## Raléi Alentikíles
 Belongs to **The Agency** (Founder, Owner). \
-Equipped with **Stealth Weaponry** (Blade hidden under wrist)
+Equipped with **Stealth Weaponry** (Blade hidden under wrist) and neurotech, including **Wrist Rabbit** (Hacking protocol on wrist) and **Adrenaline surges** (Pulsing streaks on left arm). 
+### Appearance
+Looks are deceiving, and Raléi knows this. While sharing a similar outfit to **Nils**, a basic navy-blue suit, much more is hidden underneath. Her **Neurotech** was all installed on her left arm, which she accentuated with various tattoos as well, varying from tribal to futuristic and abstract. Having trained in martial arts and having mastered weaponry from melee through marksman rifles, she is a force to be reckoned with.
+
 ## Antoine Rousseau
 Belongs to **Dáritke** (Middleman).
 ## Mika Andzákin
@@ -22,14 +29,15 @@ Belongs to **The Agency** (Middleman, Weapons Expert).
 
 # AGENCIES
 ## Dáritke
-HQ'ed in **Deth-Kelétam** (Máneá).
+HQ'ed in **Deth-Kelétam** (Máneá). Recognised by **Yellow** colouring.
 
 ## The Agency
-HQ'ed in **Kristánisin** (Zakh'háfo).
+HQ'ed in **Kristánisin** (Zakh'háfo). Recognised by **Blue/Turqouise** colouring.
 
 ## Police 
+HQ'ed in every city within Máneá and Zakh'háfo. Recognised by **Black & Silver** colouring.
 
 ## Vátnelári
-HQ'ed in **Egórece** (Zakh'háfo).
+HQ'ed in **Egórece** (Zakh'háfo). Recognised by 
 
 

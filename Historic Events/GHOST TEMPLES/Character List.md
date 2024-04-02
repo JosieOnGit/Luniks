@@ -2,7 +2,8 @@
 This Character List belongs to [[GHOST TEMPLES]].
 
 ## // Settler of Vászi
-As the **Guardian of Vestia**, the *White/Grey* dress code is mandatory for a Guardian to wear. Because of this, Vászi wears a blacked-out and grey harness, over which he wears a robe or mantle, with a collar that extends far out.
+### Appearance
+As the **Guardian of Vestia**, the *White/Grey* dress code is mandatory for a Guardian to wear. Because of this, Vászi wears a blacked-out and grey harness, over which he wears a robe or mantle, with a collar that extends far out. The outfit is completed by simple, plain white pants.
 
 Vászi bears a **Plain White Mask**. He prefers a featureless mask that hides his expressions and body language while guiding a new ghost through Rebirth. This way, he will give the new ghost the most neutral and natural way to process it all, without giving a first impression, be it good or bad, through an altered and personalized mask.
 
@@ -19,7 +20,8 @@ Nothing about Vászi's past life is known, as he was the original settler of the
 ## // Settler Cziskvelén
 Cziskvelén is a **Swordsman** and **Settler**, having settled the *Temple of Vestia* alongside Vászi, and the *Temple of Álusken* alongside Matéis. Cziskvelén's life has mostly become a legacy, as he is usually referred to as the "Original Settler", long after the foundation of the *Temple of Zhuehai*, as his own temples would cause more temples to bloom throughout the planet. 
 
-Cziskvelén bears a **Plain White Mask**, albeit more worn down than that of Vászi. Being a swordsman, he also bears a long two-handed sword, which channels light as a power (As seen in Vászi's *Blade of Cziskvelén* Signature). 
+### Appearance
+Similarly to **Vászi**, Cziskvelén bears a **Plain White Mask**, albeit more worn down than those of the other Guardians. The Settler's outfit has remained the same as well, even despite his departure to **Chroma**: A White/Grey mantle or robe that wraps around a black harness, which is completed by white pants.
 
 ### Past Life
 Before being killed and subsequently approached by the **Eye of Chroma**, Cziskvelén was a hitman ([[Nikec Kráminsz]]) in **United Máneá**, soon before it fell. Having gone through blood and sweat without emotions, he initially was confused why he was given the chance to go through Rebirth at all, especially since the targets that he eliminated on Luniks ultimately led to the **Collapse of United Máneá**, but even despite this, **Chroma** knew that Cziskvelén would be the right person to guide others into a new life.
@@ -55,7 +57,7 @@ Sóvis currently has no entries in any of his stages.
 
 
 ## // Luna
-Appearance wise, **Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their strong *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light.
+Appearance wise, **Luna** can be described as an androgynous person, dressing themselves very nonchalantly and regularly, being very vocal about their strong *distaste* in the traditional clothing of the Guardians and various other ghosts, and continuing to wear the same, basic style of clothing they used to wear before their Last Light. This clothing can be described as far as simple jeans and a hoodie, completed by a navy-blue trenchcoat. 
 
 Luna bears an **Oni Mask**, handcrafted to their preference and integrated a mask featuring *Golden/Red* and Chinese-inspired characters and artworks, as a tribute to the many days they had spent in Matéiazhu ever since being reborn.
 
@@ -85,7 +87,7 @@ Before her Rebirth, Snow originally was a young man who studied Arts & Crafts, w
 
 
 ## // Winter 
-**Winter** is a fairly young girl, with the animal traits of a *Snow Leopard*, and is frequently seen wearing thicker types of clothing, traditionally suited for winter weather, contra *Snow*, who is also a "Ghost of Winter" in a sense, but instead wears more thin dresses.
+**Winter** is a fairly young girl, with the animal traits of a *Snow Leopard*, and is frequently seen wearing thicker types of clothing, traditionally suited for winter weather, contra *Snow*, who is also a "Ghost of Winter" in a sense, but instead wears more thin dresses. 
 
 Having mentioned Snow, she and Winter get along exceptionally well, and are sometimes even passed along as twins, despite Winter originally coming from Karlsborg whereas Snow lived in Keustellet before both of their respective *Last Lights*. Winter was led through *Rebirth* by **Temple Guardian Marten**, which is why she was immediately introduced to **Snow**, and why the three get along together well now. Originally having refuged in their home, they now simply live together as a family.
 
