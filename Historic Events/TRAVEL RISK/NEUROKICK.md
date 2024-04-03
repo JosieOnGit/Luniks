@@ -18,7 +18,7 @@ A key change in the method is that the drug is now completely *standalone*, and 
 
 The danger curve is straightforward: The higher the price, the higher quality the chip and controller you're getting, and as the price declines, the risk of getting a *fake* or *harmful* controller increase, which can give you an adverse effect and can stimulate your brain enough to enter a coma, which is something that more and more frequently happens as the economy continues to crumble. 
 
-### Drafted Story: Watch your steps
+### Story: Watch your steps
 
 *// POV: Mika* \
 *// Ódóni Industries, Álef*
@@ -62,7 +62,7 @@ I shook my head, taking a deep breath upon reaching the ground floor while the s
 **"Copy. Locking down and extracting. See you in Egórece."**
 
 
-### Drafted story: Code 5
+### Code 5
 *// POV: Mika* \
 *// Metro da Máneá, Egórece*
 
