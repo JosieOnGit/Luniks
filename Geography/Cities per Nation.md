@@ -1,7 +1,7 @@
 # List of cities per Nation
 
 ## Continents
-Luniks has four continents over the entire planet, each containing a landmass similar to Africa or South America. The four continents can be divided up into countries as well, as follows:
+Luniks has four continents over the entire planet, each containing a landmass similar to Africa or South America. The four continents can be divided up into nations as well, as follows:
 ### Ubunia (Central continent)
 - [[Thórirsant]]
 - [[Ellitróómi]]
@@ -31,7 +31,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - 
 
 
-// **NOTE**: As you can see, two continents are currently completely empty spaces, with no countries located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
+// **NOTE**: As you can see, two continents are currently completely empty spaces, with no nations located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
 
 # Ubunia
 Ubunia was the first continent out of four on the planet to be settled. Right in the very heart of the western wing of the continent, Þórirsson set foot and settled the city of Nóve Réjkjavik, before the imminent boom in further developments throughout the continent.
@@ -81,4 +81,4 @@ With the counter-clockwise pattern of partitioning the four continents, **Skádi
 ## Náhrekv
 
 ___
-Below are a few countries that are only currently known by name, and might not yet be placed on the map. 
+Below are a few nations that are only currently known by name, and might not yet be placed on the map. 

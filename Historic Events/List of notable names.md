@@ -16,7 +16,7 @@ Despite being set in the near future where space travel is a reality, travel by 
   
 Separate passenger and cargo corridors were created in order to make passenger and cargo transport completely independent of one another. Having survived a bankruptcy on Earth, Railpool has found its place in cargo transport throughout and between Thórirsant and Kérisant, maintaining a tight connection and almost exclusive use of Siemens locomotives.
 ## LTS - Lúnikska Trén Service
-LTS as a company frequently reappears throughout the story, although it only services connections between the various countries on **Ubunia**. 
+LTS as a company frequently reappears throughout the story, although it only services connections between the various nations on **Ubunia**. 
 
 ## RKU - Rail Klaszi Ubunia
 RKU provides international services between **Thórirsant**, **Kérisant**, and **Zakh'háfo**, providing both cargo and passenger transport.

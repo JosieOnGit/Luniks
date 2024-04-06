@@ -105,11 +105,6 @@ I nodded again, the cold and icy feelings finally disappearing, trading places w
 
 
 ## // MARTEN  
-**Drafted:** \
-Just like a normal day in his hospital bed, Marten would wake up expecting nothing, even though his entire world had just changed. He finds himself in his hospital bed, oddly enough without any pain at all. He remembers his name, his situation, and all that had happened, and his memories don't fade either.  
-- He steps out of bed in awe, stretching and moving like he hadn't been able to do, before deciding to step out of hospital room, wondering why it's do quiet in the otherwise busy and lively hospital  
-- Instead, upon stepping out, Vászi stands at the end of the hallway, who then explains Marten's situation and guides him through his rebirth
-
 ### Freed From Pain
 *// POV: Marten* \
 The vivid, colourful dreams of the Dragons of Vao seemed to reach an end. Morning was approaching, and despite being asleep, my mind and my body were both aware of this. Before long, I slowly opened my eyes, finding myself in the ever familiar hospital room that I had spent the last months in. The sun was shining brightly through my window, and it almost seemed like a totally different world without the Aurora dancing over the Vaon mountains. But something seemed off. I still felt bedridden, and looking around my room, I picked up just how eerily quiet the rest of the hospital was. I could usually always pick up at least five different voices in the hallway, laughter from the reception, distant beeping from the other rooms, but neither of those sounds were prominent at this very moment. 
@@ -140,17 +135,19 @@ A smile appeared on my face while existential confusion began to whirl around in
 
 **"I understand your confusion, Marten, that is only natural. You find yourself in an Elevated Realm, as you are a Ghost. You, much like I am myself, are part of the Temple of Vestia, a commune of Ghosts that have all gone through death and rebirth the same way you're going through it right now."**
 
-I nodded slowly and understandingly.
+I nodded slowly and understandingly. Looking down to my hands, my legs, and the rest of my body, I failed to recognise myself. I had been bedridden and deteriorating for a year now, by body had broken itself down as far as it possibly could before finally giving way, and now suddenly seeing myself in the same state I was in just before my diagnosis, it was surreal. I was still wearing the sleepwear that the hospital provided me every day, and while it was oddly nostalgic seeing my healthy body in the hospital's clothing, it also made me worry about the new future that awaited me. 
 
+*"There's.. no chance for me to just get cancer again, right?"* I asked hesitantly, still feeling in awe to still be alive in one way or another, but worried it would just end prematurely once more. \
+**"You are correct."** Vászi began, **"You cannot contract cancer, or any illness, in this elevated realm. The only force that can take your life, is age."** \
+I nodded again, thinking to myself while the memories of my past life were still cycling through my mind. I had already come to terms with the fact that I would never be able to meet them again, or tell them about this fantastic miracle that had happened to me. My last message to them would forever remain the same, that I had passed away peacefully at night without pain, that the cancer had finally quit toying around with my body and my mind, and finally freed me from any further pain. I thought back to Miranda, wondering how she would grow into her role of the lead nurse, my other friends who had gone to Myriakos after graduating. But one person that I wish I could've said a proper farewell to, was my dad. After his busy quarter, he finally paved the way to meet me in the hospital, and even gave me a few more visits afterwards, but even knowing that, I wish I could still guard him, even from above.
+
+After giving me a moment to collect my thoughts, to settle in with this new realm, this new life that was granted to me, Vászi held out his hand. His mask was still shining brightly in the hospital lights, and the white mist had gradually evaporated as well. Behind his mask, I knew I could see a warm, confident smile from him. \
+I took his hand with full confidence and with open arms, deciding to not take this miracle for granted, and let Vászi guide me to wherever this life would bring me next.
+
+**"Let's guide you to your new home, Marten."**
 
 
 ## // SPARK
-**Drafted**: \
-Soon after her death, her father had left the house for what it was and drove off into the sunset, leaving behind a mystery crime that left Spark and her family dead. \
-Spark reawakens at the bottom of the stairwell where blood had dripped down from not even an hour ago, facing the front door with the guitar she had dropped besides it. Oddly enough, the pain in her chest from the blade her father had stabbed and killed her with persisted, while the pain in her shoulder had gradually receded again. Sóvis, who was at the top of the stairwell, realised this too, wondering if he was too soon to initiate the Rebirth.
-
-Sóvis holds his hand out, Spark's violin in the other, and offers her to climb up the stairs. Weirdly enough to Spark, she didn't have the same odd feeling as she had before her death, even despite the walls still being soaked in dry blood. Together, they make their way to the various bedrooms, and Sóvis reveals to Spark that she had indeed been killed by her father. The spirits of Bryan and her mother appear too, and she is able to give them a proper farewell one last time. (**Leaves open Rebirths for both -> Hopeless Glimmer into a happy one where her family is reborn too?**) 
-
 ### The Flame Reignited
 *// POV: Spark* \
 A wave of dizziness washed over me, and I felt like I was awakening from a month-long slumber, I felt disoriented, lost, but surprisingly enough, everything smelled familiar, like home. \
@@ -184,7 +181,13 @@ My tears immediately stopped, and I felt the numbness in my shoulder and arm beg
 
 *"S-Sóvis.."* I begin, *"Where.. Where did you learn the name.. Sparkle..? Only mom called me that.."*
 
+**"Your name has been Spark from the very start, hasn't it?"** Sóvis replied with a soothing and calming voice, causing my doubts to stir through my mind even further. I desperately tried to remember my name, but every trail that I found led me back to the name *Spark*, and I couldn't understand why, I couldn't understand why my memories were failing me, betraying me. Once more, the memories chonologically led up to the moment my dad's blade pierced through my chest. \
+Feeling the sharp, stinging pain once more, I forced myself to keep quiet, tears beginning to roll down my cheeks while my head rested against the wall. Sóvis's hand returned to my shoulder, the warm massage resuming while the pain gradually receded. The memories kept flashing before my eyes, and no matter how hard I tried, I couldn't find a way to snap out of it. I was begging for my head to let go of this trauma, for my mind to finally let go and forget, but in this very moment, all I feared was that these thoughts would haunt me for the rest of my remaining life, for al those years I was now granted another chance at.
 
+**"Spark.."** I heard Sóvis whisper beside me, as I looked to my right. But instead of meeting his ominous, emotionless white mask, I could see his face, his warm and genuine smile and caring expression that were complemented by his curly hair and beard. **"I'll carry you to Vestia, don't worry about the how's or why's, but I know how tough it is for you in this moment."** \
+He carefully guided me to stand up, and effortlessly lifted me up in his arms. Our heights didn't differ exceptionally much, yet I felt so small in his arms, yet so safe. The smile remained on his face, a smile with genuine love, with genuine care. Even if he still seemed like a stranger to me, it wasn't the other way around. Despite a voice in my mind telling me to run and leave everything behind while I could, the other voice told me to embrace and accept it. As much as I wished I could bring mom and Bryan along, I knew I shouldn't let this miracle go to waste.
+
+Without any effort, Sóvis picked up the guitar near the front door and guided us both outside, making our way to Vestia, guiding me to my new home.
 
 
 ## // RAINE

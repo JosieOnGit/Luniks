@@ -84,3 +84,6 @@ I shook my head, taking the stairs to exit the Metro station, and immediately lo
 ### Drafted Story: Take to the skies
 *// POV: Mika*
 *// Hád Bésim Tower, Egórece*
+
+**Drafted**: Attempting a similar entry and climb that he took in the Ódóni tower, Mika makes his way through the floors of the Hád Bésim tower, but with much more drawbacks and confrontations. The police is present on every floor, guarding almost every angle. With this in mind, Mika considers climbing the tower from the outside, but ends up sneaking into a broken elevator shaft instead, doing all he can to avoid the police, and getting caught.
+

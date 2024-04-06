@@ -68,7 +68,7 @@ The floor beneath me had given way.
 ## // MARTEN  
 ### Dancing with Dragons
 *// POV: Marten* \
-It hadn't just been days that had flown by, it'd been months. Bedridden away from home, stuck at the university I once studied at, unable to do anything but watch the clocks tick away while my condition worsens. The university student I once dreamed to teach at the hospital, were now the once taking care of me, and my dream of becoming a teacher was becoming slimmer by the day. \
+It hadn't just been days that had flown by, it'd been months. Bedridden away from home, stuck at the university I once studied at, unable to do anything but watch the clocks tick away while my condition worsens. The university student I once dreamed to teach at the hospital, were now the ones taking care of me, and my dream of becoming a teacher was becoming slimmer by the day. \
 My mom I had lost to cancer, my dad was in Zhuehai for his work, and with how busy he was this fiscal quarter it wasn't easy for him to visit me either, all the way in Lasz. We videocalled, and made the best of my worsening situation, but it was lonely. 
 
 I hear a knock on my door, and the nurse who I knew as Miranda, slowly made her way into my room. **"Am I disturbing..?"** she asked, a folder of documents tucked away under her shoulder. I shook my head, and she made her way to the chair beside my bed. **"I have.. news, Marten.."** She began, her tone already giving me shivers, as I wait for the inevitable words that were soon to exit her lips. \

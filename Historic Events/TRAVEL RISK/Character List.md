@@ -10,7 +10,7 @@ Nils is a well-built but slim young man, who has since his acquisition into **Th
 Nils's backstory and the course of his life, is available at [[Backstories#Nils]].
 
 ## Raléi Alentikíles
-Belongs to **The Agency** (Founder, Owner). \
+Belongs to **The Agency** (Weapons Expert, Owner). \
 Equipped with **Stealth Weaponry** (Blade hidden under wrist) and neurotech, including **Wrist Rabbit** (Hacking protocol on wrist) and **Adrenaline surges** (Pulsing streaks on left arm). 
 ### Appearance
 Looks are deceiving, and Raléi knows this. While sharing a similar outfit to **Nils**, a basic navy-blue suit, much more is hidden underneath. Her **Neurotech** was all installed on her left arm, which she accentuated with various tattoos as well, varying from tribal to futuristic and abstract. Having trained in martial arts and having mastered weaponry from melee through marksman rifles, she is a force to be reckoned with.

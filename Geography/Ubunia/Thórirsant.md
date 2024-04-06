@@ -1,5 +1,5 @@
 # Thórirsant
-Settled by [[List of notable people#Jonathán Þórirson]], the nation of Thórirsant was the first nation to set its borders, which had quickly after gone through many changed with the births of various other countries. It's flag is identical to the flag that is usually passed on as the "Flag of Luniks", a horizontal three-coloured white-green-black flag. \
+Settled by [[List of notable people#Jonathán Þórirson]], the nation of Thórirsant was the first nation to set its borders, which had quickly after gone through many changed with the births of various other nations. It's flag is identical to the flag that is usually passed on as the "Flag of Luniks", a horizontal three-coloured white-green-black flag. \
 ![[Flag_Thórirsant.png]]
 ## Nóve Réjkjavik (Capital)
 Named after the city of birth of Jonathán Þórirsson, founder and first settler of the planet of Lúniks. Initially, it was often referred to as "Capital of the planet", though this quickly disappeared again once *Vestia* started to get gradually settled. \

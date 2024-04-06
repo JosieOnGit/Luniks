@@ -9,6 +9,11 @@ Despite being the capital of the nation, Zháhi is merely the third biggest city
 With a beautiful blend of classical Vaon architecture and modern, sharp styles, Lasz is the biggest city within Vao. Growing limitless in the south of the nation, it's easily accessible by its neighbouring nations and isn't troubled by the otherwise mountainous regions throughout the rest of the nation.
 ## Sevennur
 Located on the border of Álusken, much of the local Álusken culture remains dominant in this city.
+## Seáo
+
+## Ovééu
+
+## Mivasz
 
 ## Sui Donnore
 

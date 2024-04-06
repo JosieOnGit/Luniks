@@ -3,7 +3,7 @@ To most, this entire repository filled to the brim with loosely related stories 
 
 # Geography
 The **Geography** is fairly straightforward. One document and several folders are here that are infrequently updated, which are:
-- **Adding a Nation to Lúniks**: An older (February 2023) document that remains unfinished but briefly describes the planet map and its continents, and how I struggle to place certain countries on top if it. Because of the high velocity in which nations and stories add new places and cities to the existing nations, I paused this while I develop those stories, before I'll continue writing this particular document.
+- **Adding a Nation to Lúniks**: An older (February 2023) document that remains unfinished but briefly describes the planet map and its continents, and how I struggle to place certain nations on top if it. Because of the high velocity in which nations and stories add new places and cities to the existing nations, I paused this while I develop those stories, before I'll continue writing this particular document.
 - **Continent Folders**: These folders are divided up into the four continents, each of which contain separate documents of each of the nations that are present on that continent, which themselves have a bit of history and contain a list of cities and towns within that nation.
 
 # Historic Events
@@ -35,7 +35,7 @@ The **Stories** folder is a collection of unrelated drafts or stories that don't
 
 ## TRAVEL RISK
 Main document: [[TRAVEL RISK]]. \
-**TRAVEL RISK** is the most recently created story, which lays focus on the grim reality that takes place after the *Máneán collapse*, which affected the nations of **Zakh'háfo** and **Máneá**. Because of the collapse of the country, it was split into two, and were quickly plunged into an economic crisis which soon led to disaster. Because of this drastic change, the average wellbeing of the citizens declined, and drug usage rapidly increased. **TRAVEL RISK** encompasses the various drugs that are now present in the two countries, and lays the focus on the various characters that are drafted, and how they deal with this change, or how they deal the drugs. 
+**TRAVEL RISK** is the most recently created story, which lays focus on the grim reality that takes place after the *Máneán collapse*, which affected the nations of **Zakh'háfo** and **Máneá**. Because of the collapse of the nation, it was split into two, and were quickly plunged into an economic crisis which soon led to disaster. Because of this drastic change, the average wellbeing of the citizens declined, and drug usage rapidly increased. **TRAVEL RISK** encompasses the various drugs that are now present in the two nations, and lays the focus on the various characters that are drafted, and how they deal with this change, or how they deal the drugs. 
 
 ## Lists
 Lastly, three lists are present: \

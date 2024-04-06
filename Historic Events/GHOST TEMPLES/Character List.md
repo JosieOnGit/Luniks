@@ -7,7 +7,7 @@ As the **Guardian of Vestia**, the *White/Grey* dress code is mandatory for a Gu
 
 Vászi bears a **Plain White Mask**. He prefers a featureless mask that hides his expressions and body language while guiding a new ghost through Rebirth. This way, he will give the new ghost the most neutral and natural way to process it all, without giving a first impression, be it good or bad, through an altered and personalized mask.
 
-His name, *Settler of Vászi*, is derived from the area in which he had settled the *Temple of Vestia*, which is located between Álusken and Zhuehai, in a nature reserve that's commonly known as **"The Vászi"**. In both the countries it overlaps and its surrounding countries this name is frequently used, whereas the name **"Váseim"** is used throughout the countries in Ubunia.
+His name, *Settler of Vászi*, is derived from the area in which he had settled the *Temple of Vestia*, which is located between Álusken and Zhuehai, in a nature reserve that's commonly known as **"The Vászi"**. In both the nations it overlaps and its surrounding nations this name is frequently used, whereas the name **"Váseim"** is used throughout the nations in Ubunia.
 
 ### Past Life
 Nothing about Vászi's past life is known, as he was the original settler of the Temple of Vestia, together with Cziskvelén. Soon after, Vászi would stay behind to guard the newly-founded temple, while Cziskvelén would continue to roam the nature reserve and ultimately lay ground to the *Temple of Álusken*, where he would share Guardian duties with **Settler Matéis**. 
