@@ -15,11 +15,16 @@ Located on the border of Álusken, much of the local Álusken culture remains do
 
 ## Mivasz
 
+## Vao Donnore
+Named after the **Dragon of Vao**, who is recognised as a white dragon, accentuated by generous streaks of blue and yellow. The **Flag of Vao** is directly inspired by her colours, and is also the namesake of the nation.
 ## Sui Donnore
-
+Named after the **Dragon of Sui**, who is recognised as a blue dragon, accentuated by different shades of lighter and darker blues.
 ## Náv Donnore
-
+Named after the **Dragon of Náv**.
 ## Estre Donnore
-
+Named after the **Dragon of Estre**.
 ## Ási Donnore
+Named after the **Dragon of Ási**, who is recognised as a beige/yellow dragon, accentuated by a light pattern of white and blue streaks. \
 Also written as "**Hási Donnore**", because of the strong dialects within the Northern Vaon hills.
+## Istri Donnore 
+Named after the **Dragon of Istri**, who is recognised as a black dragon, accentuated by generous red streaks and patterns of grey..

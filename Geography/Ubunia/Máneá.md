@@ -16,3 +16,7 @@ Frequently dubbed as the "Capital of drugs", Deth-Kelétam served home to illega
 Before the collapse of **United Máneá**, Amadnésam was considered to be the research capital of Máneá, a title it retained after the collapse for another few years, but inevitably lost after the economy plummeted not too long after. The city had been divided into several zone, which included various residential zones, an economic district, and research/science districts, all connected through a tightly woven metro network. 
 
 ## Akhádija
+
+## Ni-Ávim
+
+## Stéu-Khessí

@@ -15,6 +15,9 @@ Equipped with **Stealth Weaponry** (Blade hidden under wrist) and neurotech, inc
 ### Appearance
 Looks are deceiving, and Raléi knows this. While sharing a similar outfit to **Nils**, a basic navy-blue suit, much more is hidden underneath. Her **Neurotech** was all installed on her left arm, which she accentuated with various tattoos as well, varying from tribal to futuristic and abstract. Having trained in martial arts and having mastered weaponry from melee through marksman rifles, she is a force to be reckoned with.
 
+### Backstory
+Raléi's backstory and the course of her life, is available at [[Backstories#Raléi]]
+
 ## Gustavo Dáritke
 Belongs to **Dáritke** (Founder, Owner).
 ## Antoine Rousseau
@@ -43,6 +46,7 @@ HQ'ed in **Kristánisin** (Zakh'háfo). Recognised by **Blue/Turqouise** colouri
 HQ'ed in every city within Máneá and Zakh'háfo. Recognised by **Black & Silver** colouring.
 
 ## Vátnelári
-HQ'ed in **Egórece** (Zakh'háfo). Recognised by 
+HQ'ed in **Egórece** (Zakh'háfo). Recognised by **Orange** colouring.
 
-
+## Dragon Dancers
+HQ'ed in 

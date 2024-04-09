@@ -12,6 +12,5 @@ Panjit is of Indian descent and is the scientific wonder that enabled Earth to l
 Having studied in Oxford, Tagip came in close contact with the ESA and quickly researched and developed the technology needed to reach Luniks in such speed. 
 ## Seventh Léjtuse (Awaiting inclusion)
 The Seventh Léjtuse is intended to be an insurgent army also involved in the Oslo revolution, but as described with Persson and Reiut above, this is put back to the concept board.
-
 ## Aélu Akájune (Awaiting inclusion)
 Aélu is a well-known spaceship designer, that created the smaller passenger ships with the help of Panjit in order to design and build spaceships rapid shuttle services between Earth and Luniks.
