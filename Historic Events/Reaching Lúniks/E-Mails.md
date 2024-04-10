@@ -14,7 +14,7 @@ What you're looking at is the forest in the marked area where the city of Kastá
   
 I think it's worth taking another shot at iterating ELL-2, Frank, we're discovering an almost identical clone of our own planet before our eyes. This is an opportunity we cannot and shall not waste.  
   
-I will see you in April,  
+I will see you in April, \
 Alexis Lesenen.
 
 ### 14-05-01 - Proposal to allocate land on Vestia to Benelux and Denmark
@@ -30,7 +30,7 @@ The topic that I would like to discuss with the combined governments of The Neth
 
 We understand that the imminent danger of global sea level rise is causing major concern in both of your respective nations, which is precisely why this email is sent to you, the recipients. I am eager to hear your responses.
 
-On behalf of the Lappland Observatory and the EESA,
+On behalf of the Lappland Observatory and the EESA, \
 Alexis Lesenen.
 
 ### 27-02-03 - Request from Bëndén to settle Mhárani
@@ -46,7 +46,7 @@ Personally, I think he is onto something that might be lying directly under our 
 
 Lappland continues its operations, has any signal gotten back from the stability of the Panjit Loop just yet? It's been a while since I've last heard back from Akájune, but I believe it's nothing to worry about, though.
 
-Have a good evening,
+Have a good evening, \
 Alexis Lesenen.
 
 ### 06-11-04 - Discovery of vital forests on Deónia
@@ -62,5 +62,19 @@ Last night, at 21:33, the team at Lappland discovered that Deónia of home to an
 
 Therefore, I would like to request a full stop regarding settlement plans on Skádia and Deónia, and leave the proposals for Emyria and Náhrekv for what they are. We are about to embark on the greatest global mission since the beginning of humanity, and I would prefer we do not interrupt the planet as we do so. 
 
-I will return to Geneva around June, until then,
+I will return to Geneva around June, until then, \
+Alexis Lesenen.
+
+### 12-02-05 - Green Light for exploration mission
+**To**: internal@eesa.eu, willemsenfd@eesa.eu
+**Sender**: lesenenaa@fsa.fi
+**Subject**: Exploration mission around Nóve Réjkjavik is greenlit
+
+Frank,
+
+Earlier today I've received a confirmation from both head of command Augustin and from Aélu himself, that the fleet of two exploration ships to land and explore around the designated Nóve Réjkjavik area has been given the green light, to the dismay of Mr. Thórirsonn. I know that he has been eager to become the first man to set foot on Lúniks, but will simply not be possible. Having **One** become the first ship to land on Lúniks is an extreme risk, and we would like to test whether it is habitable in the first place. Therefore, Aélu has designed a fleet of smaller, capable and tested spaceships that adhere but iterated the Space Shuttle design, and have survived numerous jumps through the **Panjit Loop**, with ease. 
+
+Please forward this to Jonathán, but give him the opportunity to go through intensive testing, if he wishes to be the first man to set foot on Lúniks. I will await your response, the flight date is currently set for April 15th. 
+
+I hope to hear back from you soon, \
 Alexis Lesenen.
