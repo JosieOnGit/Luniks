@@ -1,7 +1,6 @@
 # Voice Logs
 A collection of voice logs made during the discovery and trajectory towards settling **Lúniks**. 
 
-
 ### 18-09-95 - Panjit Loop test in simulation succeeds
 *Voice message from Petrus Masego to Prof. Lesenen*
 
@@ -23,8 +22,22 @@ Masego out!
 ### 01-01-01 - Activity around unsettled Zhuehai region
 *Voice message from Petrus Masego to Prof. Lesenen*
 
-Happy new year, Alexis! Hope it's been a good one, the nineties are really behind our backs now! Anyway, I messaged you again to inform you about what the LTL-4 telescope had spotted at nighttime on Lúniks, it's pretty fascinating. Now of course, we haven't found any life in detail just yet, but probe ELL-2 did test in a group of forests on unsettled Thórirsant and picked up sounds that could be considered to be similar to the group calls of deer, but that's for another time. What I'd like to show you is the strange auroras that LTL-4 has been keeping its eyes on for the past few days. It seems to only appear during nighttime, but there's a clear aurora appearing above the unsettled Taiwanese region on Vestia, and nowhere else. To make matters more strange, the aurora doesn't appear above either of the magnetic poles. It seems something, magical, is taking place here, but we'll do more testing and I'll let you know once we get a clearer picture. Until then, might pass on the banana bread recipe? Been thinking of making that at home.. I'm trailing off, sorry!
+Happy new year, Alexis! Hope it's been a good one, the nineties are really behind our backs now! Anyway, I messaged you again to inform you about what the OTL-4 telescope had spotted at nighttime on Lúniks, it's pretty fascinating. Now of course, we haven't found any life in detail just yet, but lander ELL-2 did test in a group of forests on unsettled Thórirsant and picked up sounds that could be considered to be similar to the group calls of deer, but that's for another time. What I'd like to show you is the strange auroras that OTL-4 has been keeping its eyes on for the past few days. It seems to only appear during nighttime, but there's a clear aurora appearing above the unsettled Taiwanese region on Vestia, and nowhere else. To make matters more strange, the aurora doesn't appear above either of the magnetic poles. It seems something, magical, is taking place here, but we'll do more testing and I'll let you know once we get a clearer picture. Until then, might pass on the banana bread recipe? Been thinking of making that at home.. I'm trailing off, sorry!
 
 I'll return to my usual work in Johannesburg, until then, keep up the great work and let me know whenever Akájune needs my attention regarding the Starship prototype.
 
 Masego out!
+
+### 31-05-02 - Starship Zero survives Panjit Loop test 
+*Voice message from Petrus Masego to Prof. Lesenen*
+
+I've got fantastic news, Alexis. Sit down and have yourself a glass of champagne, you're in for a ride. \
+Last week, Aélu completed **Zero** and proved its functionality by doing basic autonomous flight tests, which it all passed from the get-go. I was already flabbergasted that a prototype that is almost the size of a generous city centre could fly in the first place, but I'm no longer having doubts about your contacts, especially after you discovered Tagip way back. To keep things short, we've sent **Zero** through the **Panjit Loop** to see whether it can withstand the stress that is put upon it. We believe that **LNK-1** barely survived the travel, but that's already been many years ago, and Tagip has been ever-developing the wormhole technologies since. I'll let you know when we get the green light to launch **Zero** into orbit and into the Loop, until then, Masego out!
+
+*-- Approx. 9 hours later*
+
+Alexis, you're not going to believe this! **Zero** survived! She went through the **Loop** without any issues and arrived in Lúniks's orbit without any damage or issues whatsoever! It's surreal, the Control Center in Geneva is still in ecstasy and it's been an hour already. I can't believe it, Alexis, we're actually doing this, we're actually going to write history! Lúniks is due next, but does it end there? Our scope of the universe just grew infinitely, it's mind-blowing!
+
+We're letting **Zero** spend a day in orbit and then have her return to **Earth** so Aélu can iterate on it and prepare it for her first iteration into **One**, but if things stay on schedule like this, he's confident that we can settle Lúniks by 2005. I need a moment, I'm sure you do too, this is fantastic, I'm out of words.
+
+Masego out! 
