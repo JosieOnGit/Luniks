@@ -62,7 +62,7 @@ Prominent in the north of Álusken (Hence the name **Norden**) is **Norden Super
 ## Hammerhead 
 **Hammerhead** is a Vestian industry appliances manufacturer, who is best known for snowballing the expansion and normalisation of the settlement of Vestia, soon after the borders were drawn upon landing on Luniks. 
 
-Hammerhead carried over the production for space travel from **EESA**, after their factories on Earth had shut down following the successful settlement of Luniks. Next to developing the next iteration of **Starships**, which continue to carry over important cargo between Earth and Luniks, Hammerhead also produced the necessary technology which was used to create **Alkéisa's Ring**, and is also renowned for developing the first non-lethal mass produced weapon, with their **Pulse Rifles** and **Pulse Pistols.**
+Hammerhead carried over the production for space travel from **ESA**, after their factories on Earth had shut down following the successful settlement of Luniks. Next to developing the next iteration of **Starships**, which continue to carry over important cargo between Earth and Luniks, Hammerhead also produced the necessary technology which was used to create **Alkéisa's Ring**, and is also renowned for developing the first non-lethal mass produced weapon, with their **Pulse Rifles** and **Pulse Pistols.**
 
 ## Carbine
 Next to offering a various catalogue of weapons, **Carbine** is in the hunt to reach the same level of market share that **Hammerhead** currently has. Jealous of their achievements, Carbine entered the experimental weapon department, in hopes to create a new image for themselves where they failed trying to chase after Hammerhead. 
