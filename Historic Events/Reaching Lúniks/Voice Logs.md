@@ -41,3 +41,14 @@ Alexis, you're not going to believe this! **Zero** survived! She went through th
 We're letting **Zero** spend a day in orbit and then have her return to **Earth** so Aélu can iterate on it and prepare it for her first iteration into **One**, but if things stay on schedule like this, he's confident that we can settle Lúniks by 2005. I need a moment, I'm sure you do too, this is fantastic, I'm out of words.
 
 Masego out! 
+
+### 13-02-04 - Western Zhuehai auroras persist
+*Voice message from Petrus Masego to Prof. Lesenen*
+
+Hey Alexis, it's been a good amount of time since the last time I brought up this topic to you, but I've kept my eyes on the strange auroras around Western Zhuehai for the past few weeks with **One** reaching its first testing phases in France. Things are pretty wild, to say the least. I'll explain.
+
+The auroras around Western Zhuehai persist, as I presume they have for the past years, but just like then, they don't appear to be on the magnetic poles of the planet nor are they caused by altitude or solar flares. What makes matters especially strange, is that we've spotted green flares above the North Pole just last week as well, which appear to be caused by the exact same solar flares that happen on our own North Pole in Lappland. Things aren't adding up, and we're reaching a dead end trying to find a way to answer this ongoing question.
+
+I'd like to return to the Lappland Observatory to share our findings with you and have a look at Lúniks's North Pole, as well as looking at the auroras in Western Zhuehai, and comparing these to the auroras in Lappland. Let me know what dates work out best for you, Alexis.
+
+Masego out!

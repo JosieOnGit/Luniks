@@ -51,7 +51,20 @@ Kind regards, \
 Alexis Lesenen.
 
 ### 18-08-94 - Choreos-RP-4 is discovered, research shift
+To: 174 recipients
+Sender: internal@esa.eu
+Subject: Announcement: Discovery of Choreos-RP-4, and the course following
 
+To all recipients,
+
+Earlier this week, the team in Geneva, under the lead of Jonathán Thórirsonn, have returned their eyes to Messier-45 and Choreos. In the process of scanning and analysing the planets that were in the habitable zone, Choreos-RP-4 was discovered and further analysed through the eyes of Hubble with supervision from Alexis Lesenen. Concluding this research, both teams have discovered that Choreos-RP-4 is the mostly likely planet to be our one-in-a-million shot in the dark at settling an exoplanet. In emails that will follow soon, more details as to why will be revealed.
+
+Choreos is a mere 6 lightyears away from our solar system, and with rocket propulsion technologies having increased our travel speeds to near the speed of light, a mission would still take at least 6 years to send a probe for detailed research. However, we believe that Mr. Panjit is close to unlocking the keys to closing this distance to a mere hour. For this too, more information is to follow.
+
+This announcement closes with information regarding all recipients of this email. You will soon receive another email regarding your new outpost, as the branch you are under will shift towards research regarding Choreos-RP-4. The remaining teams will proceed with their work for discovering other potential planets until further notice.
+
+More information will follow, keep an eye out for your inbox. \
+Prof. Bestevaer for European Space Agency (ESA)
 
 ### 12-02-00 - Discovery of life and change of approach
 **To**: internal@esa.eu, willemsenfd@esa.eu \
