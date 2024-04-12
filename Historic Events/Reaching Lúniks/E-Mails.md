@@ -33,11 +33,11 @@ Before his retirement, Prof. Meyeren's team believed that the rocket technologie
 As is usual with a development shift, an availability sheet is available at the reception desk in Geneva, and another email will follow in a few days regarding the planar conference that will be held in the Geneva exposition, later this summer. 
 
 We hope to see you all soon at the planar conference, \
-Prof. Van Haeghen for European Space Agency (ESA)
+Prof. Van Haeghen for European Space Agency (ESA).
 
 ### 12-07-90 - Recruitment of Tagip Panjit
-**To**: internal@esa.eu, masegophi@esa.eu
-**Sender**: lesenenaa@fsa.fi
+**To**: internal@esa.eu, masegophi@esa.eu \
+**Sender**: lesenenaa@fsa.fi \
 **Subject**: Transfer of Mr. Panjit from ISRO to ESA 
 
 Petrus,
@@ -51,9 +51,9 @@ Kind regards, \
 Alexis Lesenen.
 
 ### 18-08-94 - Choreos-RP-4 is discovered, research shift
-To: 174 recipients
-Sender: internal@esa.eu
-Subject: Announcement: Discovery of Choreos-RP-4, and the course following
+**To**: 174 recipients \
+**Sender**: internal@esa.eu \
+**Subject**: Announcement: Discovery of Choreos-RP-4, and the course following
 
 To all recipients,
 
@@ -64,7 +64,7 @@ Choreos is a mere 6 lightyears away from our solar system, and with rocket propu
 This announcement closes with information regarding all recipients of this email. You will soon receive another email regarding your new outpost, as the branch you are under will shift towards research regarding Choreos-RP-4. The remaining teams will proceed with their work for discovering other potential planets until further notice.
 
 More information will follow, keep an eye out for your inbox. \
-Prof. Bestevaer for European Space Agency (ESA)
+Prof. Bestevaer for European Space Agency (ESA).
 
 ### 12-02-00 - Discovery of life and change of approach
 **To**: internal@esa.eu, willemsenfd@esa.eu \
@@ -156,4 +156,4 @@ I bring good news. I've forwarded your message to Jonathán, and despite his dis
 I've forwarded his request to the ESA training centre, Jonathán has already gone through various launches before and has a medium amount of training under his belt, and knows what to expect. Our priorities lay in teaching him the protocol ropes and having him go through the Loop once or twice in simulation to analyse the stress on his body. I believe this should go smoothly, though, meaning Aélu shouldn't expect any delays with the exploration mission.
 
 This concludes all I had to say, have a good evening, \
-Frank Willemsen
+Frank Willemsen.
