@@ -13,3 +13,14 @@ Available at [[NEUROKICK]]. **NEUROKICK** is an electronic injection-type drug t
 
 ## FOCUS THREE: LEREMKOV
 Available at [[LEREMKOV]]. While Leremkov is described as a disease similar to Influenza and Covid, it has been altered and modified even further behind closed, underground doors. Despite not being as prominent as drugs like **Lucky Water**, its effects are more of a threat to the human race than Leremkov itself is. 
+
+## STORIES
+### TRAVEL RISK 
+Available at [[TRAVEL RISK - Story]]. \
+Following a history of shady businesses and shady transactions, **Nils Lorieux** achieves his dream of fullfulling the wish of his parents: Moving back to France. But now living on his own in the ever worsening living standards, he stumbles upon **Antoine Russeau**, who was given the exact same mission as Nils. Teaming up, Antoine introduces him to **Dáritke** after a number of weeks, where Nils is assigned to a delivery mission to Egórece. During this mission, he was instead captured by members of **The Agency**, where he was promptly invited to cross over from Dáritke. Without a doubt, he burns his bridges with Dáritke, but from one Agency into another, the troubles don't disappear.
+### WHITEOUT
+Available at [[WHITEOUT - Story]]. \
+When technology can't bring you beyond the top, what is there next to try? With an eye for precision and an eye for perfection, any target that landed in her sights was a dead one, but desperate to climb the ladder and go beyond her capabilities, she seeks out a blend between Leremkov and her Neurotech, one that was only provided by **Vátnelári** in **Zakh'háfo**. 
+### THREAD THE NEEDLE
+Available at [[THREAD THE NEEDLE - Story]]. \
+The opportunity to guide your nation directly into independence after 5 years of fighting, at the cost of achieving the impossible lineup and shot. For the hitman **Black Bullet**, Nikec Kráminsz, the choice was easy to make. A chance to lose everything, or achieve it all, is now lying in his hands and his finger on the trigger.

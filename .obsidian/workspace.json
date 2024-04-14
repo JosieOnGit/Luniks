@@ -6,63 +6,51 @@
       {
         "id": "81f927cea75f4356",
         "type": "tabs",
-        "dimension": 47,
+        "dimension": 44.4,
         "children": [
           {
-            "id": "d7d0764483bac867",
+            "id": "465489dc3932d373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historic Events/TRAVEL RISK/NEUROKICK.md",
+                "file": "Historic Events/TRAVEL RISK/TRAVEL RISK.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2640ce756944034",
+            "id": "60d2f65047415f9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historic Events/TRAVEL RISK/TRAVEL RISK - STORY.md",
+                "file": "Historic Events/TRAVEL RISK/TRAVEL RISK - Story.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d9d339a744efdee",
+            "id": "1c4afa9ebc31dd8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historic Events/GHOST TEMPLES/LAST LIGHT.md",
+                "file": "Historic Events/TRAVEL RISK/Nikec Kráminsz.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a86b94886ffea1d5",
+            "id": "95e72f7e8bd88c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historic Events/GHOST TEMPLES/REBIRTH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71d774238f905090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/GHOST TEMPLES/EXPOSURE.md",
+                "file": "Temporary drafts.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,58 +62,22 @@
       {
         "id": "3b0732557f149020",
         "type": "tabs",
-        "dimension": 53,
+        "dimension": 55.60000000000001,
         "children": [
           {
-            "id": "12f6ad493555f797",
+            "id": "b65fd35c9c73e3b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historic Events/GHOST TEMPLES/GHOST TEMPLES.md",
+                "file": "Historic Events/TRAVEL RISK/LUCKY WATER.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27a5c270469057e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/GHOST TEMPLES/Character List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c96d6f5925c3dbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/Stories/Story Drafts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c1968ee8cbfcfe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historic Events/List of notable names.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57d72651dee029c4",
+            "id": "e0060dde9c176a71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,9 +87,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64a3f298d1de32be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/TRAVEL RISK/THREAD THE NEEDLE - Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f837576860d15063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historic Events/TRAVEL RISK/WHITEOUT - Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wordt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historic Events/GHOST TEMPLES/Character List.md",
+                "file": "Historic Events/TRAVEL RISK/WHITEOUT - Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,34 +207,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27a5c270469057e5",
+  "active": "f837576860d15063",
   "lastOpenFiles": [
-    "Historic Events/Stories/Story Drafts.md",
-    "Historic Events/List of notable names.md",
-    "Historic Events/GHOST TEMPLES/REBIRTH.md",
+    "Historic Events/TRAVEL RISK/WHITEOUT - Story.md",
+    "Temporary drafts.md",
+    "Historic Events/Leremkov Trials/Vitaly Leremkov, 2039-2095.md",
+    "Historic Events/Leremkov Trials/Leremkov Trials.md",
+    "Historic Events/Leremkov Trials/BREACH.md",
+    "Historic Events/TRAVEL RISK/THREAD THE NEEDLE - Story.md",
+    "Historic Events/TRAVEL RISK/TRAVEL RISK.md",
     "Historic Events/TRAVEL RISK/Character List.md",
+    "Historic Events/Stories/Story Drafts.md",
+    "Historic Events/TRAVEL RISK/TRAVEL RISK - Story.md",
+    "Historic Events/TRAVEL RISK/LUCKY WATER.md",
     "Historic Events/GHOST TEMPLES/Character List.md",
-    "Historic Events/GHOST TEMPLES/SIGNATURES.md",
-    "Historic Events/GHOST TEMPLES/EXPOSURE.md",
-    "Geography/Vestia/Vao.md",
-    "Geography/Vestia/Mónsan Republic.md",
-    "Geography/Vestia/Kostanzá.md",
-    "Geography/Vestia/Kingdom of Álusken.md",
-    "Historic Events/GHOST TEMPLES/LAST LIGHT.md",
-    "Historic Events/GHOST TEMPLES/GLIMMER.md",
-    "Historic Events/GHOST TEMPLES/GHOST TEMPLES.md",
     "Historic Events/TRAVEL RISK/NEUROKICK.md",
+    "Historic Events/TRAVEL RISK/Nikec Kráminsz.md",
+    "Historic Events/Reaching Lúniks/E-Mails.md",
     "Historic Events/GHOST TEMPLES/FIRST LIGHT.md",
-    "Historic Events/TRAVEL RISK/TRAVEL RISK - STORY.md",
-    "A Guide to Everything Luniks.md",
-    "Geography/Ubunia/Thórirsant.md",
-    "Geography/Ubunia/Rhódisz.md",
-    "Geography/Ubunia/Mharáni Republic.md",
-    "Geography/Ubunia/Máneá.md",
-    "Geography/Ubunia/Léjtis.md",
-    "Geography/Ubunia/Kérisant.md",
-    "Geography/Ubunia/Íszkéde.md",
-    "Geography/Cities per Nation.md",
+    "Pasted image 20240413164814.png",
+    "Historic Events/Reaching Lúniks/Reaching Lúniks.md",
+    "Languages/Lúnikska - Luniksan/Basic Luniksan Grammar.md",
+    "Languages/Lúnikska - Luniksan/Luniksan History and Overview.md",
+    "Historic Events/List of historic events.md",
+    "Historic Events/Reaching Lúniks/Once We Reach Lúniks.md",
+    "Historic Events/Reaching Lúniks/Lúniks Landers & Probes.md",
+    "Historic Events/Reaching Lúniks/Voice Logs.md",
+    "Historic Events/List of notable names.md",
+    "Historic Events/Leremkov Trials/LOGS.md",
+    "Historic Events/TRAVEL RISK/Drafted Stories.md",
+    "Historic Events/Reaching Lúniks",
+    "Historic Events/REACHING LÚNIKS",
     "Languages/Lúnikska - Luniksan/Mithrí script.png",
     "Geography/Flags/Flag_Zhuehai.png",
     "Geography/Flags/Flag_Zakh'háfo.png",
@@ -268,7 +247,6 @@
     "Geography/Flags/Flag_Máneá.png",
     "Geography/Flags/Flag_Ellitróómi.png",
     "Geography/Flags/Flag_Kérisant.png",
-    "Geography/Flags/Flag_Álusken.png",
     "Historic Events/OSLO REVOLUTION",
     "Geography/Flags",
     "Geography/Deónia",
@@ -277,8 +255,6 @@
     "Geography/Ubunia",
     "Historic Events/Leremkov Trials",
     "Historic Events/TRAVEL RISK",
-    "Historic Events/GHOST TEMPLES",
-    "Historic Events/Stories",
     "Untitled.canvas"
   ]
 }

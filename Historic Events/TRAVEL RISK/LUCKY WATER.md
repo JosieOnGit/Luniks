@@ -4,7 +4,7 @@
 A *side-effect* is that **Lucky Water Defect** develops as the user continues to take the drug, making them fully dependant on the drug and further harming them because their brains begin to struggle producing regular hormones. This is a serious risk of health and paired with **Leremkov**, it can rapidly kill a person from the stress that their mind and body undergo. \
 When *spilled* or poorly discarded of, **Lucky Water** emits a strong odour that looms in the atmosphere of the city, which is one of the reasons it's deemed **unsafe** to travel to, unless desperately needed.
 
-Below are various stories that will be extracted towards [[TRAVEL RISK - STORY]] over time.
+Below are various stories that will be extracted towards [[TRAVEL RISK - Story]] over time.
 
 ### Drafted Story: the uuuhh
 *// Note: This story is currently subject to extraction. A specific chapter is yet to be decided on.*

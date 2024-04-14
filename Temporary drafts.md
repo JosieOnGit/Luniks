@@ -22,7 +22,7 @@ What bought Mika to Dáritke? How come he has so much neurotech installed in his
 ## TRAVEL RISK - Nova Character 
 **Nova** (Katherina): A cold-blooded sniper and marksman expert that has up to 30 untraced kills to her name. Most notable for landing a clean shot from 4000 metres away, without using a scope. The signs point to her having neurotech in her left eye, which may be the reason she's as precise as she is. She is also known as Mono Nova for her quiet and untraced shots. She expertises in every sort of calibre, in every climate, and against every target. Once she has you in her sights, godspeed.
 
-Nova will be recruited into an Agency after having undergone military training and service in Eastern Kérisant, partaking in the **Mharáni unrest**, and is originally from **Strava Mikkëi**.
+Nova will be recruited into an Agency after having undergone military training and service in Eastern Kérisant, partaking in the **Mharáni unrest**, and is originally from **Strava Mikkë**.
 
 ### Drafted Story - Where Ellitróómi Fails // Whiteout
 Story encompassing Nova's last "freelance" mission in Northern Ellitróómi, near the Íszkéde border. She is ordered to step in-between a convicted mass murderer. She hides and camouflages herself in the Eastern Ellitróómi mountains, dressed and decorated in white clothing and snow, wielding one of the strongest rifles she expertises in. With the murderer supposedly living in a small mountain village, she could land a shot from over 5km away, and does so at ease.
