@@ -21,3 +21,13 @@ Despite the synergy between the three, more tensions arise between Mitch and Ral
 Ever since Raléi was acquired by The Agency, her life and wellbeing returned to her upwards curve, and she obtained a leadership role under the supervision of Alex. This didn't rule her out of any missions that required physical activity, and with 5 years of mastered martial arts under her belt and a fresh blade hidden underneath her left wrist, nothing could get in the way or Raléi anymore. 
 
 ## Mika
+
+## Nova
+### Target Acquired
+Born in **Eastern Kérisant**, bordering **Mharáni** and carrying the name of her village of birth, **Stráva Mikkë**, Nova has been using long-range weaponry for as long as she can remember. What started with archery, developed through clay pigeon shooting, and ended in becoming a top-class sniper, fear wasn't in her dictionary, and she would do all she can to complete her mission, disregarding any protocols, and making sure her mission would be completed and her own safety would be in her hands, and not in those of others.
+### Defy the Odds
+Eager to go beyond, Nova made the decision to opt into installing neurotech into her body to enhance her strength and precision far beyond what was humanly possible. Opting to have her left eye, her naturally weaker eye, replaced by oen developed entirely for the purpose of precision and perfection, she relearned the ropes of sniping and landed her first extreme-distance shot at 3942 metres away, omitting the use of a scope at all. 
+### Beyond the Top
+Her new top wasn't enough for her, she wanted to go even further, but learning that she was developing an imminent and irreversible deafness, she instead turned to **Dominico**, a scientist from Cévok that worked closely with *Leremkov*, and offered to assist her in her search of helping her hearing, and her search of going way beyond her current skills. Exchanging her ears for those of a fox, she now knew that she was virtually unstoppable, and after landing a clean shot from 10 kilometres away to complete the trade with Dominico, she knew that nothing could come in her way ever again.
+### Close Quarters
+In an attempt to go further with her personal skills and heighten her combat experiences she acquired in **Mharáni** and **Íszkéde**, she receives an invite from **Vatnelári**, an agency in **Zakh'háfo**. Offering her a home to stay, and promising extreme development in skills, she agrees to leave **Strava Mikkë** be and travels to a nation completely unknown to her. But in her first mission, none of her ranged skills are put to use, and stumbling upon *Nils* as she exits from her mission, she defects from Vatnelári and instead joins **The Agency**, who promise proper development of her skills.

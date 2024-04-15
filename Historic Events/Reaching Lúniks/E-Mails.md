@@ -99,17 +99,17 @@ On behalf of the Lappland Observatory and the ESA, \
 Alexis Lesenen.
 
 ### 27-02-03 - Request from Bëndén to settle Mhárani
-**To**: internal@esa.eu, willemsenfd@esa.eu, masegophi@esa.eu\
+**To**: internal@esa.eu, willemsenfd@esa.eu, masegophi@esa.eu \
 **Sender**: lesenenaa@fsa.fi \
 **Subject**: Bëndén's request to settle Mharáni Desert in Eastern Kérisant
 
 To Frank and Petrus,
 
-I've received an odd request from Kápan earlier today. In case he's no longer a familiar name to the both of you, the full name is Kápan Bëndén, and he has had interest in the Mharáni desert for about a year now. Despite the images from OTL-4 confirming time and time again that it's primarily a barren desert landscape, his requests persisted, so I have attached a proposal for drawn borders in this email that he may utilise in order to settle his piece of land after Starship 2 is set to land.
+I've received an odd request from Kápan earlier today. In case he's no longer a familiar name to the both of you, the full name is Kápan Bëndén, and he has had interest in the Mharáni desert for about a year now. Despite the images from OTL-3 confirming time and time again that it's primarily a barren desert landscape, his requests persisted, so I have attached a proposal for drawn borders in this email that he may utilise in order to settle his piece of land after Starship 2 is set to land.
 
-Personally, I think he is onto something that might be lying directly under our noses. Kápan has continuous access to OTL-4's feed as well, maybe he's spotting something that we haven't spotted ourselves at Lappland or the ESA just yet? This is food for thought, but with Petrus having returned to Geneva for the time being, I think this should be a topic for you two to handle.
+Personally, I think he is onto something that might be lying directly under our noses. Kápan has continuous access to OTL-3's feed as well, maybe he's spotting something that we haven't spotted ourselves at Lappland or the ESA just yet? This is food for thought, but with Petrus having returned to Geneva for the time being, I think this should be a topic for you two to handle.
 
-Lappland continues its operations, has any signal gotten back from the stability of the Panjit Loop just yet? It's been a while since I've last heard back from Akájune, but I believe it's nothing to worry about, though.
+Lappland continues its operations, has any signal gotten back from the stability of the Panjit Loop just yet? It's been a while since I've last heard back from Akájune, however, I believe it's nothing to worry about.
 
 Have a good evening, \
 Alexis Lesenen.
@@ -121,7 +121,7 @@ Alexis Lesenen.
 
 Stefan,
 
-I write this message to inform you about the findings of the OTL-5's probe regarding her research on Skádia and Deónia. As the both of us know, our main focus is plotting out the discovery and pining down the habitable areas on the remaining two continents, now that Ubunia and Vestia are already filled to the brim. However, I must halt you on this. I'll explain.
+I write this message to inform you about the findings of the OTL-4 satellite regarding her research on Skádia and Deónia. As the both of us know, our main focus is plotting out the discovery and pining down the habitable areas on the remaining two continents, now that Ubunia and Vestia are already filled to the brim. However, I must halt you on this. I'll explain.
 
 Last night, at 21:33, the team at Lappland discovered that Deónia of home to an enormous amount of vital forests at the equator, that are believed to have the same impact that the Amazon rainforests in South-America have to our own planet. We also are aware of the effects that it will have once these forests are interrupted. We don't know anything about the wildlife on Deónia nor Skádia either, because we have not iterated ELL-3 just yet, and this will probably be shelved while Starship One prepares for launch too. Our priorities are currently shifting towards preparing our settlement mission, too, which means that further data regarding the planet will be limited.
 
@@ -157,3 +157,56 @@ I've forwarded his request to the ESA training centre, Jonathán has already gon
 
 This concludes all I had to say, have a good evening, \
 Frank Willemsen.
+
+### 08-07-05 - ELL-6 loses connection in Vao
+**To**: internal@esa.eu, lesenenaa@fsa.fi \
+**Sender**: masegophi@esa.eu \
+**Subject**: Lost connection with ELL-6
+
+Alexis,
+
+Sending you an email in a hurry, especially with how busy it is in Geneva and Lyon right now while we prepare **One** for the big day. I'd like to show you a series of data points and images that we've received back from ELL-6, which we dubbed accordingly as the "Vaon Lander", before we suddenly lost connection to it. We spotted a spike in a strange aura with an energy that we've never before seen on Earth, and have only spotted occasionally as a force in space, but never on a planet before. Whatever it is we're trying, though, doesn't seem to want to help with getting our connection to ELL-6 back, and we'll probably have to stick with a satellite for research in the Vaon mountains.
+
+I don't believe we'll be able to recover ELL-6 in the near future, especially not with the immense shift to Lyon for the coming months, but perhaps it's a good idea to direct OTL-6 and have it keep its eyes on the Vaon aurora for the time being, but we'll have to wait and see for now. Ubunia should finish allocation by about 2009, and once we get our feet on Vestia, I believe it's soon enough to take a look at its strange auroras by then.
+
+See you on next week for the big day in Lyon, Alexis! It'll be great to catch up with you again personally. \
+Petrus Masego.
+
+### 16-05-06 - Akájune requests refurbishment of **Two**
+**To**: internal@esa.eu, lesenenaa@fsa.fi, masegophi@esa.eu \
+**Sender**: akaajuneam@esa.eu \
+**Subject**: Uncertainty regarding development of **Five**
+
+To Alexis and Petrus,
+
+I've noted the email from the ESA regarding the request to develop spaceship **Five**, which would be iterated from **Three** and **Four**. However, with **Two** still being perfectly capable to maintain and endure a flight, I see no point in going through the development of creating a new spaceship completely. A development curve and building curve would be immense, and I believe it will be much easier for not just me, but for the ESA as a whole to continue using **Two** and have her sent back to Earth, and refurbish her before being sent on the next departure. 
+
+I understand this reply may not be the reply you have been seeking, but neither is it sent with ill intent. **Two** currently has enough fuel and is stable enough to survive another jump through the Panjit Loop, therefore I believe it is easily achievable to have her return, touched up, and send her back to Lúniks.
+
+I await your response. \
+Akájune.
+
+**To**: internal@esa.eu, akaajuneam@esa.eu, masegophi@esa.eu \
+**Sender**: lesenenaa@fsa.fi \
+**Subject**: Re: Uncertainty regarding development of **Five**
+
+Aélu,
+
+I have forwarded your request internally within Geneva, and we have come to an agreement that I would like to announce to you. On May 20th, we will have **Two** return to Earth through a handshake passage as **Four** will depart on that day towards Lúniks. From there on, we will be able to take the necessary steps to touch her up and prepare her for a next jump towards Lúniks.
+
+We hope to have satisfied you with this answer. \
+Alexis Lesenen, on behalf of the European Space Agency (ESA)
+
+### 23-02-09 - Vestia allocation begins, ELL-9 lands on Deónia
+**To**: internal@esa.eu, lesenenaa@fsa.fi \
+**Sender**: masegophi@esa.eu \
+**Subject**: Vestian allocation and ELL-9
+
+Alexis,
+
+As of last week, Ubunia has been completely allocated, and cities are beginning to spring up throughout the continent, which means that the focus for allocation now travels to Vestia. I hate to be the one bringing up old topics, but this is a prime moment for us to discover just what is happening in the Vaon Mountains. OTL-3 has been keeping its eyes on Northern Ellitróómi and has indeed discovered naturally occurring auroras there, but with ELL-6 having vanished off our radars so suddenly without a will to reconnect, I can't help but wonder what's going on there.
+
+Either way, while **Three** made its way to Hédenis, Lander ELL-9 was launched from the Lyon pad as well, which should drop somewhere in Northern Deónia, and will research the nature that blooms there. We'd love to see what impact the forests and flowers have on our planet there, and ELL-9 should achieve exactly that. Once we receive our first batches of info from her, I'll let you know right away as well. 
+
+Until then, think we should plan a vacation ourselves to Thórirsant? Can't hurt taking a look for ourselves! \
+Petrus Masego.
