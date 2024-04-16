@@ -25,12 +25,12 @@ A story that follows Nils Lorieux in his first exposure to the company that his 
 ### Story
 *"Antoine, you've got to be kidding me."*
 
-With a quiet rustle through the wind, the subtle footsteps of two young men echo through the alleys of Deth-Kelétam. The city reeked of bad smells. Flooded sewage systems that have been neglected since the fall of United Máneá, which had put not only the city in despair, but the rest of the remaining nation as well. **"Sorry to keep you waiting long enough, Nils"** Antoine said quietly to him, turning his head around to face him while his hand rested on a doorknob that led to an otherwise suspiciously unmarked building. **"We're here, keep quiet."** 
+With a quiet rustle through the wind, the subtle footsteps of two young men echo through the alleys of Deth-Kelétam. The city reeked with bad smells, flooded sewage systems that have been neglected since the fall of United Máneá, which had put not only the city in despair, but the rest of the remaining nation as well. **"Sorry, I kept you waiting long enough, Nils"** Antoine said quietly to him, turning his head around to face him while his hand rested on a doorknob that led to an otherwise suspiciously unmarked building. **"We're here, keep quiet."** 
 
 The door closes behind the two, and Nils takes a deep breath of fresh air now that he was finally sealed off the terrible air that lingered outside. **"Follow me, it's downstairs"** Antoine whispered, revealing a poorly lit and stone staircase that lead down almost infinitely. *"Are you sure we're at the right place? This seems abandoned."* Nils whispered back, doubts beginning to form in his mind about whether this was really the right choice for them to make.
 
 
-## TWO - untitled
+## TWO - Into the Unknown 
 ### Drafted
 A story in which Nils Lorieux enters his first mission within the company that Antoine had recommended him. He is set to deliver a bag that is packed to the brim with Lucky Water, amongst other various yet-unspecified drugs. However, he wasn't told about the contents of the bag, and believes he's carrying various forms of equipment for a company called **"Vátnelári"**. Before delivery, he is caught on the way there by two mysterious men dressed in black and is instead brought to **"The Agency"**.
 
@@ -60,7 +60,21 @@ Being snapped out of his thoughts by Raléi snapping her fingers before his eyes
 
 Reading through the document on the tablet before him, he recognises various words, especially of the company and the boss, as well as the journey he had taken to Kristánisin. All the way at the bottom, he found a portion of small text that intrigued him, which essentially repeated all that Raléi had just told him: Clear his presence in this city, clear his name, and provide him shelter and a new, safe, function. Without too much thought, all that was on his mind was his own safety, but especially the safety of his parents, as he promptly signed the document. **"What.. happens now?"** Nils hesitantly asks, immediately being presented a wide smile by Raléi, who presented another pistol, also unloaded, and offered it to Nils with a handshake. 
 
-*"This becomes yours."* She quickly replies with a wide smile, *"let's get you settled in. Welcome to The Agency."*
+*"This becomes yours."* She quickly replies with a wide smile. *"Let's get you settled in. Welcome to The Agency."*
+
+## FOUR - New Faces, Same Antics
+### Drafted
+Nils is acquired by **The Agency**, and burns his bridges with **Dáritke**. Together with Raléi, he now begins protocol training and grows into his new role as management and netrunning. Meeting Omáti, the two get along very well and commence training together. This chapter will mostly encompass said training and introduce a bit of dialogue and showcase the personalities of the various characters.
+
+## FIVE - Where we left off
+### Drafted
+Extracts [[LUCKY WATER#Drafted Story the uuuhh]]. \
+Getting along well with Omáti, the two go onto their first mission together in **Deth-Kelétam**, with the goal to complete a Lucky Water trade with a representative from **Vátnelári**.
+
+## SIX- Familiar Foe 
+### Drafted
+In his next mission, **Nils** is sent to receive a handover from **Dáritke** under supervision of Raléi and a representative from Dáritke. To Nils's surprise, the handover from Dáritke is brought out by Kasper and Antoine, which creates a troublesome situation. All ends well, and both parties decide to keep their mouth shut regarding this new information. Kasper too, keeps his mouth shut about Nils's defection to **The Agency**, which means **Mitch** does not learn about this, leading up to **RUDE REUNION**.
+
 
 ## ??? - RUDE REUNION
 **Drafted**: In a strange letter, Nils and Raléi receive an invite to an otherwise inconspicuous ball in **Kristensend, Rhódisz**. Present are top figures from the various companies that fled to Rhódisz after the Collapse of United Máneá, and with various agencies having sprung up in the two other nations, the ball was seen as a means of shaking hands, and seeing what is possible in terms of reaching an agreement together, in hopes to help the economic and societal damage that was done. 
