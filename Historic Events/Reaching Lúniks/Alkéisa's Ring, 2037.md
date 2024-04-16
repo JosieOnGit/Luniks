@@ -1,4 +1,7 @@
 # Alkéisa's Ring
+## 2024 note
+*This document is due for a rewrite. The new data are that the Ring is being developed from 2025-2037, and deployed and activated in 2037. This is to make the Ring connect more properly to the development of Lúniks as a whole, which will connect to [[Reaching Lúniks]].*
+
 ### Status: Deployed; Active
 The brainchild of Matéus Alkéisa, a planet-sized ring guarding the planet against space debris, creating and infusing the atmosphere with enough oxygen to create a stable atmosphere for life to bloom within, and to pressurise the planet to nearly identical levels to Earth. 
 

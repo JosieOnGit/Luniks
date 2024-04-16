@@ -4,7 +4,7 @@ A collection of e-mails made during the discovery and trajectory of **Lúniks**.
 ### 24-08-78 - End of Cold War, development shift into rocket technology
 **To**: 527 recipients \
 **Sender**: internal@esa.eu \
-**Subject**: Announcement: Development shift into rocket technologies \
+**Subject**: Announcement: Development shift into rocket technologies 
 
 To all recipients,
 
@@ -73,7 +73,7 @@ Prof. Bestevaer for European Space Agency (ESA).
   
 Frank,  
   
-Earlier today, we've received a signal back home in the Lappland observatory from probe ELL-1. Together with simple atmospheric measurements, she snapped a few pictures and took a ground and air sample too, and the results have surprised everyone here. We've already determined that the gravity is approximately 9.60m/s2, which can be considered identical to that of Earth, but the flora and fauna images that were received are breathtaking. For good measure, I've attached them to this email.  
+Earlier today, we've received a signal back home in the Lappland observatory from probe ELL-1. Together with simple atmospheric measurements, she snapped a few pictures and took a ground and air sample too, and the results have surprised everyone here. We've already determined that the gravity is approximately 9.70m/s2, which can be considered identical to that of Earth, but the flora and fauna images that were received are breathtaking. For good measure, I've attached them to this email.  
   
 What you're looking at is the forest in the marked area where the city of Kastávje is meant to be built, and I had to blink twice to see whether they were real or not. You're looking at images that are taken in the forests of Lúniks, just to remind you. Isn't this incredible? It seems identical, it seems like a well-dressed central European forest. If you would have told me this is a forest in Slovakia, I think I would have believed you!  
   

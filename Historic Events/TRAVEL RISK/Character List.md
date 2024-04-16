@@ -25,9 +25,9 @@ Belongs to **Dáritke** (Robber, Netrunner, Weapons Expert). \
 Equipped with various neurotech, including (but not limited to): **Wrist Rabbit** (Hacking protocol on wrist), **Adrenaline boosters** (In heart and legs), **Stealth weaponry** (Blade hidden under wrist). In addition to this, Mika also has a lot of exposed neurotech, most notably in his left arm, which is accented by sharp chrome and blue lines. 
 ## Katherina "Nova" Mikkë
 Belongs to **The Agency** (Weapons Expert). \
-Equipped with various neurotech, including (but not limited to): **Adrenaline boosters** (Fitted on left arm), **Curious Eye** (Digitalised left eye.), which can handle zoom and focus up to 4km in distance, and discolours from her natural blue through to yellow-green the further she looks.
+Equipped with various neurotech, including (but not limited to): **Adrenaline boosters** (Fitted on left arm), **Curious Eye** (Digitalised left eye), which can handle zoom and focus up to 4km in distance, and discolours from her natural blue through to yellow-green the further she looks.
 ### Appearance
-While still adjusting to her new silhouette, her visit to Cévok greatly helped her imminent deafness with the addition of characteristics from an *Arctic Fox*, accentuating her natural white/blonde hair colour. Being left handed, her neurotech is exclusively installed on her left arm and eyes, which glow a bright blue when in use. 
+While still adjusting to her new silhouette, her visit to Cévok and connection to Dominico greatly helped her imminent deafness with the addition of characteristics of an *Arctic Fox*, accentuating her natural white/blonde hair colour. Being left handed, her neurotech is exclusively installed on her left arm and eyes, which glow a bright blue when in use. 
 ### Backstory
 Nova's backstory and the course of her life, is available at [[Backstories#Nova]].
 

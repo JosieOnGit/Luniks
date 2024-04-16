@@ -12,7 +12,7 @@ Harbour city to the northwest of Thórirsant, allows for intercontinental connec
 *// The following text is from an older draft. Since then, the timescales have changed, meaning the below timestamps are subject to change.*
 City most notable by its civil war after a fallen local government, lasting from 2166 to 2172. The end of this war is noted in the [[Liétivus Pact,  Mar 30 2168]] document.
 
-## Kirwijets
+## Kirwijec
 
 ## Sléta
 

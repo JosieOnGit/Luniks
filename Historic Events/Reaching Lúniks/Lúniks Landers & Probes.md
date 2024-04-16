@@ -3,6 +3,8 @@ In the process of analysing and preparing Lúniks for settlement, various iterat
 
 ## Landers
 Naming convention: **ELL-n**: **Exoplanet Lúniks Lander**.
+### ELL-1
+**ELL-1** (Nicknamed **"Hello!")** was the first lander that was sent to Lúniks and landed near where the city of **Kirwijec** was to be built. After the discovery of Lúniks and the Panjit Loop having been proven successful and functional, **ELL-1** was developed almost immediately to take samples of the air, ground, pressure, and all other levels that are important for deciding whether it was possible at all for life to thrive on the newly discovered planet. Luckily, and with a stroke of luck, it truly appeared to be an almost identical clone of Earth, and ever since, everything was set in rapid motion to reach and settle the planet.
 ### ELL-2
 Iterating from **ELL-1**, **ELL-2** was launched and sent to explore the various flora and fauna in **marked Thórirsant**. Equipped with various equipment to analyse ground samples, air samples, as well as a camera and microphone, it would analyse the forests and determine whether or not there was life present on the planet where telescopes couldn't determine.
 ### ELL-6
@@ -26,3 +28,8 @@ Carrying the abbreviated name of the planet **Lúniks**, **LNK-1** was the first
 **Starship Zero** is the name of the prototype ship that was built and tested thoroughly to see if the design and development by **Aélu Akájune** went smoothly. **Zero** was put through intensive stress testing and went through the **Panjit Loop** various times to test its sturdiness and build quality, and whether it would be able to withstand going through a wormhole in the first place.
 ### Starship One
 **Starship One** is the first iteration of the enormous settlement ship that was due to carry a generous amount of people and materials through the **Panjit Loop**. This ship departed on **September 14th, 2005**, and landed in soon-to-be **Nóve Réjkjavik** a day after. 
+### Starship Two
+### Starship Three
+### Starship Four
+### Starship Five
+**Starship Five** was a scrapped Starship that was originally suggested by the **ESA** to be developed from the functionality of **Three** and **Four**. With Akájune's doubts whether this development was really necessary, he instead proposed that **Two** would return to Earth and instead be retrofitted for further enormous travel missions, and with the **ESA** approving this request, **Five** was scrapped and put on the shelf ever since.
