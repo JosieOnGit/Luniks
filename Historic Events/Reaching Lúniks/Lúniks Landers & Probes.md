@@ -32,4 +32,9 @@ Carrying the abbreviated name of the planet **Lúniks**, **LNK-1** was the first
 ### Starship Three
 ### Starship Four
 ### Starship Five
-**Starship Five** was a scrapped Starship that was originally suggested by the **ESA** to be developed from the functionality of **Three** and **Four**. With Akájune's doubts whether this development was really necessary, he instead proposed that **Two** would return to Earth and instead be retrofitted for further enormous travel missions, and with the **ESA** approving this request, **Five** was scrapped and put on the shelf ever since.
+**Starship Five** was a *scrapped* Starship that was originally suggested by the **ESA** to be developed from the functionality of **Three** and **Four**. With Akájune's doubts whether this development was really necessary, he instead proposed that **Two** would return to Earth and instead be retrofitted for further enormous travel missions, and with the **ESA** approving this request, **Five** was scrapped and put on the shelf ever since.
+
+## Ring Fragments
+**Ring Fragments** are the names given to the various fragments that together create **Alkéisa's Ring**, an orbital ring that provide the various necessities that contribute to planetary health, where the planet naturally fails to do so. 
+### Fragment: Oxygen Supply and Monitoring
+In hopes to prevent another hole in the Ozone layer like on Earth, the **Oxygen Fragment** monitors, generates and infuses the planet accordingly with natural oxygen in order to keep a steady and stable supply for the planet. 

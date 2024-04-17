@@ -46,7 +46,7 @@ We'll bring you there."
 
 
 # Ship Services
-Only a couple of cargo services by ship exist throughout all of Luniks. This is because overseas shipment has mostly been replaced by solar plane cargo.
+Only a couple of cargo services by ship exist throughout all of Lúniks. This is because overseas shipment has mostly been replaced by solar plane cargo.
 
 ## Álusken-Thórirsant Ferry
 A ferry (rather, a cruise ship) connects the two continents of Ubunia and Vestia, providing a ferry both ways every 3 hours. 
@@ -54,15 +54,15 @@ A ferry (rather, a cruise ship) connects the two continents of Ubunia and Vestia
 
 # Common Brands
 ## Esti
-**Esti** is a worldwide supermarket chain that originated in **Thórirsant**, and has tagged along with every new nation that sprung up ever since the settlement of Luniks, to become the backbone of every newly developing nation. 
+**Esti** is a worldwide supermarket chain that originated in **Thórirsant**, and has tagged along with every new nation that sprung up ever since the settlement of Lúniks, to become the backbone of every newly developing nation. 
 
 ## Norden Supermarkets
 Prominent in the north of Álusken (Hence the name **Norden**) is **Norden Supermarktir**, which have been established soon after the handover from *Queen Álusken I's* reign to that of *King Álusken II*, who then attempted to get rid of every sort of modern service since the start of his reign. In a desperate attempt to survive, Norden opened its first few markets in the south of **Vao**, and once it became clear that the plans that King Álusken II had made would be limited to within the boundaries of the capital, Norden quickly returned to the north of Álusken, where it has since outgrown its competitors.
 
 ## Hammerhead 
-**Hammerhead** is a Vestian industry appliances manufacturer, who is best known for snowballing the expansion and normalisation of the settlement of Vestia, soon after the borders were drawn upon landing on Luniks. 
+**Hammerhead** is a Vestian industry appliances manufacturer, who is best known for snowballing the expansion and normalisation of the settlement of Vestia, soon after the borders were drawn upon landing on Lúniks. 
 
-Hammerhead carried over the production for space travel from **ESA**, after their factories on Earth had shut down following the successful settlement of Luniks. Next to developing the next iteration of **Starships**, which continue to carry over important cargo between Earth and Luniks, Hammerhead also produced the necessary technology which was used to create **Alkéisa's Ring**, and is also renowned for developing the first non-lethal mass produced weapon, with their **Pulse Rifles** and **Pulse Pistols.**
+Hammerhead carried over the production for space travel from **ESA**, after their factories on Earth had shut down following the successful settlement of Lúniks. Next to developing the next iteration of **Starships**, which continue to carry over important cargo between Earth and Lúniks, Hammerhead also produced the necessary technology which was used to create **Alkéisa's Ring**, and is also renowned for developing the first non-lethal mass produced weapon, with their **Pulse Rifles** and **Pulse Pistols.**
 
 ## Carbine
 Next to offering a various catalogue of weapons, **Carbine** is in the hunt to reach the same level of market share that **Hammerhead** currently has. Jealous of their achievements, Carbine entered the experimental weapon department, in hopes to create a new image for themselves where they failed trying to chase after Hammerhead. 

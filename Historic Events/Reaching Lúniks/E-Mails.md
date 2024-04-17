@@ -137,7 +137,7 @@ Alexis Lesenen.
 
 Frank,
 
-Earlier today I've received a confirmation from both head of command Augustin and from Aélu himself, that the fleet of two exploration ships to land and explore around the designated Nóve Réjkjavik area has been given the green light, to the dismay of Mr. Thórirsonn. I know that he has been eager to become the first man to set foot on Lúniks, but will simply not be possible. Having **One** become the first ship to land on Lúniks is an extreme risk, and we would like to test whether it is habitable in the first place. Therefore, Aélu has designed a fleet of smaller, capable and tested spaceships that adhere but iterated the Space Shuttle design, and have survived numerous jumps through the **Panjit Loop**, with ease. 
+Earlier today I've received a confirmation from both head of command Augustin and from Aélu himself, that the fleet of two exploration ships that are set to land and explore around the designated Nóve Réjkjavik area has been given the green light, to the dismay of Mr. Thórirsonn. I know that he has been eager to become the first man to set foot on Lúniks, but will simply not be possible. Having **One** become the first ship to land on Lúniks is an extreme risk, and we would like to test whether it is habitable in the first place. Therefore, Aélu has designed a fleet of smaller, capable and tested spaceships that adhere but iterated the Space Shuttle design, and have survived numerous jumps through the **Panjit Loop**, with ease. 
 
 Please forward this to Jonathán, but give him the opportunity to go through intensive testing, if he wishes to be the first man to set foot on Lúniks. I will await your response, the flight date is currently set for April 15th. 
 
@@ -192,7 +192,7 @@ Akájune.
 
 Aélu,
 
-I have forwarded your request internally within Geneva, and we have come to an agreement that I would like to announce to you. On May 20th, we will have **Two** return to Earth through a handshake passage as **Four** will depart on that day towards Lúniks. From there on, we will be able to take the necessary steps to touch her up and prepare her for a next jump towards Lúniks.
+I have forwarded your request internally within Geneva, and we have come to an agreement that I would like to announce to you. On May 20th, we will have **Two** return to Earth through a handshake passage as **Four** will depart on that day towards Lúniks. From there on, we will be able to take the necessary steps to refurbish her and prepare her for a next jump towards Lúniks.
 
 We hope to have satisfied you with this answer. \
 Alexis Lesenen, on behalf of the European Space Agency (ESA)
@@ -210,3 +210,14 @@ Either way, while **Three** made its way to Hédenis, Lander ELL-9 was launched 
 
 Until then, think we should plan a vacation ourselves to Thórirsant? Can't hurt taking a look for ourselves! \
 Petrus Masego.
+
+### 14-07-31 - ESA hands over spaceship management to Hammerhead
+**To**: 854 recipients \
+**Sender**: internal@esa.eu \
+**Subject**: Announcement of transferral to Hammerhead in Zhuehai
+
+To all recipients,
+
+As of today, the ESA has granted over its control centres regarding development of the **ELE corridor** and management of satellites, landers, and the development of **Alkéisa's Ring**, over to **Hammerhead Industries**. 
+
+-- Requires further info regarding history of development towards Lúniks, the closure of Control Geneva for Lúniks and its repurposing back into managing the satellites of Earth and its space systems accordingly. Additionally, Control Geneva will pair with Control Lyon for the time being and manage the soon-to-open **ELE Corridor** for commercial travel between Earth and Lúniks.
