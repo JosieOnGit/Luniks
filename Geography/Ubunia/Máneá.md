@@ -19,4 +19,4 @@ Before the collapse of **United Máneá**, Amadnésam was considered to be the r
 
 ## Ni-Ávim
 
-## Stéu-Khessí
+## Stéu-Khessi
