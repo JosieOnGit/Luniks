@@ -211,13 +211,19 @@ Either way, while **Three** made its way to Hédenis, Lander ELL-9 was launched 
 Until then, think we should plan a vacation ourselves to Thórirsant? Can't hurt taking a look for ourselves! \
 Petrus Masego.
 
-### 14-07-31 - ESA hands over spaceship management to Hammerhead
+### 14-07-31 - ESA hands over space management to Hammerhead
 **To**: 854 recipients \
 **Sender**: internal@esa.eu \
 **Subject**: Announcement of transferral to Hammerhead in Zhuehai
 
 To all recipients,
 
-As of today, the ESA has granted over its control centres regarding development of the **ELE corridor** and management of satellites, landers, and the development of **Alkéisa's Ring**, over to **Hammerhead Industries**. 
+As of today, the ESA has granted over its control centres regarding development of the **ELE corridor** and management of satellites, landers, and the development of **Alkéisa's Ring**, over to **Hammerhead Industries**. For those unaware, here's a reminder as to why this decision has been made:
 
--- Requires further info regarding history of development towards Lúniks, the closure of Control Geneva for Lúniks and its repurposing back into managing the satellites of Earth and its space systems accordingly. Additionally, Control Geneva will pair with Control Lyon for the time being and manage the soon-to-open **ELE Corridor** for commercial travel between Earth and Lúniks.
+The **ELE corridor** is being built in **Lyon** and **Nóve Réjkjavik** for connection points between Earth and Lúniks. This means that **Control Geneva** will cease its functions for management of satellites on Lúniks, and return to the functions it once served during the cold war. As a means of communication between the two planets, the handover has been given to **Control Lyon** to manage this, as well as the newly-built **Control Shánzhe** on Lúniks. Future satellite launches will happen from the **Zhuehai Launchpad**, and **Control Lyon** will be used exclusively for the **ELE corridor** starting *2032*.
+
+The last 50 years have gone by in a flash, and especially the hectic development that took place soon after the year 2000, means that the project to settle Lúniks has spanned multiple generations. With the **ELE corridor** nearing completion, the last step in connecting the two planets nears, completing a mission that lasted almost 40 years. Remembering and celebrating those that we have lost along the tremendous journey, we would like to thank all of the people that were involved during the exploration and settlement of Lúniks. Without you, we couldn't have done this.
+
+Vestia completed allocation many years ago already, and Skádia will finish soon. For those that wish, or for those already based on Lúniks, the future starts now. And again, thank you for making this incredible journey and dream a reality.
+
+From all of us at the ESA.

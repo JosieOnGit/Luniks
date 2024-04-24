@@ -1,4 +1,4 @@
-# TRAVEL RISK - STORY
+# TRAVEL RISK - Story
 After the project reorganisation, which was mentioned in the main document [[TRAVEL RISK]], this document will serve home to the complete story that will encompass all of **TRAVEL RISK**, from Prologue to Epilogue.
 
 ## Synopsis
@@ -71,7 +71,7 @@ Nils is acquired by **The Agency**, and burns his bridges with **Dáritke**. Tog
 Extracts [[LUCKY WATER#Drafted Story the uuuhh]]. \
 Getting along well with Omáti, the two go onto their first mission together in **Deth-Kelétam**, with the goal to complete a Lucky Water trade with a representative from **Vátnelári**.
 
-## SIX- Familiar Foe 
+## SIX - Familiar Foe 
 ### Drafted
 In his next mission, **Nils** is sent to receive a handover from **Dáritke** under supervision of Raléi and a representative from Dáritke. To Nils's surprise, the handover from Dáritke is brought out by Kasper and Antoine, which creates a troublesome situation. All ends well, and both parties decide to keep their mouth shut regarding this new information. Kasper too, keeps his mouth shut about Nils's defection to **The Agency**, which means **Mitch** does not learn about this, leading up to **RUDE REUNION**.
 

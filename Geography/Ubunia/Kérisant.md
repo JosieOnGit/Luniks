@@ -14,7 +14,8 @@ Literally meaning "Kérisant-City", Kérisant-Civem is the place to be for the m
 
 Lake Dnherá is located right in the very center of the Bilćat District in central Kérisant. It lays east to the Kérisant-Bilćat train station, as well as the storage warehouses for numerous transport firms throughout Kérisant.  
 
-"Lake Dnherá used to be visited by lots of different people, it was one of the most popular tourist attractions, after all. After the Collapse of Nóve-Osló in 2303, tourism collapsed along with it, leaving Lake Dnherá completely empty of visitors, yet this allowed the surrounding areas to flourish, giving life to new colours, lightening up Bilćat in ways never seen before." \
+*"Lake Dnherá used to be visited by lots of different people, it was one of the most popular tourist attractions, after all. After the Collapse of Nóve-Osló in 2303, tourism collapsed along with it, leaving Lake Dnherá completely empty of visitors, yet this allowed the surrounding areas to flourish, giving life to new colours, lightening up Bilćat in ways never seen before."* 
+
 One thing to note here, is that the supposed collapse of Nóve-Osló in 2303 causes a collapse in tourism as well surrounding Lake Dnherá. As the development progressed, the city of Nóve-Osló was moved to be located in Thórirsant instead, meaning that the two events cannot be a cause & affect of one another. This is noted down and will be adjusted in the future!
 
 ## Petrívo
@@ -34,3 +35,7 @@ Leremkov's labs, and the investigation that was launched to find out the exact r
 ## Weshalt
 
 ## Stáshalt
+
+## Strava Mikkë
+
+## Strava Dilavétë

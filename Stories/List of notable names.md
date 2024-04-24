@@ -38,7 +38,7 @@ We'll bring you there."
 
 *Alternatively, this list of examples can also be exchanged for simply a list of cities that are connected to Vestia Rapid. Next to that, Vestia Rapid can also be transformed into a general rail company, also providing a means of regional and intercity transport without incredible speeds as their VR20s. However, this might need a rebrand, and exchange the "Rapid" name for something else, such as "Vestia Regio".*
 
-*Planned is a combination of purple and grey colours with stock high speed rail footage. Just like now LTS banners were proposed and created as a concept, the same process should happen for the brand identity of Vestia Rapid.*
+Planned is a combination of purple and grey colours with stock high speed rail footage. Just like now LTS banners were proposed and created as a concept, the same process should happen for the brand identity of Vestia Rapid.
 
 ## Máneán Metro
 **Máneán Metro** (Metro da Máneá) is the umbrella name for all the metro services that it provides in the various cities in what once was **United Máneá**, such as the *Álef Metro*, *Fsat-Hokh Metro*, or even the unique, single-line, *Kristensend Metro*. The one charm that all of these unique metro lines have in common, is that they're fully autonomous. In fears that there would once day be staff shortages and that some lines would end up abandoned, its government had rallied to invest into autonomous services. After the **Collapse of United Máneá** in 2039, the lines continued to service every city as normal, and continued to do so for many decades onwards.

@@ -33,7 +33,7 @@ Every ghost has gone through three stages upon introduction to their new Temple.
 - ***TRAGEDY** // The event in which the Temple falls, or in which the ghost simply dies and vanishes, leaving behind just their mask. (**Due for removal**)*
 
 ## A Quick Rundown
-The current focus lays on the **Temple of Vestia**, where a small group of characters is actively being developed and have sprung to life. This list of characters is still rapidly growing, but is available at [[Historic Events/GHOST TEMPLES/Character List|Character List]], as well as under its corresponding header in the current page. 
+The current focus lays on the **Temple of Vestia**, where a small group of characters is actively being developed and have sprung to life. This list of characters is still rapidly growing, but is available at [[Stories/GHOST TEMPLES/Character List|Character List]], as well as under its corresponding header in the current page. 
 
 Each Temple has a **Settler**, which reflects in the symbol that is created upon the foundation of the temple, and will forever be stored as a *plaque* within the *Memorial Hall*. Within this Hall, all spirits of present and past Ghosts are available, as well as basic information regarding the temple and its symbols. The symbols are properly explained at [[Scattered Info#Known Symbols]].
 
@@ -58,10 +58,8 @@ Many months later, *Marten* and *Sóvis* near the end of their Guardianship, whi
 # // GHOST TEMPLE: VESTIA  
 
 ## // GHOST TEMPLES - EXPOSURE
-
 Luna's Exposure has moved to [[EXPOSURE#// LUNA]]
 ## // GHOST TEMPLES - REBIRTH
-
 Snow's Rebirth has moved to [[REBIRTH#// SNOW]]
 ## External Info
 Smaller bits of information are available in [[Scattered Info]]

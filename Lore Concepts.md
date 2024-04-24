@@ -2,7 +2,7 @@
 These ideas are currently under construction and are noted down separately as they can change the whole idea of Luniks, or even humanity's understanding of the universe as a whole. A few drafted ideas like these are worked out below.
 
 ## Magic
-*For PENDULUM and Álusken, see [[Historic Events/Stories/Story Drafts]]* \
+*For PENDULUM and Álusken, see [[Story Drafts]]* \
 *This is no longer a concept, and has been implemented as of November 2023*
 ### November 2023 note
 *As of November 2023, the decision to fully implement magic as a concept into the world of Luniks has been greenlit. This means existing stories such as the **Leremkov Trials** and **Álusken's Mysteries** may be altered accordingly to make use of magic, in order to make the storyline gain a smoother flow. This decision has been made to give [[GHOST TEMPLES]] a proper space in which it can grow in develop without boundaries, allowing things that might be completely ridiculous to describe in a "logical" sense.*
