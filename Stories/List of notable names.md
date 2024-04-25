@@ -1,6 +1,5 @@
 # List of notable names
 This document lists various names, such as those of products, companies, or other various names that might reappear frequently through the different stories and items, as a dictionary and collection.
-
 # Interplanetary Travel
 
 ## ELE - Earth-Luniks Express
@@ -42,7 +41,6 @@ Planned is a combination of purple and grey colours with stock high speed rail f
 
 ## Máneán Metro
 **Máneán Metro** (Metro da Máneá) is the umbrella name for all the metro services that it provides in the various cities in what once was **United Máneá**, such as the *Álef Metro*, *Fsat-Hokh Metro*, or even the unique, single-line, *Kristensend Metro*. The one charm that all of these unique metro lines have in common, is that they're fully autonomous. In fears that there would once day be staff shortages and that some lines would end up abandoned, its government had rallied to invest into autonomous services. After the **Collapse of United Máneá** in 2039, the lines continued to service every city as normal, and continued to do so for many decades onwards.
-
 
 
 # Ship Services

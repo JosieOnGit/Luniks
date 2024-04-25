@@ -32,6 +32,8 @@ Before being killed and subsequently approached by the **Eye of Chroma**, Cziskv
 
 
 ## // Guardian Marten
+Rough visual reference: **Ike Eveland** from **Nijisanji**.
+
 Marten, along with a number of others, was a **Junior Guardian** at the Temple of Vestia, up until Vászi's departure. Alongside Sóvis, he studied to become a Temple Guardian in similar fashion to Vászi and Matéis, minus the attire, which he strongly opposes. Unlike Vászi, Marten tends to wear formal clothing, usually meant for winter, that doesn't use the *White/Grey* dress code which is otherwise mandatory for Guardians.
 
 Marten originally did not bear a mask, but has since switched to a **half-Mask**, covering just his mouth and jaw. He did choose to keep this in a pale white, similar to other Temple Guardians, as a form of respect to his *Guardianship*.
@@ -47,6 +49,8 @@ Marten is the only ghost (as of Dec 2023) to not be assigned a new name upon Reb
 
 
 ## // Guardian Sóvis
+Rough visual reference: Musical artist **Bushbaby**.
+
 Together with **Marten**, Sóvis went through *Guardian Apprenticeship* soon after his own rebirth. With a timid, calm, and friendly personality, both Vászi and Matéis understood that this was the right path for Sóvis, for him to use his good heart to guide others into their new lives as well and take on the Guardian role. 
 
 ### Past Life
@@ -72,6 +76,8 @@ Before their death, Luna was still in college, where they studied computer scien
 
 
 ## // Snow
+Rough visual reference: **Shirakami Fubuki** from **Hololive**.
+
 **Snow** has primarily worn simple, white dresses and suits ever since her Rebirth, still adapting to her sudden changes, especially those that were brought over through the recovery of her spirit by *Vászi* during her Rebirth. Next to wearing primarily white clothing, she also sports long, wavy white hair and possesses the animal characteristics of an *Arctic Fox*, such as her snow-white tail and ears. Smaller details include a slight black tip on her tail, as well as small black spots on her left ear. She has *heterochromia*, as her left eye is a **darker blue** while her right eye is a **faint blue**.
 
 Snow bears a **Kitsune Mask**, which she began personalizing by adding black spots to the left ear, mirroring the black spots on her actual ears, and integrating various pastel colours to *"add colour to the empty space of heaven"*, as she prefers to call it. However, after several of weeks of training with Vászi, and after her **EXPOSURE**, she no longer needed her Mask for the majority of cases, and keeps it as a remembrance piece to her **REBIRTH**.
@@ -87,6 +93,8 @@ Before her Rebirth, Snow originally was a young man who studied Arts & Crafts, w
 
 
 ## // Winter 
+Rough visual reference: **Pramanix** and **Ceobe** from **Arknights**.
+
 **Winter** is a fairly young girl, with the animal traits of a *Snow Leopard*, and is frequently seen wearing thicker types of clothing, traditionally suited for winter weather, contra *Snow*, who is also a "Ghost of Winter" in a sense, but instead wears more thin dresses. 
 
 Having mentioned Snow, she and Winter get along exceptionally well, and are sometimes even passed along as twins, despite Winter originally coming from Karlsborg whereas Snow lived in Keustellet before both of their respective *Last Lights*. Winter was led through *Rebirth* by **Temple Guardian Marten**, which is why she was immediately introduced to **Snow**, and why the three get along together well now. Originally having refuged in their home, they now simply live together as a family.
@@ -102,6 +110,7 @@ Before her Rebirth, Winter spent a lot of time roaming through the woods and wen
 
 
 ## // Spark
+Rough visual reference: **Sparkle** from **Honkai: Star Rail**.
 
 ### Past Life
 Before her Rebirth, Spark aspired to become a professional musician and master the different forms of string music. Having studied together with the same teacher for many years, she mastered the guitar and violin, and when she felt like the had hit a wall, a sudden invite from the National Vaon Orchestra sparked her hope and willpower like it had never left. After the meeting at the studio, she dreamed to trial with the rest of the orchestra and learn the essence of the bass and cello too, but fell short of her dreams when her father betrayed and murdered her, along with the rest of her family members. Even with the dreams of playing in the orchestra, and haunted by the vivid memories of her death, her goal never left her side, and with unlimited time on her hands, she was eager to learn and master every string instrument there was to master in her next life.

@@ -4,6 +4,13 @@ This file solely exists to prevent merge conflicts from happening in [[Story Dra
 ## Leremkov - PENDULUM
 Self insert into pendulum - Receive aid and care through Vienna & Olen.
 
+## Ghost Temples - Repurposing of Masks
+As more characters came into play with Ghost Temples, the necessity of masks came down as a result. So far, only **Luna** and **Snow** have received a mask for a specific reason, but every character since has not been given a mask that represented them as a person. 
+
+Because of this, I believe it's fine to keep the masks as they are, but repurpose them into a *vanity project* for the characters themselves. **Luna** preferred to keep their identity hidden from the masses with fears of being spotted, and for **Snow**, it's a means to pursue her dreams of becoming a versatile artist from before she had died. 
+
+For **Temple Guardians**, the masks will remain the same, and will also remain a tradition. The *plain white mask*, which has made an appearance plenty of times, will remain as tradition for **Rebirths**, and Marten will continue to wear his unique *half-mask* that only covers his face below his eyes. With this, I believe that I can lessen the pressure on coming up with specific and forced masks and character details that I don't believe really fit the characters, and might steer the project into a direction that's far too niche and not aligned with what I truly aim for.
+
 ## TRAVEL RISK - Nova Character 
 **Nova** (Katherina Mikkë): A cold-blooded sniper and marksman expert that has up to 30 untraced kills to her name. Most notable for landing a clean shot from 4000 metres away, without using a scope. The signs point to her having neurotech in her left eye, which may be the reason she's as precise as she is. She is also known as Mono Nova for her quiet and untraced shots. She expertises in every sort of calibre, in every climate, and against every target. Once she has you in her sights, godspeed.
 
@@ -14,4 +21,4 @@ A story encompassing Nova's first mission after reaching Zakh'háfo, and her fir
 ## Geography - Various
 **Eastern Kérisant**: City naming structure to adhere: Strava *lokace*, like **Strava Nóveri**  
 
-Local Luniksan dialects in **Máneán area** (+ **Zakh'háfo**) that includes use of schwa (ë), used in Egórecë.
+Local Luniksan dialects in **Máneán area** (+ **Zakh'háfo**) (+ **Eastern Kérisant**) that includes use of schwa (ë), used in the names like Egórecë, Mikkë, etc.

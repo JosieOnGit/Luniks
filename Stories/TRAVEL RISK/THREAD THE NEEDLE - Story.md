@@ -1,5 +1,5 @@
 # THREAD THE NEEDLE 
-**Nikec Kráminsz**, who at this point has been the lead reason why peace talks between **Máneá** and **Zakh'háfo** are failing, receives his biggest mission to date: Take out the Vice President. \
+**Nikec Kráminsz**, who at this point has been the lead reason why peace talks between **Máneá** and **Zakh'háfo** are failing, receives his biggest mission to date: Take out the Vice President, **Démëti Ristovélisim**. \
 Nikec has been eer improving his own skills, all while keeping his cloak and keeping himself hidden and out of the public. Thinking greatly of himself, and being unable to ignore the $10 million bounty that was put on Ristovélisim's head, he begins to plan.
 
 Over the past weeks, Ristovélisim has been in talks with the representatives of Máneá, and their mayors and leaders of its various states. As a representative and Vice President himself, he represented the voice of Zakh'háfo in the peace talks, with unrest having persisted for the past two years, and nearing a breaking point and peace point simultaneously. 

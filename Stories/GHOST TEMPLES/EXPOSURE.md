@@ -109,22 +109,48 @@ My heart was pounding, the tears broke free and I instinctively leapt forward wi
 **"It's all going to end up fine"** I heard Snow whisper to me after minutes had passed, and I slowly moved my face back out of her shoulder, feeling like I'd cried my heart out. 
 
 **"As long as we stick together, forever."**
-
-
-
-*// Below is the original tail snippet, that has been reworked into what is now implemented into the story. This will be kept for proofreading, and is subject to be removed*
-With more tears building up in my eyes, I look back to Snow, instinctively leaning forward and giving her a tight hug, making sure to never let go of her in whatever situation or state I'll ever find myself in. As the tears begin streaming down my cheeks while the sun completely sets, Snow's arms carefully and gently wrap around my back, granting me the comfort and feeling of safety that I needed while the orange glow of the sun begins to fade away as well as the evening begins to set in. 
-
-**"We don't share similar characteristics, I'm a fox, you're a leopard.."** Snow slowly begins to whisper, her grip tightening around my back, **"I was raised in Keustellet, you were born in Karlsborg, but even despite all of those differences, you're like a sister to me, Winter.."** 
-
-With a quiet sniff, I feel the wind begin to pick up around us again, the snowy fog gradually returning as our vision reduces, encapsulating the both of us in the white dome within a snowstorm that I trapped Snow in earlier. Slowly feeling my body warm up, I hug Snow as tightly as I can, doing my best to keep my tears at bay, before whispering quietly, knowing that I'll be safe wherever I go with her and Marten. 
-
-*"Thank you.. Snow.. for letting me be your sister.."*
-
 ### What's next? 
 For **EXPOSURE // WINTER**, I've honestly already reached the end of what I intended to write about Winter adapting to her new situation within the *Temple of Vestia*. She has bonded both with Marten as a Guardian, and Snow as a sister, and from here on I will probably include Winter in other various stories together with Snow, considering the two are almost inseparable now. \
 Over time, I'd like her to further develop her *Signatures*, but especially pick up various hobbies for her to kill time as wel, whether that is alone, or together with Marten and Snow. During this, she will gradually open up, as she originally had a very closed-off and bold personality that gradually loosens up over time as she gets introduced to new people within the Temple. 
 
+
+## // SPARK
+### You only live twice
+**Drafted**: \
+We follow a conversation between Winter(?) and Spark, who is a fairly new ghost, reborn by Sóvis. She has wavy, but messy brown hair with streams of pink and blue, and in this Glimmer she's spotted by Winter(?) to have picked up smoking. The two strike up a conversation, and Spark explains that she picked up smoking "out of curiosity", and was told by Sóvis that it can't harm her the way it did before her death. \
+**"Sóvis said it'd be fine, we're practically immortal. It helps me calm down, I can live with it."**
+**"They always said "You only live once", but the two of us can prove otherwise. I felt like giving it a try."**
+
+Speaking of her death, she reveals that she is still frequently haunted by her memories, and that her death "wasn't the most peaceful one". Winter(?) asks how she still remembers her old life so well, as Spark continues to go over more of her memories that had remained, and how she had discussed it with Marten too, who also kept the majority of his memories. Is there a connection to guardianship and lack of amnesia?
+  
+cont. draft  \
+**"That Spark is gone, Winter! I didn't need a second chance! It's even more hopeless than before. I wish I could just forget."**  \
+Taking another puff of her cigarette, her head sank to face the ground, staring at the floor beneath her feet, the hopeless feeling getting ever so terrible as tears began to stream down her cheeks once more, wet drops landing on the dry tiles.  \
+**"I had no chance. Their helpless faces.. his bloody knife.."**  \
+The feeling of the knife in her shoulder overwhelmed her again, as she clutches it in reflex, the sensations and emotions going way overboard.  \
+**"It's unfair! I just want to forget, I want to forget! Why can't I forget?! Why do I have to relive it every single day?!"**  \
+Without Spark realising, Winter had kneeled down before her, her arms spread wide open, inviting her in for a tight hug.  
+
+### The Dream Pursued
+*// POV: Spark*
+
+Head down, ice cold, I sat down on the bench just outside the library near the Temple. Every single day had flown by like this, and both Marten and Sóvis were working overtime to help me settle and calm down at the Temple, but to no avail. The weather today wasn't great, but it wasn't anything out of the ordinary for this season. Cloudy weather, a looming threat of rain, but if anything, it aligned perfectly with how I was doing physically and mentally. Continuously on the edge, constantly about to break down, and when I do finally crack, so do the skies.
+
+From the inner pocket of the jacket I received from Snow, I take a packet of cigarettes, one that I was initially hesitant to get into, but something that I didn't expect to work for me the way it does. It had helped me calm down whenever my brain was beginning to betray me, and while Marten and Sóvis tried their best to work out a reason and solution as to why my memories continued to haunt me, they served as a means to suppress and ease those thoughts for the time being. Taking a cigarette out of the box, I put it back into my pocket and take a lighter, and slowly light the cigarette that I had now put between my lips. With a quiet *click*, a flame appears, slowly burning away the paper roll and setting the tobacco filling ablaze. With a slight puff, the cigarette begins to breathe and glow as I put the lighter back into my pocket, making a start on finishing my second cig of the day.
+
+After a few seconds, it was beginning to drizzle. The clouds were finally showing their true colours and gradually, the rain was beginning to fall. Zipping up my jacket, I look to the sky, the feint hint of blue from the sky was completely washed away by the ever-darkening clouds. *"I should maybe head back inside after this.."* I mumbled to myself, looking around the street to see various others open their umbrellas. But even watching the others walk past and enjoy their time, a smile couldn't appear on my face, it simply refused to.
+
+**"Spark..!"** I suddenly heard from afar, and I frantically look around to find where the voice had come from. **"O-Oh.. here you are.."** I heard the voice near me, recognising it as Winter's. **"S-Sóvis.. wanted me to.. check..-"** She stammered, breathing heavily as I now realised she had come from the other end of the library. Her hands were resting on the bench as she caught her breath, but before I could even ask what Sóvis needed me for, she already interrupted me. **"I.. didn't know you smoked, Spark.."** \
+Shaking my head, I face her glimmering but exhausted eyes, finding myself unable to reply. Deflated, I move my head back to face the ground, my cigarette burning away between my fingertips as I slowly feel the memories of my death fill up my mind again, something I desperately tried to suppress. *"It's.."* I begin, struggling to find the words while emotions suddenly start to pick up, *"C-complicated.. Winter.. S-Sorry.."* \
+Without a second thought, Winter sat down next to me, her hand gently resting on my lap while I took another puff of the cigarette, desperately trying to suppress and keep the haunting memories away as much as she could. *"Sóvis said it'd.. help.. my mind."* I stammered, my voice beginning to shake and tremble. *"It can't hurt me, I felt like.. trying.. it out.."* I kept my eyes on the floor, keeping my bleak face away from Winter, not wanting her to see me the way I was right now. My left arm was wrapped around my stomach, while my right hand was furiously tapping against my leg out of anxiety. The longer I stared at the monotone, grey tiles before me, the quicker I started to recognise dad's blade, the quicker the snippets of the horrible night of my death began to repeat once more. I sniffed loudly, my eyes fixated and stunlocked on the tiles. I couldn't look away anymore, and while my mind betrayed me, my body followed, and I felt an ice cold surge rush through my body. Tears were beginning to stream down my cheeks uncontrollably, anxiety was rushing through my veins, and as much as I had wished for the cigarette to help me numb down the thoughts, it failed on me, and I dropped it to the floor without much more care. My hands flung to my face, hiding the visions that displayed themselves on the tiles as I felt the rain begin to fall, the clouds cracking open while my emotions did too. Everything now snowballed at once, everything got to me at once, a feeling I had tried to suppress, but had gone through so many times before. *"It's unfair..!"* I sobbed through my hands, slowly letting them go off my face again as I stared before me, my vision blurry with tears in my eyes. *"I want to forget, I want to forget!"* 
+
+But my anxiety was cut short, as a feeling that had never happened during this routine before suddenly put a stop to every single emotion I was feeling. Winter had wrapped her arms around my left arm, and her head was now resting in my shoulder, holding me tightly in hopes to calm me down. Her ears were brushing my wet cheeks, tickling me slightly, causing every sort of emotion at once to suddenly fire out in every direction. The visions had gone away, but none returned in their place. I was stunlocked, in total awe and surprise at this strange feeling I was going through. *"W-Winter..-"* \
+**"I'm here, Spark."** She replied to me without a second thought, carefully lifting her head out of my shoulder again staring deeply at my troubled face with a warm, heartfelt smile. Her glimmering eyes met my shaky ones, as words refused to form for me. Struggling to breathe, unable to find control over myself as my mind couldn't make sense of what was going on right now. **"I'll always be here."** She continued, her arms letting go of mine, but instead opening wide, inviting me for a hug. Without realising, the rain had already stopped, and the clouds were beginning to break apart, revealing the feint, unique blue sky that gave the planet its one-of-a-kind feel. But while my mind failed to understand, my body leaned forward by itself, resting against Winter's chest as every emotion that was held back by me began to flush away, tears beginning to pick up and stream down again. **"It may sound like I'm just repeating what Sóvis always says.."** She began, her arms wrapping around my back as my emotions reached their peak, and slowly began to settle down all the way as I calmed down in Winter's arms. I sniffed, letting her know that I was listening and still here, as she continued, successfully having calmed me down, something that neither Marten, Sóvis, nor myself, had ever been able to achieve. 
+
+**"But it's all temporary, it'll all get better again. It takes time, but I'll hold your hand through it all, Spark, I promise."**
+
+### What's next?
+I DONT KNOW LET ME HANDLE THIS FIRST 
 
 ## // Marten
 **Drafted**: \
