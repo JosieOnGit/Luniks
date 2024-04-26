@@ -13,8 +13,8 @@ His name, *Settler of Vászi*, is derived from the area in which he had settled 
 Nothing about Vászi's past life is known, as he was the original settler of the Temple of Vestia, together with Cziskvelén. Soon after, Vászi would stay behind to guard the newly-founded temple, while Cziskvelén would continue to roam the nature reserve and ultimately lay ground to the *Temple of Álusken*, where he would share Guardian duties with **Settler Matéis**. 
 
 ### Journey
-**Vászi's Last Dance** (Despair) -> **The Legacy Carries Over** (First Light) \
-[[DESPAIR#Prologue]] -> [[FIRST LIGHT#The Legacy Carries Over]]
+Available at [[DESPAIR#Vászi's Last Dance]] and [[FIRST LIGHT#The Legacy Carries Over]]. \
+**Vászi's Last Dance** (Despair) -> **The Legacy Carries Over** (First Light) 
 
 
 ## // Settler Cziskvelén
@@ -27,8 +27,8 @@ Similarly to **Vászi**, Cziskvelén bears a **Plain White Mask**, albeit more w
 Before being killed and subsequently approached by the **Eye of Chroma**, Cziskvelén was a hitman ([[Nikec Kráminsz]]) in **United Máneá**, soon before it fell. Having gone through blood and sweat without emotions, he initially was confused why he was given the chance to go through Rebirth at all, especially since the targets that he eliminated on Luniks ultimately led to the **Collapse of United Máneá**, but even despite this, **Chroma** knew that Cziskvelén would be the right person to guide others into a new life.
 
 ### Journey
-**Life After Life** (First Light) -> **Farewell, Vászi. Farewell, Chroma** (Closure) \
-[[FIRST LIGHT#Life After Life]] -> [[CLOSURE#Farewell, Vászi]]
+Available at [[FIRST LIGHT#Life After Life]] and [[CLOSURE#Farewell, Vászi]]. \
+**Life After Life** (First Light) -> **Farewell, Vászi. Farewell, Chroma** (Closure) 
 
 
 ## // Guardian Marten
@@ -44,8 +44,8 @@ Despite the fact he originally was against the established standards within the 
 Marten is the only ghost (as of Dec 2023) to not be assigned a new name upon Rebirth. In agreement with Vászi, who guided him through Rebirth, he maintained a set of his memories and pursued his original dream career: Guiding and teaching others. At the time of his death, Marten was 26 years old and actively working towards becoming a university teacher in health and community work, amongst studying regular science. In the end, he fell short to his dreams and was diagnosed with heart cancer, and succumbing to it within a year. Because Vászi believed that Marten had a good enough heart with infinite willpower, he offered him to go through Rebirth and guide him to become a Guardian, giving him a second chance at reaching his dreams.
 
 ### Journey
-**Dancing with Dragons** (Last Light) -> **Freed From Pain** (Rebirth) -> **A Dream Fulfilled** (Exposure) \
-[[LAST LIGHT#Dancing with Dragons]] -> [[REBIRTH#Freed From Pain]] -> [[EXPOSURE#A Dream Fulfilled]]
+Available at [[Journey - Marten]]. \
+**Dancing with Dragons** (Last Light) -> **Freed From Pain** (Rebirth) -> **A Dream Fulfilled** (Exposure)
 
 
 ## // Guardian Sóvis
@@ -71,8 +71,8 @@ Their name is directly derived from **Luna**, Earth's moon.
 Before their death, Luna was still in college, where they studied computer science and intelligence. Unlike their usual appearance, Luna actually dreamed of getting into fashion and starting their own, non-standard clothing brand. The sudden lapse between their death and rebirth gave them the opportunity to utilize their previously gained knowledge about neuroscience and computer intelligence (As seen in their *Curious Eye* Signature), and while they're still very insecure and shy about it, also allows them to experiment with clothing of their own, now that the entire palette and canvas are available to them.
 
 ### Journey
-**SPAD** (Last Light) -> **Unplanned Stop** (Rebirth) -> **Eyes Meet** (Exposure) \
-[[LAST LIGHT#SPAD (Signal Passed At Danger)]] -> [[REBIRTH#Unplanned Stop]] -> [[EXPOSURE#Eyes Meet (Subject to tweaks)]]
+Available at [[Journey - Luna]]. \
+**SPAD** (Last Light) -> **Unplanned Stop** (Rebirth) -> **Eyes Meet** (Exposure)
 
 
 ## // Snow
@@ -88,8 +88,8 @@ Her name is directly derived from the area in which she died in her previous lif
 Before her Rebirth, Snow originally was a young man who studied Arts & Crafts, which further explains her continuous struggle to adapt to her new form and new life within the Temple and within the protection of Vászi. Besides this, not much is known about Snow's past life either, except for her previous identity and her cause of death, but what especially sparked Vászi's and Marten's interest is how vastly different her spirit was compared to her physical body. Because of this, Snow and Marten frequently spend time together ever since Snow's Exposure, to go over this and help Snow get more accustomed to her new life. 
 
 ### Journey
-**Wrong Place, Wrong Time** (Last Light) -> **Despite Everything** (Rebirth) -> **Of All Colours** (Exposure) \
-[[LAST LIGHT#Wrong Place, Wrong Time]] -> [[REBIRTH#Despite Everything]] -> [[EXPOSURE#Of All Colours]]
+Available at [[Journey - Snow]]. \
+**Wrong Place, Wrong Time** (Last Light) -> **Despite Everything** (Rebirth) -> **Of All Colours** (Exposure) 
 
 
 ## // Winter 
@@ -105,8 +105,8 @@ Winter bears **no mask**, and when offered one by **Sóvis**, kindly denied the 
 Before her Rebirth, Winter spent a lot of time roaming through the woods and went thrillseeking with a tight group of friends. She picked up things such as biology and photography as her fields of interest, and planned to study the differences in nature between Luniks and Earth, and hoped to help with reforesting on Earth too. Despite those dreams now lost forever after losing her life in the Morrésik Mountains, she is still often present in the forests and mountains near the **Vászi** and **Vao**, eager to learn more with unlimited time on her hands.
 
 ### Journey
-**Neverending Daydream** (Last Light) -> **A New Trail** (Rebirth) -> **Home in the Forests** (Exposure) \
-[[LAST LIGHT#Neverending Daydream]] -> [[REBIRTH#A New Trail]] -> [[EXPOSURE#Home in the Forests]]
+Available at [[Journey - Winter]]. \
+**Neverending Daydream** (Last Light) -> **A New Trail** (Rebirth) -> **Home in the Forests** (Exposure)
 
 
 ## // Spark
@@ -116,12 +116,12 @@ Rough visual reference: **Sparkle** from **Honkai: Star Rail**.
 Before her Rebirth, Spark aspired to become a professional musician and master the different forms of string music. Having studied together with the same teacher for many years, she mastered the guitar and violin, and when she felt like the had hit a wall, a sudden invite from the National Vaon Orchestra sparked her hope and willpower like it had never left. After the meeting at the studio, she dreamed to trial with the rest of the orchestra and learn the essence of the bass and cello too, but fell short of her dreams when her father betrayed and murdered her, along with the rest of her family members. Even with the dreams of playing in the orchestra, and haunted by the vivid memories of her death, her goal never left her side, and with unlimited time on her hands, she was eager to learn and master every string instrument there was to master in her next life.
 
 ### Journey
-**The Sparks That Flew** (Last Light) -> **The Flame Reignited** (Rebirth) -> **The Dream Pursued** (Exposure) \
-[[LAST LIGHT#The Sparks That Flew]] -> [[REBIRTH#The Flame Reignited]]
+Available at [[Journey - Spark]]. \
+**The Sparks That Flew** (Last Light) -> **The Flame Reignited** (Rebirth) -> **The Dream Pursued** (Exposure) 
 
 
 ## // Raine
 
 ### Journey 
-**A Voice Who Called** (Rebirth) \
-[[REBIRTH#A Voice Who Called]]
+Available at [[Journey - Raine]]. \
+**A Voice Who Called** (Rebirth) 

@@ -1,5 +1,5 @@
 # FIRST LIGHT
-**First Light** happens once and never again. It is the beginning of the world that **GHOST TEMPLES** is placed in. Cziskvelén is the only person to have ever experienced the First Light, and has decided to not share the experience he went through with others, until it became clear that it was a necessity. Cziskvelén aged like normal over the past 50 years, and this meant his body slowly began to die out of natural causes. The "Chromatic Eyes" are what he referred to as **Higher Spirits**, which is where that name originated from. 
+**First Light** happens once and never again. It is the beginning of the world that **GHOST TEMPLES** is placed in. Cziskvelén is the only person to have ever experienced the First Light, and has decided to not share the experience he went through with others, until it became clear that it was a necessity. Cziskvelén aged like normal over the past 50 years, and this meant his body slowly began to deteriorate from natural causes. The "Chromatic Eyes" are what he referred to as **Higher Spirits**, which is where that name originated from. 
 
 ## // CZISKVELÉN
 ### Life After Life

@@ -24,3 +24,6 @@ When technology can't bring you beyond the top, what is there next to try? With 
 ### THREAD THE NEEDLE
 Available at [[THREAD THE NEEDLE - Story]]. \
 The opportunity to guide your nation directly into independence after 5 years of fighting, at the cost of achieving the impossible lineup and shot. For the hitman **Black Bullet**, Nikec Kráminsz, the choice was easy to make. A chance to lose everything, or achieve it all, is now lying in his hands and his finger on the trigger.
+### Drafted Stories 
+Available at [[Drafted Stories]]. \
+These include a series of stories that have been worked out lightly, and haven't found a place within its own respective note just yet, or are awaiting inclusion in an existing story.

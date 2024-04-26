@@ -21,7 +21,7 @@ LTS as a company frequently reappears throughout the story, although it only ser
 RKU provides international services between **Thórirsant**, **Kérisant**, and **Zakh'háfo**, providing both cargo and passenger transport.
 
 ## Vestia Rapid
-Vestia Rapid is the high-speed train service that operates between the various nations across Vestia. Its connections range from **Hédenis** and **Mónsan**, through **Zhuehai**, **Álusken**, and **Vao**, with split connections to **Benelux** and **Denmark**. Its most known for the fatal rail incident ever since its inauguration, as described in [[LAST LIGHT#// LUNA]]. 
+Vestia Rapid is the high-speed train service that operates between the various nations across Vestia. Its connections range from **Hédenis** and **Mónsan**, through **Zhuehai**, **Álusken**, and **Vao**, with split connections to **Benelux** and **Denmark**. Its most known for the fatal rail incident ever since its inauguration, as described in [[Journey - Luna#SPAD (Signal Passed At Danger)]]. 
 
 Currently planned (December 2023) is developing a brand identity for this service. Taken from the Trello board: \
 *Existing concept is a slogan of “Wherever you're going, we'll bring you there”, or "Across the road or across the border, we'll bring you there." Some examples include:* \

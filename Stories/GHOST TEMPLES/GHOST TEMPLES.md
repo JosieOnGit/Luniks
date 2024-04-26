@@ -8,29 +8,30 @@ Observed by the sun *Choreos*, guarded by the moon *Jerrát*, the Temples find t
 **Cziskvelén** was the first Ghost to set foot in this Elevated Realm after his death on the Lower Realm. During his rebirth, it was explained to him by the **Higher Spirit**, the **Eye of Chroma**, that he now possessed a power to guide many more people that lost their lives in the Lower Realm upwards to the Elevated Realm, to continue their lives "as normal", and to grant them a chance to continue their lives after having them taken from them too soon in life. 
 
 
-## The Lifecycle
+# The Lifecycle
 Every ghost has gone through three stages upon introduction to their new Temple. These are:
-- **LAST LIGHT** // The event that led to their death in their original life.
-	- **LAST LIGHTS** are available at [[LAST LIGHT]].
-- **REBIRTH** // The process in which a Guardian rescues and restores the spirit of someone that has gone through *Last Light*.
-	- **REBIRTHS** are available at [[REBIRTH]].
-- **EXPOSURE** // The event in which everything clicks together. Every memory that was able to be restored from the rescued spirit has been restored, and the new Ghost has now been permanently connected to their corresponding Temple. 
-	- **EXPOSURES** are available at [[EXPOSURE]].
-- **GLIMMER** // An event that was memorable during the Ghost's life, and didn't have an extreme impact on them (e.g. Meeting another Ghost and sharing a fun experience together). These can be short snippets, long stories, and everything in-between.
-	- **GLIMMERS** are available at [[GLIMMER]].
+## Last Light
+**Last Light** refers to the last light the existing ghosts saw before dying and being reborn. This means that every corresponding entry will document the very last moments of their previous identities. Examples being *Luna*, who lost their life on the fatal **Vestia Rapid Train incident**, and *Snow*, who lost her life through being at the wrong place at the wrong time. All that they have in common is that they were granted a next chance and were granted shelter in the Ghost Temples.
 
-*// The two stages below are special to Cziskvelén, as he was the first ghost to experience them, as well as the last.*
-- **FIRST LIGHT** // The event in which **Cziskvelén**, and later **Vászi**, received their powers from the **Chroma** to shape the *Elevated Realm* in order to support new Ghosts through their new lives.
-	- **FIRST LIGHTS** are available at [[FIRST LIGHT]].
-- **CLOSURE** // The event in which **Cziskvelén** succumbed to the void, bidding farewell to **Vászi**, and handing **Chroma**, as well as the World with it, over to him.
-	- **CLOSURE // CZISKVELÉN** is available at [[CLOSURE]]. 
+Before entering the Temple, they are approached by a Guardian of their respective Temple, which gives them the capabilities and strength to undergo the process of rebirth. This is always traditionally done at the same location of the accident, that unfortunately cost them their lives. The location is completely devoided of any other humans or animals, and a white mist will linger around the Guardian and the soon-to-be Ghost.
+## Rebirth
+**Rebirth** refers to the rebirth of those that died in accidents of no fault of their own, and were granted another chance to live through the process of rebirth, granted by a Temple Guardian. In standard cases, Temple Guardians choose the most pure souls that were robbed of the proper, long life that they deserved and died too soon in an accident or circumstance they had no control over. This includes accidents like the **2074 Matéiazhu Rail Disaster**, and the **2075 Keustellet missile strike**, where *Luna* and *Snow* lost their lives, respectively. 
 
-*// The cycle below is events that happen during the end of a lifetime for a ghost. However, said cycle is still on the drawing board and might end up being excluded altogether* \
-*// **March 2024**: Currently it's drafted that all future deaths of Ghosts will happen under **CLOSURE**, meaning that **TRAGEDY** as a concept will be phased out and removed. However, the odds that any other death of a Ghost will be written the same way as **Cziskvelén's** are exceptionally low.*
+Upon rebirth, a newly born Ghost is introduced to their new Guardian, that will introduce them to their new life and explain in a light amount of detail what had happened to them in their past one. As all Ghosts struggle with amnesia, where all memories but the Last Light rapidly vanish upon rebirth, this means it will both be easy yet hard for them to adapt to their new lives. 
+## Exposure
+**Exposure** refers to the event in which everything clicks together. Every memory that was able to be restored from the rescued soul has been restored, and the new Ghost has now been permanently connected to their corresponding Temple.
+## Glimmer
+A **Glimmer** is understood simply as a memorable moment that occurred at one point in a Ghost's life. These may be considered everyday activities, such as *forest walks* for **Winter**, *painting* for **Snow**, and so forth. These glimmers will capture all these various experiences and moments of the various Ghosts, and give a glimpse of their new lives.
+## Current Exceptions
+*// While Ghost Temples is undergoing a rework in how the documents and stories are ordered, outliers remain, and are described as follows:*
+### First Light
+**First Light** is the event in which **Cziskvelén**, and later **Vászi**, received their powers from **Chroma** to shape their *Elevated Realm* they found themselves in to support new Ghosts through their new lives. *// Currently, both of these First Lights are exclusively available at [[FIRST LIGHT]], but may be moved elsewhere later on.*
+### Closure
+**Closure** is the event in which a Ghost succumbs to the void, their "second chance" at life having reached fulfillment, and the Ghost promptly bids farewell to the *Elevated Realm*, and dies of natural causes. Currently, only **Cziskvelén** has gone through this, bidding farewell to **Vászi** and **Chroma**. Said story is available at [[CLOSURE]].
+### Despair
+***DESPAIR** // The stage in which the quality of life of the Ghost or Temple is rapidly declining and in danger of running out.* // The **DESPAIR** entry is currently used in *DESPAIR // VÁSZI*, carrying a different meaning.
+- **DESPAIR // VÁSZI**, which uses the alternative meaning for **DESPAIR**, is available at [[DESPAIR]].
 
-- ***DESPAIR** // The stage in which the quality of life of the Ghost or Temple is rapidly declining and in danger of running out.* // The **DESPAIR** entry is currently used in *DESPAIR // VÁSZI*, carrying a different meaning.
-	- **DESPAIR // VÁSZI**, which uses the alternative meaning for **DESPAIR**, is available at [[DESPAIR]].
-- ***TRAGEDY** // The event in which the Temple falls, or in which the ghost simply dies and vanishes, leaving behind just their mask. (**Due for removal**)*
 
 ## A Quick Rundown
 The current focus lays on the **Temple of Vestia**, where a small group of characters is actively being developed and have sprung to life. This list of characters is still rapidly growing, but is available at [[Stories/GHOST TEMPLES/Character List|Character List]], as well as under its corresponding header in the current page. 
@@ -52,14 +53,23 @@ Together with *Cziskvelén*, *Vászi* settles the **Temple of Vestia** and *Mat�
 ### Marten's Guardianship 
 As the focus lays on the **Temple of Vestia**, *Marten* is reborn into a ghost, maintaining his original name from before his death. During this time, *Sóvis* joins the Guardianship, while *Átem* instead leaves, and *Luna* and *Snow* are reborn under this Temple.
 ### Era of Marten & Sóvis
-Many months later, *Marten* and *Sóvis* near the end of their Guardianship, while *Vászi* begins to prepare for his departure from the **Temple of Vestia** for a final time, after *Matéis* had picked up a signal from *Cziskvelén*, far beyond the Morrésik mountains. Haphazardly, Marten and Sóvis are promoted to **Temple Guardians** at the help of Matéis, and sooner or later begin getting the hang of being a Tempel Guardian. During this era, *Raine* and *Winter* are reborn under this Temple.
+Many months later, *Marten* and *Sóvis* near the end of their Guardianship, while *Vászi* begins to prepare for his departure from the **Temple of Vestia** for a final time, after *Matéis* had picked up a signal from *Cziskvelén*, far beyond the Morrésik mountains. Haphazardly, Marten and Sóvis are promoted to **Temple Guardians** at the help of Matéis, and sooner or later begin getting the hang of being a Tempel Guardian. During this era, *Raine*, *Winter*, and *Spark* are reborn under this Temple.
 
-
-# // GHOST TEMPLE: VESTIA  
-
-## // GHOST TEMPLES - EXPOSURE
-Luna's Exposure has moved to [[EXPOSURE#// LUNA]]
-## // GHOST TEMPLES - REBIRTH
-Snow's Rebirth has moved to [[REBIRTH#// SNOW]]
-## External Info
-Smaller bits of information are available in [[Scattered Info]]
+## Character List
+The full Character List with more in-depth details, is available at [[Stories/GHOST TEMPLES/Character List|Character List]]. However, this character list serves as a quick waypoint to reading up on every respective character's journey within **Ghost Temples**.
+### Cziskvelén
+**Cziskvelén** has only gone through **First Light** at [[FIRST LIGHT#// CZISKVELÉN]], and **Closure** at [[CLOSURE]].
+### Vászi
+**Vászi** has only gone through **First Light** at [[FIRST LIGHT#// Vászi]], but also appears in **Despair** at [[DESPAIR]].
+### Marten
+**Marten**'s journey is available at [[Journey - Marten]]. He also appears in **Despair** at [[DESPAIR]].
+### Luna
+**Luna**'s journey is available at [[Journey - Luna]].
+### Snow
+**Snow**'s journey is available at [[Journey - Snow]]. She also appears in **Despair** at [[DESPAIR]].
+### Winter
+**Winter**'s journey is available at [[Journey - Winter]]. She also appears in **Spark**'s **Glimmer** at [[GLIMMER#The Dream Pursued (Working title)]].
+### Spark
+**Spark**'s journey is available at [[Journey - Spark]]. She also has a **Glimmer**, available at [[GLIMMER#The Dream Pursued (Working title)]].
+### Raine
+**Raine**'s journey is available at [[Journey - Raine]].
