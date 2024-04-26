@@ -131,7 +131,7 @@ The feeling of the knife in her shoulder overwhelmed her again, as she clutches 
 **"It's unfair! I just want to forget, I want to forget! Why can't I forget?! Why do I have to relive it every single day?!"**  \
 Without Spark realising, Winter had kneeled down before her, her arms spread wide open, inviting her in for a tight hug.  
 
-### The Dream Pursued
+### You Only Live Twice
 *// POV: Spark*
 
 Head down, ice cold, I sat down on the bench just outside the library near the Temple. Every single day had flown by like this, and both Marten and Sóvis were working overtime to help me settle and calm down at the Temple, but to no avail. The weather today wasn't great, but it wasn't anything out of the ordinary for this season. Cloudy weather, a looming threat of rain, but if anything, it aligned perfectly with how I was doing physically and mentally. Continuously on the edge, constantly about to break down, and when I do finally crack, so do the skies.
