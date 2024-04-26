@@ -1,6 +1,20 @@
 # GLIMMER
 Within Ghost Temples, a **Glimmer** is understood simply as a memorable moment that occurred at one point in a Ghost's life. These may be considered as everyday activities, such as *forest walks* for Winter, *painting* for Snow, and so forth. This document will capture all these various glimmers of the various Ghosts, and give a glimpse of their new lives.
 
+## Hand In Hand
+### GLIMMER // SPARK
+*// POV: Spark*
+
+**"So! How's this for a view?"** 
+
+With her arms wide, and a smile from ear to ear, Winter turned around to face me. In an attempt to get my thoughts onto something else since she had approached me a week or two ago at the library, we'd occasionally go on walks together, showing me trails and routes that I would never have been able to come up with myself. And time and time again, the next hike would overcome the previous, showing me landscapes that I couldn't even have imagined in my wildest dreams. *"It's.. gosh, I'm out of words.. it's so beautiful.."* I stammered, reaching the top of the hill and peeking just slightly over the rest of the trees. In the distance, I could see the outskirts of the Temple, and even further on the horizon I could recognise the small city of Liánzhulie, proving just how clean the air was today.  Without noticing, Winter had approached me, smiling warmly as she carefully tapped my nose and giggled. **"Not quite as beautiful as you are, though."** \
+Caught off guard completely, my entire body freezes in place as I blush deeply, not having any idea what to say, especially not with Winter just a few centimetres away from me. *"I-I.. uh.. I'm..-"* I stammer, words refusing to form sentences while Winter continued to stare deeply into my eyes, her warm smile getting wider every second, before she finally breaks her concentration and start to laugh, breaking our stare, before we both begin to laugh. 
+
+Without a doubt, Winter and I had grown closer over the last two weeks. Our emotional bond had grown way tighter and closer than anyone could've imagined.
+
+
+
+
 ## The Dream Pursued (Working title)
 ### GLIMMER // SPARK
 *// POV: Spark*   
