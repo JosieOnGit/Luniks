@@ -23,27 +23,28 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - [[Hédenis]]
 - Morrésik (Unregulated mountains)
 - [[Kostanzá]]
+- [[Siúlan]]
 
 ### Skádia (Lower left half)
 - [[Emyria]]
 - [[Náhrekv]]
 ### Deónia (Right half)
-- 
+- [[Deónia Nature Reserve]]
 
 
-// **NOTE**: As you can see, two continents are currently completely empty spaces, with no nations located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
+// **NOTE**: As you can see, two continents are currently mostly empty spaces, with no nations located within these continents. This opens up room for additions later on as the planet properly takes shape! This section will be adjusted accordingly to changes regarding the nations and layout of the planet. 
 
 # Ubunia
-Ubunia was the first continent out of four on the planet to be settled. Right in the very heart of the western wing of the continent, Þórirsson set foot and settled the city of Nóve Réjkjavik, before the imminent boom in further developments throughout the continent.
+Ubunia was the first continent out of four on the planet to be settled. Right in the very heart of the western wing of the continent, Thórirsonn set foot and settled the city of Nóve Réjkjavik, before the imminent boom in further developments throughout the continent.
 ## Thórirsant
 
 ## Ellitroomi
 
 ## Kérisant
 
-## Zakh'háfo (Zakh'háfónai Ertbitsai)
+## Zakh'háfo
 
-## Máneá (Unifísai Ertbitsai da Máneá)
+## Máneá
 
 ## Rhódisz
 
@@ -72,6 +73,7 @@ Soon after **Ubunia** was officially settled and divided up into several zones w
 
 ## Konstanzá
 
+## Siúlan
 
 # Skádia
 With the counter-clockwise pattern of partitioning the four continents, **Skádia** would be up next to give way to young nations after **Vestia**.

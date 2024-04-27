@@ -22,6 +22,8 @@ Further development on the **OSLO REVOLUTION** will be available at [[OSLO REVOL
 
 ## Máneá-Zakh'háfo Conflict / Collapse of United Máneá
 The title should be read as cause -> effect. The sudden split between Máneá and Zakh'háfo caused not only Zakh'háfo to crumble into economical and political discourse and instability, this also opened up doors to provinces and areas which were located between the two newly-formed countries to fight for their own independence too, the most notable of which being Rhódisz. 
+
+**April 2024 Update**: The **Máneá-Zakh'háfo Conflict** has been given a new light within **Travel Risk**, more specifically, within the killing of Vice President **Démëti Ristovélisim** and the imminent collapse of the united nation soon after. This story in particular is written in [[THREAD THE NEEDLE - Story]], and more info about Nikec, who landed the shot, is available at [[Nikec Kráminsz]].
 ### Máneá-Zakh'háfo conflict
 Note: This is part of a draft first made in 2020, and might contain content that no longer exists, or never properly existed. It might be highly inaccurate within the present state of the project.
 
@@ -48,6 +50,8 @@ Within Vao reign myths that have stood place for many decades since the establis
 
 One fact that might not be frequently noticed, is that these dragons have roamed Luniks throughout many years before humanity settled the planet.
 
+*// **April 2024** update: The above description and below draft may see an inclusion into TRAVEL RISK, more specifically at [[Drafted Stories#Dancing with Dragons]].*
+
 ### Drafted Story: A direct descendant 
 *// Context:* This is a drafted story that takes place in *Estre Donnore* in **Vao**. Although falling under **Álusken's Mysteries**, the actual mysteries take place outside Álusken as well, such as in the southwestern areas of Vao. The mixture of dragon myths and supernaturalism that are present in Vao and Álusken, respectively, create exceptionally odd supernatural situations in northeastern Álusken and southwestern Vao. \
 *// POV: Unnamed Character*
@@ -69,6 +73,7 @@ As Hédenis lays closely to Álusken, its mysteries and secrets, as well as the 
 
 ## GHOST TEMPLES
 **GHOST TEMPLES** has grown too big to remain a draft, and is now available at [[GHOST TEMPLES]].
+
 
 ## TRAVEL RISK 
 **TRAVEL RISK** has grown too big to remain a draft, and is now available at [[TRAVEL RISK]].
@@ -100,14 +105,18 @@ I've been drafting a strange, central spot in the middle of the country of Álus
 
 Next to this (March 2024) is a draft that includes the nation of **Vao**, and its known history with the myths of dragons that roamed its mountains and plains. With borders having shifted a few times since the original settlements on Vestia, were some natural borders crossed, and is **Vaon Dragon** territory actually on **Alusken**?
 
+Most recently (April 2024), with the addition of [[Reaching Lúniks]] further clarifying the mysteries in the **Vaon Mountains**, and its strange auroras supposedly caused by the roaming **Dragons** of **Vao**, it could also spark as a gateway into mysterious land and forces taking place between the two nations of **Álusken** and **Vao**, opening the door for supernatural events even properly implementing **Magic**.
+
 ## Deep dive into the history of early Luniksan settlements
 
 
 ## Unnamed and unused draft
 ### Important note
-This snippet of a story could be extracted into **Snow's Last Light**, which is available at [[LAST LIGHT#// SNOW]]. In that case, it will no longer be a draft, and not find a purpose elsewhere either.
+This snippet of a story could be extracted into **Snow's Last Light**, which is available at [[Journey - Snow#LAST LIGHT // SNOW]]. In that case, it will no longer be a draft, and not find a purpose elsewhere either.
 
 **Update (March 2024)**: This snippet has been repurposed to an extent in **Snow's Last Light**. While this is the case, there is no mention of a reactor, or any explosion in rough detail, meaning this draft will survive after all and see a purpose in another story.
+
+**Update (April 2024)**: This snippet may **also** see an introduction in **Travel Risk**. However, this is nowhere near well-thought out just yet, and will therefore merely remain as a draft for the time being.
 
 
 *// POV: Unnamed character* \

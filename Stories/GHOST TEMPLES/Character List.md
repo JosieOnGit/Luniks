@@ -112,12 +112,14 @@ Available at [[Journey - Winter]]. \
 ## // Spark
 Rough visual reference: **Sparkle** from **Honkai: Star Rail**.
 
+When your mind betrays you, and traumas haunt you throughout the day and night, what value is there in being reborn? For Spark, it was a tough question to answer, but as time went by, she gradually learned to adapt. Recovering from a **Premature Rebirth**, initiated by **Sóvis** just too soon after her death, she now has Winter by her side to help her heal and adapt to the new world she finds herself in.
+
 ### Past Life
 Before her Rebirth, Spark aspired to become a professional musician and master the different forms of string music. Having studied together with the same teacher for many years, she mastered the guitar and violin, and when she felt like the had hit a wall, a sudden invite from the National Vaon Orchestra sparked her hope and willpower like it had never left. After the meeting at the studio, she dreamed to trial with the rest of the orchestra and learn the essence of the bass and cello too, but fell short of her dreams when her father betrayed and murdered her, along with the rest of her family members. Even with the dreams of playing in the orchestra, and haunted by the vivid memories of her death, her goal never left her side, and with unlimited time on her hands, she was eager to learn and master every string instrument there was to master in her next life.
 
 ### Journey
 Available at [[Journey - Spark]]. \
-**The Sparks That Flew** (Last Light) -> **The Flame Reignited** (Rebirth) -> **The Dream Pursued** (Exposure) 
+**The Sparks That Flew** (Last Light) -> **The Flame Reignited** (Rebirth) -> **You Only Live Twice** (Exposure) -> **Hand In Hand** (Glimmer) -> **The Dream Pursued** (Glimmer)
 
 
 ## // Raine
