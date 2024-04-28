@@ -25,7 +25,7 @@ With a loud thud, I suddenly jumped back to my senses, even if everything felt o
 
 **"Unfortunately, your fall was fatal. You did not survive."** 
 
-Upon hearing his voice, my worry became fear. My mind short-circuited, and I struggled to find a reasonable explanation as to why these people were standing before me. They weren't my friends, they wouldn't be waving me farewell before I would go to heaven. No matter how much I tried, I couldn't find a reason, I couldn't understand what was going on. This all seemed too real, and yet, so.. unreal.. what was going on?
+Upon hearing his voice, my worry became fear. My mind short-circuited, and I struggled to find a reasonable explanation as to why these two strange figures were standing before me. They most certainly weren't my friends, they couldn't be waving me farewell before I would go to heaven. No matter how much I tried, I couldn't find a reason, I couldn't understand what was going on. This all seemed too real, and yet, so.. unreal.. *what was going on?*
 
 *"What.. what happened..?"* I mutter under my breath, my voice sounding hollow and raspy, as if I had awoken from a bad sleep on top of the Kálisgerou, I struggled to breathe, to think, to do anything in the state I was in right now. \
 But without a second thought, I looked upwards again, the icy chill that took a hold on my body slowly vanished, as I saw that the man before me had held his hand out to me. Taking his hand immediately, I got lifted upright, in awe at how he managed to pull me up that effortlessly, as I eagerly listened to his voice again. 

@@ -27,4 +27,4 @@ Named after the **Dragon of Estre**.
 Named after the **Dragon of Ási**, who is recognised as a beige/yellow dragon, accentuated by a light pattern of white and blue streaks. \
 Also written as "**Hási Donnore**", because of the strong dialects within the Northern Vaon hills.
 ## Istri Donnore 
-Named after the **Dragon of Istri**, who is recognised as a black dragon, accentuated by generous red streaks and patterns of grey..
+Named after the **Dragon of Istri**, who is recognised as a black dragon, accentuated by generous red streaks and patterns of grey.

@@ -1,4 +1,4 @@
-# List of cities per Nation
+# List of Nations
 
 ## Continents
 Luniks has four continents over the entire planet, each containing a landmass similar to Africa or South America. The four continents can be divided up into nations as well, as follows:
@@ -23,7 +23,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - [[Hédenis]]
 - Morrésik (Unregulated mountains)
 - [[Kostanzá]]
-- [[Siúlan]]
+- [[Sirália]]
 
 ### Skádia (Lower left half)
 - [[Emyria]]
@@ -73,7 +73,8 @@ Soon after **Ubunia** was officially settled and divided up into several zones w
 
 ## Konstanzá
 
-## Siúlan
+## Sirália
+
 
 # Skádia
 With the counter-clockwise pattern of partitioning the four continents, **Skádia** would be up next to give way to young nations after **Vestia**.
