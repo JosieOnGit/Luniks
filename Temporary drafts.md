@@ -11,11 +11,24 @@ Because of this, I believe it's fine to keep the masks as they are, but repurpos
 
 For **Temple Guardians**, the masks will remain the same, and will also remain a tradition. The *plain white mask*, which has made an appearance plenty of times, will remain as tradition for **Rebirths**, and Marten will continue to wear his unique *half-mask* that only covers his face below his eyes. With this, I believe that I can lessen the pressure on coming up with specific and forced masks and character details that I don't believe really fit the characters, and might steer the project into a direction that's far too niche and not aligned with what I truly aim for.
 
-## Ghost Temples - GLIMMER // Marten
-### Drafted
-In his sleep, Marten finds himself back in his previous life, meeting with his friends at the University of Lasz once more. They catch up with each other, and his friends mention that they still can't believe he actually managed to heal and recover from his heart cancer. This arises one of the many questions to follow in his mind, as the more he wonders what is going on, the more the details of the world around him disappear, instead being exchanged for plain, white and featureless structures. Instead of a dream, it gradually turns into a nightmare for Marten, but after suddenly waking up, he instead finds himself in the same bed as always, encapsulated by a white dome. Turning to his left, he sees Snow still fast asleep, but somehow having sensed that he was in distress, she snapped him out of the dream and activated her Whiteout, in hopes to help his nightmares.
+## Reaching Lúniks - Descriptions for Observatories
+More thorough descriptions regarding various launchpads/control centres/research centres. Including:
+### Lappland Observatory
+### Control Lyon (Launchpad Lyon)
+### Control Geneva
+### Control Shánzhe (Launchpad Shánzhe)
 
 
+## Reaching Lúniks / TRAVEL RISK - Merger with Cisila
+Directly inspired by Evie's [Cisila Siveta](https://github.com/eviedense/CI.SI) storyline. More specific information is available in the hyperlinked repository.
+
+### Reaching Lúniks (CI.SI: Brain drain, 1995-2035)
+Both **Reaching Lúniks** and **Travel Risk** will take inspiration from the aforementioned story, and will attempt to be placed in one and the same universe. **Cisila's Story** takes place in the *United States*, a country on Earth that has never been mentioned before in any of the existing stories (As of May 2024). The reason for this is because of the immense security risks that followed soon after **PALMER-EDEN** was founded, and spread throughout the country to provide almost every service imaginable. This let to not only economic concerns, but also privacy and safety concerns, and with its tight grip on every market possible increasing, a number of institutes and companies fled the US to instead base themselves in Canada or Europe, similarly to how companies and institutes fled to **Rhódisz** after the **Collapse of United Máneá**. One of these companies is **NASA**, who will depart the US around the year 1995, a few years after the successful launch of the *Hubble Telescope*. Its researchers follow and join the **ESA** in Geneva and the **Lappland Observatory** in Lappland, using their experiences and knowledge to snowball the eventual launch of **One** and kickstarting settlement of Lúniks.
+
+While this all plays out, the US instead experiences a brain drain and begins to spiral into a state of despair, with the security of the nation beginning to become unstable and boiling up to what is believed to be an "internal cold war". Before long, PALMER-EDEN begins experiments on humans, with organs that its CEO considers part of "**Ultima**", a series of experimental organs that give humans that possess them various superpowers, one of them being **Cisila**. With this internal risk and with nationwide uncertainty, the US instead locks down its borders and refuses to reopen them, immediately causing the **European Union** and **Canada** to become the next superpower nations while the US instead crumbles down.
+
+### Travel Risk (INTERIM: PALMER-EDEN (US) fallout)
+**INTERIM**, in its current state, takes place in 2087, and is a story about the aftermath of a major incident in one of **PALMER-EDEN**'s underground cities. While not being directly linked to **Travel Risk**, it can still pose as an example of what *not* to do when in uncertainty, and can be directly used as an example of what will happen when **Máneá** and **Zakh'háfo** truly spiral out of control and become a dictatorship, too. 
 
 ## TRAVEL RISK - Nova Character 
 Nova will be recruited into an Agency after having undergone military training and service in Eastern Kérisant, partaking in the **Mharáni unrest**, and is originally from **Strava Mikkë**.
