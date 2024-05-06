@@ -7,7 +7,7 @@ The **Geography** is fairly straightforward. One document and several folders ar
 - **Continent Folders**: These folders are divided up into the four continents, each of which contain separate documents of each of the nations that are present on that continent, which themselves have a bit of history and contain a list of cities and towns within that nation.
 
 # Stories
-**Stories** is the maze of the repository, where every developed story is written down in. We'll go through every story, and tailing documents together, so you can dive in wherever you wish!
+**Stories** is the true maze of the repository, where every developed story is written down in. We'll go through every story, and tailing documents together, so you can dive in wherever you wish!
 ## Drafted Stories
 The **Drafted Stories** folder is a collection of unrelated drafts or stories that don't currently have a connection to any of the existing stories. These are:
 - **Álusken's Mysteries**: Currently a single story, but has the potential to grow and expand to be sorted out into its own folder as well. The nation of Álusken has a very medieval feel, especially around its capital city, where the reigning king actively denies and suppresses modern technologies. Around this city, strange occurrences happen, which are described in this document.
@@ -50,7 +50,7 @@ Main document: [[TRAVEL RISK]]. \
 
 ## Lists
 Lastly, three lists are present: \
-- **List of historic events**: This list discusses the brief history of how modern Luniks came to be, going over where the timeline from our real world deviated and how Luniks quickly became habitable for modern human life.
+- **Lúniks Timeline**: This list discusses the brief history of how modern Luniks came to be, going over where the timeline from our real world deviated and how Luniks quickly became habitable for modern human life.
 - **List of notable names**: This list mentions various company names, that might frequently appear throughout all stories.
 - **List of notable people**: This folder has been extracted, and now serves as a diversion document that leads to the respective character lists of all the stories that have been made so far. 
 

@@ -35,6 +35,8 @@ In late **1999**, after the continents of Lúniks received their name, the first
 ## 2001 - Vestian allocation is drafted, US closes borders
 With the borders on Ubunia nearing completion, the next continent to be drafted and allocated was **Vestia**. With many nations from Earth carrying over to Lúniks for a better shot at a proper livelihood for its citizens, nations like **Taiwan**, **Denmark**, **Greece** and the **Benelux**, were given locations on the Vestia that they could settle, thus drawing and forming the borders accordingly.
 
+On the other side of the globe, **PALMER-EDEN**, now in control of the vast majority of the US, closes the borders, preventing any citizen and organisation from entering and leaving the country until further notice. 
+
 ## 2004 - Deónian forests discovered
 
 ## 2005 - Exploration mission, **One** lands on Lúniks
@@ -57,7 +59,7 @@ Follows up **US unrest after PALMER-EDEN** and **Secession of Illinois**. A more
 ## 2037 - Alkéisa's Ring is activated
 
 ## 2039 - United Máneá collapses
-Follows up **Zakh'háfon independence movement** and **Nikec Kráminsz killings**. A more concrete timeline and more information will be available at [[Collapse of United Máneá]].
+Follows up **Zakh'háfon independence movement** and **Nikec Kráminsz murders**. A more concrete timeline and more information will be available at [[Collapse of United Máneá]].
 
 
 

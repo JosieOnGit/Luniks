@@ -3,7 +3,7 @@ This document lists various names, such as those of products, companies, or othe
 # Interplanetary Travel
 
 ## ELE - Earth-Luniks Express
-Soon after Luniks was first settled, it became a top priority to establish a stable and steady connection between the two planets. Initially, the travel ports were build and activated between Switzerland and Nóve Rejkjavík, with many other ports quickly being built afterwards to allow a smooth transfer of many people that had an intent to move to Luniks and help settle the young planet. Because of its rapid activation, Luniks could grow as quickly as it has.
+Soon after Luniks was first settled, it became a top priority to establish a stable and steady connection between the two planets. Initially, the travel ports were build and activated between Switzerland and Nóve Réjkjavik, with many other ports quickly being built afterwards to allow a smooth transfer of many people that had an intent to move to Luniks and help settle the young planet. Because of its rapid activation, Luniks could grow as quickly as it has.
 
 **ELE** travels through the wormhole that's also referred to as the *Panjit Loop*, which is named after **Tagip Panjit**, who was the key factor to discovering the necessary steps towards fast interplanetary travel and enabled travel to Luniks in the first place.
 
@@ -70,14 +70,15 @@ From **2018** onwards, Hammerhead had been a key factor in developing the immens
 ### Weaponry
 After the **2031** handover, in **2035**, Hammerhead laid their eyes on producing firearms in hopes to expertise themselves in every possible field of work. Next to efficient rifles and handguns, this sparked the development of **Pulse Rifles**, a type of weapon that has become incredibly prominent since the **2050s**. These rifles were **non-lethal**, which sparked their interest as a means of self-defence. But Pulse Rifles aside, they also produce an immense arsenal of firearms, ranging from pistols the size of a hand, to rifles that can make a target unrecognisable at a 3km distance.
 #### Known Arsenal
-- **HR75** (**Heavy Rifle class 75**): A top-of-the-line bolt-action sniper rifle with expert power and precision. With a length of almost 190cm from barrel to stock, this rifle supports .50cal cartridges and a versatile platform of extensions that cater to your needs. 
+- **HR75** (**Heavy Rifle Class 75**): A top-of-the-line bolt-action sniper rifle with expert power and precision. With a length of almost 190cm from barrel to stock, this rifle supports .50cal cartridges and a versatile platform of extensions that cater to your needs. 
 - **HR62** (**Heavy Rifle Class 62**): 
-- **SR43** (**Standard Rifle class 43**): When you need a rifle that does exactly what you require it to do, the SR43 fits all of your needs, even if they frequently change. Supporting a wide variety of cartridges and extensions, the versatile SR43 has your back, wherever your mission may take you.
-- **SP14** (**Standard Pistol class 14**): (Iterated Five-seveN)
+- **SR43** (**Standard Rifle Class 43**): When you need a rifle that does exactly what you require it to do, the SR43 fits all of your needs, even if they frequently change. Supporting a wide variety of cartridges and extensions, the versatile SR43 has your back, wherever your mission may take you.
+- **SP14** (**Standard Pistol Class 14**): (Iterated Five-seveN).
 - **MPC5** (**Micro Pistol Class 5**): Don't let its size fool you. At the size of a hand, the MPC5 still delivers significant firepower.
 - **PZ25** (**Pulse Class 25**): Your new best friend. Developed and iterated internally at Hammerhead for over 10 years, the PZ25 is the incredible result of endless hard work to bring you pulse weaponry in a compact, accessible form factor.
-- **PZ55** (**Pulse Class 55**): (Visual reference: Apex Nemesis Rifle)
-- **EPZ90** (***Experimental* Pulse Class 90**): (Railgun prototype)
+- **PZ55** (**Pulse Class 55**): (Visual reference: Apex Nemesis Rifle).
+- **EPZ60** (***Experimental* Pulse Class 60**): A modern camera has a two-stop press before taking a photo, with the first stop press bringing the subject in focus. Why not utilise such a mechanic in a rifle? The **PZ60** can fire like a normal rifle, but doubles as a marksman rifle, and holding the trigger on its first stop will charge up a shot that is fired when the trigger is fully pulled.
+- **EPZ90** (***Experimental* Pulse Class 90**): (Railgun prototype).
 
 ## Carbine
 Next to offering a varied catalogue of weapons, **Carbine** is on the hunt to reach the same level of market share that **Hammerhead** currently has. Jealous of their achievements, Carbine entered the experimental weapon department, in hopes to create a new image for themselves where they failed trying to chase after Hammerhead. 
