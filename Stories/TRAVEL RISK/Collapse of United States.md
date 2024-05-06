@@ -1,0 +1,15 @@
+# Collapse of United States
+From **1990** onwards, the stability of the US has been ever declining. With **PALMER-EDEN**'s foundation in early 1990, it originally nested its roots in pharmaceutical services, but with the incredible improvements in technologies on a year-to-year basis, it wasn't long before the company began to dip its fingers into every single branch imaginable, providing questionable but high-quality services to the everyday citizen at a highly affordable pricepoint. Before long, **PALMER-EDEN** had spread throughout the US as if it was nothing, and with the increased risks that come with a total monopoly, other companies began to depart the US as a result, leaving only the products and services of **PALMER-EDEN** as an option.
+## PALMER-EDEN assumes total control (1997)
+Where the US was once recognised as the freest market in the entire world, it quickly lost that title when PALMER-EDEN began to spread through the US like hot cakes. It quickly outperformed its competitors in every respective market. With such an impressive portfolio, it wasn't strange that PALMER-EDEN would quickly receive seats within the government, increasing its grip on the market even further, while the competitors and rivalling companies instead chose to flee the US in fears of their own safety. In **1995**, **NASA** leaves the crumbling US for Europe as one of the last remaining organisations to do so, leaving behind their works for PALMER-EDEN to pick up on. And in **2005**, the final competitors left, or were bought out, and PALMER-EDEN was now in full control of all 50 US States.
+## Drafted - Due for clarification
+### Northeastern US secedes, joins Canada
+In an effort to protect itself, its integrity, and its citizens, the various states of Northeastern US formally secede from the US in **2001**.
+### Californian independence
+
+## National Cold War, Human experiments (Ultima)
+With PALMER-EDEN in full control, revolt is to be expected against it. But any sort of revolt against PALMER-EDEN would be met with force, and be shut down immediately, creating an increasingly grimmer situation for the citizens that have stayed behind in the US. PALMER-EDEN's quality was declining, but all the other options had left to other countries, meaning that its citizens had no choice but to comply, creating a disturbing atmosphere that those that had experienced the Cold War dreamed to forget. 
+
+But PALMER-EDEN's stranglehold on the country did not end there, and with total control, it instead began to disregard experimental technologies and medication on animal's completely and began a program that was internally known as **Ultima**. While Europe and the Pacific were allocating Lúniks, PALMER-EDEN instead tried to elevate humanity's capabilities and developed strange forms of supernaturalism, one that could only be enabled if the host had an organ that was developed to support supernaturalism. The program would stay off the radar, and anyone that attempted to blow the whistle would be apprehended, or even outright killed, almost immediately.
+
+## Cold War turns hot, Secession of Illinois 

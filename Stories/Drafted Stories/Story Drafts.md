@@ -1,5 +1,5 @@
 # Story Drafts
-Much like the title suggests, these are drafts for the story surrounding Luniks as a whole. This project will be grand, and span a small percentage of all of Earth's history. Key points can be found in [[List of historic events]]. 
+Much like the title suggests, these are drafts for the story surrounding Luniks as a whole. This project will be grand, and span a small percentage of all of Earth's history. Key points can be found in [[Lúniks Timeline]]. 
 
 ## Leremkov Trials
 The Leremkov Trials have grown too big to remain a draft, and are now available at [[Leremkov Trials]]. The info on the characters is now available at its corresponding [[Stories/Leremkov Trials/Character List|Character List]].

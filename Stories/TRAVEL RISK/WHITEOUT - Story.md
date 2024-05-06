@@ -5,7 +5,7 @@
 *// POV: Nova*
 ### Where Neurotech Fails
 **"You're really confident there's no other way?"** \
-*"I'm fully confident there is not. Your hearing could fail with neurotech."*
+*"I'm fully confident there is not. Your hearing could fail completely with neurotech."*
 
 Dominico rested his hand on my shoulder as I sat on the operation table. No operation would take place, but it was late at night in Cévok, and he had a place and time that would work out. Back when I first got my eye transplant years back, my world was accelerating upwards, an infinitely upwards trend that only brought me to the top. But with all pride comes downfall, and just over a month ago, it was discovered that my hearing was beginning to fail me as a cost. Together with my manager, we looked through the possibilities within neurotech that could rescue my failing ears, and delay my inevitable deafness, but reached a wall right when we started looking. *"This isn't working, Nova."* His voice echoed through my mind. It had been a while since I last spoke to my manager, I took a few weeks off to let this settle in my mind, and the thought of becoming a deaf sniper wasn't leaving my head either. **"What is the point of a sniper, if they can't control their surroundings?"**
 
