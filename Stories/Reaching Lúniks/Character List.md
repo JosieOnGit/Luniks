@@ -1,0 +1,26 @@
+# Character List
+## Jonathán Thórirsonn 
+Jonathán Thórirsonn led the team that discovered the planet Lúniks, then known as **Choreos-RP-4**, in the **Choreos** solar system after it had been put aside for many years. As such, he is known for steamrolling the "Next Generation of humanity", and throughout his career he kept charge of everything regarding Lúniks and the yet-unnamed sister planet of **Choreos-RP-3**, before becoming the first man to set foot on the Lúniks in **2005**. The name of the nation **Thórirsant** is derived from his last name *Thórir* and the Luniksan word for "nation", *sant*, and *Nóve Réjkjavik* is derived from his birthplace, *Rejkjavík* in *Iceland*.
+## Tagip Panjit 
+Panjit is of Indian descent and is the scientific wonder that enabled Earth to leap forward years in time with travelling to Luniks, creating and realising the technology needed to reduce the travel time from 74 years, to just a mere few minutes. Originally studying in **Delhi**, and having been recruited by the **ISRO**, he was eventually traded over to the **ESA** to instead continue his research and theses there with the backing of the team at **Geneva**, and was a leading factor in realising the technology and science behind the creation of the self-named **Panjit Loop**, a wormhole that connected Earth and Lúniks. After the settlement of Lúniks, he continued his wormhole development together with **Akájune**, creating the first prototypes of what became the **ELE Corridor**.
+## Alexis (Aapo) Lesenen
+**Lesenen** led the team at the **Lappland Observatory**, and was the person in charge of connections between **Control Geneva** and **Lappland Observatory**. Together with his team, they kept an eye on the planet Lúniks soon after its discovery, keeping an eye on its nature, flora and fauna, and its natural features in comparison to Earth, such as the magnetic field and poles and the influence of **Choreos** on it.
+## Petrus (Hendrik Isaiah) Masego
+Originally **South African**, **Masego** had moved to **Geneva** to aid the team there in its research of Lúniks since 1998, quickly rising to become a lead person in the control and development of the various satellites and landers that would fly above or land on Lúniks, and was a communication point between **Geneva** and **Lappland**, being good friends with **Lesenen**.
+## Frank (Daniël) Willemsen
+(filler) description and role are due
+## Stefan (Philip) Rosenqvist
+**Rosenqvist**, originally **Swedish**, was in charge of being the middleman in the talks of the **Allocation of Lúniks**, especially in the **Allocation of Vestia**. 
+## Aélu (Matthew) Akájune
+Where **Panjit** shone in his knowledge of the science in space, **Akájune**'s qualities were in spaceship designs. Originally creating commercial ships that could break through the Earth's atmosphere without needing incredible propulsion, he eventually created the first commercial **Moon Travel ships** in collaboration with **NASA**, and after being redirected to the **ESA** upon discovery of Lúniks, he made **Panjit**'s theories a reality and began the development of the colony ship **One** and the exploration ships that would frequently travel between Earth and Lúniks from 2005 onwards. After the **settlement of Lúniks**, he collaborated with **Panjit** to create ships that could survive millions of travels through the **ELE Corridor**.
+
+# Observatories 
+## Lappland Observatory
+Based in **Northern Finland**, the **Lappland Observatory** manages and researches the planet of **Lúniks** from **Earth**. To reduce the loads on **Geneva**, it took over control of the Hubble space telescope and has since also kept its eyes on the various satellites and landers that found themselves in orbit or on Lúniks itself.
+## Control Lyon (Launchpad Lyon)
+**Control Lyon**, up until 2033, was the primary launchpad for launching all sorts of satellites and ships towards Lúniks, or to receive incoming ships. From 2033 onwards, it served home to the first **ELE Corridor** connection, creating a commercial means of transport between Lyon and Nóve Réjkjavik. 
+## Control Geneva
+From **1978** until **2033**, **Control Geneva** was the heart of research for exoplanetary research, and the eventual development of researching, reaching, and settling Lúniks. Every satellite, lander, and probe that guided Geneva through the discovery and research of Lúniks was developed in-house, and launched from **Control Lyon**. In **2031**, the **ESA** closed its departments in Geneva for Lúniks research and resumed the focus on satellites and space management of Earth, handing over space management of Lúniks to **Hammerhead**.
+## Control Shánzhe (Launchpad Shánzhe)
+Home to **Hammerhead**'s space divisions, **Control Shánzhe** served home to everything Lúniks after the handover from the **ESA**, and immediately ramped up its ambitious plans to have Lúniks reach the same level as Earth in terms of satellite and space control. Next to this, Shánzhe also provided the necessities needed to connect Nóve Réjkjavik and Lyon together through the **ELE Corridor** in **2033**, before connecting itself and its bordering nations a year after in **2034**, marking the beginning of commercial space travel.
+
