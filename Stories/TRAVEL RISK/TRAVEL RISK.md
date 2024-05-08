@@ -24,6 +24,12 @@ Nonetheless, she completes the mission of eliminating a target in close quarters
 ### THREAD THE NEEDLE
 Available at [[THREAD THE NEEDLE - Story]]. \
 The opportunity to guide your nation directly into independence after 5 years of fighting, at the cost of achieving the impossible lineup and shot. For the hitman **Black Bullet**, Nikec Kráminsz, the choice was easy to make. A chance to lose everything, or achieve it all, is now lying in his hands and his finger on the trigger.
+### GHOST 
+Available at [[GHOST - Story]]. \
+With a lifelong reputation as *The Ghost*, what happens when someone of your calibre does manage to see, find, and intercept you? To **Mika**, the answer is to simply flee the situation with the mission complete, but when all doors before him come to a close, the only reason it to leave and escape by unusual and non-standard means.
+### HEAD TO HEAD
+Available at [[HEAD TO HEAD - Story]]. \
+For a first time, **Mika** travels to **Earth** to complete an earlier started Neurokick trade in **Florida, SS**. Arriving at the trade point two hours early, he scours through the abandoned factory as a means to kill time, learning more about what the factory was once purposed for, and about the history of the Southern States long before Palmer-Eden had taken total control, and led to the civil war. Exploring the factory after going through logbooks and documents, he comes face to face with **Gradient**, a member of the Hammerhead division **HEART** on Earth, and the two strike up a conversation.
 ### Drafted Stories 
 Available at [[Drafted Stories]]. \
 These include a series of stories that have been worked out lightly, and haven't found a place within its own respective note just yet, or are awaiting inclusion in an existing story.

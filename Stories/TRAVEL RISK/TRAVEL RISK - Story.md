@@ -33,7 +33,6 @@ The door closes behind the two, and Nils takes a deep breath of fresh air now th
 ## TWO - Into the Unknown 
 ### Drafted
 A story in which Nils Lorieux enters his first mission within the company that Antoine had recommended him. He is set to deliver a bag that is packed to the brim with Lucky Water, amongst other various yet-unspecified drugs. However, he wasn't told about the contents of the bag, and believes he's carrying various forms of equipment for a company called **"Vátnelári"**. Before delivery, he is caught on the way there by two mysterious men dressed in black and is instead brought to **"The Agency"**.
-
 ### Story
 *// POV: Nils* \
 **"I know it's tempting to look inside, but do not. Every delivery man wonders what its recipients ordered, but that's not for them to know."**

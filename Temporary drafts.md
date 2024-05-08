@@ -10,17 +10,6 @@ As more characters came into play with Ghost Temples, the necessity of masks cam
 Because of this, I believe it's fine to keep the masks as they are, but repurpose them into a *vanity project* for the characters themselves. **Luna** preferred to keep their identity hidden from the masses with fears of being spotted, and for **Snow**, it's a means to pursue her dreams of becoming a versatile artist from before she had died. 
 
 For **Temple Guardians**, the masks will remain the same, and will also remain a tradition. The *plain white mask*, which has made an appearance plenty of times, will remain as tradition for **Rebirths**, and Marten will continue to wear his unique *half-mask* that only covers his face below his eyes. With this, I believe that I can lessen the pressure on coming up with specific and forced masks and character details that I don't believe really fit the characters, and might steer the project into a direction that's far too niche and not aligned with what I truly aim for.
-
-## Reaching Lúniks / TRAVEL RISK - Merger with Cisila
-Directly inspired by Evie's [Cisila Siveta](https://github.com/eviedense/CI.SI) storyline. More specific information is available in the hyperlinked repository. \
-Currently being worked out into [[Lúniks Timeline]].
-### Reaching Lúniks (CI.SI: Brain drain, 1995-2035)
-Worked out into [[Collapse of United States]]. Due for removal.
-### Travel Risk (INTERIM: PALMER-EDEN (US) fallout)
-**INTERIM**, in its current state, takes place in 2087, and is a story about the aftermath of a major incident in one of **PALMER-EDEN**'s underground cities. While not being directly linked to **Travel Risk**, it can still pose as an example of what *not* to do when in uncertainty, and can be directly used as an example of what will happen when **Máneá** and **Zakh'háfo** truly spiral out of control and become a dictatorship, too. 
-
-Will *probably* become a story that connects to **Travel Risk**
-
 ## TRAVEL RISK - Nova Character 
 Nova will be recruited into an Agency after having undergone military training and service in Eastern Kérisant, partaking in the **Mharáni unrest**, and is originally from **Strava Mikkë**.
 ### Drafted Story - REFRESH
