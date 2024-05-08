@@ -14,7 +14,6 @@ For **Temple Guardians**, the masks will remain the same, and will also remain a
 ## Reaching Lúniks / TRAVEL RISK - Merger with Cisila
 Directly inspired by Evie's [Cisila Siveta](https://github.com/eviedense/CI.SI) storyline. More specific information is available in the hyperlinked repository. \
 Currently being worked out into [[Lúniks Timeline]].
-
 ### Reaching Lúniks (CI.SI: Brain drain, 1995-2035)
 Worked out into [[Collapse of United States]]. Due for removal.
 ### Travel Risk (INTERIM: PALMER-EDEN (US) fallout)
@@ -25,4 +24,4 @@ Will *probably* become a story that connects to **Travel Risk**
 ## TRAVEL RISK - Nova Character 
 Nova will be recruited into an Agency after having undergone military training and service in Eastern Kérisant, partaking in the **Mharáni unrest**, and is originally from **Strava Mikkë**.
 ### Drafted Story - REFRESH
-A story encompassing Nova's first mission after reaching Zakh'háfo, and her first contact with The Agency and Vátnelári. In this mission, she receives the simple task of deceiving a dealer that ran away from Vátnelári, and is hiding in various bars throughout the days to stay out of sight, and to prevent getting himself killed. Nova enters the bar and tries to get in touch with him, offering a more personal conversation while not ticking him off, and gets in contact with the bartender as well in order to spike his drink with a drug that should be lethal for him during the night. Uses quote **"You're adorable. It's a shame I have to kill you."** On the way out after successfully drugging and thus killing this dealer, she stumbles upon Nils in the exit, and then engage in a small talk.
+A story encompassing Nova's first mission after reaching Zakh'háfo, and her first contact with The Agency and Vátnelári. In this mission, she receives the simple task of deceiving a dealer that ran away from Vátnelári, and is hiding in various bars throughout the days to stay out of sight, and to prevent getting himself killed. Nova enters the bar and tries to get in touch with him, offering a more personal conversation while not ticking him off, and gets in contact with the bartender as well in order to spike his drink with a drug that should be lethal for him during the night. Uses quote **"You're adorable. It's a shame I have to kill you."** On the way out after successfully drugging and thus killing this dealer, she stumbles upon Nils in the exit, and then engage in a small talk that leads to Nova defecting to **The Agency**.

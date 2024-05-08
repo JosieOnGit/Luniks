@@ -82,7 +82,7 @@ Getting along well with Omáti, the two go onto their first mission together in 
 
 ## SIX - Familiar Foe 
 ### Drafted
-In his next mission, **Nils** is sent to receive a handover from **Dáritke** under supervision of Raléi and a representative from Dáritke. To Nils's surprise, the handover from Dáritke is brought out by Kasper and Antoine, which creates a troublesome situation. All ends well, and both parties decide to keep their mouth shut regarding this new information. Kasper too, keeps his mouth shut about Nils's defection to **The Agency**, which means **Mitch** does not learn about this, leading up to **RUDE REUNION**.
+In his next mission, **Nils** is sent to receive a handover from **Dáritke** under supervision of Raléi and a representative from Dáritke. To Nils's surprise, the handover from Dáritke is brought out by Kasper and Antoine, which creates a troublesome situation. Especially now that Nils learned that Dáritke isn't the best agency to work under, with its agents being frequently exploited, he also came to learn that Antoine wasn't the best person in the world as a result, and their friendship and partnership was merely a fluke. Despite this, all ends well, and both parties decide to keep their mouth shut regarding this new information. Kasper too, keeps his mouth shut about Nils's defection to **The Agency**, which means **Mitch** does not learn about this, leading up to **RUDE REUNION**.
 
 
 ## ??? - RUDE REUNION
