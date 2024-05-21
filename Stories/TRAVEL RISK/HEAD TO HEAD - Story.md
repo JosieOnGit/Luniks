@@ -1,11 +1,11 @@
 # HEAD TO HEAD - Story
-**2075**. Long after the **United States** collapsed, and PALMER-EDEN had taken over. Ever since, the States had rearranged, had been divided and reunited countless times, before reaching the point where they are in the current year. PALMER-EDEN had scaled down to just the nation of Illinois, most of the north and northeast was now part of Canada, and the states that revolted against the reign of PALMER-EDEN were met with obliteration, until the formation of the Southern States. While still recovering from the loss of life and property, the state of **Florida** seemed to have recovered like nothing happened, with **Cape Canaveral** now serving home to connections on Earth, and connections to Lúniks. And for Dáritke, this opens a door for grey market trades.
+The year is **2075**. Long after the **United States** collapsed, and PALMER-EDEN had taken over. Ever since, the States had rearranged, had been divided and reunited countless times, before reaching the point where they are in the current year. PALMER-EDEN had scaled down to just the nation of Illinois, most of the north and northeast was now part of Canada, and the states that revolted against the reign of PALMER-EDEN were met with obliteration, until the formation of the Southern States. While still recovering from the loss of life and property, the state of **Florida** seemed to have recovered like nothing happened, with **Cape Canaveral** now serving home to connections on Earth, and connections to Lúniks. And for Dáritke, this opens a door for grey market trades.
 
 ## HEAD TO HEAD - Story
 ### Drafted
 **Mika**, on his most recent mission for **Dáritke**, is sent to **Florida, SS** to close a trade for Neurokicks that they had acquired a few weeks prior. Tagging along with the **ELE**, he enters a flight to **Cape Canaveral** and is thereafter planned to go to **Miami** to meet the representative in an older, abandoned factory dating back many decades before. Once there, he is instead met with closed doors, and with the age of the factory, has to force himself inside by other means that are not digital, but doing so successfully while waiting for a signal from the representative, he begins a little exploration mission of his own to learn more about the factory, its place in the outskirts of **Miami**, and learns more about the destruction that **PALMER-EDEN** had caused on not just **Florida**, but every State on the Atlantic Coast.
 
-At the same time, **Gradient** (See: [[Temporary drafts#Reaching Lúniks / TRAVEL RISK - Merger with Cisila]]) is on a mission here with **Hammerhead**, although alone in the factory. The two pick up one another's sounds, and begin to track each other down, before suddenly finding themselves looking down the barrel of each other's pistols.
+At the same time, **Gradient** is on a mission here with **Hammerhead**, although alone in the factory. The two pick up one another's sounds, and begin to track each other down, before suddenly finding themselves looking down the barrel of each other's pistols.
 
 ### In with the old
 *"Travellers to: Florida, Southern States. Departure in ten minutes."*
@@ -25,7 +25,7 @@ The train station was surprisingly crowded. Mika had heard numerous stories abou
 
 Stretching his arms, Mika reaches the factory a little over 10 minutes later, and promptly walked to the backdoor where he was tasked to break into. Already lifting his left wrist, he realises that there's no automated safety system to be found, rendering his wrist rabbit virtually useless. **"That's great."** He scoffs sarcastically, tapping his right shoulder gently as blue liquid begins to flow through his arm. **"Oldschool buildings, oldschool break-in."** He didn't have a classic pistol on hand that could break the lock in one shot, of course, having gone through interstellar travel. But in his backpack, he did have a lockpick set that he carried in case his wrist rabbit would fail him in "the worst case". Even with his wrist rabbit functional, he couldn't use it to break into the factory, so taking a pin from the set, he carefully inserts it into the lock, hearing a series of *clicks* as he forced it into the lock, twisting it along the way. Finicking with the lock, it suddenly unlocks, pushing the door forward and catches Mika off guard as he almost trips forward into the dusty, abandoned factory. 
 
-Carefully and quietly closing the door behind him, he takes a moment to adjust to the darkness of the factory. Despite the roof having broken open in a few spots, it wasn't nearly enough to light up all the corners of the enormous factory. Looking at the various heavy machinery, automated processes that had been abandoned, he checks his watch. **Two hours early. Could take a peek around.** He mumbles to himself, deciding to go right to the old main floor office, eager to discover what the factory was once used for before it was abandoned. 
+Carefully and quietly closing the door behind him, he takes a moment to adjust to the darkness of the factory. Despite the roof having broken open in a few spots, it wasn't nearly enough to light up all the corners of the enormous factory. Looking at the various heavy machinery, automated processes that had been abandoned, he checks his watch. **"Two hours early. Could take a peek around."** He mumbles to himself, deciding to go right to the old main floor office, eager to discover what the factory was once used for before it was abandoned. 
 
 To his surprise, the door to the office wasn't locked, and carefully twisting the knob, he entered inside. The windows were originally meant for those in the office to keep an eye at the main floor at all times, and he could see various red buttons to immediately halt the machines in case of an emergency, but after being closed off for so long, the glass had turned opaque from the dust, and the colours of the furniture had lost their colours too, being coated in a generous layer of dust. On various signs and documents, he could frequently see the same names being passed along. **"United States"**, and the flag of the Southern States, with many more stars. It didn't make too much sense to Mika, but now having discovered this, he wasn't going to stop here, he wanted to learn much more.
 
@@ -34,7 +34,7 @@ Tapping his left shoulder, a shiver went through his body, and he activated his 
 *"LOG_ENTRY 467534. DATE: 230835* \
 *TYPE: DISTRESS. BLACKBOX.* \
 *Office 1 (Main floor Main) has initiated an emergency evacuation.* \
-*Given reason: Air raid sirens have been activated. Incoming air attack. Rockets of Illinoisan origin. Presumed launched by Palmer-Eden.* \
+*Given reason: Air raid sirens have been activated. Incoming air attack. Rockets of Illinoisan origin. Presumed to be launched by Palmer-Eden.* \
 *Lockdown initiated. Machines halted. Evacuation protocol initiated.* \
 *LOG_EXIT. If you are reading this, may the States be free once more."*
 
@@ -58,6 +58,3 @@ Gradient crossed her cybernetic arms as Mika walked towards his pistol to retrie
 Deflated, and clearly disappointed with Mika's answer, she instead turns to face away and made her way to the main floor office.
 
 **"Palmer-Eden, you said?"** Mika suddenly interrupted her as she twisted the knob of the door. **"I'm intrigued. Tell me more, I have time to kill."**
-
-
-

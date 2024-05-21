@@ -12,3 +12,17 @@ Its national language is **Ellitróómisi**, a fairly underdeveloped and regiona
 ## Senttrikáá
 
 ## Sáttijáárva
+
+## Súúnit
+
+## Simppasetterva
+
+## Júúa
+
+## Allanpernááu sol Láávitlan 
+"sol Láávitlan" means "at the Láávitlan", where the **Láávitlan** is the central lake in Ellitróómi.
+## Namšááni
+
+## Stráva Uláántive
+
+## Stráva Kóónše

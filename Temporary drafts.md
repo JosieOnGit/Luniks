@@ -1,4 +1,4 @@
-# Temporary drafts 
+# Temporary drafts
 This file solely exists to prevent merge conflicts from happening in [[Story Drafts]], or any of the applicable stories that the drafts take place in. Additionally, this file is used as a draft board for topics or parts I want to develop later on in the story, and may give a tease as to what's to come next.
 
 ## Leremkov - PENDULUM
@@ -14,3 +14,5 @@ For **Temple Guardians**, the masks will remain the same, and will also remain a
 Nova will be recruited into an Agency after having undergone military training and service in Eastern Kérisant, partaking in the **Mharáni unrest**, and is originally from **Strava Mikkë**.
 ### Drafted Story - REFRESH
 A story encompassing Nova's first mission after reaching Zakh'háfo, and her first contact with The Agency and Vátnelári. In this mission, she receives the simple task of deceiving a dealer that ran away from Vátnelári, and is hiding in various bars throughout the days to stay out of sight, and to prevent getting himself killed. Nova enters the bar and tries to get in touch with him, offering a more personal conversation while not ticking him off, and gets in contact with the bartender as well in order to spike his drink with a drug that should be lethal for him during the night. Uses quote **"You're adorable. It's a shame I have to kill you."** On the way out after successfully drugging and thus killing this dealer, she stumbles upon Nils in the exit, and then engage in a small talk that leads to Nova defecting to **The Agency**.
+
+## TRAVEL RISK - Álef After Sundown

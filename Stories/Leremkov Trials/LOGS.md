@@ -14,7 +14,7 @@ Hey, Emilia, this isn't easy for me to write, especially now that you can't repl
 
 It's been a week already since we lowered you down there into the ground, in your beautifully decorated coffin that your kindergarten class had helped you paint. I hope wherever you might be now, that you're long gone from the horrible amount of suffering you endured, that you can live on in pure peace and without pain. 
 
-It's still tough to write this, Emilia, the tears are already rolling down my cheeks as I write this, I feel like I've hit a dead end, that I don't know where to go next, but just like you had a wish to be buried next you your parents in the garden of Égézeha, you wished for me to live onwards and carefree, and that you never wanted anyone else to suffer the way you did before your last breath.
+It's still tough to write this, Emilia, the tears are already rolling down my cheeks as I write this, I feel like I've hit a dead end, that I don't know where to go next, but just like you had a wish to be buried next you your parents in the garden of Égézëha, you wished for me to live onwards and carefree, and that you never wanted anyone else to suffer the way you did before your last breath.
 
 That brings me to what I wanted to let you know, Emilia. I'd brought you a bouquet of flowers like I promised I would every Friday after your death, before I was tapped on the shoulder by a man I didn't know. He introduced himself to me as Leo Hartleigh, saying that he too felt sorry for the loss of your beautiful life. But not just that, he offered me a job, and not just any job. He handed me a postcard with an address, which he claimed belonged to "A private research organisation". 
 

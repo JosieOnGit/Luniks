@@ -32,6 +32,7 @@ After having fled from the imminent collapse of the **United States**, and preve
 In late **1999**, after the continents of Lúniks received their name, the first borders were drawn on the continent of **Ubunia**, where the first Starship, **One**, is set to land in just a few years away. Only a few nations were drawn on the map at this stage, especially research still working overtime to determine whether it was possible to have **One** survive a jump through the **Panjit Loop** at all, but as a start, it was better than nothing.
 
 ## 2000 - Lappland discovers life on Lúniks
+After keeping an eye on **Ubunia** for a number of years, lander **ELL-1** is sent to land near the plains of Kastávje. Monitored by the **Lappland Observatory**, it discovers life just a mere few minutes after landing near a forest, hearing the echoes of what is presumed to *deer* and the chirps of what is presumed to be from a type of *bird*. 
 
 ## 2001 - Vestian allocation is drafted, US closes borders
 With the borders on Ubunia nearing completion, the next continent to be drafted and allocated was **Vestia**. With many nations from Earth carrying over to Lúniks for a better shot at a proper livelihood for its citizens, nations like **Taiwan**, **Denmark**, **Greece** and the **Benelux**, were given locations on the Vestia that they could settle, thus drawing and forming the borders accordingly.
@@ -39,17 +40,24 @@ With the borders on Ubunia nearing completion, the next continent to be drafted 
 On the other side of the globe, **PALMER-EDEN**, now in control of the vast majority of the US, closes the borders, preventing any citizen and organisation from entering and leaving the country until further notice. 
 
 ## 2004 - Deónian forests discovered
+Observed by the **Lappland Observatory** is **OTL-4**, which has been keeping its eyes and sensors on the continents of **Skádia** and **Deónia** since its activation upon reaching Lúniks. In **2004**, it discovers a nature reserve that is believed to be extremely vital to the health of the planet, and while the allocation of **Skádia** was undergoing planning, the **Lappland Observatory** requested an immediate halt, in order to prevent the reserve from getting damaged, or outright destroyed.
 
 ## 2005 - Exploration mission, **One** lands on Lúniks
+In early **2005**, an exploration mission is sent to Lúniks for humanity's first steps on an exoplanet, carrying a research team and the discoverer of the planet, *Jonathán Thórirsonn*. They successfully set the first steps through two flights through the **Panjit Loop**, and prove that it is indeed possible to settle another planet, and that Lúniks is the perfect planet for humanity to settle. 
+
+On **September 15th, 2005**, the first settlement ship **One** lands on Lúniks, completing the decade-long mission to settle another planet. But where one mission ends, the next one begins.
 
 ## 2006 - Ubunian allocation begins
+On **January 1st, 2006**, not too long after the first settlement ship had landed on Lúniks and the nation of Thórirsant began development, the rest of **Ubunia** began allocation, and **Two** was set to carry over many more future inhabitants of the new planet. The borders had been drawn many years before, and were now beginning to be enforced as the new nations sprung up and bloomed to life.
 
 ## 2009 - Vestian allocation begins
+After the **Ubinian Allocation** had been completed in late **2008**, **Vestia** was due next. Now familiar with the process of allocating a continent, it took merely a year to fully allocate Vestia, and with the refurbishment of **Two**, more and more frequent flights happened between **Shánzhe** and **Lyon**, granting more opportunities for the blooming continent to grow even more rapidly than before.
 
 ## 2025 - Alkéisa's Ring begins development
 With unlimited help in construction from **Hammerhead**, **Matéus Alkéisa** completes his thesis on how to build a planetary ring to protect and aid Lúniks where needed. Now that local space travel has been made easily accessible, **Hammerhead** begins its own research on how to approach the absurd amount of materials required to build a ring that surrounds the entire planet. Deciding on using the lifeless planet of *Choreos-RP-3* to mine the required materials, work quickly begins to accomplish this immense feat of engineering.
 
 ## 2031 - ESA hands over space management to Hammerhead
+Refer to: [[E-Mails#14-07-31 - ESA hands over space management to Hammerhead]]
 
 ## 2033 - ELE Corridor opens, connecting the planets
 In **2033**, the first connection between Earth and Lúniks officially opened, connecting the blooming cities of Lyon and Nóve Réjkjavik with each other. Over the next few months, it would also connect Lyon to Shánzhe and Kérisant-Civem. In the next few years, more and more connections would bloom up throughout nations in Europe and Asia, making travelling between Lúniks and Earth increasingly accessible as time went on.
@@ -62,17 +70,11 @@ Follows up **US unrest after PALMER-EDEN** and **Secession of Illinois**. A more
 ## 2039 - United Máneá collapses
 Follows up **Zakh'háfon independence movement** and **Nikec Kráminsz murders**. A more concrete timeline and more information will be available at [[Collapse of United Máneá]].
 
+## 2062 - PALMER-EDEN attempts expansion
 
+## 2071 - Choreos-RP-3 begins settlement concepts
+The century-long journey and mission of settling an exoplanet never really reached an end. While **Lúniks**, **Choreos-RP-4**, originally was the main mission goal to reach and settle, the journey didn't end there. In **2071**, long after the first spaceships had landed on Lúniks, **Hammerhead Shánzhe** set its eyes to Lúniks's sister planet, **Choreos-RP-3**, which had originally been mined and excavated in order to build **Alkéisa's Ring**. After further research, the Hammerhead team learned that despite the intensive mining having taken place, it still seemed in prime condition to support life, and now that Lúniks had been settled successfully and is thriving, the next chapter seems to draw closer.
 
-### 1994 
-Prior to accelerated development in acquiring knowledge about space, planet, starts, and galaxies, the hunt for intergalactic settlement begins, not long after colonialism ends on Earth. One thing remains certain: Whereas there were many conflicts on Earth in the previous centuries regarding colonies, settling an exoplanet would be a feat as one body, going beyond nationality, race, and religion.
-
-In 1994, exoplanet Lúniks is discovered within the Messier 45-system, which had been discovered a year prior. 
-
-### 2005
-After years of development written above, the first series of freight ships depart to Luniks. Mostly carrying basic materials and tools to make Luniks self-sufficient from the very start, these ships should be the foundation of Luniks. 
-
-Arriving on **September 15th, 2005**, is the first massive freight ship, escorted by various smaller space jets which were built for protection of the capital ship. Boarded are about a thousand citizens from Earth, who all chose to aid Luniks in its first years, and Jonathán Thórirsson, the person that will be the first to set foot on Luniks. 
 
 
 ### First wave of the Luniksan revolution (2005-2016)
