@@ -16,3 +16,21 @@ Nova will be recruited into an Agency after having undergone military training a
 A story encompassing Nova's first mission after reaching Zakh'háfo, and her first contact with The Agency and Vátnelári. In this mission, she receives the simple task of deceiving a dealer that ran away from Vátnelári, and is hiding in various bars throughout the days to stay out of sight, and to prevent getting himself killed. Nova enters the bar and tries to get in touch with him, offering a more personal conversation while not ticking him off, and gets in contact with the bartender as well in order to spike his drink with a drug that should be lethal for him during the night. Uses quote **"You're adorable. It's a shame I have to kill you."** On the way out after successfully drugging and thus killing this dealer, she stumbles upon Nils in the exit, and then engage in a small talk that leads to Nova defecting to **The Agency**.
 
 ## TRAVEL RISK - Álef After Sundown
+The deals come out at night, hidden in the alleys of **Álef**. Its automated transport system makes frequent travel between trading hotspots a breeze, and **Maria** knows this by heart. 
+
+## TRAVEL RISK - What Remains 
+Straying away from the primary focus on Lúniks, **What Remains** should focus on where **INTERIM** takes place as well. Chronologically, this story, or collection of stories, should take place around the same time as [[HEAD TO HEAD - Story]], while not laying further focus on either **Mika** or **Gradient** specifically. 
+
+After the *Attempted Territorial Expansion* of **Illinois** in **2062**, **Martin Palmer** goes into hiding and continues his progress on the **Ultima** project. In that same time, **Hammerhead** and **Southern States** spies make their way into Illinois, and uncover the secrets that Palmer had left behind.
+### Draft
+In **2062**, after almost three decades of quietness in **Illinois**, the ruling government controlled by **PALMER-EDEN** attempts to annex the states of **Iowa** and **Minnesota**, which had been in the region of the **Uncontrolled States**. This attack was retaliated by support from **Canada** and the **Southern States**, and as a result, Illinois collapsed and closed its borders from the public.
+
+After the closure of its borders, Illinois stayed quiet while **Martin Palmer**, the CEO of **PALMER-EDEN**, now laid his eyes purely on his **Ultima** project.
+### Of What Remains - Story
+Story taking place in late 2075, laying the focus on the disparity between the now-flourishing **Southern States** and the closed-off nation of **Illinois** after its collapse from the attempted expansion and annexation of Minnesota and Iowa. 
+### What Once Was
+Story focusing on **Illinois** in late 2075, and the development and struggles that now grow more broadly within her borders during the increased development of **Ultima** and the **Palmer-Eden Tower**.
+### NO FURTHER
+Story that lays its eyes on the *Attempted Annexation* of Minnesota and Iowa in **2062**, which was immediately retaliated by **Canada** and the **Southern States**, who then immediately afterwards kept tight border control in order to prevent another attempt at expansion from happening. This story will focus on the development of this attempted expansion, its immediate shutdown, and the followup after.
+
+**Context**: While the **Northeastern States** joined **Canada** upon the [[Collapse of United States]], and **Illinois** formed as well as the **Southern States**, every other coastal state was quick to join another alliance to keep itself from crumbling even further into despair. However, for the more central US states, no such thing was possible, and the states in question were quick to bleed out and enter a freefall in their population, all while **PALMER-EDEN** continued to attempt to regain its original borders. In the end, the central states remained what they were, independent states without a proper government, that was held together by a mere few strings. In **2062**, PALMER-EDEN's Illinois realised this, and in the two years prior, it had planned an all-out assault in order to overwhelm and annex the poorly-governed states to its west, **Minnesota** and **Illinois**. 
