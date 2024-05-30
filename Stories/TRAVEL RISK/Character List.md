@@ -46,7 +46,7 @@ Belonged to **Vátnelári** (Middleman). **Died in 2075** (Killed by Kasper in a
 ## Kasper Baird
 Belongs to **Dáritke** (Manager). 
 ## Mitch O'Well
-Belongs to **Dáritke** (Manager (Under owner). 
+Belongs to **Dáritke** (Manager (Under owner)). 
 ## Omáti Honofátis
 Belongs to **The Agency** (Middleman, manager).
 

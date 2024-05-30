@@ -38,33 +38,38 @@ Fighting through my wounds, I fired five more shots through the smoke that had f
 *"Mika! Great to hear you! How's th-"* \
 **"No time, Vikram. Neurokicks acquired, shots fired, find me an escape."** \
 Clearing his throat, Vikram takes a second to collect his thoughts and get a glimpse of the situation, immediately adjusting to the sudden change of pace. \
-*"Álef metro. Enter at Ald Nódori. Exit at Egórece. We'll await you there. Departs every 5."*
-**"Egórece? Are you insane?"** \
+*"Álef metro. Enter at Ald Nódori. Exit at Egórecë. We'll await you there. Departs every 5."*
+**"Egórecë? Are you insane?"** \
 *"Listen, Mika. Do you want to live, or do you want to die on the way out? I don't care that you cross through Kristánisin, The Agency won't have interest in you anyway. Just go, next in 4."* \
 I shook my head, taking a deep breath upon reaching the ground floor while the sirens in the building became louder with every second. \
-**"Copy. Locking down and extracting. See you in Egórece."**
+**"Copy. Locking down and extracting. See you in Egórecë."**
 
 ### Code 5
 *// POV: Mika* \
-*// Metro da Máneá, Egórece*
+*// Metro da Máneá, Egórecë*
 
-*Nest halt: Egórece. Sette Metro fortsettést di: Egórece-Júgul, Osselev, i Bwiskvá.* \
+*Nest halt: Egórecë. Sette Metro fortsettést di: Egórecë-Júgul, Osselev, i Bwiskvá.* \
 With stress refusing to leave my body, I nervously pressed the marked *"HALT"* button on one of the pillars in the metro. Ever since transferring at Álef, I felt like I was continuously being watched, and the adrenaline that my neurotech continued to produce and pump into my veins didn't help in the slightest either. Vikram had told me that passing through Kristánisin wouldn't be a problem, but even so, I couldn't help but worry that The Agency would still attempt to capture me, whatever their motive might be. \
 Finally, the metro came to a halt at the once beautifully decorated metro station of Egórece, which had deteriorated even further in the past couple of years. The upkeep of the stations was terrible, the only stations that didn't look like a mess were those of the capitals and airports, and Egórece wasn't either of those. With a deep sigh, I put my scarf back over my mouth, the yellow stripes making their appearance again. While the markings helped me to stand out for Vikram to easily spot me, it also make me an easy target for any other agency that had put money on me to collect their bounty in a mere second.
 
 With my heart pounding in my chest and adrenaline surging through my veins, I held the straps of my backpack with the Neurokicks tightly, making sure I wouldn't be able to lose it. Looking around frantically for any threats or suspicious people, I feel a slight tingle go through my legs, as if my neurotech sensed a threat in the distance and prepared my body to flee. But even then, I made my way up to the stairs as calmly as I could while the quiet whine of the metro departing veers off into the tunnel at the end of the station. The feeling of being watched refused to exit my mind, and I started to look around the station even more nervously as the feeling that I was being watched and hunted increased tenfold. 
 
 Tapping my earpiece, I contacted Vikram, updating him on my whereabouts and where the extraction would be. \
-*"Mika! I take it you're in Egórece?"* \
+*"Mika! I take it you're in Egórecë?"* \
 I nodded, whispering back quietly while walking through the hallways of the metro station, doing my best to not stand out: **"I have, making my way to the exit now, feeling like I'm being watched. Can you confirm?"** \
-*"Cannot right now, Mika."* Vikram replied almost immediately. *"I'm afraid we have uninvited guests over at Egórece too, so details are limited."* \
+*"Cannot right now, Mika."* Vikram replied almost immediately. *"I'm afraid we have uninvited guests over at Egórecë too, so details are limited."* \
 **"Understood, code 5?"** \
 *"Correct! Take to the skies, as they say!"* Vikram replied, immediately breaking the connection right after as I made my way towards the exit. "Take to the skies" was what Dáritke understood as "Code 5", which was one of the emergency escapes they had established when Dáritke was first approached by the police many years ago. The goal was simple on paper: Reach the top of Hád Bésim Tower, and a helicopter will pick you up there. In practice, it's not as easy as it sounds. Hád Bésim is a tower with 70 floors, and even for a runner like me, that takes an extreme toll on you. And to make matters worse, it's also heavily guarded by police. 
 
 I shook my head, taking the stairs to exit the Metro station, and immediately looked to the sky to see Hád Bésim tower above me. I sighed deeply, fastening my backpack extra tightly as I made my way towards the tower, forming my plan to enter and reach the top once more.
 
-### Drafted Story: Take to the skies
+### Drafted Story: Take To The Skies
 *// POV: Mika* \
-*// Hád Bésim Tower, Egórece*
+*// Hád Bésim Tower, Egórecë*
 
 **Drafted**: Attempting a similar entry and climb that he took in the Ódóni tower, Mika makes his way through the floors of the Hád Bésim tower, but with much more drawbacks and confrontations. The police is present on every floor, guarding almost every angle. With this in mind, Mika considers climbing the tower from the outside, but ends up sneaking into a broken elevator shaft instead, doing all he can to avoid the police, and getting caught.
+
+### Drafted
+Tapping my left shoulder, I felt a surge of adrenaline go through my veins. Closely inspecting the flow of blue liquid rushing through my arm, it shined brightly in the darkening sky. It was almost 9pm, the sun was beginning to set and the natural light was beginning to drop. With another tap, the glow of the liquid dimmed, and vanished altogether, and my cloak activated. **"Out of sight.."** I whispered to myself, carefully stepping towards the back of the tower, and finding another locked door near the garbage disposal. Just like the Ódóni tower, surveillance here was low, but I couldn't take any further risks. I had already gone through Kristánisin, took the public metro, and yet, Vikram said that I was actively being watched, so I couldn't risk being seen by anyone, anywhere.
+
+Inspecting the terminal on the lock next to the locked garbage door, I raised my wrist, the orange glow already appearing as the rabbit recognised a lock mechanism. With a dimmed flash, the terminal's screen disabled for a moment, and the door opened by itself. **"Easy enough."** I scoffed to myself, looking around me once more to check for any cameras that I might have missed, but luckily, I made my way through just fine. But quietly closing the door behind me, the next set of issues became clear to me. My eyes locked onto a camera feed that hung above the door I had just closed, which cycled between the various camera feeds throughout the tower. One thing seemed to repeat itself no matter the camera: The walls were dressed in white and gold, and police was present everywhere. I sighed deeply, my cloak was beginning to expire already, and needed a recharge somewhere safe. Without much further thought, I tucked myself behind a bookshelf, and took a deep breath. The walls were fairly thin, and I could easily hear people walking past. Some were talking about everyday topics, about business, but others were definitely talking about the elevated police presence here right now. I let out another deep breath, disabling the cloak, and letting it recharge for a moment while coming up with a way to reach the top of the tower.

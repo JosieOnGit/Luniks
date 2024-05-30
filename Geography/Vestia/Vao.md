@@ -10,11 +10,8 @@ With a beautiful blend of classical Vaon architecture and modern, sharp styles, 
 ## Sevennur
 Located on the border of Álusken, much of the local Álusken culture remains dominant in this city.
 ## Seáo
-
 ## Ovééu
-
 ## Mivasz
-
 ## Vao Donnore
 Named after the **Dragon of Vao**, who is recognised as a white dragon, accentuated by generous streaks of blue and yellow. The **Flag of Vao** is directly inspired by her colours, and is also the namesake of the nation.
 ## Sui Donnore

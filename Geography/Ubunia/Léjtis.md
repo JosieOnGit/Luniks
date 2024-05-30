@@ -5,3 +5,4 @@ Similarly to the island off the east coast of Vestia, Léjtis remained uninhabit
 ## Pórtvéj (Capital)
 What once started as a simple settlement on the island, quickly became a thriving harbour for anything the island and bay could offer. Within a few years, the town of Pórtvéj grew out to encompass almost a third of the island, becoming a hub for fishery, naval transport, and everything inbetween.
 ## Jíriskod
+Located on the eastern island, **Jíriskod** is the second biggest city in Léjtis.

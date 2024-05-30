@@ -66,13 +66,17 @@ In **2033**, the first connection between Earth and Lúniks officially opened, c
 Follows up **US unrest after PALMER-EDEN** and **Secession of Illinois**. A more concrete timeline and more information will be available at [[Collapse of United States]].
 
 ## 2037 - Alkéisa's Ring is activated
+More info will be written down in [[Alkéisa's Ring, 2037]].
 
 ## 2039 - United Máneá collapses
 Follows up **Zakh'háfon independence movement** and **Nikec Kráminsz murders**. A more concrete timeline and more information will be available at [[Collapse of United Máneá]].
 
 ## 2062 - PALMER-EDEN attempts expansion
+In **2062**, long after the **Illinoisan lockdown** and the foundation of the **Southern States** and **Unified California**, PALMER-EDEN attempts to increase its strength and grip on America once more, and attempts to annex the states of **Minnesota** and **Iowa** by force. Despite the surprise of the attack, it was quickly retaliated by support from **Canada** and the **Southern States**, and later in the same year, Illinois locks down its borders once more. With the borders closed, the propaganda begins to spread once more, and the focus for PALMER-EDEN now shifts to giving its remaining citizens the best life they could possibly have, without the threats from the outside world. 
 
-## 2071 - Choreos-RP-3 begins settlement concepts
+Later this year, the **Illinois Tower** opens, serving home to the majority of the citizens of Chicago, now that plenty of the city had been destroyed in retaliation from the attempted expansion. But not only did the skyscraper serve home above ground, it also was the foundation for an enormous underground city, one that would be able to supply itself for millennia to come, in case the worst was to happen.
+
+## 2071 - Choreos-RP-3 begins settlement projects
 The century-long journey and mission of settling an exoplanet never really reached an end. While **Lúniks**, **Choreos-RP-4**, originally was the main mission goal to reach and settle, the journey didn't end there. In **2071**, long after the first spaceships had landed on Lúniks, **Hammerhead Shánzhe** set its eyes to Lúniks's sister planet, **Choreos-RP-3**, which had originally been mined and excavated in order to build **Alkéisa's Ring**. After further research, the Hammerhead team learned that despite the intensive mining having taken place, it still seemed in prime condition to support life, and now that Lúniks had been settled successfully and is thriving, the next chapter seems to draw closer.
 
 

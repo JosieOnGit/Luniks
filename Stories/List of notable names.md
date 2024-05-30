@@ -74,11 +74,16 @@ After the **2031** handover, in **2035**, Hammerhead laid their eyes on producin
 - **HR62** (**Heavy Rifle Class 62**): 
 - **SR43** (**Standard Rifle Class 43**): When you need a rifle that does exactly what you require it to do, the SR43 fits all of your needs, even if they frequently change. Supporting a wide variety of cartridges and extensions, the versatile SR43 has your back, wherever your mission may take you.
 - **SP14** (**Standard Pistol Class 14**): (Iterated Five-seveN).
+- **SP9** (**Standard Pistol Class 9**) (*"Niner"*): Money shouldn't keep you from defending yourself in dire situations. With that in mind, we developed your favourite sidearm, the **SP9 "Niner"**. 
 - **MPC5** (**Micro Pistol Class 5**): Don't let its size fool you. At the size of a hand, the MPC5 still delivers significant firepower.
 - **PZ25** (**Pulse Class 25**): Your new best friend. Developed and iterated internally at Hammerhead for over 10 years, the PZ25 is the incredible result of endless hard work to bring you pulse weaponry in a compact, accessible form factor.
 - **PZ55** (**Pulse Class 55**): (Visual reference: Apex Nemesis Rifle).
 - **EPZ60** (***Experimental* Pulse Class 60**): A modern camera has a two-stop press before taking a photo, with the first stop press bringing the subject in focus. Why not utilise such a mechanic in a rifle? The **PZ60** can fire like a normal rifle, but doubles as a marksman rifle, and holding the trigger on its first stop will charge up a shot that is fired when the trigger is fully pulled.
 - **EPZ90** (***Experimental* Pulse Class 90**): (Railgun prototype).
+### Back to Earth
+In **2052**, Hammerhead made its return to Earth, with the intention to kickstart the same snowball in technological development it had achieved during the settlement of Lúniks. But where development slowed down after the **ESA Handover** in **2031**, it couldn't reach the same level of development upon re-entering Earth. Choosing to reallocate its resources, it engaged a new partnership with the **ESA** and the Pacific development team, to discuss what would be possible on continents such as Africa, or South-America, and where more opportunities could arise.
+
+In **2058**, Hammerhead would make a controversial appearance in the **Southern States**, coming to an agreement with the **Miami Establishment** to aid the Southern States, and its neighbouring nations of California and Central America. With this aid package, Hammerhead would continue to develop ELE connections throughout the Americas, connecting more cities and states with the rest of the world, and with Lúniks. But additionally, it would aid the Americas in military, forming notable teams such as **HEART** (*Hammerhead Extract And Rescue Team*), and **HIT** (*Hammerhead Illinois Taskforce*).
 
 ## Carbine
 Next to offering a varied catalogue of weapons, **Carbine** is on the hunt to reach the same level of market share that **Hammerhead** currently has. Jealous of their achievements, Carbine entered the experimental weapon department, in hopes to create a new image for themselves where they failed trying to chase after Hammerhead. 

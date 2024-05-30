@@ -197,7 +197,7 @@ I have forwarded your request internally within Geneva, and we have come to an a
 We hope to have satisfied you with this answer. \
 Alexis Lesenen, on behalf of the European Space Agency (ESA)
 
-### 23-02-09 - Vestia allocation begins, ELL-9 lands on Deónia
+### 23-02-09 - Vestian allocation begins, ELL-9 lands on Deónia
 **To**: internal@esa.eu, lesenenaa@fsa.fi \
 **Sender**: masegophi@esa.eu \
 **Subject**: Vestian allocation and ELL-9
