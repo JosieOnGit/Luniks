@@ -19,3 +19,9 @@ Founded soon after the settlement that landed on Luniks, Ljívk is a city focuse
 ## Meskitái
 To reduce the extreme load on Sórskist as the nation of Thórirsant continued to grow exponentially, a new harbour was built on the coastal city of Meskitái, intended to divert the stream of ships away from Sórskist and reduce its stress. 
 ## Kasztávje
+
+## Jóthul 
+
+## Jóukmandar 
+
+## Jánhul

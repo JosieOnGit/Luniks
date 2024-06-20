@@ -40,6 +40,16 @@ Rough visual reference: **Pozëmka** from **Arknights**.
 While still adjusting to her new silhouette, her visit to Cévok and connection to Dominico greatly helped her imminent deafness with the addition of characteristics of an *Arctic Fox*, accentuating her natural white/blonde hair colour. Being left handed, her neurotech is exclusively installed on her left arm and eyes, which glow a bright blue when in use. 
 ### Backstory
 Nova's backstory and the course of her life, is available at [[Backstories#Nova]].
+## Maria Limáida
+*"Of course the public is cruel. They know no better standards, they haven't had that opportunity to."*  
+  
+Despite not being a strong or well-built person, Maria's strength lay in her extensive knowledge about combat, trading, and everything that has ever entered and exited the borders of Zakh'háfo. Originally from a small village near **Jóukmandar** in southern Thórirsant, she studied in Kristensend in Rhódisz, and eventually began her work in the capital of Zakh'háfo, Ákros. Starting as a junior security officer for the remaining company that kept its eyes on the **Álef Metro**, she was one of the first people to pick out the usual trade routes and meeting points that took place or passed through the various metro stations. From security officer, she gradually became a spy, picking up many stories, many names, and many routes, and supervised herself to dip her toes into the seemingly infinite spider web of illegal trade within Zakh'háfo.  
+  
+Even without Neurotech, "fear" wasn't a word in her dictionary. The knowledge she had acquired while spying on the various trade routes was enough for her to meddle in perfectly. "Dáritke", "Vátnelári", and "The Agency" weren't mysterious names to her anymore. Despite never having set a step inside any of the agencies, she knew them from inside out, and was only keen on learning more. Trades were happening, plenty of money was being laundered, and plenty of deaths were happening, too. She had no motive, no stance, but her interest kept peaking higher and higher. Whenever she wasn't sure about something, she needed to figure out the details, as soon as she possibly could.  
+  
+In [[ÁLEF AFTER SUNDOWN - STORY]], she stumbles upon Raléi, the head of **The Agency**, after making an escape from a Dáritke guard. The two don't ignite a fight, and instead, Maria lays her knowledge of the situation on the table. She wasn't here to fight anyone, and Raléi didn't show hostility either. The two shake hands, and get to know each other more properly.  
+  
+Maria is very formal, and comes off as a very knowledgeable person. Even though she may not be as expressive as others, she has no cruel intentions or ill faith. As Raléi gets to know more about her, she too, recognises the value Maria would bring upon joining the Agency, especially with her knowledge about Zakh'háfo, and especially Álef. *// This proposal will be worked out on in a later chapter of Álef After Sundown.*
 
 ## Niko Doberman
 Belonged to **Vátnelári** (Middleman). **Died in 2075** (Killed by Kasper in a Lucky Water trade).

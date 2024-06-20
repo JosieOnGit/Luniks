@@ -38,3 +38,6 @@ Eager to go beyond, Nova made the decision to opt into installing neurotech into
 Her new top wasn't enough for her, she wanted to go even further. But learning that she was developing an imminent and irreversible deafness, she instead turned to **Dominico**, a scientist from **Cévok** that worked closely with *Leremkov*, and offered to assist her in her search of helping her hearing, and her search of going way beyond her current skills. Exchanging her ears for those of a fox, she now knew that she was virtually unstoppable, and after landing a clean shot from 10 kilometres away as a means to complete her trade with Dominico, she knew that nothing could come in her way ever again.
 ### Close Quarters
 In an attempt to go further with her personal skills and heighten her combat experiences she acquired in **Mharáni** and **Íszkéde**, she receives an invite from **Vatnelári**, an agency in **Zakh'háfo**. Offering her a place to stay, and promising extreme development in skills, she agrees to leave **Strava Mikkë** be and travels to a nation completely unknown to her. But in her first mission, none of her ranged skills are put to use, and stumbling upon *Nils* as she exits from her mission, she defects from Vatnelári and instead joins **The Agency**, who promise proper development of her skills.
+
+## Maria
+### 

@@ -57,6 +57,9 @@ A ferry (rather, a cruise ship) connects the two continents of Ubunia and Vestia
 ## Norden Supermarkets
 Prominent in the north of Álusken (Hence the name **Norden**) is **Norden Supermarktir**, which have been established soon after the handover from *Queen Álusken I's* reign to that of *King Álusken II*, who then attempted to get rid of every sort of modern service since the start of his reign. In a desperate attempt to survive, Norden opened its first few markets in the south of **Vao**, and once it became clear that the plans that King Álusken II had made would be limited to within the boundaries of the capital, Norden quickly returned to the north of Álusken, where it has since outgrown its competitors.
 
+## Swipe
+<< Cornerstore
+
 ## Hammerhead Industries
 **Hammerhead** is a Vestian industry appliances manufacturer, who is best known for snowballing the expansion and normalisation of the settlement of Vestia, soon after the borders were drawn upon landing on Lúniks. 
 ### History
@@ -85,8 +88,28 @@ In **2052**, Hammerhead made its return to Earth, with the intention to kickstar
 
 In **2058**, Hammerhead would make a controversial appearance in the **Southern States**, coming to an agreement with the **Miami Establishment** to aid the Southern States, and its neighbouring nations of California and Central America. With this aid package, Hammerhead would continue to develop ELE connections throughout the Americas, connecting more cities and states with the rest of the world, and with Lúniks. But additionally, it would aid the Americas in military, forming notable teams such as **HEART** (*Hammerhead Extract And Rescue Team*), and **HIT** (*Hammerhead Illinois Taskforce*).
 
-## Carbine
+## Carbine Industries
 Next to offering a varied catalogue of weapons, **Carbine** is on the hunt to reach the same level of market share that **Hammerhead** currently has. Jealous of their achievements, Carbine entered the experimental weapon department, in hopes to create a new image for themselves where they failed trying to chase after Hammerhead. 
+### Beyond Limits
+**Carbine** entered the experimental weapons department in **2067**, producing various concept weapons that closely resembled the strength that Hammerhead's arsenal provided, and after reverse engineering these weapons, they were set on going beyond the limits that they had found. \
+In **2073**, this leads to disaster. In a factory in **Kósfrii**, **Thórirsant**. *// Elaborate*
+### Invent the Unconventional
+After the **Collapse of Kósfrii** and the creation of the **Kósfrii** and **Jánhul Exclusion Zones**, Carbine decided to step back from their experimental weaponry for the coming years. But with many of its employees now itching to discover and work on something new, the team in **Némiskéi** was especially eager to get back to work.
+
+In **2080**, this leads to the creation of the **Carbine Research Institute** based in **Némiskéi**, which promptly created various research shuttles that would be launched for repeated research on the surrounding planets of Lúniks. Most notably is the **Platinum Halbert**, launched in **2093**, that has been shuttling between **Dvóniks** and **Lóivonus**, passing by Lúniks for routine checkups and interchanging data. 
+
+By **2096**, the research that is being conducted by the **Platinum Halberd** and **Silver Pike** has been mostly directed to determining whether or not it is viable for humanity to settle **Mars** or **Dvóniks** while utilising the nearest gas planets, **Jupiter** and **Lóivonus**, respectively. Additionally, the two enormous spaceships have been test benches for various space technologies that are actively in development by Carbine, as well as giving room for other industries to utilise the existing space on the ships to commence their own research. 
+
+#### Known Research Ships
+**Carbine's** space- and research ships follow the same naming convention for ease of use, some of which also closely resemble their designed functions. All of these ships and stations follow the **"Metal/Jewel"** + **"Weapon/Tool"** naming scheme.
+- **Platinum Halberd**: Travels often through the **Alessi Belt** to conduct various methods of research while on the ship, as well as outside of the ship in zero gravity, to further research what humanity can achieve in any developmental aspect. This includes, but is not limited to, *weaponry*, *farming*, *power harvesting*, and more. Since **2095**, it has been shuttling between **Dvóniks** and **Lóivonus** together with the **Silver Pike**, to conduct research on the possibilities of creating a temporary space-faring city while Dvóniks, or Mars in the Solar System, could undergo terraformation.
+- **Silver Pike**: As written above, the **Silver Pike** has been launched in **2094** to trade duties and research together with the **Platinum Halberd**.
+- **Golden Bow**: 
 
 ## Ódóni Industries
 Once based in **United Máneá**, **Ódóni** supplied the technologies that were needed for research in **Amadnésam**. After the collapse of **United Máneá**, Ódóni fled to **Rhódisz**, together with a number of other industries and companies in hopes to escape from the collapsing economy and increasing crime rates. The Ódóni tower, where the research once took place, was locked down, but since **2062**, it has been reactivated, and has since been the centre of **Neurokick** production.
+
+## Bottleneck Brewery 
+Troubleshooting tech, the way you know and like it. **Bottleneck** was created by two friends who were troubleshooting their home office computer, and discovered that it was being severely bottlenecked by the memory that was installed on the board. From one thought process into the next, they cracked open a beer while optimising their issue, and the rest was history.
+
+Now based in **Kastávje**, the two friends try to experiment around with their different styles of brewing and creating various beers, but their main goal remains the same: Beer should be fun to make, and fun to taste.

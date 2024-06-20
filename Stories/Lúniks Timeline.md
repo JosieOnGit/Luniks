@@ -62,6 +62,9 @@ Refer to: [[E-Mails#14-07-31 - ESA hands over space management to Hammerhead]]
 ## 2033 - ELE Corridor opens, connecting the planets
 In **2033**, the first connection between Earth and Lúniks officially opened, connecting the blooming cities of Lyon and Nóve Réjkjavik with each other. Over the next few months, it would also connect Lyon to Shánzhe and Kérisant-Civem. In the next few years, more and more connections would bloom up throughout nations in Europe and Asia, making travelling between Lúniks and Earth increasingly accessible as time went on.
 
+## 2034 - Asian Space Agency (ASA) is founded
+On **October 21st, 2034**, the various Pacific space agencies of the **JAXA**, **CNSA**, and **ISRO**, unite and merge together under one banner and agency, similarly to when the **ESA** and **NASA** merged together in **1997**. After an intensive research process by the ISRO, their first mission under the new banner of the **ASA** is to create a settlement on the moon for continued on-site research, laying their eyes especially on the long-term effects of being in low- or zero-gravity, and what humanity can achieve when in space. Additionally, the **ASA** hopes to shake hands with the **ESA** once more to establish a plan and lay the groundwork for a possible settlement on the moon of Lúniks in the further future.
+
 ## 2035 - United States collapses
 Follows up **US unrest after PALMER-EDEN** and **Secession of Illinois**. A more concrete timeline and more information will be available at [[Collapse of United States]].
 
@@ -71,12 +74,18 @@ More info will be written down in [[Alkéisa's Ring, 2037]].
 ## 2039 - United Máneá collapses
 Follows up **Zakh'háfon independence movement** and **Nikec Kráminsz murders**. A more concrete timeline and more information will be available at [[Collapse of United Máneá]].
 
+## 2051 - ESA and ASA complete lunar colony
+
+
 ## 2062 - PALMER-EDEN attempts expansion
 In **2062**, long after the **Illinoisan lockdown** and the foundation of the **Southern States** and **Unified California**, PALMER-EDEN attempts to increase its strength and grip on America once more, and attempts to annex the states of **Minnesota** and **Iowa** by force. Despite the surprise of the attack, it was quickly retaliated by support from **Canada** and the **Southern States**, and later in the same year, Illinois locks down its borders once more. With the borders closed, the propaganda begins to spread once more, and the focus for PALMER-EDEN now shifts to giving its remaining citizens the best life they could possibly have, without the threats from the outside world. 
 
 Later this year, the **Illinois Tower** opens, serving home to the majority of the citizens of Chicago, now that plenty of the city had been destroyed in retaliation from the attempted expansion. But not only did the skyscraper serve home above ground, it also was the foundation for an enormous underground city, one that would be able to supply itself for millennia to come, in case the worst was to happen.
 
-## 2071 - Choreos-RP-3 begins settlement projects
+## 2067 - Mars settlement projects begin
+With a completed lunar colony, the **ESA** now sets its eyes to the neighbouring planet of Earth: **Mars**. 
+
+## 2071 - Choreos-RP-3 settlement projects begin
 The century-long journey and mission of settling an exoplanet never really reached an end. While **Lúniks**, **Choreos-RP-4**, originally was the main mission goal to reach and settle, the journey didn't end there. In **2071**, long after the first spaceships had landed on Lúniks, **Hammerhead Shánzhe** set its eyes to Lúniks's sister planet, **Choreos-RP-3**, which had originally been mined and excavated in order to build **Alkéisa's Ring**. After further research, the Hammerhead team learned that despite the intensive mining having taken place, it still seemed in prime condition to support life, and now that Lúniks had been settled successfully and is thriving, the next chapter seems to draw closer.
 
 
