@@ -74,7 +74,7 @@ More info will be written down in [[Alkéisa's Ring, 2037]].
 ## 2039 - United Máneá collapses
 Follows up **Zakh'háfon independence movement** and **Nikec Kráminsz murders**. A more concrete timeline and more information will be available at [[Collapse of United Máneá]].
 
-## 2051 - ESA and ASA complete lunar colony
+## 2051 - ESA and ASA complete lunar base
 
 
 ## 2062 - PALMER-EDEN attempts expansion
@@ -87,6 +87,15 @@ With a completed lunar colony, the **ESA** now sets its eyes to the neighbouring
 
 ## 2071 - Choreos-RP-3 settlement projects begin
 The century-long journey and mission of settling an exoplanet never really reached an end. While **Lúniks**, **Choreos-RP-4**, originally was the main mission goal to reach and settle, the journey didn't end there. In **2071**, long after the first spaceships had landed on Lúniks, **Hammerhead Shánzhe** set its eyes to Lúniks's sister planet, **Choreos-RP-3**, which had originally been mined and excavated in order to build **Alkéisa's Ring**. After further research, the Hammerhead team learned that despite the intensive mining having taken place, it still seemed in prime condition to support life, and now that Lúniks had been settled successfully and is thriving, the next chapter seems to draw closer.
+
+## 2073 - Kósfrii Nuclear accident occurs
+In late **2073**, during the *Spider's Web* project that was being developed in secret by **Carbine**, the nuclear reactor that provided power towards the *Nuclear Fission Project* experienced a meltdown and subsequent explosion in the span of mere seconds. Where they had hoped to crack the code to efficient energy for experimental weaponry, the worst outcome came as a surprise to Carbine, and in the following months, the **Kósfrii** and adjacent **Jánhul Exclusion Zones** were created as a result of the radiation being emitted from the remains of the reactor. For the rest of the decade, Carbine laid down its work as a result of the accident and wouldn't engage in any new projects until the early **2080**s.
+
+## 2094 - Alessi Shuttles enter service
+In a haphazard shift in directions for **Carbine**, their ambitions had changed from experimental weaponry to experimental technologies and the development of space-faring technologies. By **2094**, under the guidance of **Maria Limáida**, several ships had already been launched and had been used in service for planetary research. In **2094**, the **Platinum Halberd** would join its sister ship, the **Silver Pike**, in the research through the **Alessi Belt**, passing by the gas planet of Lóivonus and harvesting its energy to deploy it near the planet of Dvóniks, to research whether it would be possible to ease the stress on existing technologies and instead utilise the existing energy of a nearby gas planet to help terraform the barren rock planet of Dvóniks. This research would then also be of use in the conceptualised **Terraformation** and **Settlement of Mars**.
+
+## 2096 - The ARC is activated
+After an intensive two years of development, the last piece of the puzzle to create the **ARC** (**Advanced Research for Carbine**) was put into place, and the incredible space station was activated. The magnum opus of Carbine now floated freely in space, giving room for various developments and research projects that took place in space, while also providing a temporary hub for various ships, from Carbine themselves or other industries, to stop by momentarily as well. 
 
 
 
