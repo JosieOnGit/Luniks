@@ -1,12 +1,13 @@
 # TRAVEL RISK - Story
 After the project reorganisation, which was mentioned in the main document [[TRAVEL RISK]], this document will serve home to the complete story that will encompass all of **TRAVEL RISK**, from Prologue to Epilogue.
 
+*// This story is undergoing another reorganisation. **Travel Risk**, the story that follows Nils into his journey from Dáritke to The Agency, will transition into **ACT I**. *
+
 ## Synopsis
-### Drafted
 A story encompassing the **Collapse of United Máneá**, and how it once was the *Safe Haven for research* and has since plummeted into a drug society. Introducing various agencies and companies that deal and work with these drugs, including a simple description of some of these drugs (Like **Lucky Water** and **Neurokick**), but making sure not to become too much of a "Wiki entry" and just become a very basic but informative enough synopsis of what the story will have to offer through its lifespan.
 
 ## PROLOGUE
-### Drafted Story: Rules remain rules
+### Rules remain rules
 In the dark corners of Álef, hidden and tucked away in the alleyways in the central area, a group of people in black attire looked up as their silence was broken by footsteps. Approaching them was another black-dressed person, wearing a grey beanie as a cover for the rain. In his hand was a suitcase, seemingly full of money or full of goods. With his heart in his throat, he checks the time on his watch. **22.54**, he was 4 minutes late. One of the figures awaiting him at the end of the alleyway took notice of this, already drawing his pistol, and firing a shot that grazed his ear. Standing dead still in his tracks, he breathed deeply, fear rushing through his veins. **"Let this be your last warning, Niko, the next one is between your eyes."** He says with a booming voice, but quiet enough to not alert anyone else eavesdropping behind the alley. Noting down the time of arrival on his notepad, he opens his hand, waiting for the suitcase to be handed over, which Niko promptly does. *"Apologies, Kasper.. for the delay.."* he mutters, out of breath and full of fear, *"Traffic.. bit my ass.."* \
 Shaking his head, the figure before him passes the suitcase onto the other two men in the alley, signalling them to check the contents and whether they align with the order or not, as he sets his focus back to Niko, clearly pissed off. **"Same shit as last time, Niko. One minute early is acceptable. One minute late is not."** 
 
@@ -18,9 +19,11 @@ Sirens begin to echo through the walls of the city while the three mysterious me
 
 Driving off into the horizon, they make their way to Ákros, ready to face Mitch to report another troublesome handover.
 
-## ONE - untitled
-### Drafted 
+## ONE - TRAVEL RISK
+### Synopsis
 A story that follows Nils Lorieux in his first exposure to the company that his friend Antoine had recommended him. 
+
+*// This chapter might undergo a rewrite to include a broad synopsis of what the title "Travel Risk" really implies in the story, but this will be explored on later.*
 
 ### Story
 *"Antoine, you've got to be kidding me."*
@@ -31,7 +34,7 @@ The door closes behind the two, and Nils takes a deep breath of fresh air now th
 
 
 ## TWO - Into the Unknown 
-### Drafted
+### Synopsis
 A story in which Nils Lorieux enters his first mission within the company that Antoine had recommended him. He is set to deliver a bag that is packed to the brim with Lucky Water, amongst other various yet-unspecified drugs. However, he wasn't told about the contents of the bag, and believes he's carrying various forms of equipment for a company called **"Vátnelári"**. Before delivery, he is caught on the way there by two mysterious men dressed in black and is instead brought to **"The Agency"**.
 ### Story
 *// POV: Nils* \
@@ -47,8 +50,8 @@ Suddenly snapping back to my senses, I realise that the sunlight I already had g
 The metro chimed again. *"Nest halt: Krónapláca."* Double checking the note that was given to me by Karl, I pressed the stop button on the pole beside me. Preparing myself to hop off the automated metro, I pick up the backpack once more and make my way to the doors, watching the platform approach while the metro slows down. \
 Reaching the end of the platform, the metro stops, and looking through the window I realise there were two men dressed in black attire right outside. Already feeling ticked off, I step out of the metro and see them approach me, my heart racing in my chest with worries and scenarios playing back and forth in my mind. 
 
-**"Afternoon, Nils"**, the man on the left spoke to me, taking my left hand and holding it firmly. **"Follow us."** \
-Fully panicked, the scenario that Karl had described to me began falling apart. I'd have to make my way to Sk. Garist myself, he hadn't said anything about two men awaiting me for the handover. \
+**"Afternoon, Nils"**, the man on the left said to me, taking my left hand and holding it firmly. **"Follow us."** \
+Panic ensued in my head, the scenario that Karl had described to me began falling apart before my eyes. I'd have to make my way to Sk. Garist myself, he hadn't said anything about two men awaiting me for the handover. \
 *"Are you.. from Vátnelári?"* \
 **"Not quite. We'll explain later."**
 
@@ -71,28 +74,27 @@ Reading through the document on the tablet before him, he recognises various wor
 *"This becomes yours."* She quickly replies with a wide smile. *"Let's get you settled in. Welcome to The Agency."*
 
 ## FOUR - New Faces, Same Antics
-### Drafted
+### Synopsis
 Nils is acquired by **The Agency**, and burns his bridges with **Dáritke**. Together with Raléi, he now begins protocol training and grows into his new role as management and netrunning. Meeting Omáti, the two get along very well and commence training together. This chapter will mostly encompass said training and introduce a bit of dialogue and showcase the personalities of the various characters.
 
 ## FIVE - Where we left off
-### Drafted
+### Synopsis
 Extracts [[LUCKY WATER#Drafted Story the uuuhh]]. \
 Getting along well with Omáti, the two go onto their first mission together in **Deth-Kelétam**, with the goal to complete a Lucky Water trade with a representative from **Vátnelári**.
 
 ## SIX - Familiar Foe 
-### Drafted
+### Synopsis
 In his next mission, **Nils** is sent to receive a handover from **Dáritke** under supervision of Raléi and a representative from Dáritke. To Nils's surprise, the handover from Dáritke is brought out by Kasper and Antoine, which creates a troublesome situation. Especially now that Nils learned that Dáritke isn't the best agency to work under, with its agents being frequently exploited, he also came to learn that Antoine wasn't the best person in the world as a result, and their friendship and partnership was merely a fluke. Despite this, all ends well, and both parties decide to keep their mouth shut regarding this new information. Kasper too, keeps his mouth shut about Nils's defection to **The Agency**, which means **Mitch** does not learn about this, leading up to **RUDE REUNION**.
 
 
-## ??? - RUDE REUNION
-**Drafted**: In a strange letter, Nils and Raléi receive an invite to an otherwise inconspicuous ball in **Kristensend, Rhódisz**. Present are top figures from the various companies that fled to Rhódisz after the Collapse of United Máneá, and with various agencies having sprung up in the two other nations, the ball was seen as a means of shaking hands, and seeing what is possible in terms of reaching an agreement together, in hopes to help the economic and societal damage that was done. 
+## SEVEN - RUDE REUNION
+### Synopsis
+In a strange letter, Nils and Raléi receive an invite to an otherwise inconspicuous ball in **Kristensend, Rhódisz**. Present are top figures from the various companies that fled to Rhódisz after the Collapse of United Máneá, and with various agencies having sprung up in the two other nations, the ball was seen as a means of shaking hands, and seeing what is possible in terms of reaching an agreement together, in hopes to help the economic and societal damage that was done. 
 
 Both **Dáritke** and **Vátnelári** representatives were present, next to Nils and Raléi, which sparked uncertainties for all parties that were present. After what feels like a peaceful hour of chitchat with various companies (Notably Ódóni), a discourse is finally sparked as **Mitch O'Well** approaches Raléi, and takes notice of Nils, who was once part of **Dáritke**. Drama and conflict ensues, and Raléi's stealth weaponry is unveiled to Mitch, with a subtle hint to "Keep this out of the public" and "Handle things in a more private manner". Mitch ignores this hint, and a combat situation ensues.
 
 
-### Drafted Story - RUDE REUNION
-
-
+### RUDE REUNION
 *"Aye, Nils! That you?"* An older, raspy voice said from afar. Raléi shook hands with Thomas, bidding them farewell for now, while Nils turned around to the ever familiar voice that could only belong to one person: Dáritke's Mitch O'Well. *"Been a while, eh? Presumed you were dead. Package delivered, killed on site. Take it you've met my old friend instead?"* He spoke, pointing at Raléi, who had taken notice of the sudden rival's arrival. **"Been a while, Mitch"** Raléi replied, interrupting Nils before he could even formulate a response for himself. **"Looking terrible as ever. Not a single change in those ten years."** She said with a stern look. Now standing in the middle of the two, Nils quickly figured out what situation he found himself in, and made his way back to stand besides Raléi. *Must be bad blood..* He thought to himself, as Mitch continued to formulate his words, clearly struggling. *Is he under the influence?*  \
 *"I take you've given my boy a roof for his own."* He began, his finger pointing and shaking at Nils's face. *"Bothers me. Antoine promised me goods, and now my good is elsewhere.. I'm not too stoked about knowing this boy is sharing Dáritke's secrets with you, miss Alenti..!"* \
 His shaky hand moved to his hip, as he slowly moved his blazer to the side, revealing a holster and a pistol. It seemed that, despite being in a terrible shape, Mitch didn't care about his health. Just like Nils had learned from Antoine and Kasper, he was a straightforward man. Straight to business, no chitchat. And it seemed the chitchat was over. \

@@ -58,7 +58,7 @@ A ferry (rather, a cruise ship) connects the two continents of Ubunia and Vestia
 Prominent in the north of Álusken (Hence the name **Norden**) is **Norden Supermarktir**, which have been established soon after the handover from *Queen Álusken I's* reign to that of *King Álusken II*, who then attempted to get rid of every sort of modern service since the start of his reign. In a desperate attempt to survive, Norden opened its first few markets in the south of **Vao**, and once it became clear that the plans that King Álusken II had made would be limited to within the boundaries of the capital, Norden quickly returned to the north of Álusken, where it has since outgrown its competitors.
 
 ## Swipe
-<< Cornerstore
+Cornerstore. *// Proper description is due.*
 
 ## Hammerhead Industries
 **Hammerhead** is a Vestian industry appliances manufacturer, who is best known for snowballing the expansion and normalisation of the settlement of Vestia, soon after the borders were drawn upon landing on Lúniks. 
@@ -71,7 +71,7 @@ From **2025** through **2037**, Hammerhead's various departments also laid their
 ### Rail Networks
 From **2018** onwards, Hammerhead had been a key factor in developing the immense rail networks that are present on the continent of **Vestia**. Next to manufacturing the trains and tracks in use by **Vestia Rapid/Regio**, it has also developed various technologies that support Maglev trains, a technology that was picked up from Asian projects. 
 ### Weaponry
-After the **2031** handover, in **2035**, Hammerhead laid their eyes on producing firearms in hopes to expertise themselves in every possible field of work. Next to efficient rifles and handguns, this sparked the development of **Pulse Rifles**, a type of weapon that has become incredibly prominent since the **2050s**. These rifles were **non-lethal**, which sparked their interest as a means of self-defence. But Pulse Rifles aside, they also produce an immense arsenal of firearms, ranging from pistols the size of a hand, to rifles that can make a target unrecognisable at a 3km distance.
+In **2035**, four years after the **2031** handover, Hammerhead laid their eyes on producing firearms in hopes to expertise themselves in every possible field of work. Next to efficient rifles and handguns, this sparked the development of **Pulse Rifles**, a type of weapon that has become incredibly prominent since the **2050s**. These rifles were **non-lethal**, which sparked their interest as a means of self-defence. Pulse Rifles aside, they also produce an immense arsenal of firearms, ranging from pistols the size of a hand, to rifles that can make a target unrecognisable at a range greater than 3km.
 #### Known Arsenal
 - **HR75** (**Heavy Rifle Class 75**): A top-of-the-line bolt-action sniper rifle with expert power and precision. With a length of almost 190cm from barrel to stock, this rifle supports .50cal cartridges and a versatile platform of extensions that cater to your needs. 
 - **HR62** (**Heavy Rifle Class 62**): 
