@@ -103,7 +103,16 @@ Maria got up from the chair and sluggishly walked towards the stairwell of the b
 
 *"I've failed, Raléi. I'm sorry."*
 
+## 4 - No Second Chances
+Maria barged through the firmly reinforced doors of the design room that Thomas had been residing in for the past few weeks. Her brows were furrowed, and with the **Golden Bow** arriving in just a matter of minutes, she wasn't going to waste her last chance to confront Thomas's negligence of the Shuttles in the past weeks. \
+**"Commander Limáida."** He said firmly, not looking away from the sketches of the next iteration of his prized Loop engines before him. A tense atmosphere built in the room, and despite nobody else being present in the room, it still felt like a thousand eyes were watching the two confront each other. *"I see you've heard the news, Thomas."* \
+**"Are you surprised I have?"** He replied right away, now finally turning around to meet Maria's furious gaze, her ears perked up in anger. She crossed her arms, taking in a deep breath to build up her confidence to spill her thoughts out to her long-term colleague, and long-term friend. *"I'm more surprised that it's me, and not you, boarding the Golden Bow to rescue the Alessi Shuttles."* She began, sighing deeply. *"You put a hundred lives in limbo, Thomas Vanhuyt, a hundred lives are now floating in Cintura without having a clue what happened to them. They can't reach out to us, and we haven't been able to rescue them for the past two weeks either. Why isn't it you, Thomas, why did you gamble a hundred lives over your Loop engines?!"* \
+**"I've been thinking of returning to Geneva, Maria."** Thomas suddenly began, changing topics as soon as Maria finished speaking. Her expression changed from furious, to confused, to return to furious. *"G-Geneva..?"* She began, the absurdity of his answer disgusting even the deepest core of her heart knowing that the Alessi Shuttles were still floating around aimlessly in Cintura. *"Are you insane, Thomas?! You devoted your entire life to build the ARC together with me, you've put us on the doorstep of the next chapter of humanity, and now that your prized Shuttles launched themselves to Cintura you're fleeing to Earth with your tail between your legs?!"*
 
+Taking a deep breath to calm herself down, she shook her head, turning around and leaving Thomas to do whatever it was that he desired. Maria already knew that no matter her best efforts, she and Thomas wouldn't find each other on the same page on this matter, and now that she had already made the decision to take command of her Golden Bow and confront the grim reality herself. *"Do whatever it is you desire, Thomas."* She said, making her way back outside the design room to await the Golden Bow's arrival. Thomas chuckled, asking one more question to get under Maria's skin just before she'd closed the doors behind her. \
+**"Was she important to you, Maria?"** 
+
+Maria scoffed. *"She meant the world to me, Dr. Vanhuyt."* She hissed, not letting him taunt her any further than this. *"It killed me inside that I couldn't save her. I'm not making the same mistakes again."* She said, taking one last look at Thomas's tired expression, before slamming the door shut tight.  
 
 ## Addendum
 Notes to consider (Although unrelated to Routine Maintenance specifically):
