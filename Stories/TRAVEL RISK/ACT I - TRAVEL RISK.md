@@ -1,10 +1,7 @@
 # TRAVEL RISK - Story
-After the project reorganisation, which was mentioned in the main document [[TRAVEL RISK]], this document will serve home to the complete story that will encompass all of **TRAVEL RISK**, from Prologue to Epilogue.
-
-*// This story is undergoing another reorganisation. **Travel Risk**, the story that follows Nils into his journey from Dáritke to The Agency, will transition into **ACT I**. *
-
+After the **June 2024** project reorganisation, the **TRAVEL RISK** story has been repurposed into becoming **ACT I** of the bigger story as a whole. This document will now serve as the story from **Nils**'s perspective, from the Prologue until Chapter Seven.
 ## Synopsis
-A story encompassing the **Collapse of United Máneá**, and how it once was the *Safe Haven for research* and has since plummeted into a drug society. Introducing various agencies and companies that deal and work with these drugs, including a simple description of some of these drugs (Like **Lucky Water** and **Neurokick**), but making sure not to become too much of a "Wiki entry" and just become a very basic but informative enough synopsis of what the story will have to offer through its lifespan.
+After the nation of **United Máneá** collapsed in **2039**, it never managed to find the charm nor strength to rebuild itself to what it once was. Eternal conflict sparked before the fateful day in **2039**, and ever since, the conflict remained in the two remaining nations. With a lack of government control, drug dealing became the norm, and a middleman was an easy job to pick up. Without an involvement in drugs directly, one could still have an income to survive the next day. **Nils Lorieux** embarks on this dangerous journey, but after being caught on his very first mission, things don't turn out to be as easy as bringing a briefcase from point A to point B.
 
 ## PROLOGUE
 ### Rules remain rules

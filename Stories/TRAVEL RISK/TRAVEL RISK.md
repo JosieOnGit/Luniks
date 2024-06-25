@@ -15,7 +15,7 @@ Available at [[LEREMKOV]]. While Leremkov is described as a disease similar to I
 The main storyline follows **Nils** and his integration into **The Agency** under **Raléi**. The two engage on missions together, and grow into a proper duo, up until what is now drafted as **RUDE REUNION**. After Rude Reunion, Raléi stumbles upon **Maria**, which kicks off the start of Act II. The focus now changed from Nils to Raléi and Maria, who partner up and gain intel to take down Dáritke once and for all. In the end, they manage to pick off the corners, but reach no success, which means the two women now have a target on their heads. Ultimately, the two try to sneak through the Álef Metro after being hunted down by various hitmen from Dáritke, but Maria's knowledge of the metro system is revealed to be outdated since she partnered up with the Agency. Dáritke had taken control of the metro station Álef-Nórem, which was the escape point for Raléi and Maria. Dáritke initiated a destruction protocol to have the metro station taken down with the two women inside, and through the deafeningly loud crunching of metal, only Maria makes it out alive, witnessing Raléi get buried under the steel structure after failing to save her. 
 
 The Agency disbands shortly after. Their goals of helping the people in the fallen nations of Máneá was now left without its leader, and neither Nils, Omati, or Maria, wanted to take the risk of receiving a bounty on their head simply for taking Raléi's seat left vacant. 
-#### Chapters outline: ACT I
+#### Chapters outline: ACT I - TRAVEL RISK
 - **PROLOGUE**: Rules Remain Rules
 - **ONE**: TRAVEL RISK
 - **TWO**: Into the Unknown
@@ -24,7 +24,7 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **FIVE**: Where we left off
 - **SIX**: Familiar Foe
 - **SEVEN**: Rude Reunion
-#### Chapters outline: ACT II
+#### Chapters outline: ACT II - ÁLEF AFTER SUNDOWN
 - **EIGHT**: Álef After Sundown
 - **NINE**: Challenging Fate
 - **TEN**: By a Hair's Width
@@ -34,7 +34,7 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **EPILOGUE**: Álef At Dawn
 
 ### TRAVEL RISK 
-Available at [[ACT I - TRAVEL RISK - Story]]. \
+Available at [[ACT I - TRAVEL RISK]]. \
 Following a history of shady businesses and shady transactions, **Nils Lorieux** achieves his dream of fullfilling the wish of his parents: Moving back to France. But now living on his own in the ever worsening living standards of Máneá, he stumbles upon **Antoine Russeau**, who was given the exact same mission as Nils. Teaming up, Antoine introduces him to **Dáritke** after a number of weeks, where Nils is assigned to a delivery mission to Egórecë. During this mission, he was instead captured by members of **The Agency**, where he was promptly invited to cross over from Dáritke. Without a doubt, he burns his bridges with Dáritke, but from one Agency into another, the troubles don't disappear.
 ### WHITEOUT
 Available at [[WHITEOUT - Story]]. \
