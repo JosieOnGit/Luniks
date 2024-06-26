@@ -101,13 +101,8 @@ In **2080**, this leads to the creation of the **Carbine Research Institute** ba
 
 By **2096**, the research that is being conducted by the **Platinum Halberd** and **Silver Pike** has been mostly directed to determining whether or not it is viable for humanity to settle **Mars** or **Dvóniks** while utilising the nearest gas planets, **Jupiter** and **Lóivonus**, respectively. Additionally, the two enormous spaceships have been test benches for various space technologies that are actively in development by Carbine, as well as giving room for other industries to utilise the existing space on the ships to commence their own research. 
 
-#### Known Research Ships
-**Carbine's** space- and research ships follow the same naming convention for ease of use, some of which also closely resemble their designed functions. All of these ships and stations, with the exception of the **ARC**, follow the **"Metal/Jewel"** + **"Weapon/Tool"** naming scheme.
-- **ARC**: **Advanced Research for Carbine**. 
-- **Platinum Halberd**: Travels often through the **Alessi Belt** to conduct various methods of research while on the ship, as well as outside of the ship in zero gravity, to further research what humanity can achieve in any developmental aspect. This includes, but is not limited to, *weaponry*, *farming*, *power harvesting*, and more. Since **2095**, it has been shuttling between **Dvóniks** and **Lóivonus** together with the **Silver Pike**, to conduct research on the possibilities of creating a temporary space-faring city while Dvóniks, or Mars in the Solar System, could undergo terraformation.
-- **Silver Pike**: As written above, the **Silver Pike** has been launched in **2094** to trade duties and research together with the **Platinum Halberd**.
-- **Golden Bow**: 
-- **Jade Dagger**: A self-sufficient research ship that made its way to the edge of the Choreos system, now orbiting the lone gas planet of **Márivonus** to conduct their research there and discovering its mysteries.
+#### Known Spaceships
+This list has moved to [[List of Spaceships]]
 
 ## Ódóni Industries
 Once based in **United Máneá**, **Ódóni** supplied the technologies that were needed for research in **Amadnésam**. After the collapse of **United Máneá**, Ódóni fled to **Rhódisz**, together with a number of other industries and companies in hopes to escape from the collapsing economy and increasing crime rates. The Ódóni tower, where the research once took place, was locked down, but since **2062**, it has been reactivated, and has since been the centre of **Neurokick** production.
