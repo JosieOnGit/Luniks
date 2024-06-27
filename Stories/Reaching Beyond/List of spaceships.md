@@ -13,5 +13,5 @@
 - **034**. **Pozecë 4**: A lightweight ship that was designed in a range of **10** ships in total to explore new ways to connect Earth and Lúniks, but also to connect Lúniks to her moon, Lumen. 
 
 ## Addendum
-- **Hammerhead** and **Carbine** share a range of ships, since both the **030-039** ships and the rest of Carbine's fleet have been designed and built by the "Big three": Dr. Vanhuyt, Dr. Limáida, and Dr. Miyidkov. Even though only the latter remained at Hammerhead, Vanhuyt and Limáida continued their numbering convention into the further future, only breaking it during the construction of the **ARC**, which remains the only spaceship to have two digits, and not three. 
+- **Hammerhead**'s and **Carbine**'s fleets share a numbering scheme, since both the **030-039** ships and the rest of Carbine's fleet have been designed and built by the "Big three": Dr. Vanhuyt, Dr. Limáida, and Dr. Miyidkov. Even though only the latter remained at Hammerhead, Vanhuyt and Limáida continued their numbering convention into the further future, only breaking it during the construction of the **ARC**, which remains the only spaceship to have two digits, and not three. 
 - The **HSS** originally didn't have a number, but as it was the first ship to be serviced by Limáida, it was assigned the inaugural number **001** during its refurbishment. 
