@@ -8,6 +8,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 - [[Kérisant]]
 - [[Máneá]]
 - [[Zakh'háfo]]
+- [[Jóthul]]
 - [[Léjtis]]
 - [[Íszkéde]]
 - [[Rhódisz]]
@@ -45,6 +46,8 @@ Ubunia was the first continent out of four on the planet to be settled. Right in
 ## Zakh'háfo
 
 ## Máneá
+
+## Jóthul
 
 ## Rhódisz
 

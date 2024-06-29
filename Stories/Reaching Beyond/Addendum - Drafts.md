@@ -1,5 +1,11 @@
 # Addendum / Drafts
-
+## Implemented / Noted
+- The *Alentikíles* as a term has been coined in **6 - A Promise Made**, as Maria remembers the vital life systems aboard every Carbine ships upon going through her memories and past. *// It's technological purpose has yet to be defined.*
+- **Raléi** and **Maria**'s stargazing is also written in **6 - A Promise Made**. Maria remembers a vision from the past, of when the two were stargazing in **Álef**, and pointing at *Messier-48*, Raléi then named her **Cintura**. In the coming years after her death, Maria would fight to exchange Messier-48's name with Cintura during her time in Hammerhead, doing so successfully.
+- The **Fruit Naming Scheme** has been implemented, but not been documented yet. It is however coined in **3 - Face The Present**, where only satellite **Raspberry-1** remains in orbit of Lóivonus after the disappearance of the **Silver Pike** and **Platinum Halberd**.
+- The reason the two **Alessi Shuttles** found themselves in **Cintura** has been explained in **2 - Addendum**. However, the **HSS** floating freely in **Cintura** is *not* yet mentioned, and will most likely see an appearance in either chapter **7** or **8**.
+ 
+## Unorganised Drafts
 Maria's **Golden Bow**, as well as the rest of her future designed ships, would include a health backbone that she called *Alentikíles*, or *Alenti* for short. Raléi's last words continue to cycle through her head every single day, and her call for Maria to live onwards she respected, and evolved as a means through the health backbone in every ship. Even though Raléi wasn't around anymore, her wish would be immortalised as her namesake helped the crew and the ships stay in good shape, no matter what the problem or health issue would be.  
   
 **Cintura** was named by Raléi, too. The solar system had been off the radar almost as soon as Lúniks had been discovered, and with a quiet space race suppressing the desire to go even further, space research remained limited to just code names. Whereas Lúniks was 3 lightyears away from Earth, Cintura (then known as Messier-48) was a mere two lightyears away from Lúniks. \
@@ -8,3 +14,7 @@ Raléi and Maria, when not in combat, would stargaze together, and after Maria a
 Raléi truly meant the world to Maria. Wherever possible, she would honour her wishes she had made before her death, and continue her legacy even if it meant stepping out of line or abandoning a passionate project. The **Golden Bow** is even a namesake to Raléi, who had frequently mentioned to love the versatility and shine of gold, and had revealed to have a deep interest in archery, too.  
   
 In 2096, having made the promise to never let another life go to waste, she told her own reflection to fight through the worst, no matter how much her mind or body protested against it. While in the Cintura galaxy, and witnessing the wreck of the Silver Pike, it took her a mental breakdown to get back to her senses, and to realign her mind with her goals and promises. Even after Harold would tell her about the loss of life, her mission wouldn't change. Every single person that was still alive, injured or not, would make it back home safe.
+
+Notes to consider (Although unrelated to Routine Maintenance specifically):
+- Various satellites in orbit of planets or complimenting spaceships follow a **Fruit** naming scheme. As an example, **150**, the **Jade Dagger**, constructs and deploys satellites used for research of the planet **Márivonus** on-site, which follow the codename **Mango-(1-4)**.
+- The reason the **Silver Pike** and **Platinum Halberd** both found themselves in the same spot after their Loop engine to engage as an experimental failsafe in case of emergencies. This was a development made by Thomas, who saw the increased risk of experimental spaceships becoming remnants of their past and floating around endlessly in deep space without knowing what was going on after the **Failed Hammerhead Satellite Ship** begun floating freely through space. The Loop engine would send them to a fixed point in space, where another ship could aid them once a distress signal would go through to the **ARC**.
