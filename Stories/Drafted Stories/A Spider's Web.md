@@ -1,0 +1,12 @@
+# A Spider's Web
+## Backstory
+In **2067**, **Carbine Industries** would embark on a dangerous journey to rival **Hammerhead** in the production of experimental technology and weaponry. This sparked the construction of the **Kósfrii** research site, decorated and powered by various nuclear energy generators, as well as the first Carbine-built *Nuclear Fission Reactor*. All in all, things stayed functional from its activation in **2071** throughout **2073**, where in the latter year the experimental branches began to utilise the two reactors.
+
+**A Spider's Web** is the internal project name within Carbine, which would serve as a "web" to answering the many questions regarding the use for nuclear fission energy, as well as using it to create and maintain experimental weaponry. **Hammerhead**'s **EPZ90**, a prototyped railgun that was set to replace its more traditional parallel **HR75** sniper rifle. Where Carbine would always find itself one step behind Hammerhead's advancements, they hoped to leap in front of them with the Spider's Web project.
+
+It would remain nothing more than hopes, however. In late **2073**, the fission reactor **Alpha** suffered a technical issue and was forced to shut itself down, which caused the backup nuclear reactors in **Kósfrii** and **Jánhul** to start working to make up for the loss of power. This meant, however, that the previously underused reactor in Kósfrii would soon suffer the same fate and suffer a reactor meltdown from poor maintenance and a sudden spike in demand. This meltdown would quickly chain with the reactor in Jánhul, which needed to work overtime to catch up with the loss of power generation of the Kósfrii reactor, before the latter would eventually ignite itself and catastrophically explode, spreading toxic fires throughout the reactor halls that refused to be extinguished.
+
+Carbine would lay down their work for the rest of the decade, the loss of life simply being incomparable to any previous project that they had lead before the Kósfrii accident. The only thing they would still undertake as a team, was the creation of domes around the Kósfrii and Jánhul reactors to prevent further radiation from being emitted. 
+
+## Synopsis
+*// A more routine, simple three-stage story. Introduction into modern day, climax with the accident occurring, and an epilogue with what decisions Carbine makes afterwards.*

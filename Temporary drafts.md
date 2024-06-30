@@ -1,7 +1,7 @@
 # Temporary drafts
 This file solely exists to prevent merge conflicts from happening in [[Story Drafts]], or any of the applicable stories that the drafts take place in. Additionally, this file is used as a draft board for topics or parts I want to develop later on in the story, and may give a tease as to what's to come next.
 
-## Leremkov - PENDULUM
+## Leremkov - PENDULUM (shelved)
 Self insert into pendulum - Receive aid and care through Vienna & Olen.
 
 ## Ghost Temples - Repurposing of Masks

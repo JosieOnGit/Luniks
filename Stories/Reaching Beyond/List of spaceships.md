@@ -1,7 +1,7 @@
 # List of Spaceships
 ## Carbine Industries
 **Carbine's** space- and research ships follow the same naming convention for ease of use, some of which also closely resemble their designed functions. All of these ships and stations, with the exception of the **ARC**, follow the **"Metal/Jewel"** + **"Weapon/Tool"** naming scheme.
-- **01**. **ARC** (**Advanced Research for Carbine**):
+- **01**. **ARC** (**Advanced Research for Carbine**): The **ARC** is the beating heart of **Carbine**, where the majority of its space research takes place. Built and launched from **2094** until **2096**, it was the brainchild of **Thomas Vanhuyt** and **Maria Limáida**, and it was designed with the future in mind, offering sustainability and self-sufficiency for many decades ahead. 
 - **100**. **Golden Bow**:
 - **150**. **Jade Dagger**: A self-sufficient research ship that made its way to the edge of the Choreos system, now orbiting the lone gas planet of **Márivonus** to conduct their research there and discovering its mysteries.
 - **327**. **Silver Pike**: As written below, the **Silver Pike** has been launched in **2094** to trade duties and research together with the **Platinum Halberd**.

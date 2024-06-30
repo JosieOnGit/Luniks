@@ -29,6 +29,7 @@ Luniks has four continents over the entire planet, each containing a landmass si
 ### Skádia (Lower left half)
 - [[Emyria]]
 - [[Náhrekv]]
+- [[Skádia Nature Reserve]]
 ### Deónia (Right half)
 - [[Deónia Nature Reserve]]
 

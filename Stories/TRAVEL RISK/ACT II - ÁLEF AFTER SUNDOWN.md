@@ -25,6 +25,8 @@ Instead of a loud voice, the sound of a loud bang now passed through the alley, 
 Still stunned, the guard looked behind him, only facing the back of the young woman turn around the corner. Deflated, and defeated, he sighs deeply, and finally walks forward out of the alleyway. 
 
 ### Confrontation, with difficulty
+*// This section might undergo a rewrite, to properly introduce Maria to Raléi, as well as the rest of the existing Travel Risk cast.*
+
 A weapon raised once more. A briefcase held tightly in the other hand. But this time around, it was Maria herself that was looking down the narrow and short barrel of a pistol. The neutral expression that was on her face while confronting the guard was prominent yet again, as she broke the awkward silence and addressed the person at the end of the barrel, her hands raised. *"Agency, isn't it? What brings you here to me?"* \
 The woman before her barrel chuckled, raising her hands in the air to admit defeat already. Her blue, straight hair shined brightly in the sunlight. **"You're young. Do you know what you're doing?"** She asked with a gentle, and innocent smile. She meant no harm, that much was for sure, but Maria didn't take any further risks after already encountering troubles earlier. *"I might be. But I don't do second guessing. What brings you here to me?"* \
 **"Curiosity."** The woman replied with a wider smile. **"You're skilled. I mean no harm, nor do I need the briefcase you're holding. Let's point the gun down and talk it out, shall we, Maria?"** \

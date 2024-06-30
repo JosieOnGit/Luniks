@@ -102,7 +102,7 @@ In **2080**, this leads to the creation of the **Carbine Research Institute** ba
 By **2096**, the research that is being conducted by the **Platinum Halberd** and **Silver Pike** has been mostly directed to determining whether or not it is viable for humanity to settle **Mars** or **Dvóniks** while utilising the nearest gas planets, **Jupiter** and **Lóivonus**, respectively. Additionally, the two enormous spaceships have been test benches for various space technologies that are actively in development by Carbine, as well as giving room for other industries to utilise the existing space on the ships to commence their own research. 
 
 #### Known Spaceships
-This list has moved to [[List of Spaceships]]
+This list has moved to [[List of Spaceships]].
 
 ## Ódóni Industries
 Once based in **United Máneá**, **Ódóni** supplied the technologies that were needed for research in **Amadnésam**. After the collapse of **United Máneá**, Ódóni fled to **Rhódisz**, together with a number of other industries and companies in hopes to escape from the collapsing economy and increasing crime rates. The Ódóni tower, where the research once took place, was locked down, but since **2062**, it has been reactivated, and has since been the centre of **Neurokick** production.

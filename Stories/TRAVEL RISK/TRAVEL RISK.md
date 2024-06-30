@@ -33,9 +33,12 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **THIRTEEN**: AT ONE'S WITS' END // ONE LAST STAND
 - **EPILOGUE**: Álef At Dawn
 
-### TRAVEL RISK 
+### TRAVEL RISK (ACT 1)
 Available at [[ACT I - TRAVEL RISK]]. \
 Following a history of shady businesses and shady transactions, **Nils Lorieux** achieves his dream of fullfilling the wish of his parents: Moving back to France. But now living on his own in the ever worsening living standards of Máneá, he stumbles upon **Antoine Russeau**, who was given the exact same mission as Nils. Teaming up, Antoine introduces him to **Dáritke** after a number of weeks, where Nils is assigned to a delivery mission to Egórecë. During this mission, he was instead captured by members of **The Agency**, where he was promptly invited to cross over from Dáritke. Without a doubt, he burns his bridges with Dáritke, but from one Agency into another, the troubles don't disappear.
+### ÁLEF AFTER SUNDOWN (ACT II)
+Available at [[ACT II - ÁLEF AFTER SUNDOWN]]. \
+With tensions having risen between **Dáritke** and **The Agency** after the *Kristensend Ball*, **Raléi** stumbles upon **Maria Limáida** in the streets of **Álef**, who was busy intercepting a package herself. Striking up a conversation, the two find themselves with similar goals: Take down the growing control of Dáritke on Zakh'háfo, and destroy it from inside out. 
 ### WHITEOUT
 Available at [[WHITEOUT - Story]]. \
 When technology can't bring you beyond the top, what is there next to try? With an eye for precision and an eye for perfection, any target that landed in her sights was a dead one, but desperate to climb the ladder and go beyond her capabilities, she seeks out a blend between Leremkov and her Neurotech, one that was provided by **Dominico**, a close contact of *Leremkov*. Completing her transformation and adapting at ease, she lands her first shot beyond 5km with ease, meaning her ceiling just increased thousandfold.

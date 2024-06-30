@@ -3,7 +3,7 @@
 ## LAST LIGHT // SNOW
 ### Wrong Place, Wrong Time
 *// POV: Joseph* \
-With sketches and notebooks stuffing my backpack to its fullest, Daniel and I departed from school for the holiday, heading to **Norden**, the enormous supermarket that had stood in the heart of Keustellet for as long as my memory could take me back. We had made ambitious plans, we'd travel to Vao at least once, we even aimed to go to Hédenis for a few days for the hot weather, and we'd especially enjoy our time off, but with each bullet point that we had planned for this holiday, another bullet point appeared from a deadline that was soon to follow after the end of the holidays. 
+With sketches and notebooks stuffing my backpack to its fullest, Daniel and I departed from school for the holiday, heading to **Norden**, the enormous supermarket that had stood in the heart of Keustellet for as long as my memory could take me back. We had made ambitious plans, we'd travel to Vao at least once, we even aimed to go to Hédenis for a few days for the hot weather, and we'd especially enjoy our time off. But with each bullet point that we added to our plans for this holiday, another bullet point appeared from a deadline that was soon to follow after the end of the holidays. 
 
 Not too many weeks ago, I received an offer from **Carbine**, a weapons and tech company that was in its startup phase, and was eagerly looking for a new brand identity to make itself stand out throughout Álusken, and much further beyond. It was a massive reach for me, but since I was already struggling with college and finding my own groove, my own workflow, I bit the bullet and decided to make this work my best one yet. 
 
