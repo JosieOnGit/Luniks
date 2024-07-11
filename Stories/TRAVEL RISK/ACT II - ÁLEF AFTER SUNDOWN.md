@@ -7,7 +7,9 @@
 The deals come out at night, hidden in the alleys of **Álef**. Its automated transport system makes frequent travel between trading hotspots a breeze, and **Maria** knows this by heart. In an attempted interception of a trade, she comes in contact with **Raléi**, from **The Agency**, and the two agree on a ceasefire for the time being, and to combine their strengths to figure out who is intercepting their respective trades. Despite not being part of an agency, **Maria** is especially skilled in close-quarters combat, and looks are especially deceiving with her build. 
 
 ## EIGHT - Álef After Sundown
-### Confrontation, at ease
+### Confrontation, with ease
+*// This section might undergo a rewrite to **disconnect** Maria from Dáritke, e.g. removing the "Tell Mitch that Maria returned to Álef" line, as it may not fit as well as before anymore.*
+
 *"Why raise your weapon? You don't know me."*  
   
 The woman quietly chuckled, showing no signs of fear despite facing down the barrel of a pistol. Her hair was short, but wavy, round glasses decorated her otherwise pale face, resting on her nose just above her freckles. She didn't appear like a person that excelled in a combat situation that she found herself in, but even so, her guard wouldn't go down.  

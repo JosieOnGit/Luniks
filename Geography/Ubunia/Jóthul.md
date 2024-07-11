@@ -3,5 +3,6 @@
 ## Lóuskan (Capital)
 
 ## Jóukmandar
+### Dázlacé
 
 ## Jánhul
