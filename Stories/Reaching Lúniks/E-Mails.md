@@ -1,7 +1,7 @@
 # E-Mails
 A collection of e-mails made during the discovery and trajectory of **Lúniks**.
 
-### 24-08-78 - End of Cold War, development shift into rocket technology
+### 24-08-1978 - End of Cold War, development shift into rocket technology
 **To**: 527 recipients \
 **Sender**: internal@esa.eu \
 **Subject**: Announcement: Development shift into rocket technologies 
@@ -17,7 +17,7 @@ We have proposed a number of dates where we will hold a planar conference with a
 We hope to see you all soon at the planar conference, \
 Prof. Meyeren for European Space Agency (ESA)
 
-### 29-05-86 - Development shift into exoplanet research
+### 29-05-1986 - Development shift into exoplanet research
 **To**: 304 recipients \
 **Sender**: internal@esa.eu \
 **Subject**: Announcement: Development shift into exoplanet research
@@ -35,7 +35,7 @@ As is usual with a development shift, an availability sheet is available at the 
 We hope to see you all soon at the planar conference, \
 Prof. Van Haeghen for European Space Agency (ESA).
 
-### 12-07-90 - Recruitment of Tagip Panjit
+### 12-07-1990 - Recruitment of Tagip Panjit
 **To**: internal@esa.eu, masegophi@esa.eu \
 **Sender**: lesenenaa@fsa.fi \
 **Subject**: Transfer of Mr. Panjit from ISRO to ESA 
@@ -50,7 +50,7 @@ Until then, I hope to travel back to Geneva soon to catch up with you again, Pet
 Kind regards, \
 Alexis Lesenen.
 
-### 18-08-94 - Choreos-RP-4 is discovered, research shift
+### 18-08-1994 - Choreos-RP-4 is discovered, research shift
 **To**: 174 recipients \
 **Sender**: internal@esa.eu \
 **Subject**: Announcement: Discovery of Choreos-RP-4, and the course following
@@ -66,7 +66,7 @@ This announcement closes with information regarding all recipients of this email
 More information will follow, keep an eye out for your inbox. \
 Prof. Bestevaer for European Space Agency (ESA).
 
-### 12-02-00 - Discovery of life and change of approach
+### 12-02-2000 - Discovery of life and change of approach
 **To**: internal@esa.eu, willemsenfd@esa.eu \
 **Sender**: lesenenaa@fsa.fi \
 **Subject**: Flora and Fauna on Lúniks  
@@ -82,7 +82,7 @@ I think it's worth taking another shot at iterating ELL-2, Frank, we're discover
 I will see you in April, \
 Alexis Lesenen.
 
-### 14-05-01 - Proposal to allocate land on Vestia to Benelux and Denmark
+### 14-05-2001 - Proposal to allocate land on Vestia to Benelux and Denmark
 **To**: internal@esa.eu, internal@rijksoverheid.nl, information@folketing.dk \
 **Sender**: lesenenaa@fsa.fi \
 **Subject**: Allocation of land on Vestia to Benelux, Denmark
@@ -98,7 +98,7 @@ We understand that the imminent danger of global sea level rise is causing major
 On behalf of the Lappland Observatory and the ESA, \
 Alexis Lesenen.
 
-### 27-02-03 - Request from Bëndén to settle Mhárani
+### 27-02-2003 - Request from Bëndén to settle Mhárani
 **To**: internal@esa.eu, willemsenfd@esa.eu, masegophi@esa.eu \
 **Sender**: lesenenaa@fsa.fi \
 **Subject**: Bëndén's request to settle Mharáni Desert in Eastern Kérisant
@@ -114,7 +114,7 @@ Lappland continues its operations, has any signal gotten back from the stability
 Have a good evening, \
 Alexis Lesenen.
 
-### 06-11-04 - Discovery of vital forests on Deónia
+### 06-11-2004 - Discovery of vital forests on Deónia
 **To**: internal@esa.eu, rosenqvistsp@fsa.fi \
 **Sender**: lesenenaa@fsa.fi \
 **Subject**: Discovery of vital forests on Deónia
@@ -130,7 +130,7 @@ Therefore, I would like to request a full stop regarding settlement plans on Sk�
 I will return to Geneva around June, until then, \
 Alexis Lesenen.
 
-### 12-02-05 - Green Light for exploration mission
+### 12-02-2005 - Green Light for exploration mission
 **To**: internal@esa.eu, willemsenfd@esa.eu \
 **Sender**: lesenenaa@fsa.fi \
 **Subject**: Exploration mission around Nóve Réjkjavik is greenlit
@@ -144,7 +144,7 @@ Please forward this to Jonathán, but give him the opportunity to go through int
 I hope to hear back from you soon, \
 Alexis Lesenen.
 
-### 13-02-05 - Jonathán agrees to training for exploration mission
+### 13-02-2005 - Jonathán agrees to training for exploration mission
 **To**: internal@esa.eu, lesenenaa@fsa.fi \
 **Sender**: willemsenfd@esa.eu \
 **Subject**: Re: Exploration mission around Nóve Réjkjavik is greenlit
@@ -158,7 +158,7 @@ I've forwarded his request to the ESA training centre, Jonathán has already gon
 This concludes all I had to say, have a good evening, \
 Frank Willemsen.
 
-### 08-07-05 - ELL-6 loses connection in Vao
+### 08-07-2005 - ELL-6 loses connection in Vao
 **To**: internal@esa.eu, lesenenaa@fsa.fi \
 **Sender**: masegophi@esa.eu \
 **Subject**: Lost connection with ELL-6
@@ -172,7 +172,7 @@ I don't believe we'll be able to recover ELL-6 in the near future, especially no
 See you on next week for the big day in Lyon, Alexis! It'll be great to catch up with you again personally. \
 Petrus Masego.
 
-### 16-05-06 - Akájune requests refurbishment of **Two**
+### 16-05-2006 - Akájune requests refurbishment of **Two**
 **To**: internal@esa.eu, lesenenaa@fsa.fi, masegophi@esa.eu \
 **Sender**: akaajuneam@esa.eu \
 **Subject**: Uncertainty regarding development of **Five**
@@ -197,7 +197,7 @@ I have forwarded your request internally within Geneva, and we have come to an a
 We hope to have satisfied you with this answer. \
 Alexis Lesenen, on behalf of the European Space Agency (ESA)
 
-### 23-02-09 - Vestian allocation begins, ELL-9 lands on Deónia
+### 23-02-2009 - Vestian allocation begins, ELL-9 lands on Deónia
 **To**: internal@esa.eu, lesenenaa@fsa.fi \
 **Sender**: masegophi@esa.eu \
 **Subject**: Vestian allocation and ELL-9
@@ -211,7 +211,7 @@ Either way, while **Three** made its way to Hédenis, Lander ELL-9 was launched 
 Until then, think we should plan a vacation ourselves to Thórirsant? Can't hurt taking a look for ourselves! \
 Petrus Masego.
 
-### 14-07-31 - ESA hands over space management to Hammerhead
+### 14-07-2031 - ESA hands over space management to Hammerhead
 **To**: 854 recipients \
 **Sender**: internal@esa.eu \
 **Subject**: Announcement of transferral to Hammerhead in Zhuehai

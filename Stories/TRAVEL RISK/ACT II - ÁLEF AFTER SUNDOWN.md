@@ -38,7 +38,7 @@ Maria complied immediately upon hearing her own name, and returned the pistol in
 
 ## NINE - Challenging Fate
 ### Synopsis
-**Raléi** and **Maria** teamed up together, and Maria's knowledge of the security systems and schedules of the Álef Metro gave the newly formed duo the upper hand in reaching and infiltrating a Dáritke stronghold. Even though Gustavo had died ten years ago, the legacy he left behind remained in the mysterious, grim agency, and it grew more and more akin to a mafia day by day. Raléi and Maria agree on the spot to take down Dáritke as a whole together, and with weapons loaded, they breach through the stronghold to make a stand.
+**Raléi** and **Maria** teamed up together, and Maria's knowledge of the security systems and schedules of the Álef Metro gave the newly formed duo the upper hand in reaching and infiltrating a Dáritke stronghold. Even though Gustavo had **died ten years ago** (*// requires a recalculation*), the legacy he left behind remained in the mysterious, grim agency, and it grew more and more akin to a mafia day by day. Raléi and Maria agree on the spot to take down Dáritke as a whole together, and with weapons loaded, they breach through the stronghold to make a stand.
 ## TEN - By a Hair's Width
 ### Synopsis
 Taking down an incredibly well-organised agency is much easier said than done, and Raléi and Maria narrowly escape from the freshly-infiltrated stronghold in Álef, leaving a target on the both of their heads for the rest of their lives.
