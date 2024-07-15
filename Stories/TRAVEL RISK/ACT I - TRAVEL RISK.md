@@ -82,15 +82,24 @@ Nils continued to read through the contract, and reaching the bottom of the page
 ## FOUR - New Faces, Same Antics
 ### Synopsis
 Nils is acquired by **The Agency**, and burns his bridges with **Dáritke**. Together with Raléi, he now begins protocol training and grows into his new role as management and netrunning. Meeting Omáti, the two get along very well and commence training together. This chapter will mostly encompass said training and introduce a bit of dialogue and showcase the personalities of the various characters.
+### Drafted layout
+*// Nils is introduced to the rest of the existing team within the Agency by Raléi, and learns that the team is rather small. He gets introduced to Omáti, a seasoned veteran with many years or military combat under his belt, who has retired from the Zakh'háfon military to aid others where possible. Together, the three go through the arsenal, and Nils is introduced to the basic procedures that The Agency undertakes during an interception mission. (Hint to REFRESH?)*
 
 ## FIVE - Where we left off
 ### Synopsis
+*// This synopsis is subject to change, as it no longer matches the current layout of ACT I* \
 Extracts [[LUCKY WATER#Drafted Story the uuuhh]]. \
-Getting along well with Omáti, the two go onto their first mission together in **Deth-Kelétam**, with the goal to complete a Lucky Water trade with a representative from **Vátnelári**.
+Getting along well with Omáti, the two go onto their first mission together in **Stéu-Khessi**\* (*// instead of Deth-Kelétam*), with the goal to complete a Lucky Water trade with a representative from **Vátnelári**\* (*// Potentially changing to Dáritke*). 
+
+### Drafted Layout
+*// Nils and Omáti travel to **Stéu-Khessi** together, and similarly to when Nils was interrupted during his mission, they interrupt another clueless middleman. Coincidentally, they meet another young person who was undergoing a similar mission that Nils was on before being intercepted by the two Agency guards. Halting the young person, Omáti explains the truth behind Dáritke to them, but they refuse to accept the invitation to instead burn bridged and join The Agency.*
 
 ## SIX - Familiar Foe 
 ### Synopsis
+*// This synopsis is outdated and subject to change.* \
 In his next mission, **Nils** is sent to receive a handover from **Dáritke** under supervision of Raléi and a representative from Dáritke. To Nils's surprise, the handover from Dáritke is brought out by Kasper and Antoine, which creates a troublesome situation. Especially now that Nils learned that Dáritke isn't the best agency to work under, with its agents being frequently exploited, he also came to learn that Antoine wasn't the best person in the world as a result, and their friendship and partnership was merely a fluke. Despite this, all ends well, and both parties decide to keep their mouth shut regarding this new information. Kasper too, keeps his mouth shut about Nils's defection to **The Agency**, which means **Mitch** does not learn about this, leading up to **RUDE REUNION**.
+### Drafted Layout
+*// Following a hint received from the intercepted middleman, Nils and Raléi find a trail and make their way to a location where **Kasper**, a manager under **Mitch**, is expected to complete a trade with a Vátnelári representative. However, Nils recognises a familiar person standing next to Kasper. It was nobody other than his old friend **Antoine**.*
 
 
 ## SEVEN - RUDE REUNION
