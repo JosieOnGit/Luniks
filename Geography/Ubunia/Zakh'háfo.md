@@ -24,6 +24,9 @@ Part of the **Álef city cluster**. Nódori had gone through several constructio
 - Nódori di Visízs
 ## Egórecë
 Part of the **Álef city cluster**.
+- Egórecë-Júgul
 ## Kristánisin
 Part of the **Álef city cluster**.
+## Osselev
+## Lóivitlán
 ## Dápos

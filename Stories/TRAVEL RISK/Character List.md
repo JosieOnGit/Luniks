@@ -53,7 +53,7 @@ Maria is very formal, and comes off as a very knowledgeable person. Even though 
 
 ## Niko Doberman
 Belonged to **Vátnelári** (Middleman). **Died in 2075** (Killed by Kasper in a Lucky Water trade).
-## Kasper Baird
+## Kasper Müller
 Belongs to **Dáritke** (Manager). 
 ## Mitch O'Well
 Belongs to **Dáritke** (Manager (Under owner)). 

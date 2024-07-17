@@ -22,7 +22,7 @@ Instead of a loud voice, the sound of a loud bang now passed through the alley, 
   
 *"I'll take my leave, if you have nothing to say."* She sighed. The man lowered his pistol in defeat, his finger leaving the trigger. **"H-How.. do you do.. such things?"** He stammered, his eyes following the figure of the woman that was walking past him, now having stopped beside him. She smirked, her crimson eyes gazing him directly into his soul as she formulated her reply with a smug expression on her face. *"You're slow, and you're predictable. Two steps separate us. You're one step behind, and I'm one ahead."* She laughed, breaking the staredown as she continued forward to walk out of the alley, into the open street.  
   
-*"Do me a favour. Tell Mitch that Maria is in Álef. He'll be stoked to hear that."*
+(!) *"Do me a favour. Tell Mitch that Maria is in Álef. He'll be stoked to hear that."*
 
 Still stunned, the guard looked behind him, only facing the back of the young woman turn around the corner. Deflated, and defeated, he sighs deeply, and finally walks forward out of the alleyway. 
 

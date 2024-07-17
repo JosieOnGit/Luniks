@@ -6,6 +6,17 @@
 - The reason the two **Alessi Shuttles** found themselves in **Cintura** has been explained in **2 - Addendum**. However, the **HSS** floating freely in **Cintura** is *not* yet mentioned, and will most likely see an appearance in either chapter **7** or **8**. *// June 30 note: This will be included in **6 - A Promise Kept**, once Maria returns to the bridge to inform Harold about the Alentikíles systems.*
  
 ## Unorganised Drafts
+### 16-07
+#### Valerie Sera
+**Final**: **Valerie Sera** is a Sirálian astrologist that is a frequently appearing character in the prequel and endings to **Reaching Beyond**, as the founder and keeper of the **Galleria Stellaria** in **Pahlatlán**. 
+
+**Valerie Sera** is a yet unused character that might see an appearance in either **Travel Risk** as a supporting character, or in **Reaching Beyond** as a background character. The aim primarily lies on the latter as of right now, as I'd like her to also be involved in the various designs of spaceships and space stations, either under **Hammerhead** or a company that does not exist yet. \  
+*// Hindsight: Probably will oversee the below noted **Galleria Stellaria** in Pahlatlán, aiding Maria in her research in the 2090s to explore planets beyond the Choreos system*  
+  
+**Simple factsheet**: Born **2067** in **Molo**, **Sirália**. Studied astrology in **Liavolta** before moving to Thórirsant to conduct research with the Némiskéi team. Ultimately, she founded the Galleria Stellaria as a foundation for her research and mapping of the galaxy.  
+#### Galleria Stellaria  
+The **Galleria Stellaria** is a planetarium located in **Pahlatlán**, overseen by **Valerie Sera**. The primary selling point of the Gallery is the self-titled "**Galleria Stellaria**", an enormous hall with interactive spots of light that show real-time positions of the various stars in the nearby galaxy. For explore solar systems, like **Sol** and **Choreos**, there are also interactive planetary revolutions simulated. Ultimately, the goal of the **Galleria Stellaria** is to conduct research in close partnership with the **ARC** to accurately point doen every star in their galaxy, finding points of interest for not just research, but also finding the next series of planets that might pose as a safe haven for humanity to settle on.
+### No date
 Maria's **Golden Bow**, as well as the rest of her future designed ships, would include a health backbone that she called *Alentikíles*, or *Alenti* for short. Raléi's last words continue to cycle through her head every single day, and her call for Maria to live onwards she respected, and evolved as a means through the health backbone in every ship. Even though Raléi wasn't around anymore, her wish would be immortalised as her namesake helped the crew and the ships stay in good shape, no matter what the problem or health issue would be.  
   
 **Cintura** was named by Raléi, too. The solar system had been off the radar almost as soon as Lúniks had been discovered, and with a quiet space race suppressing the desire to go even further, space research remained limited to just code names. Whereas Lúniks was 3 lightyears away from Earth, Cintura (then known as Messier-48) was a mere two lightyears away from Lúniks. \
