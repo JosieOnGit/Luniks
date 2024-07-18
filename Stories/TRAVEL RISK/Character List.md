@@ -72,7 +72,7 @@ HQ'ed in **Kristánisin** (Zakh'háfo). Recognised by **Blue/Turqouise** colouri
 HQ'ed in every city within Máneá and Zakh'háfo. Recognised by **Black & Silver** colouring.
 
 ## Vátnelári
-HQ'ed in **Egórece** (Zakh'háfo). Recognised by **Orange** colouring.
+HQ'ed in **Egórecë** (Zakh'háfo). Recognised by **Orange** colouring.
 
 ## Dragon Dancers
 HQ'ed in 
