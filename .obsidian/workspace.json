@@ -6,7 +6,7 @@
       {
         "id": "81f927cea75f4356",
         "type": "tabs",
-        "dimension": 48.26666666666667,
+        "dimension": 45,
         "children": [
           {
             "id": "29bafd1666ca053a",
@@ -79,26 +79,14 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ec0875070a5b4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/Reaching Beyond/Addendum - Drafts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "3b0732557f149020",
         "type": "tabs",
-        "dimension": 51.73333333333333,
+        "dimension": 55.00000000000001,
         "children": [
           {
             "id": "60e739eedfbe650d",
@@ -149,18 +137,19 @@
             }
           },
           {
-            "id": "a7a42e4cc732f3ff",
+            "id": "5ec0875070a5b4a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Ubunia/Máneá.md",
+                "file": "Stories/Reaching Beyond/Addendum - Drafts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/TRAVEL RISK/ACT I - TRAVEL RISK.md",
+                "file": "Stories/TRAVEL RISK/ACT II - ÁLEF AFTER SUNDOWN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,41 +243,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c59723148e2cabc",
+  "active": "7a07b01c996928a8",
   "lastOpenFiles": [
-    "Stories/TRAVEL RISK/Backstories.md",
     "Stories/TRAVEL RISK/ACT I - TRAVEL RISK.md",
-    "Stories/TRAVEL RISK/Spider's Web - Story.md",
-    "Geography/Ubunia/Máneá.md",
-    "Geography/Ubunia/Zakh'háfo.md",
-    "Geography/Ubunia/Thórirsant.md",
-    "Stories/Reaching Beyond/Routine Maintenance - ARC ver..md",
     "Stories/TRAVEL RISK/ACT II - ÁLEF AFTER SUNDOWN.md",
+    "Stories/TRAVEL RISK/Spider's Web - Story.md",
+    "Stories/Reaching Beyond/List of Spaceships.md",
+    "Stories/List of notable names.md",
     "Stories/Reaching Beyond/Addendum - Drafts.md",
     "Stories/TRAVEL RISK/Character List.md",
-    "Stories/Lúniks Timeline.md",
-    "Stories/Reaching Beyond/ARC - Story.md",
-    "Stories/Reaching Lúniks/E-Mails.md",
-    "Geography/Ubunia/Jóthul.md",
-    "Stories/List of notable names.md",
-    "Stories/Reaching Beyond/List of Spaceships.md",
-    "Stories/TRAVEL RISK/TRAVEL RISK.md",
-    "Stories/Reaching Beyond/Character List.md",
-    "Stories/GHOST TEMPLES/Journey - Snow.md",
-    "Stories/TRAVEL RISK/WHITEOUT - Story.md",
-    "Stories/TRAVEL RISK/GHOST - Story.md",
+    "Stories/Leremkov Trials/Vitaly Leremkov, 2039-2095.md",
+    "Geography/Ubunia/Thórirsant.md",
+    "Geography/Ubunia/Mharáni Republic.md",
+    "Geography/Vestia/Zhuehai.md",
+    "Geography/Vestia/Vao.md",
     "Stories/TRAVEL RISK/Drafted Stories.md",
-    "Geography/Ubunia/Ellitróómi.md",
-    "Temporary drafts.md",
-    "Stories/TRAVEL RISK/HEAD TO HEAD - Story.md",
-    "Geography/List of Nations.md",
+    "Geography/Vestia/Sirália.md",
+    "Geography/Vestia/Mónsan Republic.md",
+    "Geography/Vestia/Kostanzá.md",
+    "Geography/Vestia/Kingdom of Álusken.md",
+    "Geography/Vestia/Hédenis.md",
+    "Geography/Vestia/Denmark.md",
+    "Geography/Vestia/Benelux.md",
+    "Geography/Ubunia/Zakh'háfo.md",
+    "Geography/Ubunia/Rhódisz.md",
+    "Geography/Ubunia/Máneá.md",
+    "Geography/Ubunia/Léjtis.md",
+    "Geography/Ubunia/Kérisant.md",
+    "Geography/Ubunia/Jóthul.md",
+    "Geography/Luniks map (5).png",
     "Pasted image 20240625141512.png",
     "Stories/Reaching Beyond",
     "Pasted image 20240611143751.png",
     "Geography/North-America Map.png",
     "Pasted image 20240529145847.png",
     "Pasted image 20240521220729.png",
-    "Geography/Luniks map (5).png",
     "Pasted image 20240430223351.png",
     "Geography/Luniks map.png",
     "Geography/Luniks map.png",
