@@ -30,7 +30,7 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **TEN**: By a Hair's Width
 - **ELEVEN**: What Hides Under Álef
 - **TWELVE**: TARGETING // TARGETED
-- **THIRTEEN**: AT ONE'S WITS' END // ONE LAST STAND
+- **THIRTEEN**: ONE LAST STAND
 - **EPILOGUE**: Álef At Dawn
 
 ### TRAVEL RISK (ACT 1)

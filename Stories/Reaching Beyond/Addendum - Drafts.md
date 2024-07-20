@@ -12,18 +12,18 @@
 
 **Valerie Sera** is a yet unused character that might see an appearance in either **Travel Risk** as a supporting character, or in **Reaching Beyond** as a background character. The aim primarily lies on the latter as of right now, as I'd like her to also be involved in the various designs of spaceships and space stations, either under **Hammerhead** or a company that does not exist yet. \  
 *// Hindsight: Probably will oversee the below noted **Galleria Stellaria** in Pahlatlán, aiding Maria in her research in the 2090s to explore planets beyond the Choreos system*  
-  
+
 **Simple factsheet**: Born **2067** in **Molo**, **Sirália**. Studied astrology in **Liavolta** before moving to Thórirsant to conduct research with the Némiskéi team. Ultimately, she founded the Galleria Stellaria as a foundation for her research and mapping of the galaxy.  
 #### Galleria Stellaria  
 The **Galleria Stellaria** is a planetarium located in **Pahlatlán**, overseen by **Valerie Sera**. The primary selling point of the Gallery is the self-titled "**Galleria Stellaria**", an enormous hall with interactive spots of light that show real-time positions of the various stars in the nearby galaxy. For explore solar systems, like **Sol** and **Choreos**, there are also interactive planetary revolutions simulated. Ultimately, the goal of the **Galleria Stellaria** is to conduct research in close partnership with the **ARC** to accurately point doen every star in their galaxy, finding points of interest for not just research, but also finding the next series of planets that might pose as a safe haven for humanity to settle on.
 ### No date
 Maria's **Golden Bow**, as well as the rest of her future designed ships, would include a health backbone that she called *Alentikíles*, or *Alenti* for short. Raléi's last words continue to cycle through her head every single day, and her call for Maria to live onwards she respected, and evolved as a means through the health backbone in every ship. Even though Raléi wasn't around anymore, her wish would be immortalised as her namesake helped the crew and the ships stay in good shape, no matter what the problem or health issue would be.  
-  
+
 **Cintura** was named by Raléi, too. The solar system had been off the radar almost as soon as Lúniks had been discovered, and with a quiet space race suppressing the desire to go even further, space research remained limited to just code names. Whereas Lúniks was 3 lightyears away from Earth, Cintura (then known as Messier-48) was a mere two lightyears away from Lúniks. \
 Raléi and Maria, when not in combat, would stargaze together, and after Maria admitting she had a dream of exploring the stars, she coincidentally pointed at the Messier-48 star, daring Raléi to come up with a name for it. Ever since, Cintura was born, and Maria would do anything in her might to immortalise the name.  
-  
+
 Raléi truly meant the world to Maria. Wherever possible, she would honour her wishes she had made before her death, and continue her legacy even if it meant stepping out of line or abandoning a passionate project. The **Golden Bow** is even a namesake to Raléi, who had frequently mentioned to love the versatility and shine of gold, and had revealed to have a deep interest in archery, too.  
-  
+
 In 2096, having made the promise to never let another life go to waste, she told her own reflection to fight through the worst, no matter how much her mind or body protested against it. While in the Cintura galaxy, and witnessing the wreck of the Silver Pike, it took her a mental breakdown to get back to her senses, and to realign her mind with her goals and promises. Even after Harold would tell her about the loss of life, her mission wouldn't change. Every single person that was still alive, injured or not, would make it back home safe.
 
 Notes to consider (Although unrelated to Routine Maintenance specifically):

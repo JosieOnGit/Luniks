@@ -15,6 +15,7 @@ After a sudden split from United Máneá, Ákros was left in a fallen, newly for
 Álef is the biggest city in the **Álef city cluster**. Many other cities are connected continuously through an automated metro system, which continued to provide service even long after the collapse of **United Máneá**.
 
 - Czerébti
+- Siftka
 ## Nódori
 Part of the **Álef city cluster**. Nódori had gone through several construction stages in the span of just a few years, creating a central district that was outdated a mere 5 years after completion. Because of this, Nódori is divided up into five districts:
 - Ald-Nódori (Old Nódori)
