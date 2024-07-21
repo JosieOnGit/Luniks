@@ -67,6 +67,8 @@ Tracing the walls, Maria began to warm up into what she once considered her home
 *// Maria and Raléi manoeuvre swiftly through the backalleys and halls of the Álef Metro, her knowledge shining brightly and her experience granting them a sliver of hope, and a stroke of luck. Eavesdropping on the various Dáritke mercenaries, the two ambush and intercept a group unexpectedly to stock up. With restocked arms and confidence, the two begin a new approach: Targeting those are targeting them, and working their way into Dáritke as such, to take them down from the bottom up.*
 ### Targeting
 *// Maria and Raléi successfully ambush a mercenary group that they caught off guard in Szebta, and successfully stock back up.*
+
+
 ### Targeted
 *// Lightning doesn't strike twice, and reaching the lower levels of the station near Siftka where Maria had seen mercenaries before during her observance over the Álef Metro, the two decide to try and ambush this group too to guarantee their stocks and escape away from Zakh'háfo. But instead, they are met with a much greater retaliating force and suffer a combat situation, leaving Raléi heavily wounded. The two are forced to retreat and lose their prized belongings that they hadn't had for longer than a day, and closing a security vault behind her, Maria guides Raléi away from the mercenaries, setting course towards Nórem to rest and recover before their last stand.*
 
