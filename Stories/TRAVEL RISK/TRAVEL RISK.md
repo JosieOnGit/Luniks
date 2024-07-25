@@ -16,29 +16,29 @@ The main storyline follows **Nils** and his integration into **The Agency** unde
 
 The Agency disbands shortly after. Their goals of helping the people in the fallen nations of Máneá was now left without its leader, and neither Nils, Omati, or Maria, wanted to take the risk of receiving a bounty on their head simply for taking Raléi's seat left vacant. 
 #### Chapters outline: ACT I - TRAVEL RISK
-- **PROLOGUE**: Rules Remain Rules
-- **ONE**: TRAVEL RISK
-- **TWO**: Into the Unknown
-- **THREE**: Youngblood
-- **FOUR**: New Faces, Same Antics
-- **FIVE**: Where we left off
-- **SIX**: Familiar Foe
-- **SEVEN**: Rude Reunion
+- **PROLOGUE**: Rules Remain Rules (**Touchups necessary**)
+- **ONE**: TRAVEL RISK (**Completed**)
+- **TWO**: Into the Unknown (**Completed**)
+- **THREE**: Youngblood (**Touchups necessary**)
+- **FOUR**: New Faces, Same Antics (**Started**)
+- **FIVE**: Where we left off (**Drafted**)
+- **SIX**: Familiar Foe (**Drafted**)
+- **SEVEN**: Rude Reunion (**Touchups necessary**)
 #### Chapters outline: ACT II - ÁLEF AFTER SUNDOWN
-- **EIGHT**: Álef After Sundown
-- **NINE**: Challenging Fate
-- **TEN**: By a Hair's Width
-- **ELEVEN**: What Hides Under Álef
-- **TWELVE**: TARGETING // TARGETED
-- **THIRTEEN**: ONE LAST STAND
-- **EPILOGUE**: Álef At Dawn
+- **EIGHT**: Álef After Sundown (**Touchups necessary**)
+- **NINE**: Challenging Fate (**Drafted**)
+- **TEN**: By a Hair's Width (**Touchups necessary**)
+- **ELEVEN**: What Hides Under Álef (**Touchups necessary**)
+- **TWELVE**: Targeting // Targeted (**Touchups necessary**) 
+- **THIRTEEN**: One Last Stand (**Touchups necessary**)
+- **EPILOGUE**: Álef At Dawn (**Completed**)
 #### Chapters outline: ACT III - THE ROAD HOME
-- **FOURTEEN**: Ground Zero // The Road Home
-- **FIFTEEN**: Breathe In
-- **SIXTEEN**: And Out
-- **SEVENTEEN**: Wishes Granted
+- **FOURTEEN**: Ground Zero // The Road Home (**Touchups necessary**)
+- **FIFTEEN**: Breathe In (**Drafted**)
+- **SIXTEEN**: And Out (**Drafted (poorly)**)
+- **SEVENTEEN**: Wishes Granted (**Drafted**)
 
-### TRAVEL RISK (ACT 1)
+### TRAVEL RISK (ACT I)
 Available at [[ACT I - TRAVEL RISK]]. \
 Following a history of shady businesses and shady transactions, **Nils Lorieux** achieves his dream of fullfilling the wish of his parents: Moving back to France. But now living on his own in the ever worsening living standards of Máneá, he stumbles upon **Antoine Russeau**, who was given the exact same mission as Nils. Teaming up, Antoine introduces him to **Dáritke** after a number of weeks, where Nils is assigned to a delivery mission to Egórecë. During this mission, he was instead captured by members of **The Agency**, where he was promptly invited to cross over from Dáritke. Without a doubt, he burns his bridges with Dáritke, but from one Agency into another, the troubles don't disappear.
 ### ÁLEF AFTER SUNDOWN (ACT II)
@@ -46,7 +46,7 @@ Available at [[ACT II - ÁLEF AFTER SUNDOWN]]. \
 With tensions having risen between **Dáritke** and **The Agency** after the *Kristensend Ball*, **Raléi** reunites with **Maria Limáida** in the streets of **Álef**, who was busy intercepting a package herself. Striking up a conversation, the two find themselves with similar goals: Take down the growing control of Dáritke on Zakh'háfo, and destroy it from inside out. 
 ### THE ROAD HOME (ACT III)
 Available at [[ACT III - THE ROAD HOME]]. \
-Raléi is dead, and The Agency has collapsed as a result. But for the sake of the remaining members, Maria takes the dangerous journey back home to Jóthul via the capital, Ákros, to inform Omáti and Nils about the gruesome fate that she faced. Once home, her emotions take control over her, but keeping her head up, she sets course to Zhuehai to achieve the dreams that Raléi no longer can.
+**Raléi** is dead, and **The Agency** has collapsed as a result. But for the sake of the remaining members, **Maria** takes the dangerous journey back home to **Jóthul** via the capital, **Ákros**, to inform **Omáti** and **Nils** about the gruesome fate that she faced. Once home, her emotions take control over her, but keeping her head up, she sets course to **Zhuehai** to achieve the dreams that Raléi no longer can.
 ### WHITEOUT
 Available at [[WHITEOUT - Story]]. \
 When technology can't bring you beyond the top, what is there next to try? With an eye for precision and an eye for perfection, any target that landed in her sights was a dead one, but desperate to climb the ladder and go beyond her capabilities, she seeks out a blend between Leremkov and her Neurotech, one that was provided by **Dominico**, a close contact of *Leremkov*. Completing her transformation and adapting at ease, she lands her first shot beyond 5km with ease, meaning her ceiling just increased thousandfold.

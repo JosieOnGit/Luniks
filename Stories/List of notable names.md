@@ -49,17 +49,7 @@ Only a couple of cargo services by ship exist throughout all of Lúniks. This is
 ## Álusken-Thórirsant Ferry
 A ferry (rather, a cruise ship) connects the two continents of Ubunia and Vestia, providing a ferry both ways every 3 hours. 
 
-
-# Common Brands
-## Esti
-**Esti** is a worldwide supermarket chain that originated in **Thórirsant**, and has tagged along with every new nation that sprung up ever since the settlement of Lúniks, to become the backbone of every newly developing nation. 
-
-## Norden Supermarkets
-Prominent in the north of Álusken (Hence the name **Norden**) is **Norden Supermarktir**, which have been established soon after the handover from *Queen Álusken I's* reign to that of *King Álusken II*, who then attempted to get rid of every sort of modern service since the start of his reign. In a desperate attempt to survive, Norden opened its first few markets in the south of **Vao**, and once it became clear that the plans that King Álusken II had made would be limited to within the boundaries of the capital, Norden quickly returned to the north of Álusken, where it has since outgrown its competitors.
-
-## Swipe
-Cornerstore. *// Proper description is due.*
-
+# Research Institutes
 ## Hammerhead Industries
 **Hammerhead** is a Vestian industry appliances manufacturer, who is best known for snowballing the expansion and normalisation of the settlement of Vestia, soon after the borders were drawn upon landing on Lúniks. 
 ### History
@@ -100,12 +90,29 @@ After the **Collapse of Kósfrii** and the creation of the **Kósfrii** and **J�
 In **2080**, this leads to the creation of the **Carbine Research Institute** based in **Némiskéi**, which promptly created various research shuttles that would be launched for repeated research on the surrounding planets of Lúniks. Most notably is the **Platinum Halbert**, launched in **2093**, that has been shuttling between **Dvóniks** and **Lóivonus**, passing by Lúniks for routine checkups and interchanging data. 
 
 By **2096**, the research that is being conducted by the **Platinum Halberd** and **Silver Pike** has been mostly directed to determining whether or not it is viable for humanity to settle **Mars** or **Dvóniks** while utilising the nearest gas planets, **Jupiter** and **Lóivonus**, respectively. Additionally, the two enormous spaceships have been test benches for various space technologies that are actively in development by Carbine, as well as giving room for other industries to utilise the existing space on the ships to commence their own research. 
-
 #### Known Spaceships
 This list has moved to [[List of Spaceships]].
 
+## Moonlight Institute
+This institute as a story component is currently in a startup stage. A proper description is due. It will most likely be placed near **Némiskéi** and **Pahlatlán** to complete the science districts. This means that the city of **Ljívk** may undergo a slight rewrite to suit this goal. \
+Subsidiaries/daughter branches:
+- **Moondial**: Much like **Hammerhead** and **Carbine**'s **CRI**, Moondial is a space research institute that is actively developing spaceships and -stations to conduct various means of research of the current known galaxy. While (as of **2096**) Hammerhead has been keeping its focus on commercial spacecraft and research, and Carbine has been eyeing terraforming the settled systems of **Sol** and **Choreos**, Moondial has been laying its eyes especially on **Cintura**, which had been relatively off the charts until **2095** specifically. 
+- **Lightcone**: Subsidiary created to master the wormhole technologies that had been used since 1999, which would allow humanity to reach other solar systems faster, and more efficiently.
+- **Starlight**: A sister branch created to research the possibilities of creating a **Dyson Sphere** around either **Sol** or **Choreos**. While **Carbine**'s goals to master nuclear fusion technology already seemed overly ambitious, Moonlight's **Starlight** project would make the former seem reasonable.
+
 ## Ódóni Industries
 Once based in **United Máneá**, **Ódóni** supplied the technologies that were needed for research in **Amadnésam**. After the collapse of **United Máneá**, Ódóni fled to **Rhódisz**, together with a number of other industries and companies in hopes to escape from the collapsing economy and increasing crime rates. The Ódóni tower, where the research once took place, was locked down, but since **2062**, it has been reactivated, and has since been the centre of **Neurokick** production.
+
+
+# Common Brands
+## Esti
+**Esti** is a worldwide supermarket chain that originated in **Thórirsant**, and has tagged along with every new nation that sprung up ever since the settlement of Lúniks, to become the backbone of every newly developing nation. 
+
+## Norden Supermarkets
+Prominent in the north of Álusken (Hence the name **Norden**) is **Norden Supermarktir**, which have been established soon after the handover from *Queen Álusken I's* reign to that of *King Álusken II*, who then attempted to get rid of every sort of modern service since the start of his reign. In a desperate attempt to survive, Norden opened its first few markets in the south of **Vao**, and once it became clear that the plans that King Álusken II had made would be limited to within the boundaries of the capital, Norden quickly returned to the north of Álusken, where it has since outgrown its competitors.
+
+## Swipe
+Cornerstore. *// Proper description is due.*
 
 ## Bottleneck Brewery 
 Troubleshooting tech, the way you know and like it. **Bottleneck** was created by two friends who were troubleshooting their home office computer, and discovered that it was being severely bottlenecked by the memory that was installed on the board. From one thought process into the next, they cracked open a beer while optimising their issue, and the rest was history.

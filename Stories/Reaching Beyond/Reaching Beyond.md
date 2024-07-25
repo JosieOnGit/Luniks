@@ -17,4 +17,12 @@ Both **Hammerhead** and **Carbine** have seen an increase in the exploration of 
 Available at [[ARC - Story]]. The **ARC**, **Advanced Research for Carbine**, is an enormous space station in orbit of Lúniks, which serves as a control hub for space traffic for outbound research being conducted on other planets and moons, but also serves as a research station for research regarding experimental practices. The story of the **ARC** follows **Maria Limáida** and **Thomas Vanhuyt** in their design process, the hunt for funding, up until the eventual inauguration of the ARC not even two years after the project began. 
 
 ### Routine Maintenance (ARC ver.)
-Available at [[Routine Maintenance - ARC ver.]]. 
+Available at [[Routine Maintenance - ARC ver.]]. \
+*// A proper synopsis is due.* \
+#### Chapters outline:
+- **1 -** : Closing the loop (**Started, halfway**)
+- **2 -** : Light's out (**Touchups needed**)
+- **3 -** : Light's out II (**Touchups needed**)
+- **4 -** : No second chances (**Touchups needed**)
+- **5 -** : The grimness of it all (**Touchups needed**)
+- **6 -** : To salvage the remains (**Started**)

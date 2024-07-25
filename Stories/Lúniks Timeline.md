@@ -85,18 +85,27 @@ Later this year, the **Illinois Tower** opens, serving home to the majority of t
 ## 2067 - Mars settlement projects begin
 With a completed lunar colony, the **ESA** now sets its eyes to the neighbouring planet of Earth: **Mars**. 
 
-## 2071 - Choreos-RP-3 settlement projects begin
-The century-long journey and mission of settling an exoplanet never really reached an end. While **Lúniks**, **Choreos-RP-4**, originally was the main mission goal to reach and settle, the journey didn't end there. In **2071**, long after the first spaceships had landed on Lúniks, **Hammerhead Shánzhe** set its eyes to Lúniks's sister planet, **Choreos-RP-3**, which had originally been mined and excavated in order to build **Alkéisa's Ring**. After further research, the Hammerhead team learned that despite the intensive mining having taken place, it still seemed in prime condition to support life, and now that Lúniks had been settled successfully and is thriving, the next chapter seems to draw closer.
+## 2071 - Dvóniks settlement projects begin
+The century-long journey and mission of settling an exoplanet never really reached an end. While **Lúniks**, **Choreos-RP-4**, originally was the main mission goal to reach and settle, the journey didn't end there. In **2071**, long after the first spaceships had landed on Lúniks, **Hammerhead Shánzhe** set its eyes to Lúniks's sister planet, **Dvóniks**, which had originally been mined and excavated in order to build **Alkéisa's Ring**. After further research, the Hammerhead team learned that despite the intensive mining having taken place, it still seemed in prime condition to support life, and now that Lúniks had been settled successfully and is thriving, the next chapter seems to draw closer.
 
 ## 2073 - Kósfrii Nuclear accident occurs
-In late **2073**, during the *Spider's Web* project that was being developed in secret by **Carbine**, the nuclear reactor that provided power towards the *Nuclear Fusion Project* experienced a meltdown and subsequent explosion in the span of mere seconds. Where they had hoped to crack the code to efficient energy for experimental weaponry, the worst outcome came as a surprise to Carbine, and in the following months, the **Kósfrii** and adjacent **Jánhul Exclusion Zones** were created as a result of the radiation being emitted from the remains of the reactor. For the rest of the decade, Carbine laid down its work as a result of the accident and wouldn't engage in any new projects until the early **2080**s.
+In late **2073**, during the *Spider's Web* project that was being developed in secret by **Carbine**, the nuclear reactor that provided power towards the *Nuclear Fusion Project* experienced a meltdown and subsequent explosion in the span of mere seconds. Where they had hoped to crack the code to efficient energy for experimental weaponry, the worst outcome came as a surprise to Carbine, and in the following months, the **Kósfrii Exclusion Zones** were created as a result of the radiation being emitted from the remains of the reactor. For the rest of the decade, Carbine laid down its work as a result of the accident and wouldn't engage in any new projects until the early **2080**s.
 
 A story regarding the details of this incident will be written in [[Spider's Web - Story]].
+
+## 2075 - Álef Crisis occurs after the Kristensend Ball
+Throughout **2075**, frequent clashes between Kristánisin's Agency and Máneá's Dáritke occurred in the heart of Álef. What would start as frequent clashes without many left wounded lightly or fatally, tensions quickly rose after **Dáritke**'s **Mitch O'Well** disturbed the Kristensend Ball in **June**. Ever since, the clashes occurred almost daily, and reached its peak in the **Álef-Nórem Bombing**, resulting in the collapse of Kristánisin's Agency.
+
+## 2078 - Kósfrii domes completed
+In early **2078**, the **Kósfrii** domes complete their construction and installation above the reactors in Kósfrii that had melted down during the **Spider's Web** in **2073**. 
+
+## 2080 - Carbine Research Institute is founded
+After almost a decade without work, the remains of the **Carbine** team in **Némiskéi** was itching to return to work and created the **CRI**, returning to **Pahlatlán** to embark on a space-faring exploration journey.
 
 ## 2094 - Alessi Shuttles enter service
 In a haphazard shift in directions for **Carbine**, their ambitions had changed from experimental weaponry to experimental technologies and the development of space-faring technologies. By **2094**, under the guidance of **Maria Limáida**, several ships had already been launched and had been used in service for planetary research. In **2094**, the **Platinum Halberd** would join its sister ship, the **Silver Pike**, in the research through the **Alessi Belt**, passing by the gas planet of Lóivonus and harvesting its energy to deploy it near the planet of Dvóniks, to research whether it would be possible to ease the stress on existing technologies and instead utilise the existing energy of a nearby gas planet to help terraform the barren rock planet of Dvóniks. This research would then also be of use in the conceptualised **Terraformation** and **Settlement of Mars**.
 
-## 2096 - The ARC is activated
+## 2096 - Carbine's ARC is activated
 After an intensive two years of development, the last piece of the puzzle to create the **ARC** (**Advanced Research for Carbine**) was put into place, and the incredible space station was activated. The magnum opus of Carbine now floated freely in space, giving room for various developments and research projects that took place in space, while also providing a temporary hub for various ships, from Carbine themselves or other industries, to stop by momentarily as well. 
 
 
@@ -106,7 +115,6 @@ Described in [[Kérisant#Kérisant-Civem (Capital)]] the first wave of the Lunik
 
 ### Second wave of the Luniksan revolution (2022-2032)
 The second wave of Luniksan revolution was mostly aimed at building more sustainably, while also creating much more homes and places of comfort for the ever-growing planet of Luniks. Cities doubled in size almost every year, which meant the planet needed rapid action, but also rapid construction. This second wave of Luniksan building caused a spike in architecture, as function was paired with form, creating a set of futuristic but desolate spaces with enormous appartement complexes and towers in the second ring of cities. This revolution slowed down again in around 2030, as the influx of new inhabitants also decreased. 
-
 
 ### Modern Luniks (2032-)
 **Modern Luniks** is described as the period after the various cities and nations were formed and founded, and every territory had been laid out in peace. The enormous economic boom that took place in the founding ~30 years reaches an end, and normality, similar to that on Earth, begins.
