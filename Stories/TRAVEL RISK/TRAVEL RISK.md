@@ -16,10 +16,10 @@ The main storyline follows **Nils** and his integration into **The Agency** unde
 
 The Agency disbands shortly after. Their goals of helping the people in the fallen nations of Máneá was now left without its leader, and neither Nils, Omati, or Maria, wanted to take the risk of receiving a bounty on their head simply for taking Raléi's seat left vacant. 
 #### Chapters outline: ACT I - TRAVEL RISK
-- **PROLOGUE**: Rules Remain Rules (**Touchups necessary**)
+- **PROLOGUE**: Rules Remain Rules (**Completed**)
 - **ONE**: TRAVEL RISK (**Completed**)
 - **TWO**: Into the Unknown (**Completed**)
-- **THREE**: Youngblood (**Touchups necessary**)
+- **THREE**: Youngblood (**Completed**)
 - **FOUR**: New Faces, Same Antics (**Started**)
 - **FIVE**: Where we left off (**Drafted**)
 - **SIX**: Familiar Foe (**Drafted**)
@@ -36,7 +36,7 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **FOURTEEN**: Ground Zero // The Road Home (**Touchups necessary**)
 - **FIFTEEN**: Breathe In (**Drafted**)
 - **SIXTEEN**: And Out (**Drafted (poorly)**)
-- **SEVENTEEN**: Wishes Granted (**Drafted**)
+- **SEVENTEEN**: Wishes Granted (**Started**)
 
 ### TRAVEL RISK (ACT I)
 Available at [[ACT I - TRAVEL RISK]]. \

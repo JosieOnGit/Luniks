@@ -183,4 +183,4 @@ She rushed towards her door, freezing in place for just another moment as she lo
 
 *"I thought it was debris."* Maria began, hissing at the thought of seeing the HSS ever again after all these years. *"It'd been abandoned, it's stuffed with toxic gas. Why is it, here?"* \  
 Harold kept his professional and stern expression on his face. The friendly and relaxed person he usually was, was now stowed away in favour of his more serious and focused self. **"It still seems abandoned."** He said, looking out towards the enormous shadow of a ship behind the two Alessi Shuttles. **"That's not the matter at hand now. Life systems, you said?"** \
-Maria nodded, still recovering her breath. *"There should be, unless Thomas discarded my safety designs, which I doubt."* She began, sighing deeply before continuing. *"Otherwise we wouldn't be here in Cintura."* \
+Maria nodded, still recovering her breath. *"There should be, unless Thomas discarded my safety designs, which I doubt."* She began, sighing deeply before continuing. *"If he had, we wouldn't be here in Cintura."* \

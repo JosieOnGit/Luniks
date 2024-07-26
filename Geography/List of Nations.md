@@ -82,7 +82,6 @@ Soon after **Ubunia** was officially settled and divided up into several zones w
 
 # Skádia
 With the counter-clockwise pattern of partitioning the four continents, **Skádia** would be up next to give way to young nations after **Vestia**.
-
 ## Emyria
 
 ## Náhrekv

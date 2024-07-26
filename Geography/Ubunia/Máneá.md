@@ -11,6 +11,8 @@ Together with Zakh'háfo, Máneá entered a similar economic recession quickly a
 Frequently dubbed as the "Capital of drugs", Deth-Kelétam served home to illegal trade soon after the collapse of Máneá, and its deteriorated automated transport system still chugs along to this day, giving way to every sort of illegal trade in broad daylight. 
 ## Amadnésam
 Before the collapse of **United Máneá**, Amadnésam was considered the research capital of Máneá, a title it retained after the collapse for another few years, but inevitably lost after the economy plummeted not too long after. The city had been divided into several zones, which included various residential zones, an economic district, and research/science districts, all connected through a tightly woven metro network. 
+
+*// Together with **Akhádija** and **Myddliva**, it may see a new story purpose that takes place soon after [[Routine Maintenance - ARC ver.]]. This is still in a starting phase, however, and is subject to change.*
 ## Akhádija
 ## Myddliva
 ## Ni-Ávim
