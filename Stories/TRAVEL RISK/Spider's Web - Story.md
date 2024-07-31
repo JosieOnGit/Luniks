@@ -79,3 +79,9 @@ Karim pressed his hand against Maria's shoulder, tapping it gently and kneeling 
 Karim remained silent, and following the gentle movement of Maria's hand, he continued to stare in awe. *"Maybe it's a gift from the universe to me, or maybe I'm just imagining things."* She giggled, lowering her hand onto her thigh as she smiled at Karim's awed expression. 
 
 *"That's just one of many mysteries I've yet to solve."*
+
+## 5 - Of what once was
+### Drafted Synopsis
+*// Having spent a few years with Carbine's Team in Shánzhe under Hammerhead's supervision, Maria's old research team gets invited back to Kósfrii to witness the Kósfrii dome complete its installation. During her travel, she somehow caught Leremkov. This chapter should be a lighthearted nod to that, offering a means of reunion with the remains of the team, and also give a lead into **Routine Maintenance** and **Carbine's ARC project** later on. Additionally, Maria has been working overtime in Láizhe, a nearby city of Shánzhe, to get a universal agreement on her proposed naming schemes for the planets in the nearby **Messier-48** system, proposing Raléi's name of **Cintura**, along with names for planets. The chapter should nod to that too.*
+### February 7th, 2078
+

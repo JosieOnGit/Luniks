@@ -20,13 +20,13 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **ONE**: TRAVEL RISK (**Completed**)
 - **TWO**: Into the Unknown (**Completed**)
 - **THREE**: Youngblood (**Completed**)
-- **FOUR**: New Faces, Same Antics (**Started**)
-- **FIVE**: Where we left off (**Drafted**)
-- **SIX**: Familiar Foe (**Drafted**)
+- **FOUR**: New Faces, Same Antics (**Incomplete, started**)
+- **FIVE**: Where we left off (**Incomplete, drafted**)
+- **SIX**: Familiar Foe (**Incomplete, drafted**)
 - **SEVEN**: Rude Reunion (**Touchups necessary**)
 #### Chapters outline: ACT II - ÁLEF AFTER SUNDOWN
 - **EIGHT**: Álef After Sundown (**Touchups necessary**)
-- **NINE**: Challenging Fate (**Drafted**)
+- **NINE**: Challenging Fate (**Incomplete, drafted**)
 - **TEN**: By a Hair's Width (**Touchups necessary**)
 - **ELEVEN**: What Hides Under Álef (**Touchups necessary**)
 - **TWELVE**: Targeting // Targeted (**Touchups necessary**) 
@@ -34,9 +34,9 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **EPILOGUE**: Álef At Dawn (**Completed**)
 #### Chapters outline: ACT III - THE ROAD HOME
 - **FOURTEEN**: Ground Zero // The Road Home (**Touchups necessary**)
-- **FIFTEEN**: Breathe In (**Drafted**)
-- **SIXTEEN**: And Out (**Drafted (poorly)**)
-- **SEVENTEEN**: Wishes Granted (**Started**)
+- **FIFTEEN**: Breathe In (**Incomplete, drafted**)
+- **SIXTEEN**: And Out (**Incomplete, drafted (poorly)**)
+- **SEVENTEEN**: Wishes Granted (**Incomplete, started**)
 
 ### TRAVEL RISK (ACT I)
 Available at [[ACT I - TRAVEL RISK]]. \

@@ -10,7 +10,5 @@ Despite the loss of the province of Vao, Zhuehai still flourished and grew expon
 ## Tsechung la Porta
 ## Shánzhe
 ## Liánzhulie
-
 ## Láizhe
-
 ## Chuonshiéle

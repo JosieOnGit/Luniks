@@ -1,4 +1,4 @@
-# Moonlight Industries
+# Moonlight Institute
 This is currently in a drafted stage, much is subject to change.
 ### Rough outline
 - Managed/overseen by **Petra Vilassa** in **Ljívk**.

@@ -10,13 +10,19 @@
 
 ## Hammerhead Industries
 ### Jangxi Design
-- **001**. **Hammerhead Satellite Ship** (**HSS**): Originally launched in **2040**, this ship was meant to slowly travel towards the nearest solar system and analyse various planets on its course, developing and deploying satellites on-site, and being self-sufficient enough for several generations to survive. It would return in **2078**, and undergo renovation and refurbishment, before it would be sent to its next solar system: **Cintura**. Due to the costs of its refurbishment, however, it had a critical ventilation and pressure failure soon after re-entering space, and after accidentally getting swung out of orbit towards Cintura, it was evacuated and deemed a total loss, and declared space debris.
+- **001**. **Hammerhead Satellite Ship** (**HSS**): Originally launched in **2040**, this ship was meant to slowly travel towards the nearest solar system and analyse various planets on its course, developing and deploying satellites on-site, and being self-sufficient enough for several generations to survive. It would return in **2080**, and undergo renovation and refurbishment, before it would be sent to its next solar system: **Cintura**. Due to the costs of its refurbishment, however, it had a critical ventilation and pressure failure soon after re-entering space, and after accidentally getting swung out of orbit towards Cintura, it was evacuated and declared a total loss, ultimately becoming no more than space debris.
 ### Vanhuyt-Limáida-Miyidkov Design 
 - **020**. **Józiská**: The **Józiská** (*lit. (translation due)*) is an exploration ship designed in **2077** that was intended to keep the dream of space exploration alive. It was designed with the original **Exploration Ships**, designed by **Aélu Akájune** all the way back in **2003**. Despite this dream, the **020** would remain the only ship in its generation, and the mission it was to carry would carry over to the **Pozecë** ships and future ships under **Carbine**.
 - **034**. **Pozecë 4**: A lightweight ship that was designed in a range of **10** ships in total to explore new ways to connect Earth and Lúniks, but also to connect Lúniks to her moon, Lumen. 
 ### Battista-Yavszi Design
 - **COSMOS**: Hammerhead's **COSMOS** space station would directly rival Carbine's **ARC**, after having witnessed its success. Although the two industries worked together in order to create the ARC, COSMOS would be designed entirely in-house, pushing limits and reinventing boundaries time and time again during development of the enormous space station. It's aimed to be built and activated in early **2098**, and to avoid interference, it would float to the polar opposite of the ARC in orbit, allowing both industries to conduct research without getting in one another's way.
 - **VOID**: Aimed to be launched in late **2096**, the **VOID** spaceship would make its way towards the nearest black hole, **Gaia BH-1**. Its size would be comparable to the **001**, as well as the original Settlement Ship **One**, which launched in **2005**. It would be an immense and primarily automated journey into a galaxy 1500 lightyears away, and the ship is designed to be as efficient and self-sufficient as possible to make the endurance of a journey possible.
+
+## Moonlight Industries
+Moonlight industries lays its primary focus on orbital space stations in the system **Cintura**, especially with its research on **Oceana**. 
+- **Oceana-1**: Similarly to the Carbine's **ARC**, **Oceana-1** is an orbital space station around the identically named planet Oceana. Its design shares similarities with the ARC, albeit a much smaller interpretation that supports fast means of travel through the **Panjit Loop** to locate easily in **Cintura**, travelling from **Choreos**.
+- **Pond-1**: Pond-1 is a research station that has landed on Oceana to conduct research there. As Oceana is a water planet with only a few set of small, lifeless rock islands, it floats on the endless oceans of water while conducting research related to the atmosphere and potential life in the water.
+
 
 
 ## Addendum

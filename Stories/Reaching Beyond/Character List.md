@@ -17,3 +17,6 @@ In **2074**, ate age **29**, things turned into an upward curve as he was approa
 
 ## Valerie Sera
 Born in **Molo**, **Sirália** in **2067**, she had a passion to explore and navigate the stars from her youth onwards. Eventually studying Astrology in **Liavolta** as a young adult, it wasn't long before she made her way to Ubunia and join the **Carbine Research Institute** in **Pahlatlán**, where she would ultimately create one of Carbine's most prized possessions: The **Galleria Stellaria**, an enormous interactive planetarium that would update itself as more research was completed and more stars were discovered and properly researched.
+
+## Petra Vilassa
+Has worked together with **Maria** for a couple of years, before creating the **Moonlight Institute** and subsequently parting ways with her, as well as Carbine as a whole, as a result. *// Proper description is due.*
