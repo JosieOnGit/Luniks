@@ -3,7 +3,7 @@
 
 ## // CZISKVELÉN
 ### Life After Life
-*POV: Cziskvelén* \
+*// POV: Cziskvelén* \
 And with a flash of light, from one moment into the next, I suddenly found myself ‒ what I presumed to be ‒ alive and well. But things seemed off, my surroundings seemed surprisingly barren and empty. The vivid memory of the situation I had found myself just mere moments ago remained in my head, replaying over and over again while my body began to adapt to the new place I found myself in. Just now, I was in an office, a government office, and not this empty and endless field of grass. I remember holding a weapon, that I aimed at a well-dressed businessman, but the details omitted me and the last part of the memory ends in a bullet that I didn't fire. \
 Replaying that memory over and over again, my head stung, my body underwent pain that I never imagined before as I feel the gunshot go through my head, again, again, again. I fell to the floor, grunting in pain, screaming for help while my body gained a mind of its own and kept my nerves on edge. This must be what being in hell feels like, is it not? I'd been killed, but the type of person I am, or was, would only find a place in hell, religion be damned. With tears in my eyes, regret rushed through my veins. It was without doubt that I had been killed for my actions, and yet, at that time, I felt relentless and reckless. Like the world was my playground, and no human nor force could stop me. But, clearly, the world around me did not care what I believed, and I was stopped anyway.
 

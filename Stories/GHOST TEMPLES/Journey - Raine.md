@@ -1,7 +1,7 @@
 # RAINE
 ## REBIRTH // RAINE
 ### A Voice Who Called
-*POV: Raine* \
+*// POV: Raine* \
 With a deep sigh, I picked the jar of pasta sauce from the cabinet in the supermarket. I personally despised making myself pasta, but with guests coming over, I had to please the guests as well, knowing that Michael surely wouldn't mind me going outside of my comfort box with dinner. A few steps northbound, I headed to the meat section of the store, taking a simple box of ground beef, betting on having some left over beef to treat myself and Michael with something special, just for the two of us. From the thought alone, my cheeks turn into a deep red, imagining all the things I could make, the smile on his face as he would take his first bite, oh, how romantical!
 
 But it wasn't until I reached the last aisle that I started to realise things were off. Taking a wine bottle off the shelf as the cherry on the cake, I saw something off in the centre of my eye. Colours were starting to get more muted, the noise of the crowd within the supermarket began to fade out. The combined noise of every customer chatting in a casual, friendly way with the others, began to rapidly fade into the same sound. 
