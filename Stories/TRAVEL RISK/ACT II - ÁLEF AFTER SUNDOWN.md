@@ -158,7 +158,7 @@ In just the blink of an eye, her life had faded.
 
 In just the blink of an eye, she was gone. Forever.
 
-## EPILOGUE - Álef At Dawn
+## FOURTEEN - Álef At Dawn
 ### Synopsis
 The Agency doesn't last another day after the gruesome incident in Álef. Raléi's seat is left vacant, with no successor that was willing to take her place. Anyone who did, would immediately receive a target on their heads. Maria remains in Álef-Nórem for the remainder of the day, watching the sunrise with the collapsed metro station behind her, where her colleague, her close friend, her partner, had lost her life not even a day ago. The hope the two shared to restore Máneá and Zakh'háfo to peaceful nations was dwindling, and the dream seemed impossible to reach. 
 ### A mind full, a heart empty
