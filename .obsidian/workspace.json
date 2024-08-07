@@ -6,7 +6,7 @@
       {
         "id": "81f927cea75f4356",
         "type": "tabs",
-        "dimension": 45,
+        "dimension": 44.8,
         "children": [
           {
             "id": "29bafd1666ca053a",
@@ -57,12 +57,12 @@
             }
           },
           {
-            "id": "be751035434ee49d",
+            "id": "0272435b83c385bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/TRAVEL RISK/Spider's Web - Story.md",
+                "file": "Stories/TRAVEL RISK/ACT III - THE ROAD HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,14 +79,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1c800eb0f10f5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/TRAVEL RISK/FATED ENCOUNTER - Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39c55cfd10e8abfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/TRAVEL RISK/Spider's Web - Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "3b0732557f149020",
         "type": "tabs",
-        "dimension": 55.00000000000001,
+        "dimension": 55.2,
         "children": [
           {
             "id": "60e739eedfbe650d",
@@ -95,18 +119,6 @@
               "type": "markdown",
               "state": {
                 "file": "Stories/TRAVEL RISK/Backstories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a50711c19574607b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/Reaching Lúniks/E-Mails.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,18 +137,6 @@
             }
           },
           {
-            "id": "dec65d91eedb5d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/Reaching Beyond/Routine Maintenance - ARC ver..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ec0875070a5b4a7",
             "type": "leaf",
             "state": {
@@ -147,9 +147,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f5625345d5a381e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Ubunia/Máneá.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e2b189b559bc128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/List of notable names.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1025c474e8bad7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temporary drafts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de1edfee71cfb35c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Reaching Beyond/Gridrunner Drafts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -215,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/TRAVEL RISK/ACT II - ÁLEF AFTER SUNDOWN.md",
+                "file": "Stories/Reaching Beyond/Gridrunner Drafts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,45 +291,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a07b01c996928a8",
+  "active": "de1edfee71cfb35c",
   "lastOpenFiles": [
-    "Stories/TRAVEL RISK/ACT I - TRAVEL RISK.md",
-    "Stories/TRAVEL RISK/ACT II - ÁLEF AFTER SUNDOWN.md",
-    "Stories/TRAVEL RISK/Spider's Web - Story.md",
+    "Stories/TRAVEL RISK/FATED ENCOUNTER - Story.md",
+    "Stories/Reaching Beyond/Gridrunner Drafts.md",
     "Stories/Reaching Beyond/List of Spaceships.md",
+    "Temporary drafts.md",
     "Stories/List of notable names.md",
-    "Stories/Reaching Beyond/Addendum - Drafts.md",
-    "Stories/TRAVEL RISK/Character List.md",
-    "Stories/Leremkov Trials/Vitaly Leremkov, 2039-2095.md",
-    "Geography/Ubunia/Thórirsant.md",
-    "Geography/Ubunia/Mharáni Republic.md",
-    "Geography/Vestia/Zhuehai.md",
-    "Geography/Vestia/Vao.md",
-    "Stories/TRAVEL RISK/Drafted Stories.md",
-    "Geography/Vestia/Sirália.md",
-    "Geography/Vestia/Mónsan Republic.md",
-    "Geography/Vestia/Kostanzá.md",
-    "Geography/Vestia/Kingdom of Álusken.md",
-    "Geography/Vestia/Hédenis.md",
-    "Geography/Vestia/Denmark.md",
-    "Geography/Vestia/Benelux.md",
-    "Geography/Ubunia/Zakh'háfo.md",
-    "Geography/Ubunia/Rhódisz.md",
     "Geography/Ubunia/Máneá.md",
-    "Geography/Ubunia/Léjtis.md",
-    "Geography/Ubunia/Kérisant.md",
-    "Geography/Ubunia/Jóthul.md",
+    "Stories/TRAVEL RISK/Spider's Web - Story.md",
+    "Stories/TRAVEL RISK/ACT III - THE ROAD HOME.md",
+    "Stories/TRAVEL RISK/ACT II - ÁLEF AFTER SUNDOWN.md",
+    "Stories/TRAVEL RISK/HEAD TO HEAD - Story.md",
+    "Stories/TRAVEL RISK/ACT I - TRAVEL RISK.md",
+    "Stories/TRAVEL RISK/GHOST - Story.md",
+    "Stories/TRAVEL RISK/TRAVEL RISK.md",
+    "Stories/Reaching Beyond/Moonlight Institute.md",
+    "A Guide to Everything Luniks.md",
+    "Stories/GHOST TEMPLES/SIGNATURES.md",
+    "Stories/GHOST TEMPLES/Scattered Info.md",
+    "Stories/GHOST TEMPLES/Journey - Winter.md",
+    "Stories/GHOST TEMPLES/Journey - Spark.md",
+    "Stories/GHOST TEMPLES/Journey - Snow.md",
+    "Stories/GHOST TEMPLES/Journey - Raine.md",
+    "Stories/GHOST TEMPLES/Journey - Marten.md",
+    "Stories/GHOST TEMPLES/Journey - Luna.md",
+    "Stories/GHOST TEMPLES/GLIMMER.md",
+    "Stories/GHOST TEMPLES/GHOST TEMPLES.md",
+    "Stories/GHOST TEMPLES/FIRST LIGHT.md",
     "Geography/Luniks map (5).png",
+    "Geography/North-America Map.png",
+    "Pasted image 20240725164634.png",
+    "Archived",
     "Pasted image 20240625141512.png",
     "Stories/Reaching Beyond",
     "Pasted image 20240611143751.png",
-    "Geography/North-America Map.png",
     "Pasted image 20240529145847.png",
     "Pasted image 20240521220729.png",
     "Pasted image 20240430223351.png",
     "Geography/Luniks map.png",
     "Geography/Luniks map.png",
-    "Pasted image 20240424160813.png",
     "Stories/Reaching Lúniks",
     "Historic Events/REACHING LÚNIKS",
     "Stories/OSLO REVOLUTION",
@@ -290,7 +339,6 @@
     "Geography/Skádia",
     "Geography/Vestia",
     "Geography/Ubunia",
-    "Stories/Leremkov Trials",
     "Untitled.canvas"
   ]
 }
