@@ -26,7 +26,7 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **SEVEN**: Rude Reunion (**Touchups necessary**)
 #### Chapters outline: ACT II - ÁLEF AFTER SUNDOWN
 - **EIGHT**: Álef After Sundown (**Touchups necessary**)
-- **NINE**: Challenging Fate (**Incomplete, drafted**)
+- **NINE**: Challenging Fate (**Incomplete, started)
 - **TEN**: By a Hair's Width (**Completed**)
 - **ELEVEN**: What Hides Under Álef (**Completed**)
 - **TWELVE**: Targeting // Targeted (**Completed**) 
@@ -47,6 +47,9 @@ With tensions having risen between **Dáritke** and **The Agency** after the *Kr
 ### THE ROAD HOME (ACT III)
 Available at [[ACT III - THE ROAD HOME]]. \
 **Raléi** is dead, and **The Agency** has collapsed as a result. But for the sake of the remaining members, **Maria** takes the dangerous journey back home to **Jóthul** via the capital, **Ákros**, to inform **Omáti** and **Nils** about the gruesome fate that she faced. Once home, her emotions take control over her, but keeping her head up, she sets course to **Zhuehai** to achieve the dreams that Raléi no longer can.
+### FATED ENCOUNTER
+Available at [[FATED ENCOUNTER - Story]]. \
+A description is due. Use the synopsis provided in the note itself for the time being.
 ### WHITEOUT
 Available at [[WHITEOUT - Story]]. \
 When technology can't bring you beyond the top, what is there next to try? With an eye for precision and an eye for perfection, any target that landed in her sights was a dead one, but desperate to climb the ladder and go beyond her capabilities, she seeks out a blend between Leremkov and her Neurotech, one that was provided by **Dominico**, a close contact of *Leremkov*. Completing her transformation and adapting at ease, she lands her first shot beyond 5km with ease, meaning her ceiling just increased thousandfold.

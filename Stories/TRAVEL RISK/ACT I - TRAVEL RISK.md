@@ -60,6 +60,8 @@ The man shook his head, pushing Nils forward ever so slight to get him to follow
 **"Not quite. We'll explain later."**
 
 ## THREE - Youngblood
+### Synopsis
+*// A synopsis is due.*
 ### Youngblood 
 With a slam on the table, the bag of goods is presented, with the two black-dressed mysterious men escorting Nils to the lounge chair. *"W-What does any of this mean?"* he asks in distress, his heart rate having risen in the past minutes on the way to the strange, hidden room he now finds himself in. Compared to the meeting with Mitch he had with Antoine for Dáritke, this room seemed much more lively and well maintained, and strangely enough, he felt welcome here. Rather than stepping into a cold, icy room, the atmosphere felt oddly warm and inviting. After a few seconds, the chair on the other end of the desk turns around, revealing another mysterious figure. A woman with long, slightly wavy hair, with a mixture of blue streaks in her hair that matched her similarly coloured suit. She appeared straightforward, she was here for business, not for chitchat.
 
