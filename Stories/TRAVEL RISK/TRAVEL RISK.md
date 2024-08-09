@@ -27,10 +27,10 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 #### Chapters outline: ACT II - ÁLEF AFTER SUNDOWN
 - **EIGHT**: Álef After Sundown (**Touchups necessary**)
 - **NINE**: Challenging Fate (**Incomplete, drafted**)
-- **TEN**: By a Hair's Width (**Touchups necessary**)
-- **ELEVEN**: What Hides Under Álef (**Touchups necessary**)
-- **TWELVE**: Targeting // Targeted (**Touchups necessary**) 
-- **THIRTEEN**: One Last Stand (**Touchups necessary**)
+- **TEN**: By a Hair's Width (**Completed**)
+- **ELEVEN**: What Hides Under Álef (**Completed**)
+- **TWELVE**: Targeting // Targeted (**Completed**) 
+- **THIRTEEN**: One Last Stand (**Completed**)
 - **FOURTEEN**: Álef At Dawn (**Completed**)
 #### Chapters outline: ACT III - THE ROAD HOME
 - **FIFTEEN**: Ground Zero // The Road Home (**Touchups necessary**)

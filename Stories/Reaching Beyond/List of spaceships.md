@@ -21,7 +21,7 @@
 ## Moonlight Industries
 Moonlight industries lays its primary focus on orbital space stations in the system **Cintura**, especially with its research on **Oceana**. 
 - **Oceana-1**: Similarly to the Carbine's **ARC**, **Oceana-1** is an orbital space station around the identically named planet Oceana. Its design shares similarities with the ARC, albeit a much smaller interpretation that supports fast means of travel through the **Panjit Loop** to locate easily in **Cintura**, travelling from **Choreos**.
-- **Pond-1**: Pond-1 is a research station that has landed on Oceana to conduct research there. As Oceana is a water planet with only a few set of small, lifeless rock islands, it floats on the endless oceans of water while conducting research related to the atmosphere and potential life in the water.
+- **Pond-1**: Pond-1 is a research station that has landed on Oceana to conduct research there. As Oceana is a water planet with only a few set of small, lifeless rock islands, it floats on the endless oceans of water while conducting research related to the atmosphere and searches for potential life in the water.
 
 
 
