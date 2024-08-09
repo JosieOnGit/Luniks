@@ -50,6 +50,10 @@ Available at [[ACT III - THE ROAD HOME]]. \
 ### FATED ENCOUNTER
 Available at [[FATED ENCOUNTER - Story]]. \
 A description is due. Use the synopsis provided in the note itself for the time being.
+### Spider's Web
+Available at [[Spider's Web - Story]]. \
+A description is due. Use the synopsis provided int he note itself for the time being. \
+*// This takes place **before** the events of **Travel Risk**, and follows Maria in her internship at Carbine Industries in the hunt for mastering Nuclear Fission power and engineering.*
 ### WHITEOUT
 Available at [[WHITEOUT - Story]]. \
 When technology can't bring you beyond the top, what is there next to try? With an eye for precision and an eye for perfection, any target that landed in her sights was a dead one, but desperate to climb the ladder and go beyond her capabilities, she seeks out a blend between Leremkov and her Neurotech, one that was provided by **Dominico**, a close contact of *Leremkov*. Completing her transformation and adapting at ease, she lands her first shot beyond 5km with ease, meaning her ceiling just increased thousandfold.
