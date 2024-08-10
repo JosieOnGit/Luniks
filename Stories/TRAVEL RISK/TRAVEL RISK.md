@@ -26,7 +26,7 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **SEVEN**: Rude Reunion (**Touchups necessary**)
 #### Chapters outline: ACT II - ÁLEF AFTER SUNDOWN
 - **EIGHT**: Álef After Sundown (**Touchups necessary**)
-- **NINE**: Challenging Fate (**Incomplete, started)
+- **NINE**: Challenging Fate (**Touchups necessary**)
 - **TEN**: By a Hair's Width (**Completed**)
 - **ELEVEN**: What Hides Under Álef (**Completed**)
 - **TWELVE**: Targeting // Targeted (**Completed**) 
