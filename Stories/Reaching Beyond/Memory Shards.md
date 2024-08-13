@@ -1,7 +1,7 @@
-# Maria Limáida
-A peek into her daily life. 
+# Memory Shards
+A peek into **Maria Limáida**'s daily life. 
 
-## August 9th - Resettlement on the ARC
+## August 9th 2096 - Resettlement on the ARC
 With a deep, deflated sigh, Maria returned to her dormitory. In the past two hours, she had been heavily discussing with not just Petra, but the rest of her research team that was housed in the Northern wing of the ARC, providing Oceana-1 with the native data necessary to relay back and forth the research that was being discovered in the nearby galaxy of Cintura. And the research that they conducted there was the very reason that she reunited with Petra in the first place yesterday. Despite all odds, within a 7-lightyear distance around Earth, they somehow had discovered life, going against all what was previously thought to be true. **"Unbelievable.."** She sighed, collapsing on her desk and pressing her forehead against her arms that rested flat on the table. Petra had made the request for Maria to temporarily settle on Oceana-1 to aid the scientists there with their research, since it had been her own idea to deploy a floating station on Oceana's infinite ocean. Closing her eyes, she exhaled deeply, her breathing gradually warming up her bare arms as her breath was trapped between her arms, face, and the desk. And slowly but surely, she began to doze off, her mind presenting the discussion from yesterday and today once more in her head.
 
 **"It's out of the question. I'm not boarding Oceana-1"** She said with a stern look on her face. Her brows were furrowed, whatever the suggestion had been, it seemed like she was strongly against it. On the opposing end stood Petra, who had her arms crossed in surprise, yet annoyance at Maria's response. *"Maria, the idea of deploying a floating research station had been yours from many years ago. We'd like your take on how we can iterate it to properly pin down the research for the discovered life on Oceana."* She said, and with an awkward smile on her face, Maria's reply didn't come to a surprise to her at all. \

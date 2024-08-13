@@ -21,5 +21,6 @@ Part of the **Máneán Research Triangle** since **2038**.
 Part of the **Máneán Research Triangle** since **2075**.
 ## Myrdiva
 Part of the **Máneán Research Triangle** since **2076**.
+## Leth-Helehám
 ## Ni-Ávim
 ## Stéu-Khessi
