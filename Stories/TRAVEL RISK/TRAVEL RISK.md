@@ -25,8 +25,8 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 - **SIX**: Familiar Foe (**Incomplete, drafted**)
 - **SEVEN**: Rude Reunion (**Touchups necessary**)
 #### Chapters outline: ACT II - ÁLEF AFTER SUNDOWN
-- **EIGHT**: Álef After Sundown (**Touchups necessary**)
-- **NINE**: Challenging Fate (**Touchups necessary**)
+- **EIGHT**: Álef After Sundown (**Completed**)
+- **NINE**: Challenging Fate (**Completed**)
 - **TEN**: By a Hair's Width (**Completed**)
 - **ELEVEN**: What Hides Under Álef (**Completed**)
 - **TWELVE**: Targeting // Targeted (**Completed**) 
@@ -35,7 +35,7 @@ The Agency disbands shortly after. Their goals of helping the people in the fall
 #### Chapters outline: ACT III - THE ROAD HOME
 - **FIFTEEN**: Ground Zero // The Road Home (**Touchups necessary**)
 - **SIXTEEN**: Breathe In (**Incomplete, drafted**)
-- **SEVENTEEN**: And Out (**Incomplete, drafted (poorly)**)
+- **SEVENTEEN**: And Out (**Incomplete, drafted**)
 - **EPILOGUE**: Wishes Granted (**Incomplete, started**)
 
 ### TRAVEL RISK (ACT I)
