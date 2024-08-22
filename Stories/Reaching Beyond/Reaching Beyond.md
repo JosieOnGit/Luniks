@@ -20,9 +20,11 @@ Available at [[ARC - Story]]. The **ARC**, **Advanced Research for Carbine**, is
 Available at [[Routine Maintenance - ARC ver.]]. \
 *// A proper synopsis is due.* \
 #### Chapters outline:
-- **1 -** : Closing the loop (**Started, halfway**)
+- **1 -** : Closing the loop (**Touchups needed**)
 - **2 -** : Light's out (**Touchups needed**)
 - **3 -** : Light's out II (**Touchups needed**)
 - **4 -** : No second chances (**Touchups needed**)
 - **5 -** : The grimness of it all (**Touchups needed**)
-- **6 -** : To salvage the remains (**Started**)
+- **6 -** : To salvage the remains (**Touchups needed**)
+- **7 -** : Cintura's Light (**Drafted**)
+- **8 -** : Course: Lumen (**Started, Drafted**)

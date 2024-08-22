@@ -16,7 +16,7 @@ The info on the various characters that were listed here, are now available at t
 ## Reaching Beyond (2024)
 The info on the various characters that were listed here, are now available at the Reaching Beyond [[Stories/Reaching Beyond/Character List|Character List]].
 
-## Reaching Lúniks
+## Reaching Lúniks (2024)
 The info on the various characters that were listed here, are now available at the Reaching Lúniks [[Stories/Reaching Lúniks/Character List|Character List]].
 
 ## Collapse of United Máneá
