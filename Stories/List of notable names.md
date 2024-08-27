@@ -112,7 +112,7 @@ Once based in **United Máneá**, **Ódóni** supplied the technologies that wer
 Prominent in the north of Álusken (Hence the name **Norden**) is **Norden Supermarktir**, which have been established soon after the handover from *Queen Álusken I's* reign to that of *King Álusken II*, who then attempted to get rid of every sort of modern service since the start of his reign. In a desperate attempt to survive, Norden opened its first few markets in the south of **Vao**, and once it became clear that the plans that King Álusken II had made would be limited to within the boundaries of the capital, Norden quickly returned to the north of Álusken, where it has since outgrown its competitors.
 
 ## Swipe
-Cornerstore. *// Proper description is due.*
+**Swipe** is a cornerstore managed by **Esti** that is especially prominent in larger cities, providing a means of quick grocery shopping on the fly by being present on almost every corner on every street. (*// Depending on Gridrunner's development, it may be a fully automated cornerstore. This is still actively being developed.*)
 
 ## Bottleneck Brewery 
 Troubleshooting tech, the way you know and like it. **Bottleneck** was created by two friends who were troubleshooting their home office computer, and discovered that it was being severely bottlenecked by the memory that was installed on the board. From one thought process into the next, they cracked open a beer while optimising their issue, and the rest was history.

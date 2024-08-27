@@ -51,7 +51,7 @@ Available at [[ACT III - THE ROAD HOME]]. \
 Available at [[FATED ENCOUNTER - Story]]. \
 A description is due. Use the synopsis provided in the note itself for the time being.
 ### Spider's Web
-Available at [[Spider's Web - Story]]. \
+Available at [[SPIDER'S WEB - Story]]. \
 A description is due. Use the synopsis provided int he note itself for the time being. \
 *// This takes place **before** the events of **Travel Risk**, and follows Maria in her internship at Carbine Industries in the hunt for mastering Nuclear Fission power and engineering.*
 ### WHITEOUT

@@ -91,7 +91,7 @@ The century-long journey and mission of settling an exoplanet never really reach
 ## 2073 - Kósfrii Nuclear accident occurs
 In late **2073**, during the *Spider's Web* project that was being developed in secret by **Carbine**, the nuclear reactor that provided power towards the *Nuclear Fusion Project* experienced a meltdown and subsequent explosion in the span of mere seconds. Where they had hoped to crack the code to efficient energy for experimental weaponry, the worst outcome came as a surprise to Carbine, and in the following months, the **Kósfrii Exclusion Zones** were created as a result of the radiation being emitted from the remains of the reactor. For the rest of the decade, Carbine laid down its work as a result of the accident and wouldn't engage in any new projects until the early **2080**s.
 
-A story regarding the details of this incident will be written in [[Spider's Web - Story]].
+A story regarding the details of this incident will be written in [[SPIDER'S WEB - Story]].
 
 ## 2075 - Álef Crisis occurs after the Kristensend Ball
 Throughout **2075**, frequent clashes between Kristánisin's Agency and Máneá's Dáritke occurred in the heart of Álef. What would start as frequent clashes without many left wounded lightly or fatally, tensions quickly rose after **Dáritke**'s **Mitch O'Well** disturbed the Kristensend Ball in **June**. Ever since, the clashes occurred almost daily, and reached its peak in the **Álef-Nórem Bombing**, resulting in the collapse of Kristánisin's Agency.

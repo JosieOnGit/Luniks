@@ -1,4 +1,4 @@
-# A Spider's Web
+# SPIDER'S WEB - STORY
 ## Backstory
 In **2067**, **Carbine Industries** would embark on an ambitious journey to rival **Hammerhead** in the production of experimental technology and weaponry. This sparked the construction of the **Kósfrii** research site, decorated and powered by various nuclear power generators, as well as the first Carbine-built *Nuclear Fusion Reactor*. All in all, things stayed functional from its activation in **2071** throughout **2073**, where in the latter year the experimental branches began to utilise the two reactors.
 

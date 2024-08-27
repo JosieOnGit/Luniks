@@ -14,6 +14,7 @@ This document is meant to serve as a means of a braindump document regarding Evi
 - Several **companies** need to be made from the ground up, which includes names, business directions, and affiliated people. Considering this is taking place in Máneá, extra difficulty comes by making them **native** to Máneá. On another note, **Ódóni Industries** can make a return to **Amadnésam** and take back their previously looted **Neurokick laboratories**. 
 	- **Alexandrie Pharmaceuticals**
 	- **Jákovy Insurances**
+	- **Equinox Medical**
 - New **cities** may be necessary to fill up the otherwise empty land of Máneá and its surrounding nations of **Rhódisz** and **Zakh'háfo**. While the latter already has a number of cities at the border, a connection between the two might be limited as Zakh'háfo will **still** be in an economic crisis. This is both induced by the looming threat of Dáritke in Álef and Ákros, as well as a power struggle in the government that is holding back economic recovery and growth. 
 	- **Myrdiva**
 - **Hammerhead** may see an introduction into Máneá as well, seeking influence, but also offering a baseline for the various means of weaponry and tech used throughout the story. This includes the **Máneán Metro** lines, and may include its various means of weaponry.
