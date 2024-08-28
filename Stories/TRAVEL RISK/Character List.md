@@ -7,8 +7,10 @@ Equipped with neurotech, including **Wrist Rabbit** (Hacking protocol on wrist)
 Rough visual reference: **Regis Altare** from **Holostars**.
 
 Nils is a well-built but slim young man, who has since his acquisition into **The Agency** decided to dye his hair blue, to match the Agency's own colour palette of *Blue/Turqouise*. During his training within the Agency, he has opted to exchange his regular casual wear to a more formal type of clothing, wearing a dark blue suit rather than shirts and jeans, to match **Raléi's** outfit too.
+
 ### Backstory
-Nils's backstory and the course of his life, is available at [[Backstories#Nils]].
+Nils's backstory and the course of his life, is available at [[Backstories#Nils]]. \
+Nils dies in **September 2076** in **Myrdiva** at the hands of **Angel**, who personally executed him after he and **Nova** acquired and shared information regarding the confidential projects under development in **SOLARdawn**.
 
 ## Raléi Alentikíles
 Belongs to **The Agency** (Weapons Expert, Owner). \
@@ -18,21 +20,22 @@ Rough visual reference: **Ouro Kronii** from **Hololive**.
 
 Looks are deceiving, and Raléi knows this. While sharing a similar outfit to **Nils**, a basic navy-blue suit, much more is hidden underneath. Her **Neurotech** was all installed on her left arm, which she accentuated with various tattoos as well, varying from tribal to futuristic and abstract. Having trained in martial arts and having mastered weaponry from melee through marksman rifles, she is a force to be reckoned with.
 ### Backstory
-Raléi's backstory and the course of her life, is available at [[Backstories#Raléi]].
+Raléi's backstory and the course of her life, is available at [[Backstories#Raléi]]. \
+Raléi dies in **October 2075** in **Álef-Nórem** after she and **Maria** attempt to escape into Thórirsant after a failed attempt at destroying **Dáritke** from inside out. Unfortunately, the two were one step too late, and Raléi becomes subject to gravity after Dáritke bombs and destroys the majority of the station's halls, burying her underneath concrete, steel, and the remains of a metro.
 
 ## Gustavo Dáritke
-Belongs to **Dáritke** (Founder, Owner).
+Belongs to **Dáritke** (Founder, Owner). **Died in 2072** (Rapid decline in health after contracting a mysterious disease)
 
 Rough visual reference: **Michael Andretti**.
 ## Antoine Rousseau
 Belongs to **Dáritke** (Middleman).
 ## Mika Andzákin
 Belongs to **Dáritke** (Robber, Netrunner, Weapons Expert). \
-Equipped with various neurotech, including (but not limited to): **Wrist Rabbit** (Hacking protocol on wrist), **Adrenaline boosters** (In heart and legs), **Stealth weaponry** (Blade hidden under wrist). In addition to this, Mika also has a lot of exposed neurotech, most notably in his left arm, which is accented by sharp chrome and blue lines. 
+Equipped with various neurotech, including (but not limited to): **Wrist Rabbit** (Hacking protocol on wrist), **Adrenaline boosters** (In heart and legs), **Stealth weaponry** (Blade hidden under wrist), **GHOST Protocol** (On left arm). In addition to this, Mika also has a lot of exposed neurotech, most notably in his left arm, which is accented by sharp chrome and blue lines. 
 
 Rough visual reference: **Mika Melatika (outfit 3)** from **Nijisanji**.
 ## Katherina "Nova" Mikkë
-Belongs to **The Agency** (Weapons Expert). \
+Belonged to **Vátnelári** (Weapons Expert, broke ties in **December 2075**). \
 Equipped with various neurotech, including (but not limited to): **Adrenaline boosters** (Fitted on left arm), **Curious Eye** (Digitalised left eye), which can handle zoom and focus up to 4km in distance, and discolours from her natural blue through to yellow-green the further she looks.
 ### Appearance
 Rough visual reference: **Pozëmka** from **Arknights**.
@@ -41,6 +44,7 @@ While still adjusting to her new silhouette, her visit to Cévok and connection 
 ### Backstory
 Nova's backstory and the course of her life, is available at [[Backstories#Nova]].
 ## Maria Limáida
+### !! This DESPERATELY requires a rewrite, as it is no longer accurate
 *"Of course the public is cruel. They know no better standards, they haven't had the opportunity to."*  
   
 Despite not being a strong or well-built person, Maria's strength lay in her extensive knowledge about combat, trading, and everything that has ever entered and exited the borders of Zakh'háfo. Originally from a small village near **Jóukmandar** in western **Jóthul**, she studied in Kristensend in Rhódisz, and eventually began her work in the capital of Zakh'háfo, Ákros. Starting as a junior security officer for the remaining company that kept its eyes on the **Álef Metro**, she was one of the first people to pick out the usual trade routes and meeting points that took place or passed through the various metro stations. From security officer, she gradually became a spy, picking up many stories, many names, and many routes, and supervised herself to dip her toes into the seemingly infinite spider web of illegal trade within Zakh'háfo.  
@@ -58,15 +62,15 @@ Belongs to **Dáritke** (Manager).
 ## Mitch O'Well
 Belongs to **Dáritke** (Manager (Under owner)). 
 ## Omáti Honofátis
-Belongs to **The Agency** (Middleman, manager).
+Belongs to **The Agency** (Middleman, manager). **Died in 2075** in **Ákros** (Exponentially developed disease, similar to **Gustavo**)
 
 
 # AGENCIES
 ## Dáritke
-HQ'ed in **Deth-Kelétam** (Máneá). Recognised by **Yellow** colouring.
+HQ'ed in **Deth-Kelétam** (Máneá) from **2035-2075**. Now HQ'ed in **Álef** (Zakh'háfo). Recognised by **Yellow** colouring.
 
 ## The Agency
-HQ'ed in **Kristánisin** (Zakh'háfo). Recognised by **Blue/Turqouise** colouring.
+HQ'ed in **Kristánisin** (Zakh'háfo). Recognised by **Blue/Turqouise** colouring. Collapsed in **October 2075**.
 
 ## Police 
 HQ'ed in every city within Máneá and Zakh'háfo. Recognised by **Black & Silver** colouring.

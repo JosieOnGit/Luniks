@@ -13,14 +13,14 @@ Each nation has their own national railway, which will slowly spring to life as 
 
 Despite being set in the near future where space travel is a reality, travel by train has stayed relatively the same, albeit more dense and more important.  
   
-Separate passenger and cargo corridors were created in order to make passenger and cargo transport completely independent of one another. Having survived a bankruptcy on Earth, Railpool has found its place in cargo transport throughout and between Thórirsant and Kérisant, maintaining a tight connection and almost exclusive use of Siemens locomotives.
-## LTS - Lúnikska Trén Service
-LTS as a company frequently reappears throughout the story, although it only services connections between the various nations on **Ubunia**. 
+Separate passenger and cargo corridors were created in order to make passenger and cargo transport completely independent of one another. Having survived a bankruptcy on Earth, **Railpool** has found its place in cargo transport throughout and between Thórirsant and Kérisant, maintaining a tight connection and almost exclusive use of Siemens locomotives.
+## LT - Lúnikska Tren
+LT as a company frequently reappears throughout the story, although it only services connections between the various nations on **Ubunia**. 
 
 ## RKU - Rail Klaszi Ubunia
 RKU provides international services between **Thórirsant**, **Kérisant**, and **Zakh'háfo**, providing both cargo and passenger transport.
 
-## Vestia Rapid / Vestia Regio
+## VR - Vestia Rapid / Vestia Regio
 Vestia Rapid is the high-speed train service that operates between the various nations across Vestia. Its connections range from **Hédenis** and **Mónsan**, through **Zhuehai**, **Álusken**, and **Vao**, with split connections to **Benelux** and **Denmark**. Its most known for the fatal rail incident ever since its inauguration, as described in [[Journey - Luna#SPAD (Signal Passed At Danger)]]. 
 
 Currently planned (December 2023) is developing a brand identity for this service. Taken from the Trello board: \
@@ -37,7 +37,7 @@ We'll bring you there."
 
 *Alternatively, this list of examples can also be exchanged for simply a list of cities that are connected to Vestia Rapid. Next to that, Vestia Rapid can also be transformed into a general rail company, also providing a means of regional and intercity transport without incredible speeds as their VR20s. However, this might need a rebrand, and exchange the "Rapid" name for something else, such as "Vestia Regio".*
 
-Planned is a combination of purple and grey colours with stock high speed rail footage. Just like how LTS banners were proposed and created as a concept, the same process should happen for the brand identity of Vestia Rapid.
+Planned is a combination of purple and grey colours with stock high speed rail footage. Just like how LT banners were proposed and created as a concept, the same process should happen for the brand identity of Vestia Rapid.
 
 ## Máneán Metro
 **Máneán Metro** (Metro da Máneá) is the umbrella name for all the metro services that it provides in the various cities in what once was **United Máneá**, such as the *Álef Metro*, *Fsat-Hokh Metro*, or even the unique, single-line, *Kristensend Metro*. The one charm that all of these unique metro lines have in common, is that they're fully autonomous. In fears that there would once day be staff shortages and that some lines would end up abandoned, its government had rallied to invest into autonomous services. After the **Collapse of United Máneá** in 2039, the lines continued to service every city as normal, and continued to do so for many decades onwards.
@@ -102,6 +102,9 @@ Subsidiaries/daughter branches:
 
 ## Ódóni Industries
 Once based in **United Máneá**, **Ódóni** supplied the technologies that were needed for research in **Amadnésam**. After the collapse of **United Máneá**, Ódóni fled to **Rhódisz**, together with a number of other industries and companies in hopes to escape from the collapsing economy and increasing crime rates. The Ódóni tower, where the research once took place, was locked down, but since **2062**, it has been reactivated, and has since been the centre of **Neurokick** production.
+
+## SOLARdawn
+Deriving from the once-dominant Illinoisan industry of **PALMER-EDEN**, **SOLARdawn** is its next evolution in providing the public a solution for their experienced problems. With strong ties to **Leremkov** and **Alexandrie Pharmaceuticals**, SOLARdawn gained a headstart in **2064** and gripped around itself in the slowly recovering nation of **Máneá**.
 
 
 # Common Brands

@@ -28,3 +28,7 @@ Available at [[Routine Maintenance - ARC ver.]]. \
 - **6 -** : To salvage the remains (**Touchups needed**)
 - **7 -** : Cintura's Light (**Drafted**)
 - **8 -** : Course: Lumen (**Started, Drafted**)
+
+### Memory Shards
+Available at [[Memory Shards]]. \
+**Memory Shards** follows **Maria Limáida** and her own thoughts and substories that she experiences and goes through during her time on the **ARC**. 
