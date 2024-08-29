@@ -106,6 +106,9 @@ Once based in **United Máneá**, **Ódóni** supplied the technologies that wer
 ## SOLARdawn
 Deriving from the once-dominant Illinoisan industry of **PALMER-EDEN**, **SOLARdawn** is its next evolution in providing the public a solution for their experienced problems. With strong ties to **Leremkov** and **Alexandrie Pharmaceuticals**, SOLARdawn gained a headstart in **2064** and gripped around itself in the slowly recovering nation of **Máneá**.
 
+## Alexandrie Pharmaceuticals
+Once at the forefront of the pharmaceutical industry in Ubunia, the **Jákovy-Alexandrie scandal** in **2071** undid any sort of trust in the public that they had built up over the last decades, causing the company to destroy itself from inside out as there were no longer any customers willing enough to make use of their services. From the many decades of hard work, a single scandal from the higher-ups in charge left the company collapsing within a year. But to the researchers and staff that weren't involved, their journey wouldn't end there, and the rise of **SOLARdawn** in the same block gave them the opportunity to resume their research under a new flag.
+
 
 # Common Brands
 ## Esti

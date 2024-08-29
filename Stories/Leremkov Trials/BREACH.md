@@ -1,7 +1,9 @@
 # Leremkov - BREACH
 *BREACH* is an in-depth look at how **Dénis Terczekv** infiltrated Leremkov's secret *Genetic Labs*, where he produced the vaccine that cause the irreversible damage to humanity's genes and DNA. As a start, various snippets will be developed, after which they will gradually be tied together and form a cohesive story. 
 
-## Drafted Story
+**!! Leremkov as a whole is undergoing a complete overhaul. This means that BREACH as a story might no longer be accurate, as the Cévok labs and Leremkov's departure to Poland might no longer take place altogether. (August 2024)**
+
+## Story
 ### INFILTRATE 
 A loud static could be heard in the back of the car, notifying Dénis that he had left his transmitter in the back seat. *"--ou read? Over"* could be heard, and was repeated another two times before Dénis had enough and picked up the transmitter, sending a signal back. **"Lion Squad. We read. Over."** 
 

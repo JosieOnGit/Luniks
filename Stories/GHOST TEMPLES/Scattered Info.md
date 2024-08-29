@@ -26,7 +26,7 @@ Going against other design standards set by the other temples on Vestia, the Tem
 ## Known Symbols
 *// **Outdated** (**April 2024**), and due for a rewrite*
 
-Temple symbols are organized in the following manner:
+Temple symbols are organised in the following manner:
 - **Element** (Earth, Fire, Water, Air)
 - **Sun** (Traditionally those near the system the temple is located)
 - **Greek letter** (Alfa through Zeta)

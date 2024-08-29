@@ -5,7 +5,7 @@ This Character List belongs to [[GHOST TEMPLES]].
 ### Appearance
 As the **Guardian of Vestia**, the *White/Grey* dress code is mandatory for a Guardian to wear. Because of this, Vászi wears a blacked-out and grey harness, over which he wears a robe or mantle, with a collar that extends far out. The outfit is completed by simple, plain white pants.
 
-Vászi bears a **Plain White Mask**. He prefers a featureless mask that hides his expressions and body language while guiding a new ghost through Rebirth. This way, he will give the new ghost the most neutral and natural way to process it all, without giving a first impression, be it good or bad, through an altered and personalized mask.
+Vászi bears a **Plain White Mask**. He prefers a featureless mask that hides his expressions and body language while guiding a new ghost through Rebirth. This way, he will give the new ghost the most neutral and natural way to process it all, without giving a first impression, be it good or bad, through an altered and personalised mask.
 
 His name, *Settler of Vászi*, is derived from the area in which he had settled the *Temple of Vestia*, which is located between Álusken and Zhuehai, in a nature reserve that's commonly known as **"The Vászi"**. In both the nations it overlaps and its surrounding nations this name is frequently used, whereas the name **"Váseim"** is used throughout the nations in Ubunia.
 
@@ -68,7 +68,7 @@ Luna bears an **Oni Mask**, handcrafted to their preference and integrated a mas
 Their name is directly derived from **Luna**, Earth's moon. 
 
 ### Past Life
-Before their death, Luna was still in college, where they studied computer science and intelligence. Unlike their usual appearance, Luna actually dreamed of getting into fashion and starting their own, non-standard clothing brand. The sudden lapse between their death and rebirth gave them the opportunity to utilize their previously gained knowledge about neuroscience and computer intelligence (As seen in their *Curious Eye* Signature), and while they're still very insecure and shy about it, also allows them to experiment with clothing of their own, now that the entire palette and canvas are available to them.
+Before their death, Luna was still in college, where they studied computer science and intelligence. Unlike their usual appearance, Luna actually dreamed of getting into fashion and starting their own, non-standard clothing brand. The sudden lapse between their death and rebirth gave them the opportunity to utilise their previously gained knowledge about neuroscience and computer intelligence (As seen in their *Curious Eye* Signature), and while they're still very insecure and shy about it, also allows them to experiment with clothing of their own, now that the entire palette and canvas are available to them.
 
 ### Journey
 Available at [[Journey - Luna]]. \
