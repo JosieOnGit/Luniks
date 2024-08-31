@@ -1,4 +1,4 @@
-# TRAVEL RISK - Story
+# TRAVEL RISK
 After the **June 2024** project reorganisation, the **TRAVEL RISK** story has been repurposed into becoming **ACT I** of the bigger story as a whole. This document will now serve as the story from **Nils**'s perspective, from the Prologue until Chapter Seven.
 ## Synopsis
 After the nation of **United Máneá** collapsed in **2039**, it never managed to find the charm nor strength to rebuild itself to what it once was. Eternal conflict sparked before the fateful day in **2039**, and ever since, the conflict remained in the two remaining nations. With a lack of government control, drug dealing became the norm, and a middleman was an easy job to pick up. Without an involvement in drugs directly, one could still have an income to survive the next day. **Nils Lorieux** embarks on this dangerous journey, but after being caught on his very first mission, things don't turn out to be as easy as bringing a briefcase from point A to point B.

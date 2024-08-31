@@ -18,9 +18,9 @@ After the **Álef Crisis** in the neighbouring nation of **Zakh'háfo** reached 
 ## Akhádija
 Part of the **Máneán Research Triangle** since **2038**.
 ## Myddliva
-Part of the **Máneán Research Triangle** since **2075**.
+Part of the **Máneán Research Triangle** since **2071**.
 ## Myrdiva
-Part of the **Máneán Research Triangle** since **2076**.
+Part of the **Máneán Research Triangle** since **2072**.
 ## Leth-Helehám
 ## Ni-Ávim
 ## Stéu-Khessi
