@@ -6,7 +6,7 @@
       {
         "id": "81f927cea75f4356",
         "type": "tabs",
-        "dimension": 44.8,
+        "dimension": 45.06666666666666,
         "children": [
           {
             "id": "29bafd1666ca053a",
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "82258e504c34816b",
+            "id": "fffc0f82546b904f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,7 +33,7 @@
             }
           },
           {
-            "id": "0c59723148e2cabc",
+            "id": "d55208870760bfe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,51 +69,51 @@
             }
           },
           {
-            "id": "9724c308055a0990",
+            "id": "17167917e5efd4d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Reaching Beyond/List of Spaceships.md",
+                "file": "Stories/TRAVEL RISK/ANGEL - Outline.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1c800eb0f10f5a0",
+            "id": "b403553b3623915e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/TRAVEL RISK/FATED ENCOUNTER - Story.md",
+                "file": "Stories/TRAVEL RISK/REFRESH - Story.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "39c55cfd10e8abfd",
+            "id": "41c929990232eccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/TRAVEL RISK/Spider's Web - Story.md",
+                "file": "Stories/TRAVEL RISK/Internal Channels.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "3b0732557f149020",
         "type": "tabs",
-        "dimension": 55.2,
+        "dimension": 54.93333333333334,
         "children": [
           {
-            "id": "60e739eedfbe650d",
+            "id": "8948472a7495b970",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,24 +137,24 @@
             }
           },
           {
-            "id": "5ec0875070a5b4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/Reaching Beyond/Addendum - Drafts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f5625345d5a381e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Geography/Ubunia/Máneá.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7acd7417eb9ad51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Reaching Beyond/Routine Maintenance - ARC ver..md",
                 "mode": "source",
                 "source": false
               }
@@ -185,12 +185,12 @@
             }
           },
           {
-            "id": "de1edfee71cfb35c",
+            "id": "a1c800eb0f10f5a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Reaching Beyond/Gridrunner Drafts.md",
+                "file": "Stories/TRAVEL RISK/ANGEL - Story.md",
                 "mode": "source",
                 "source": false
               }
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/Reaching Beyond/Gridrunner Drafts.md",
+                "file": "Stories/TRAVEL RISK/ANGEL - Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,46 +291,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de1edfee71cfb35c",
+  "active": "a1c800eb0f10f5a0",
   "lastOpenFiles": [
-    "Stories/TRAVEL RISK/FATED ENCOUNTER - Story.md",
-    "Stories/Reaching Beyond/Gridrunner Drafts.md",
-    "Stories/Reaching Beyond/List of Spaceships.md",
-    "Temporary drafts.md",
-    "Stories/List of notable names.md",
-    "Geography/Ubunia/Máneá.md",
-    "Stories/TRAVEL RISK/Spider's Web - Story.md",
+    "Stories/TRAVEL RISK/ANGEL - Outline.md",
+    "Stories/TRAVEL RISK/ANGEL - Story.md",
+    "Stories/TRAVEL RISK/Internal Channels.md",
+    "Stories/TRAVEL RISK/REFRESH - Story.md",
+    "Stories/TRAVEL RISK/KILLJOY - Story.md",
+    "Archived/Lore Concepts.md",
     "Stories/TRAVEL RISK/ACT III - THE ROAD HOME.md",
-    "Stories/TRAVEL RISK/ACT II - ÁLEF AFTER SUNDOWN.md",
-    "Stories/TRAVEL RISK/HEAD TO HEAD - Story.md",
     "Stories/TRAVEL RISK/ACT I - TRAVEL RISK.md",
+    "Stories/TRAVEL RISK/ACT II - ÁLEF AFTER SUNDOWN.md",
+    "Pasted image 20240831163701.png",
+    "Pasted image 20240831163451.png",
+    "Stories/TRAVEL RISK/FATED ENCOUNTER - Story.md",
+    "Stories/Lúniks Timeline.md",
+    "Geography/Ubunia/Máneá.md",
+    "Stories/List of notable people.md",
+    "Untitled.md",
+    "Pasted image 20240830220424.png",
+    "Pasted image 20240830162806.png",
+    "Temporary drafts.md",
+    "Stories/Reaching Beyond/Reaching Beyond.md",
+    "Stories/Reaching Beyond/Routine Maintenance - ARC ver..md",
+    "Stories/TRAVEL RISK/Backstories.md",
+    "Stories/List of notable names.md",
+    "Stories/Reaching Beyond/ARC - Story.md",
+    "Stories/TRAVEL RISK/WHITEOUT - Story.md",
+    "Stories/TRAVEL RISK/HEAD TO HEAD - Story.md",
     "Stories/TRAVEL RISK/GHOST - Story.md",
     "Stories/TRAVEL RISK/TRAVEL RISK.md",
-    "Stories/Reaching Beyond/Moonlight Institute.md",
-    "A Guide to Everything Luniks.md",
-    "Stories/GHOST TEMPLES/SIGNATURES.md",
-    "Stories/GHOST TEMPLES/Scattered Info.md",
-    "Stories/GHOST TEMPLES/Journey - Winter.md",
-    "Stories/GHOST TEMPLES/Journey - Spark.md",
-    "Stories/GHOST TEMPLES/Journey - Snow.md",
-    "Stories/GHOST TEMPLES/Journey - Raine.md",
-    "Stories/GHOST TEMPLES/Journey - Marten.md",
-    "Stories/GHOST TEMPLES/Journey - Luna.md",
-    "Stories/GHOST TEMPLES/GLIMMER.md",
-    "Stories/GHOST TEMPLES/GHOST TEMPLES.md",
-    "Stories/GHOST TEMPLES/FIRST LIGHT.md",
-    "Geography/Luniks map (5).png",
+    "Stories/TRAVEL RISK/SPIDER'S WEB - Story.md",
+    "Stories/Reaching Beyond/Gridrunner Drafts.md",
     "Geography/North-America Map.png",
+    "Geography/Luniks map (5).png",
     "Pasted image 20240725164634.png",
     "Archived",
     "Pasted image 20240625141512.png",
     "Stories/Reaching Beyond",
     "Pasted image 20240611143751.png",
     "Pasted image 20240529145847.png",
-    "Pasted image 20240521220729.png",
-    "Pasted image 20240430223351.png",
-    "Geography/Luniks map.png",
-    "Geography/Luniks map.png",
     "Stories/Reaching Lúniks",
     "Historic Events/REACHING LÚNIKS",
     "Stories/OSLO REVOLUTION",

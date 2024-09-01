@@ -1,7 +1,7 @@
 # Lore Concepts
 These ideas are currently under construction and are noted down separately as they can change the whole idea of Luniks, or even humanity's understanding of the universe as a whole. A few drafted ideas like these are worked out below.
 # August 2024 note
-The below concepts are **fully scrapped**. Magic will not see an appearance in the story in the way that it has grown to what it is right now, and the exploitation of time will also not appear since the settlement of Luniks has been worked out in [[Reaching Lúniks]].
+The below concepts are **fully scrapped**. Magic will not see an appearance in the story in the way that it has grown to what it is right now, and the exploitation of time will also not appear since the settlement of Luniks has been worked out in [[Reaching Lúniks]]. (*// September 2024 addendum: Magic as a light concept **only** exists in the **Elevated Realm** (Ghost Temples). As Ghost Temples is still shelved and awaiting a rewrite, this may not see proper documentation in the near future.*)
 
 ## Magic
 *For PENDULUM and Álusken, see [[Story Drafts]]* \
