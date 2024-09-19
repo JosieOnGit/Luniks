@@ -64,6 +64,29 @@ Belongs to **Dáritke** (Manager (Under owner)).
 ## Omáti Honofátis
 Belongs to **The Agency** (Middleman, manager). **Died in 2075** in **Ákros** (Exponentially developed disease, similar to **Gustavo**)
 
+# Unorganised
+## Polaris 
+**Polaris** is **Emily Østengaard**. 
+## Francis Ezarea
+## Dave Mullan
+## Angel
+**Angel** is **Angelina Velana**.
+## Mahadra Lavashdili
+## Philippe Merrent
+## Sierra
+Attached to **Vátnelári**. Related to **Nils** and **Nova**.
+## Gradient
+Courtesy of Evie's original character **Gradient**. 
+## Cisila
+Courtesy of Evie's original character **Cisila**. This "version" of Cisila is a cloned version, which is attached to **Project VIOLET**. 
+## Nevo
+Courtesy of Lucas's original character **Nevo**. Attached to **Project NERVE**.
+## Project CORE
+- **4C**: **Foresee**, the most recent iteration of Project CORE, approaching its final and completed iteration.
+- **2C**: **To See**, a less mainstream iteration of Project CORE, which sees most use in the Western Wing with Polaris.
+- **EX_C**: **Experimental Core**, a PALMER-EDEN produced experimental iteration of Project CORE. It was carried over to Amadnésam to continue research there under the wings of Francis and Polaris.
+## Various minor characters
+**Sergio** (Who was the first to die at Angel's hands), director **Tizen**.
 
 # AGENCIES
 ## Dáritke
