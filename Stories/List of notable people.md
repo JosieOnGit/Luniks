@@ -1,7 +1,7 @@
 # Notable People
 This list is being worked on, and will be extracted to each story's respective folder where a separate document will be created for a more in-depth look into the various characters per story.
 
-## Oslo Revolution (2018 Draft)
+## Oslo Revolution (2018)
 The info on the various characters that were listed here, are now available at the OSLO REVOLUTION [[Stories/OSLO REVOLUTION/Character List|Character List]].
 
 ## Leremkov Trials (2022)

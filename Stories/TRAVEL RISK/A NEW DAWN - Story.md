@@ -2,7 +2,7 @@
 **A NEW DAWN** is a story that is in *active and early development*. It's set to focus on **SOLARdawn**'s **Western Wing**, especially focussing on the lifetime of **Polaris**. The outline is available at [[A NEW DAWN - Outline]].
 
 # ACT I - IRRADIATE
-## High Tension
+## ONE - High Tension
 **June 2nd, 2059** | **Oslo** \
 **Emily Østengaard**
 ### Keep Focus
@@ -17,7 +17,14 @@ Holding her handbag tightly in her hands, she picked up the pace, she chants and
 
 *// Cont. Emily makes her way back to NORCE, and during the meeting with Esther, it is cut off short by the collapse of the government tower. The two realise that their own tower could very well be next, and ad hoc, their operations are paused immediately and indefinitely. This leaves Emily seeking a job once more, and realising that Oslo is no longer safe, the opportunity for PALMER-EDEN opens up.*
 
-## OVERFLOW
+## TWO - OVERFLOW
 **Chicago** \
 **Emily Østengaard** 
 
+## THREE - POLE STAR
+**Amadnésam** \
+**Emily Østengaard**
+### Sketch
+*// Despite adjusting excellently to her new space within PALMER-EDEN, and being frequently accompanied by **Francis Ezarea**, a force outside of her control has led her into a state of war once more. With her projects disturbed, and her living situation greatly endangered, only one option is left for her and many other researchers and employees within the confines of PALMER-EDEN. And that is to leave for Lúniks, and leave for SOLARdawn.*
+### Sketch
+*// Reaching Lúniks and establishing their own research division within the Western Wing of the SOLARdawn, Project CORE reaches completion, and Project POLARIS follows soon after. Every project is now centralised and supervised by one person: Polaris herself. *

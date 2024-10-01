@@ -83,6 +83,7 @@ Courtesy of Evie's original character **Cisila**. This "version" of Cisila is a 
 ## Nevo
 Courtesy of Lucas's original character **Nevo**. Attached to **Project NERVE**.
 ## Project CORE
+- **OVER_C**: **Oversee**, a planned iteration of Polaris's custom **2C** Terminal.
 - **4C**: **Foresee**, the most recent iteration of Project CORE, approaching its final and completed iteration.
 - **2C**: **To See**, a less mainstream iteration of Project CORE, which sees most use in the Western Wing with Polaris.
 - **EX_C**: **Experimental Core**, a PALMER-EDEN produced experimental iteration of Project CORE. It was carried over to Amadnésam to continue research there under the wings of Francis and Polaris.
