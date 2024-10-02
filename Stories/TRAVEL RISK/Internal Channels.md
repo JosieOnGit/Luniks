@@ -15,8 +15,13 @@ Francis sighed in response, averting his eyes from Emily once more as they drift
 The two stood face to face for a moment, before Emily walked towards the suitcase and held it at its handle once more, ready to leave whenever. But even so, she knew that she was still leaving behind years of hard work. She wouldn't be able to say goodbye, or even say thank you, to Martin himself for having given her this opportunity after the Oslo Revolution. And still, with those thoughts circling through her head, a single glance at the barren, deserted landscape that stretched out many kilometres into the far distance immediately washed away any potential regret that had been building up. Chicago was in pure dismay, and even if the PALMER-EDEN tower was set to provide a safe haven for any residents that had survived to this date, it was no place for the two of them to stay. Taking a deep breath, she exhaled deeply through her mouth, knowing that it was one of the last few breaths she'd need to take in this irradiated air, before a smile appeared on her face after her eyes met those of Francis once more. **"Let's go."** She said, holding the suitcase tightly in her hand. **"SOLARdawn is waiting for us."**
 
 # SOLARdawn Internal Circuit
+## SOLARdawn Mainstream Circuit
+### Announcement of transition from Terminal Units 2C into Units 4C - January 4th, 2072
+*// Simple announcement directed at all employees and staff of SOLARdawn, regarding the transition of Terminals currently using Unit 2C into using Unit 4C from February onwards.*
 ## SOLARdawn Transitional Projects
 ### Activity log in the Western Wing, Monitored by Unit 2C - March 1st, 2067
+*// Log that follows Francis and Nadia assisting the recently operated-on Emily, who is in progress of completing Project POLARIS. As a parallel to Project ANGEL, Emily herself was also the vessel and namesake of the project that she was working on for the past years. Although, unlike Angelina, Emily did **not** lose her memories, and simply goes through rehabilitation like normal (Despite initially being blind).* \
+*// A follow-up log will take place in late **2068**, where Project POLARIS fully reaches completion and the archives are finalised and put into use, now continuously watched by Polaris.*
 
 ## SOLARdawn Preliminary Circuit
 ### Activity log in the Western Wing, Polaris's quarters, Monitored by Unit 2C - September 23rd, 2073
