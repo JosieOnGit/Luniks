@@ -20,11 +20,24 @@ Holding her handbag tightly in her hands, she picked up the pace, she chants and
 ## TWO - OVERFLOW
 **Chicago** \
 **Emily Østengaard** 
+### Sketch
+*// Despite adjusting excellently to her new space within PALMER-EDEN, and being frequently accompanied by **Francis Ezarea**, a force outside of her control has led her into a state of war once more. With her projects disturbed, and her living situation greatly endangered, only one option is left for her and many other researchers and employees within the confines of PALMER-EDEN. And that is to leave for Lúniks, and leave for SOLARdawn.*
 
 ## THREE - POLE STAR
 **Amadnésam** \
 **Emily Østengaard**
 ### Sketch
-*// Despite adjusting excellently to her new space within PALMER-EDEN, and being frequently accompanied by **Francis Ezarea**, a force outside of her control has led her into a state of war once more. With her projects disturbed, and her living situation greatly endangered, only one option is left for her and many other researchers and employees within the confines of PALMER-EDEN. And that is to leave for Lúniks, and leave for SOLARdawn.*
-### Sketch
 *// Reaching Lúniks and establishing their own research division within the Western Wing of the SOLARdawn, Project CORE reaches completion, and Project POLARIS follows soon after. Every project is now centralised and supervised by one person: Polaris herself. *
+
+# ACT II - POLARIS
+## FOUR - AD INFINITUM
+**Amadnésam** \
+**Polaris**
+### Sketch
+*// Drafted: In relation to the Infinite Archive (The illusion thereof), Polaris interrupts and confronts someone who seemed to be seeking for things that were out of their reach.*
+
+## FIVE - THE LITTLE THINGS
+**Amadnésam** \
+**Polaris**
+### Sketch
+*// Rough: "Routine" interaction between little Cisila and Polaris. Acts as a wind down chapter for the previous chapter.*
