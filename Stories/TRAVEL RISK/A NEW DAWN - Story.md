@@ -31,13 +31,43 @@ Holding her handbag tightly in her hands, she picked up the pace, she chants and
 
 # ACT II - POLARIS
 ## FOUR - AD INFINITUM
-**Amadnésam** \
-**Polaris**
 ### Sketch
 *// Drafted: In relation to the Infinite Archive (The illusion thereof), Polaris interrupts and confronts someone who seemed to be seeking for things that were out of their reach.*
 
 ## FIVE - THE LITTLE THINGS
-**Amadnésam** \
-**Polaris**
 ### Sketch
 *// Rough: "Routine" interaction between little Cisila and Polaris. Acts as a wind down chapter for the previous chapter.*
+
+## SIX - ANGEL
+### Sketch
+*// Connecting the two enormous stories of A New Dawn and [[ANGEL - Story]], this chapter will go over the process of comforting and reassuring Angel in her doubts regarding her recent tasks (Executing Sergio, to name one), as told from Polaris's perspective.*
+
+## SEVEN - DIVIDE
+### Sketch
+*// The year is 2076. Martin Palmer has been dead for a few years, and this had led his projects in limbo now that he is no longer able to maintain these. Polaris and Palmer made an agreement that they wouldn't interfere with one another's projects, and even posthumously, Polaris respects this. However, that's leading to issues, and with Gradient having made her way to Lúniks (After having escaped prison in Zakh'háfo), she has learned about SOLARdawn, the Amadnésam Campus, and thus, Project VIOLET. Extracts [[Internal Channels#Activity log in the Western Wing, monitored by Unit 2C - September 20th, 2076]].*
+
+## EIGHT - VIOLET
+### Sketch
+*// September 21st, 2076. Gradient has successfully infiltrated the SOLARdawn campus and has abducted Project VIOLET: Little Cisila. While Francis is extremely distressed about the situation, Polaris herself is fully detached from what's going on, and thus allows Francis to find a solution by himself to have Cisila retrieved. Extracts [[Internal Channels#Activity log in the Western Wing, monitored by Unit EX_C - September 21st, 2076]], and further stretches around the relation that Polaris has with Little Cisila and the consequences to the **archive** that it has, now that Gradient has taken a look at some of the highly confidential projects (As seen from the various broken locks left on the floor.*
+
+## NINE - GRADIENT
+### Sketch
+*// September 22nd, 2076. The night after Francis had deployed HDEATH to retrieve Little Cisila, Polaris sets foot to see for herself what events unfolded in the streets of Amadnésam. Without much care for what Project VIOLET really meant to SOLARdawn, as she isn't the one maintaining it, she comes across a destroyed street, and seeing for herself what took place in this street through her White Eye, she informs Francis that Little Cisila is no longer carried by Gradient, and simply considered to be "Lost". Extracts [[Internal Channels#Activity log en route, monitored by Unit 2C+ - September 22nd, 2076]].*
+
+## TEN - BEFORE THE STORM
+### Sketch
+*// A few days (// Subject to change. Entirely dependant on how Heavy Rainfall Warning will unfold) after the abduction of Little Cisila, work for Polaris has resumed as normal, now keeping her focus on not just the maintenance of the Archives (Which will include another hint to her illusionary abilities in regards to the Infinite Archive/Abyss), but also to the maintenance of Project ANGEL, and Angel herself, who has been struggling with her mental health the past few days (// Currently unwritten. This will most likely take place in ANGEL's own story over the course of the week **after Nils's death**, and **before/after Nova's revenge**. Subject to change).*
+
+## ELEVEN - OVERSEER
+### Sketch
+*// Late September, 2076 (// Specific date needs to be pinpointed. Date for OVER_C is currently **inaccurate**). While **4C** has been in service for the past four years now, and while Polaris had been using a modified version of **2C**, the next evolution and iteration of the Terminal Unit that was made specifically for usage by Polaris is now ready. Unit **OVER_C**, not only capable of all that **2C** and **4C** could do, is also able to record and even influence the illusions that Polaris can create, allowing it to navigate and manage the Archives effortlessly now that Polaris is busy with overseeing Projects VIOLET and ANGEL.*
+
+## TWELVE - ABYSS
+### Sketch
+*// Due. (Title sounded cool but might get shifted around elsewhere. ABYSS and POLARIS may trade places, depending on what the latter's chapter will unfold into).*
+
+## THIRTEEN - POLARIS
+### Sketch
+*// Due.*
+
+**"On Earth, one gazes at the night sky, their eyes fixated on Polaris, Earth's North Star."** She quietly began, her eyes remaining closed, her arms opening wide, as if she were presenting a dance. **"All stars in her orbit swirl around her, revolve around her, and closely follow her by nature's intention."** She continued, her voice raising gradually as she continued to string her words together beautifully, her arms moving around widely, the backdrop beginning to fade to black. Before long, all that remained was Polaris herself, with her arms opened wide in an inviting manner, and gradually, small spots of light lit up the blackness surrounding her. In just a matter of seconds, the spots of light began to move, time progressing rapidly, before it became clear that the spots of light were circling around a central point. **"Alpha Ursae Minoris, her name is."** She smiled, the wings on the back of her head spreading open wide, the wind picking up, and the bright, pink luminescence leaked from her left eye as it opened slowly. **"Lúniks has no such star. Her poles shift too frequently to have such a North Star."** She continued, looking straight ahead, directly into [TBA]'s eyes. A mixture of white and pink light now came from her face. The bright, pulsing light flashed through the hair that had been covering her right eye, and even if the wind had picked up and furiously swept through her black-and-white hair, it wasn't enough to fully reveal it. **"And yet, [TBA], you are looking directly at her."** 

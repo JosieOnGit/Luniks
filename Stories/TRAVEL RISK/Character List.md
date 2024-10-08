@@ -6,7 +6,7 @@ Equipped with neurotech, including **Wrist Rabbit** (Hacking protocol on wrist)
 ### Appearance
 Rough visual reference: **Regis Altare** from **Holostars**.
 
-Nils is a well-built but slim young man, who has since his acquisition into **The Agency** decided to dye his hair blue, to match the Agency's own colour palette of *Blue/Turqouise*. During his training within the Agency, he has opted to exchange his regular casual wear to a more formal type of clothing, wearing a dark blue suit rather than shirts and jeans, to match **Raléi's** outfit too.
+Nils is a well-built but slim young man. During his training within the Agency, he has opted to exchange his regular casual wear to a more formal type of clothing, wearing a dark blue suit rather than shirts and jeans, to match **Raléi's** outfit too.
 ### Backstory
 Nils's backstory and the course of his life, is available at [[Backstories#Nils]]. \
 Nils dies in **September 2076** in **Myrdiva** at the hands of **Angel**, who personally executed him after he and **Nova** acquired and shared information regarding the confidential projects under development in **SOLARdawn**.
