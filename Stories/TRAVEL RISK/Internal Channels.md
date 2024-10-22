@@ -15,9 +15,36 @@ Francis sighed in response, averting his eyes from Emily once more as they drift
 The two stood face to face for a moment, before Emily walked towards the suitcase and held it at its handle once more, ready to leave whenever. But even so, she knew that she was still leaving behind years of hard work. She wouldn't be able to say goodbye, or even say thank you, to Martin himself for having given her this opportunity after the Oslo Revolution. And still, with those thoughts circling through her head, a single glance at the barren, deserted landscape that stretched out many kilometres into the far distance immediately washed away any potential regret that had been building up. Chicago was in pure dismay, and even if the PALMER-EDEN tower was set to provide a safe haven for any residents that had survived to this date, it was no place for the two of them to stay. Taking a deep breath, she exhaled deeply through her mouth, knowing that it was one of the last few breaths she'd need to take in this irradiated air, before a smile appeared on her face after her eyes met those of Francis once more. **"Let's go."** She said, holding the suitcase tightly in her hand. **"SOLARdawn is waiting for us."**
 
 # SOLARdawn Internal Circuit
+## Polaris Private Circuit
+### The Abyss gazes back, Supervised by Unit 2C+ - September 30th, 2076
+*// Despite Polaris telling Angel that "Nightmares only exist in your mind, and not in the world one finds themselves in", they do, in fact, still haunt Polaris herself too. On a day off, Polaris set course to the south of Amadnésam, to the Méidterran Ravines, to gaze into the Abyss once more with eyes wide open, ready to face whatever fears were in her mind, and ready to overcome them.*
+
+**"Quiet as ever."** She sighed, staring into the endless blackness that was beneath her feet. There was no source of light to illuminate the endless ravines she was looking down at, the luminescence of her eyes was far too dim to even light the rocks closest to her, and Lumen's light wasn't strong enough to help her see further beyond the grassy floor that covered the top of the ravines. The rustling of leaves as the wind brushed them gently on its trajectory forward was the only sound echoing across the plains, not even 2C's whirring of her own breathing being loud enough to cause the insects to quiet down. Quietly, she took a deep breath, and sat down on the edge of the ravine, her legs dangling off the edge, her hands rested flat on the grass to anchor herself on the soil, preventing herself from falling down into the endless pit below. \
+**"You know this place well, don't you?"** She whispered to herself, but instead of the abyss, it was the quiet whirr and chime of 2C that was slung around her shoulder that answered. If it could nod, it would, but instead, it chimed in a positive manner. *// Indeed, I do. You are seated on the edge of one of seven Méidterrai Ravines. You come here often. //* It replied, causing a chuckle to leave Polaris's lips. \
+**"Often, you say?"** She smiled, glancing at the red and silver Unit for a moment, before her eyes drifted back to look forwards over the ravine. 
+
+
 ## SOLARdawn Mainstream Circuit
 ### Announcement of transition from Terminal Units 2C into Units 4C - January 4th, 2072
-*// Simple announcement directed at all employees and staff of SOLARdawn, regarding the transition of Terminals currently using Unit 2C into using Unit 4C from February onwards.*
+*// Simple announcement directed at all employees and staff of SOLARdawn, regarding the transition of Terminals currently using Unit 2C into using Unit 4C from February onwards.* \
+For Lúniksan, see below.
+
+This message is directed to all employees servicing the Northern, Eastern, and Southern Wings of SOLARdawn Campus Amadnésam. As you have been repeatedly informed, **Unit 2C**, which has been a Core servicing all four wings of the Campus, is being *retired* from January 2072 onwards. The reason for this, is that the next evolution of the Terminal is reaching the end of its development, meaning that Unit 2C will be due replacement. For all Wings, excluding the Western Wing, Unit 2C will be replaced by its next iteration, Unit 4C, starting February 1st, 2072. 
+
+All of the features that you have gotten used to over the course of your respective careers, will remain the same, as well as all data assigned to your personal account. In theory, nothing will change, but the user interface, and your experience utilising the Terminals in your Wing may change. 
+
+If you are left with any questions, or would like to acquire more information, please seek your nearest reception desk, or reach out to your respective organisation's e-mail address.
+
+SOLARdawn Mainstream.
+
+Czí mensazs-ést sur toult arbédkemej kë servisélés alájej Nordre, Estre, den Súdre, da SOLARdawn Kampus Amadnésam. Kun repeticë, éu si informérira a **Unit 2C**, ej Core kë he servisís toult fir alájej da Kampus, skulle *séisa* fra Januarë 2072. Rédne-ést a nóve iterácë da Terminal nárést endë czen forsoukékem, kë betírést a Unit 2C skulle rëcíva ekpláckem. Sur toult alájej, met alájej Vestre, Unit 4C skulle ekplaca Unit 2C fra 1e Februarë 2072.
+
+Toult funkcéj éu szesnés skulle á sammë, den éun data da konto mot. Téoretskë, nadië skulle forendra, sed UI den éun esplorákem sim éun aláje *vule* forendra. 
+
+Nor éu há frágej, ou vóle há fler informácë, vúska éuje e-mail-n organesácë.
+
+SOLARdawn Mainstream.
+ 
 ## SOLARdawn Transitional Projects
 ### Activity log in the Western Wing, Monitored by Unit 2C - March 1st, 2067
 *// Log that follows Francis and Nadia assisting the recently operated-on Emily, who is in progress of completing Project POLARIS. As a parallel to Project ANGEL, Emily herself was also the vessel and namesake of the project that she was working on for the past years. Although, unlike Angelina, Emily did **not** lose her memories, and simply goes through rehabilitation like normal (Despite initially being blind).* \

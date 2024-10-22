@@ -141,8 +141,6 @@ Context: [[WHITEOUT - Story]].
 Context: [[REFRESH - Story]].
 #### July 16th, 2076 - FATED ENCOUNTER
 Context: [[FATED ENCOUNTER - Story]].
-#### September 21st, 2076 - KILLJOY
-Context: [[KILLJOY - Story]].
 
 ## 2078 - Kósfrii domes completed
 Context: [[SPIDER'S WEB - Story#5 - Of what once was]]. \

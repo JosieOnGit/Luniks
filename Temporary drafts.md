@@ -4,6 +4,13 @@ This file solely exists to prevent merge conflicts from happening in [[Story Dra
 # July 31st Drafts
 - **GRIDRUNNER** | An **interjection** or **mini-story** of two gridrunners utilising evolved **Neurotech** technology to deploy hacks by virtually yet physically travelling through the wiring networks might find its way into the grand scheme of **Gridrunner** as a whole and might shine a light on the variety of the term "Gridrunner".
 
+# October 22nd Drafts
+- **DREAMSEEKER**/**SOLARdawn** | Currently completely conceptual, however, it may include or see use of:
+	- **Dreamseeker** | Character design directly taken from **Honkai Impact**. The actual term or name may see a rebrand, however, to avoid conflict with aforementioned title.
+	- **Voyage** | Unspecified as of yet, may be a relation to Lúniks's original inhabitants, as well as the potential cosmic mission that they may have embarked on (Which may also see a relation with the **Dragons of Vao**, which itself is another old draft)
+	- Dreamseeker **would** include supernaturalism and vivid realism, primarily through hallucinations or other impossibly real events or visions. This would add more background to **Polaris**'s character, and give an explanation to her abilities as well and explore further upon these. Additionally, that arises questions: What *is* **Voyage**, and does SOLARdawn know about Polaris's journey and relation to this **Voyage**? If Polaris is "A Dreamseeker", will this imply that there are several, and if so, what is their purpose, and how does this tie back to Polaris's position within SOLARdawn?
+	- A connection to the currently drafted [[Álusken's Mysteries]], which also requires more information and context for it to shape properly.
+
 ## Leremkov - PENDULUM (shelved)
 Self insert into pendulum - Receive aid and care through Vienna & Olen.
 
