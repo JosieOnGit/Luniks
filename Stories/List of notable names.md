@@ -94,7 +94,7 @@ By **2096**, the research that is being conducted by the **Platinum Halberd** an
 This list has moved to [[List of Spaceships]].
 
 ## Moonlight Institute
-This institute as a story component is currently in a startup stage. A proper description is due. It will most likely be placed near **Némiskéi** and **Pahlatlán** to complete the science districts. This means that the city of **Ljívk** may undergo a slight rewrite to suit this goal. \
+This institute as a story component is currently in a startup stage. A proper description is due. It will most likely be placed near **Némiskéi** and **Pahlatlán** to complete the science districts. This means that the city of **Ljivk** may undergo a slight rewrite to suit this goal. \
 Subsidiaries/daughter branches:
 - **Moondial**: Much like **Hammerhead** and **Carbine**'s **CRI**, Moondial is a space research institute that is actively developing spaceships and -stations to conduct various means of research of the current known galaxy. While (as of **2096**) Hammerhead has been keeping its focus on commercial spacecraft and research, and Carbine has been eyeing terraforming the settled systems of **Sol** and **Choreos**, Moondial has been laying its eyes especially on **Cintura**, which had been relatively off the charts until **2095** specifically. 
 - **Lightcone**: Subsidiary created to master the wormhole technologies that had been used since 1999, which would allow humanity to reach other solar systems faster, and more efficiently.

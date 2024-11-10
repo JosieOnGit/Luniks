@@ -13,10 +13,11 @@ City most notable by its civil war after a fallen local government, lasting from
 ## Sléta
 ## Nóve Osló
 It's still unclear what will be done with the city of Nóve Osló project-wise. This city was founded after the Oslo revolution, which the Persson family and the Seventh Léjtuse also connect to, but considering how the course of the project has gone over the last years, the drafted story from 2019 no longer properly fits, so both the Oslo revolution and the city of Nóve Osló are drafts as of now (Dec 2022).
-## Ljívk
-Founded soon after the settlement that landed on Luniks, Ljívk is a city focused purely on the construction of space transport, for both passenger and cargo shipments. Long before the first Starships landed on Luniks, Ljívk was already noted on the map on Ubunia, because it was a perfect location for mining the required materials used in spaceship production. After the immense demand for space travel plummeted when Luniks was properly settled, the priorities shifted to planetary travel and further researching and developing maglev technology.
+## Ljivk
+Founded soon after the settlement that landed on Luniks, Ljivk is a city focused purely on the construction of space transport, for both passenger and cargo shipments. Long before the first Starships landed on Luniks, Ljivk was already noted on the map on Ubunia, because it was a perfect location for mining the required materials used in spaceship production. After the immense demand for space travel plummeted when Luniks was properly settled, the priorities shifted to planetary travel and further researching and developing maglev technology.
 ## Némiskéi
 ## Meskitái
 To reduce the extreme load on Sórskist as the nation of Thórirsant continued to grow exponentially, a new harbour was built on the coastal city of Meskitái, intended to divert the stream of ships away from Sórskist and reduce its stress. 
 ## Kasztávje
 ## Pahlatlán
+## Vádhai

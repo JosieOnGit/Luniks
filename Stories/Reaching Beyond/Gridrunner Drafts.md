@@ -40,7 +40,7 @@ Key notes that aren't reflected in any story just yet are:
 - **Ódóni Industries** returns to Máneá in **2082**, and opens a factory in **Amadnésam**, sharing duties with the recent startup **SELECT** to resume **Neurokick** production and development and mastering of **Leremkov**. 
 	- (*// Connection to PENDULUM?*)
 	- (*// Can the evolved version of Neurokicks provide a lead in the Gridrunner development, and even lead to proper documentation of complex cyberattacks?*)
-- **Moonlight** parts ways with **Carbine** in **2085**, settling themselves in nearby **Ljívk**. 
+- **Moonlight** parts ways with **Carbine** in **2085**, settling themselves in nearby **Ljivk**. 
 - **Starlight** embarks on its ambitious **Dyson Sphere** journey in **2092**, creating and launching a series of experimental satellites around **Choreos** to research the options for creating such a marvel of technology.
 - Maria leaves behind the flourishing research team at **Carbine** to focus exclusively on the **ARC** project in **2094**, completing it a mere two years afterwards together with **Thomas Vanhuyt**. Upon completion, she returns to Carbine once more to station herself on the ARC in **2096**. 
 	- (*-> [[ARC - Story]]*)
