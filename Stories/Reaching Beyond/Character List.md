@@ -2,7 +2,8 @@
 This Character List belongs to [[Reaching Beyond]].
 
 ## Maria Limáida
-In her early 40s, her eventful past without any moments of rest shaped her into the genius that she is today. Since the events of Travel Risk, where she had been involved in the security protocols of the Álef Metro, she stumbled upon Raléi after she performed an interception. The two had grown together closely, but it simply wasn't meant to be after Raléi lost her life in the **2076 Álef Metro incident**. 
+A questionnaire where Maria answers various questions about herself is available at [[Questionnaire for Maria Limáida]]. \
+In her early 40s, her eventful past without any moments of rest shaped her into the genius that she is today. Since the events of Travel Risk, where she had been involved in the security protocols of the Álef Metro, she stumbled upon Raléi after she performed an interception. The two had grown together closely, but it simply wasn't meant to be after Raléi lost her life in the **2075 Álef Metro incident**. 
 
 Maria's experience isn't limited to just that, as she was also involved in the **2073 Kósfrii nuclear incident**, and had a say in the refurbishment of the **Hammerhead Satellite Ship** project in **2082**, before getting picked up by **Carbine**'s recently created research division. Her genius ideas and her ability to put words into creations, the created the **Golden Bow** all by herself, and designed the **Jade Dagger** together with **Jeffrey Howler** a year afterwards. Her magnum opus remains the **ARC**, which she had designed and built together with **Thomas Vanhuyt**, a talented engine designer that was the main designer for the **Alessi Shuttles**.
 
