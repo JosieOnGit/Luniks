@@ -36,5 +36,6 @@ Part of the **Álef city cluster**.
 ## Kristánisin
 Part of the **Álef city cluster**.
 ## Osselev
+- Ald-Zselevcze
 ## Lóivitlán
 ## Dápos

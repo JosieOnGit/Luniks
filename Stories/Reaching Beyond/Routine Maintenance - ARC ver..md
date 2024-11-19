@@ -1,6 +1,8 @@
 # Routine Maintenance - ARC ver.
 Directly parallels "ROUTINE MAINTENANCE" by Evie, which is available on [GitHub](https://github.com/eviedense/CI.SI/blob/main/EXTRA/LUNIKS%20COORDINATION/ROUTINE%20MAINTENANCE.md). \
 While Routine Maintenance focuses exclusively on the **Alessi Shuttle** ships, the **Platinum Halberd** and **Silver Pike**, the **ARC ver.** of the same story will focus on the developments that take place on the ARC as the two ships vanish off the radar and detection systems. 
+# November 2024 note
+Following a change in plot in the **Halberd ver.** of the story, all chapters that have been written as of now are **subject to change**, and will need to be revised to adhere to this new plot. 
 ## Synopsis
 The **Silver Pike** and **Platinum Halberd** (Also known as the **Alessi Shuttles**), sharing a blueprint and having been launched in **2092** and **2093**, respectively, are most known for their research and projects that they have conducted in the **Alessi Belt**. Both of these ships have been equipped with top-of-the-line equipment that is deemed vital for the research they're conducting, and answering the decade-old question of: *"Is it viable for humanity to utilise the nearest gas planet to terraform the nearest rock planet?"* This question is both present in the Solar and Choreos systems, where Mars and Dvóniks are both hot topics of the next era in humanity's journey for settling the stars, but with their cold, barren nature, it would almost seem impossible to create a long-lasting settlement on either of these planets.
 
