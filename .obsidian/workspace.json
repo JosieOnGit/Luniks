@@ -6,7 +6,7 @@
       {
         "id": "81f927cea75f4356",
         "type": "tabs",
-        "dimension": 45.06666666666666,
+        "dimension": 47.53363228699552,
         "children": [
           {
             "id": "29bafd1666ca053a",
@@ -17,7 +17,9 @@
                 "file": "Stories/Lúniks Timeline.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lúniks Timeline"
             }
           },
           {
@@ -29,7 +31,9 @@
                 "file": "Stories/TRAVEL RISK/TRAVEL RISK.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TRAVEL RISK"
             }
           },
           {
@@ -41,7 +45,9 @@
                 "file": "Stories/TRAVEL RISK/ACT I - TRAVEL RISK.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ACT I - TRAVEL RISK"
             }
           },
           {
@@ -53,7 +59,9 @@
                 "file": "Stories/TRAVEL RISK/ACT II - ÁLEF AFTER SUNDOWN.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ACT II - ÁLEF AFTER SUNDOWN"
             }
           },
           {
@@ -65,7 +73,9 @@
                 "file": "Stories/TRAVEL RISK/ACT III - THE ROAD HOME.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ACT III - THE ROAD HOME"
             }
           },
           {
@@ -77,7 +87,9 @@
                 "file": "Stories/TRAVEL RISK/ANGEL - Outline.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ANGEL - Outline"
             }
           },
           {
@@ -89,7 +101,9 @@
                 "file": "Stories/TRAVEL RISK/REFRESH - Story.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "REFRESH - Story"
             }
           },
           {
@@ -101,16 +115,32 @@
                 "file": "Stories/TRAVEL RISK/Internal Channels.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Internal Channels"
+            }
+          },
+          {
+            "id": "442115049a7d6158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/TRAVEL RISK/INSIGHT - Story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INSIGHT - Story"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "3b0732557f149020",
         "type": "tabs",
-        "dimension": 54.93333333333334,
+        "dimension": 52.46636771300448,
         "children": [
           {
             "id": "8948472a7495b970",
@@ -121,7 +151,9 @@
                 "file": "Stories/TRAVEL RISK/Backstories.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Backstories"
             }
           },
           {
@@ -133,7 +165,9 @@
                 "file": "Stories/Reaching Beyond/ARC - Story.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ARC - Story"
             }
           },
           {
@@ -142,10 +176,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Ubunia/Máneá.md",
+                "file": "Geography/Ubunia/Zakh'háfo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Zakh'háfo"
             }
           },
           {
@@ -157,7 +193,9 @@
                 "file": "Stories/Reaching Beyond/Routine Maintenance - ARC ver..md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Routine Maintenance - ARC ver."
             }
           },
           {
@@ -169,7 +207,9 @@
                 "file": "Stories/List of notable names.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "List of notable names"
             }
           },
           {
@@ -181,7 +221,9 @@
                 "file": "Temporary drafts.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Temporary drafts"
             }
           },
           {
@@ -193,7 +235,9 @@
                 "file": "Stories/TRAVEL RISK/ANGEL - Story.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ANGEL - Story"
             }
           }
         ],
@@ -217,7 +261,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -232,7 +278,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -240,7 +288,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -263,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/TRAVEL RISK/ANGEL - Story.md",
+                "file": "Stories/TRAVEL RISK/DREAMSEEKER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +321,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DREAMSEEKER"
             }
           }
         ]
@@ -291,11 +343,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1c800eb0f10f5a0",
+  "active": "442115049a7d6158",
   "lastOpenFiles": [
-    "Stories/TRAVEL RISK/ANGEL - Outline.md",
     "Stories/TRAVEL RISK/ANGEL - Story.md",
+    "Geography/Ubunia/Zakh'háfo.md",
+    "Stories/TRAVEL RISK/INSIGHT - Story.md",
+    "Stories/Reaching Beyond/Routine Maintenance - ARC ver..md",
+    "Stories/Reaching Beyond/ARC - Story.md",
+    "Geography/Ubunia/Máneá.md",
+    "Stories/Misc/Questionnaire Template.md",
+    "Stories/Misc/Questionnaire for Maria Limáida.md",
+    "Stories/Misc",
+    "Stories/TRAVEL RISK/DREAMSEEKER.md",
+    "Stories/Reaching Beyond/List of spaceships.md",
     "Stories/TRAVEL RISK/Internal Channels.md",
+    "Temporary drafts.md",
+    "Stories/TRAVEL RISK/ANGEL - Outline.md",
     "Stories/TRAVEL RISK/REFRESH - Story.md",
     "Stories/TRAVEL RISK/KILLJOY - Story.md",
     "Archived/Lore Concepts.md",
@@ -306,23 +369,13 @@
     "Pasted image 20240831163451.png",
     "Stories/TRAVEL RISK/FATED ENCOUNTER - Story.md",
     "Stories/Lúniks Timeline.md",
-    "Geography/Ubunia/Máneá.md",
     "Stories/List of notable people.md",
     "Untitled.md",
     "Pasted image 20240830220424.png",
     "Pasted image 20240830162806.png",
-    "Temporary drafts.md",
     "Stories/Reaching Beyond/Reaching Beyond.md",
-    "Stories/Reaching Beyond/Routine Maintenance - ARC ver..md",
     "Stories/TRAVEL RISK/Backstories.md",
     "Stories/List of notable names.md",
-    "Stories/Reaching Beyond/ARC - Story.md",
-    "Stories/TRAVEL RISK/WHITEOUT - Story.md",
-    "Stories/TRAVEL RISK/HEAD TO HEAD - Story.md",
-    "Stories/TRAVEL RISK/GHOST - Story.md",
-    "Stories/TRAVEL RISK/TRAVEL RISK.md",
-    "Stories/TRAVEL RISK/SPIDER'S WEB - Story.md",
-    "Stories/Reaching Beyond/Gridrunner Drafts.md",
     "Geography/North-America Map.png",
     "Geography/Luniks map (5).png",
     "Pasted image 20240725164634.png",
@@ -338,7 +391,6 @@
     "Geography/Deónia",
     "Geography/Skádia",
     "Geography/Vestia",
-    "Geography/Ubunia",
     "Untitled.canvas"
   ]
 }
