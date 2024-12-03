@@ -139,7 +139,7 @@ Context: [[ACT III - THE ROAD HOME]].
 Context: [[WHITEOUT - Story]]. 
 #### December 20th, 2075 - REFRESH
 Context: [[REFRESH - Story]].
-#### July 16th, 2076 - FATED ENCOUNTER
+#### March 16th, 2076 - FATED ENCOUNTER
 Context: [[FATED ENCOUNTER - Story]].
 
 ## 2078 - Kósfrii domes completed
