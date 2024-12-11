@@ -44,3 +44,61 @@ You need to get into the head of you character. You need to know them so well th
 ### How articulate is your character? 
 ### Does your character have an accent or speech impediment or alternative dialect? 
 ### Does your character use slang or professional lingo?
+
+----
+## Additional Questionnaire
+*// This questionnaire can be assumed and written as if it were an interview of the character.*
+### Age? 
+### Sexuality/sexual preference? 
+### Any siblings/only child? 
+### Favourite season? 
+### Gender? 
+### DOB? 
+### Who were your parents/guardians? 
+### Clothing style? 
+### Favourite food after a break-up? 
+### How many serious relationships have you been in? 
+### Nationality? 
+### What languages do you speak? 
+### Profession/education? 
+### Comfort food? 
+### Food you hate? 
+### Music taste? 
+### Something you do that others call childish? 
+### All-time favourite TV show? 
+### All-time favourite movie? 
+### How big is your family? 
+### Are you close to any family member in specific? 
+### Any allergies? 
+### Are you an emotional person? 
+### Do you get angry/lose your temper? 
+### What are some of your guilty pleasures? 
+### Do you want or have pets? 
+### Are you a virgin?
+### Do you have or want kids? 
+### Any tattoos or piercings? 
+### Favourite Pokémon? 
+### Do you like musicals? 
+### Do you believe in the supernatural? 
+### Have you ever seen a dead body? 
+### Have you ever had a near death experience? 
+### Have you ever broken a bone? 
+### What are you like when you’re drunk? 
+### Have you ever drank underage? 
+### First thing you do when you wake up? 
+### Would you consider yourself popular? 
+### How do you like your tea/coffee? 
+### Do you wear glasses or contacts? 
+### Do you have a good memory? 
+### Do you have any hobbies? 
+### How do you spend your free time? 
+### When/where are you most comfortable? 
+### Are you an introvert or an extrovert? 
+### Favourite animal? 
+### Favourite mythological creature? 
+### If your power gets cut while you're at home, how do you spend the time? 
+### When someone invites you out but you don't want to go - how do you tell them? 
+### Hot shower or cold shower? 
+### What type of character in a franchise or piece of media do you tend to get attached to? 
+### Side-sleeping or back-sleeping and why? 
+### What would an ideal space for you look like? Can be a room or an environment.

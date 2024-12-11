@@ -38,7 +38,7 @@ Even though Maria and Raléi never got the opportunity to, Maria would've loved 
 Maria is:
 - Head of the **ARC**. Designer of the **ARC**. 
 - Although she has passed down the duties to spread them out under her wings, Maria remains the only person within **Carbine** to bear the title of *"Control"*. Even so, she has only used her rank *once*, doing so to command the **Platinum Halberd** back to **Lumen** in [[Routine Maintenance - ARC ver.]].
-- Class 1 *Aerospace Engineer* and *designer* within **Carbine**, sharing this role only with **Thomas Vanhuyt** and **Patrik Miyidkov**. 
+- Class 1 *Aerospace Engineer* and *designer* within **Carbine**, sharing this role only with **Thomas Vanhuyt** and **Patrik Miyidkov**. \
 In the past, Maria worked for:
 - **Álef Metro**: As an intern overseeing the security of the metro underground.
 - **Carbine Industries**: As an intern overseeing and working with the **Kósfrii/Jánhul Reactors** for the **Nuclear Fusion Project**, or **"Spider's Web"**.
@@ -106,3 +106,93 @@ Maria is a very articulate person, and during her years within the university, i
 Having been raised in both **Jóthul** and **Sirália**, and having been raised with a mother and father from these respective nations, she speaks with a slight accent. Even so, exposure to academies, research institutes, and work in other nations has evened out this accent. Maria is fluent in **English**, **Lúniksan**, **Sirálian dialect** (*Italian*), and **Jóthuli dialect** (*Lúniksan*).
 ### Does your character use slang or professional lingo?
 Maria is a very formal and reserved person, and since her work requires her to use terms that are considered to be relatively "difficult" to understand for the average person, it can be said that she uses professional and formal language first and foremost. 
+
+----
+## Additional Questionnaire
+*// This interview takes place about two weeks after the events of [[Routine Maintenance - ARC ver.]]. For writing purposes, it's written as an actual interview. The questions and answers are such written as genuinely as possible.* 
+### Age?
+**42 years young!** 
+### Sexuality/sexual preference?
+**I've had a lesbian marriage, which reached a premature and abrupt end almost 20 years ago already. Ever sincee, I guess one would call it "Aro-ace"? I've not really put my mind to it since.** 
+### Any siblings/only child?
+**I'm an only child, but I've had plenty colleagues I consider to be my siblings. Crunching at work with a group helps build tight bonds like those.** 
+### Favourite season?
+**I've loved winter all my life, it's a shame I rarely have time to return to Lúniks to actually see snow again. At least the snowy peaks in Ellitróómi are easy to see from the ARC.** 
+### Gender?
+**Female. No small text there.** 
+### DOB? 
+**August 17th, 2054.** 
+### Who were your parents/guardians?
+**Both of my parents are still alive, but they've been divorced for a good while by now. My father's name might be a little familiar, being Enzo Limáida, president of the Sirálian LESD. But my mother, Lana Kozatnië, has been relatively "behind the scenes", you could say. She's not in the best state of health for the past years, so she's been doing community service in Dázlacé as a means to kill time. It doesn't earn much, but considering my father and I both have relatively well-earning work, we fund her as much as we can so she can also live as freely and without worries as possible.** 
+### Clothing style?
+**Nothing special! I've never been too invested fashion, and with how much I've worked the past decades, I haven't had the time for it either, even though I've got the budget for it. Just sweaters and jeans or skirts for me, nothing too fancy.** 
+### Favourite food after a break-up?
+**I'm lucky to never have needed to discover that! I've never broken up, or been broken up with, but I can absolutely recommend Sirálian food nonetheless!** 
+### How many serious relationships have you been in?
+**Just one, which bloomed into the most beautiful few years of marriage I had the pleasure of living through. Even if it had a bittersweet and abrupt, unforeseen ending, those memories can't be taken from me.** 
+### Nationality? 
+**Jóthuli-Sirálian! My father is Sirálian through and through, with my grandparents also being Sirálian, but my mother's Jóthuli, and I have more distant family from Thórirsant and Máneá as well!** 
+### What languages do you speak?
+**Too many to list, probably! But I've grown up speaking Lúniksan, Sirálian, and I've learned English from early on as well during my first few years of school. From there on I studied in Sirália and properly learned to speak my father's language there, before studying in Rhódisz helped me learn English better. But even with all those, I'm relatively proficient in the regional Jóthuli dialect as well!** 
+### Profession/education?
+**Oh my, where do I even begin?** *// This will be done later LOL this is too much to list at 11pm* 
+### Comfort food?
+**A lot of my early college years were filled to the brim with ready-as pasta dishes, because I'd never have the time to cook *and* to get all projects for work and for school done. I'd say that my comfort food would definitely be a good, proper pasta.** 
+### Food you hate? 
+**Even though Sirália is a Vestian nation, there's a *lot* of Vestian food from the other nations that I can't stand. A lot of dishes from Hédenis are fine, but Monsán and Vao have *really* weird cuisine.** 
+### Music taste?
+**I tend to listen to jazz a lot! But others mostly catch me listening to something a little more toned or stripped down during working hours. It helps a lot filling up the silence in the room, even though it can be nice sometimes.** 
+### Something you do that others call childish?
+**I've been told once that chewing gum was relatively childish?** 
+### All-time favourite TV show?
+**I've not been too fond of watching TV all too much, even in my teen years, nor now, but there were a lot of documentaries about Stephen Hawking that I was truly obsessed with!** 
+### All-time favourite movie?
+**It might be a little dated, but I still have a soft spot for the original Interstellar movie.** 
+### How big is your family? 
+**Average-sized? I have a very closed family from Sirália, who have all come from the same region, but on my mother's end of the family tree it branches out a lot throughout Western and Central Ubunia, but even so, I don't think it's all too big compared to other families.** 
+### Are you close to any family member in specific?
+**Not exactly. Being an only child doesn't help, and being in my 40s also doesn't help too much, but I still have occasional contact with both of my parents.** 
+### Any allergies?
+**Nothing more but the usual hay fever. Maybe that's why I've been aboard the ARC since its launch!** 
+### Are you an emotional person? 
+### Do you get angry/lose your temper? 
+### What are some of your guilty pleasures? 
+### Do you want or have pets? 
+### Are you a virgin?
+**I don't think any answer I give would be relevant for this interview.** 
+### Do you have or want kids? 
+### Any tattoos or piercings?
+**No piercings but the ones I've had for decades on my ears. I've not touched these Feline ears out of fear either, even though I've gotten used to them, but piercing those seems like an infection waiting to happen. I *do* have a tattoo on the left of my chest, though, just above my breast, which is a tribute to my wife. Having a tattoo of her signature means she'll always be close to my heart.** 
+### Favourite Pokémon? 
+### Do you like musicals? 
+### Do you believe in the supernatural?
+**Hard not to! Despite there being a fair few proven studies and theories regarding supernaturalism, my own case hasn't been explained yet, and as a result, I'm not exactly using it often either.** 
+### Have you ever seen a dead body? 
+**Unfortunately, I've seen plenty enough. More unfortunately, I've been the reason for it, too.** 
+### Have you ever had a near death experience? 
+**I've survived nine attempted assassinations. That should tell you enough.** 
+### Have you ever broken a bone? 
+**Surprisingly, only once! I've had a nasty fall off my bicycle when I was eight years old, and broke my wrist as a result. From then in, I've kept my bones in the best shape possible!** 
+### What are you like when you're drunk? 
+**Sleepy, drowsy, and *extremely* giggly, I've been told.** 
+### Have you ever drank underage? 
+**Come on, you're asking a Sirálian woman? First sip of wine when I had 14, courtesy of my eldest uncle's own winery.** 
+### First thing you do when you wake up? 
+### Would you consider yourself popular? 
+### How do you like your tea/coffee? 
+**I rarely drink tea, but when I do, I love oolong and black teas with a little hint of sugar! The polar opposite is my coffee preferences, I tend to drink it black without any additives, and if I really need to focus, I can easily go through several shots of espresso.** 
+### Do you wear glasses or contacts? 
+**I've worn glasses all my life. Contacts never suited my eyes right, and I never bothered trying again as I got older.** 
+### Do you have a good memory? 
+**A colleague from Íszkéde once told me that my memory was akin to one of their native sayings. *"Kostek omtáávitlan šansevvet sol léérestemtevvet u atváštšek."* It roughly translates to "The rocks on the coast are shaped by every wave that it struck", meaning that no matter what washes over me, I will always remember it and be able to name it. On the contrary, my memory has also been considered akin to a goldfish, from time to time!** 
+### Do you have any hobbies? 
+### How do you spend your free time? 
+### When/where are you most comfortable? 
+### Are you an introvert or an extrovert? ### Favourite animal? 
+### Favourite mythological creature? 
+### If your power gets cut while you're at home, how do you spend the time? 
+### When someone invites you out but you don't want to go - how do you tell them? 
+### Hot shower or cold shower? 
+### What type of character in a franchise or piece of media do you tend to get attached to? 
+### Side-sleeping or back-sleeping and why? 
+### What would an ideal space for you look like? Can be a room or an environment.
