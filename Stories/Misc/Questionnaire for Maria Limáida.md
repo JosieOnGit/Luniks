@@ -155,20 +155,27 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### Any allergies?
 **Nothing more but the usual hay fever. Maybe that's why I've been aboard the ARC since its launch!** 
 ### Are you an emotional person? 
+**I'd rather not say for myself that I am, but if I had to judge from the past month and all that I've gone through, it's hard to deny it. I'm still dealing with events from years, many years ago, so it's hard not to get fed up and emotional with it.**
 ### Do you get angry/lose your temper? 
+**Even though I can get emotional, I can't remember the last time I've lost my temper and got angry! I reckon it could be when an old colleague, Dr. Vanhuyt, took an abrupt leave from Carbine, but that's something that's already hazy to me, even if it was just a bit over a month ago.**
 ### What are some of your guilty pleasures? 
+**I don't think one would consider it a "real" guilty pleasure, but I love baking! In a different universe, where things went differently for me, I can totally see myself in a bakery!**
 ### Do you want or have pets? 
+**Right now, I feel like keeping my Feline traits at bay is the closest thing to a pet that I could have. But even with that, I used to have a cat during my years of college in Kristensend and when I lived in Sirália, I actually had parrots!**
 ### Are you a virgin?
 **I don't think any answer I give would be relevant for this interview.** 
 ### Do you have or want kids? 
+**That opportunity for me has been long gone, but I still wish I could have.**
 ### Any tattoos or piercings?
-**No piercings but the ones I've had for decades on my ears. I've not touched these Feline ears out of fear either, even though I've gotten used to them, but piercing those seems like an infection waiting to happen. I *do* have a tattoo on the left of my chest, though, just above my breast, which is a tribute to my wife. Having a tattoo of her signature means she'll always be close to my heart.** 
+**No piercings but the ones I've had for decades on my ears. I've not touched these Feline ears out of fear either, even though I've gotten used to them, but piercing those seems like an infection waiting to happen. I *do* have a tattoo on the left of my chest, though, just above my breast, which is a tribute to my wife. Having a tattoo of her signature means she'll always be close to my heart, no matter where the universe may guide me to next.** 
 ### Favourite Pokémon? 
+**Is it bad for me to admit I never really got into Pokémon in my younger years? It was so overwhelming for me, I couldn't get into it, even if plenty of classmates in Sirália did! Can I just play it off and say "Pikachu?" Is that fine?**
 ### Do you like musicals? 
+**I much prefer films over musicals, but that's not to say I dislike musicals!**
 ### Do you believe in the supernatural?
-**Hard not to! Despite there being a fair few proven studies and theories regarding supernaturalism, my own case hasn't been explained yet, and as a result, I'm not exactly using it often either.** 
+**Hard not to! Despite there being a fair few proven studies and theories from institutes in Máneá regarding supernaturalism, my own case hasn't been explained yet, and as a result, I'm not exactly using it often either.** 
 ### Have you ever seen a dead body? 
-**Unfortunately, I've seen plenty enough. More unfortunately, I've been the reason for it, too.** 
+**Unfortunately, I've seen plenty enough. More unfortunately, I've been the reason for some, too.** 
 ### Have you ever had a near death experience? 
 **I've survived nine attempted assassinations. That should tell you enough.** 
 ### Have you ever broken a bone? 
@@ -178,6 +185,7 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### Have you ever drank underage? 
 **Come on, you're asking a Sirálian woman? First sip of wine when I had 14, courtesy of my eldest uncle's own winery.** 
 ### First thing you do when you wake up? 
+**I toss and I turn and I snooze for another few minutes. I'm more of a night owl than an early bird, and I *really* struggle waking up during mornings.**
 ### Would you consider yourself popular? 
 ### How do you like your tea/coffee? 
 **I rarely drink tea, but when I do, I love oolong and black teas with a little hint of sugar! The polar opposite is my coffee preferences, I tend to drink it black without any additives, and if I really need to focus, I can easily go through several shots of espresso.** 
@@ -188,7 +196,8 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### Do you have any hobbies? 
 ### How do you spend your free time? 
 ### When/where are you most comfortable? 
-### Are you an introvert or an extrovert? ### Favourite animal? 
+### Are you an introvert or an extrovert? 
+### Favourite animal? 
 ### Favourite mythological creature? 
 ### If your power gets cut while you're at home, how do you spend the time? 
 ### When someone invites you out but you don't want to go - how do you tell them? 
@@ -196,3 +205,4 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### What type of character in a franchise or piece of media do you tend to get attached to? 
 ### Side-sleeping or back-sleeping and why? 
 ### What would an ideal space for you look like? Can be a room or an environment.
+
