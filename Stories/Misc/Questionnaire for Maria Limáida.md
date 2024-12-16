@@ -113,11 +113,11 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### Age?
 **42 years young!** 
 ### Sexuality/sexual preference?
-**I've had a lesbian marriage, which reached a premature and abrupt end almost 20 years ago already. Ever sincee, I guess one would call it "Aro-ace"? I've not really put my mind to it since.** 
+**I've had a lesbian marriage, which reached a premature and abrupt end almost 20 years ago already. Ever since, I guess one would call it "Aro-ace"? I've not really put my mind to it since, there's more important matters at hand for me.** 
 ### Any siblings/only child?
-**I'm an only child, but I've had plenty colleagues I consider to be my siblings. Crunching at work with a group helps build tight bonds like those.** 
+**I'm an only child, but I've had plenty colleagues I consider to be my siblings. Crunching at work within a group helps build tight bonds like those.** 
 ### Favourite season?
-**I've loved winter all my life, it's a shame I rarely have time to return to Lúniks to actually see snow again. At least the snowy peaks in Ellitróómi are easy to see from the ARC.** 
+**I've loved winter all my life, and it's a shame I rarely have time to return to Lúniks to actually see snow again. At least the snowy peaks in Ellitróómi are easy to see from the ARC.** 
 ### Gender?
 **Female. No small text there.** 
 ### DOB? 
@@ -135,17 +135,19 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### What languages do you speak?
 **Too many to list, probably! But I've grown up speaking Lúniksan, Sirálian, and I've learned English from early on as well during my first few years of school. From there on I studied in Sirália and properly learned to speak my father's language there, before studying in Rhódisz helped me learn English better. But even with all those, I'm relatively proficient in the regional Jóthuli dialect as well!** 
 ### Profession/education?
-**Oh my, where do I even begin?** *// This will be done later LOL this is too much to list at 11pm* 
+**Oh my, where do I even begin?** 
+
+*// This will be done later LOL this is too much to list at 11pm* 
 ### Comfort food?
 **A lot of my early college years were filled to the brim with ready-as pasta dishes, because I'd never have the time to cook *and* to get all projects for work and for school done. I'd say that my comfort food would definitely be a good, proper pasta.** 
 ### Food you hate? 
-**Even though Sirália is a Vestian nation, there's a *lot* of Vestian food from the other nations that I can't stand. A lot of dishes from Hédenis are fine, but Monsán and Vao have *really* weird cuisine.** 
+**Even though Sirália is a Vestian nation, there's a *lot* of Vestian food from the other nations that I can't stand. A lot of dishes from Hédenis are fine, but Monsán and Vao have *really* weird cuisine.**
 ### Music taste?
 **I tend to listen to jazz a lot! But others mostly catch me listening to something a little more toned or stripped down during working hours. It helps a lot filling up the silence in the room, even though it can be nice sometimes.** 
 ### Something you do that others call childish?
 **I've been told once that chewing gum was relatively childish?** 
 ### All-time favourite TV show?
-**I've not been too fond of watching TV all too much, even in my teen years, nor now, but there were a lot of documentaries about Stephen Hawking that I was truly obsessed with!** 
+**I've not been too fond of watching TV all too much, even in my teen years, nor now, but there were a lot of documentaries about Stephen Hawking and Tagip Panjit that I was truly obsessed with!** 
 ### All-time favourite movie?
 **It might be a little dated, but I still have a soft spot for the original Interstellar movie.** 
 ### How big is your family? 
@@ -159,13 +161,13 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### Do you get angry/lose your temper? 
 **Even though I can get emotional, I can't remember the last time I've lost my temper and got angry! I reckon it could be when an old colleague, Dr. Vanhuyt, took an abrupt leave from Carbine, but that's something that's already hazy to me, even if it was just a bit over a month ago.**
 ### What are some of your guilty pleasures? 
-**I don't think one would consider it a "real" guilty pleasure, but I love baking! In a different universe, where things went differently for me, I can totally see myself in a bakery!**
+**I don't think one would consider it a "real" guilty pleasure, but I love baking! In a different universe, where things would have gone differently for me, I could totally see myself in a bakery!**
 ### Do you want or have pets? 
 **Right now, I feel like keeping my Feline traits at bay is the closest thing to a pet that I could have. But even with that, I used to have a cat during my years of college in Kristensend and when I lived in Sirália, I actually had parrots!**
 ### Are you a virgin?
 **I don't think any answer I give would be relevant for this interview.** 
 ### Do you have or want kids? 
-**That opportunity for me has been long gone, but I still wish I could have.**
+**That opportunity for me has been long gone, but I still wish I could have had kids of my own. Even so, I still try to spend a bit of time with children in the Némiskéi Institute by reading to them!**
 ### Any tattoos or piercings?
 **No piercings but the ones I've had for decades on my ears. I've not touched these Feline ears out of fear either, even though I've gotten used to them, but piercing those seems like an infection waiting to happen. I *do* have a tattoo on the left of my chest, though, just above my breast, which is a tribute to my wife. Having a tattoo of her signature means she'll always be close to my heart, no matter where the universe may guide me to next.** 
 ### Favourite Pokémon? 
@@ -183,26 +185,38 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### What are you like when you're drunk? 
 **Sleepy, drowsy, and *extremely* giggly, I've been told.** 
 ### Have you ever drank underage? 
-**Come on, you're asking a Sirálian woman? First sip of wine when I had 14, courtesy of my eldest uncle's own winery.** 
+**Come on, you're asking a Sirálian woman? First sip of wine when I had 14, soon followed by my first proper glass of homemade Nebbiolo wine at 15, courtesy of my eldest uncle's own winery.** 
 ### First thing you do when you wake up? 
 **I toss and I turn and I snooze for another few minutes. I'm more of a night owl than an early bird, and I *really* struggle waking up during mornings.**
-### Would you consider yourself popular? 
+### Would you consider yourself popular?
+**It's hard to say. Especially considering my position within Carbine, and especially aboard the ARC, there's a lot of people looking up to me at the very "top" of the hierarchy, which one could argue makes me "popular". But even so, I don't think I'm all too popular per se. I feel like every person aboard the ARC is on the same level, and there's no outliers in leadership. We're all a big family!**
 ### How do you like your tea/coffee? 
 **I rarely drink tea, but when I do, I love oolong and black teas with a little hint of sugar! The polar opposite is my coffee preferences, I tend to drink it black without any additives, and if I really need to focus, I can easily go through several shots of espresso.** 
 ### Do you wear glasses or contacts? 
-**I've worn glasses all my life. Contacts never suited my eyes right, and I never bothered trying again as I got older.** 
+**I've worn glasses all my life. Contacts never suited my eyes right, and I never bothered trying those again as I got older.** 
 ### Do you have a good memory? 
 **A colleague from Íszkéde once told me that my memory was akin to one of their native sayings. *"Kostek omtáávitlan šansevvet sol léérestemtevvet u atváštšek."* It roughly translates to "The rocks on the coast are shaped by every wave that it struck", meaning that no matter what washes over me, I will always remember it and be able to name it. On the contrary, my memory has also been considered akin to a goldfish, from time to time!** 
 ### Do you have any hobbies? 
+**I've mentioned it once before already, but baking! I really wish I would have more time to give it a try either aboard the ARC or back in Pahlatlán, but if the proposed schedules for the coming months stay about the same as they are now, I should finally be able to get some time off and finally rest a bit. Apart from baking, I usually sketch out designs and re-designs from our spaceship fleet to keep my skills in check, and you can absolutely find me in the library too!**
 ### How do you spend your free time? 
+**I wish I had free time! But the few moments between or after sessions with other colleagues, and when Control enters an ebb state, I usually make myself a coffee and clear my head with a book, or by going over previous and active projects, until the flow state returns again. Those cycles can take hours, or can happen as frequently as every fifteen minutes, that all depends on the incoming spaceship traffic!**
 ### When/where are you most comfortable? 
+**Usually I can focus best and feel most at peace when I'm seated alone in a relatively large, empty room. Back in Pahlatlán, around 20 years ago by now, I had an enormous hall all for myself, which gave me the room and space to think out loud and visualise all I needed to right there. A lot of my early theses were written there because I felt truly at peace there, but aboard the ARC, it's a little more cramped, but it hasn't held me back at all!**
 ### Are you an introvert or an extrovert? 
+**I may be one of the most introverted people you can interview. Even if I'm able to get out of my comfort zone, just like now, I *really* try to avoid it as much as I possibly can. If there's really no way for me to talk my way out of it, I can only prepare myself and build up confidence.**
 ### Favourite animal? 
+**Birds! Any kind, any size!**
 ### Favourite mythological creature? 
+**I've always been fascinated by the stories of Phoenixes rising from the ashes. Does that pass for an answer?**
 ### If your power gets cut while you're at home, how do you spend the time? 
+**Back home in Dázlacé, I'd probably pick up a book together with my mother and read one together until the power grid reactivates itself again. But aboard the ARC, especially now that Dr. Vanhuyt is gone, I'd be busy with troubleshooting the reactor and fixing the power grid by myself.**
 ### When someone invites you out but you don't want to go - how do you tell them? 
+**I usually don't even get the opportunity to deny invites! Some meetings, I really can't reject going to, and if a simple invite for a coffee break comes in-between work or another ongoing project, all I can say is that I'm simply far too busy.**
 ### Hot shower or cold shower? 
+**Hot showers without a second thought. Even though I adore Winter as a season, I'm *extremely* sensitive to cold temperatures, and cold showers definitely don't help that.**
 ### What type of character in a franchise or piece of media do you tend to get attached to? 
+**I wouldn't even know where start answering that! I presume I'd usually relate or attach to a bit more "nerdy" characters that are usually in the background, that's how I mostly remember myself back when I was in my early years of school.**
 ### Side-sleeping or back-sleeping and why? 
+**I tend to toss and turn in bed until my brain forces itself to sleep. Sleeping on my back is uncomfortable for my tail, and sleeping on my side in the wrong spot folds an ear the wrong way. Even 20 years later, I *still* haven't gotten used to these Feline traits!**
 ### What would an ideal space for you look like? Can be a room or an environment.
-
+**Aboard the ARC, there's a certain room just west of the library, where there's a large glass panel that spans over the entire ceiling, which gives a phenomenal view of the stars in the vast distance in space. I've fallen asleep from stargazing there plenty of times, and even if it's not suited for a dormitory at all, I've sure started to treat it as one!**

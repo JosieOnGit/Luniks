@@ -12,7 +12,7 @@ The two adapt almost immediately to their new home, and before long, Projects **
 	- Even so, **Project VIOLET** *is* localised on Lúniks, and is instead overseen by Francis. Because of the fact it was in active development before Polaris, it's still considered to be under **Martin Palmer**'s control, rather than Polaris's. Even after his death, this does not get amended.
 - **2C** reached production and activation in **2065**, becoming the mainstream Terminal Core ever since, until its more-capable replacement **4C** entered serviced in **2072**. Within the Western Wing, **2C** remains the most utilised Terminal regardless. Polaris herself uses a modified and evolved version of **2C**, until its iterated version **OVER_C** (Expected late **2076**) will eventually replace this custom Terminal.
 - **State of United Máneá**: 
-	- **Rhódisz** is created in **2042** (*// Secession from Zakh'háfo*)and avoids any economical damage, and only receives gains from the industries fleeing there to remain in service. 
+	- **Rhódisz** is created in **2042** (*// Secession from Zakh'háfo*) and avoids any economical damage, and only receives gains from the industries fleeing there to remain in service. 
 	- **Máneá** is created immediately after the fall, but bounces back almost immediately, founding the Máneán Research Triangle, opening the door for any industries to return from **2047** onwards.
 	- **Zakh'háfo** was created immediately after the fall, but has never managed to recover. It's become nothing more than a crumbling nation (Seen in [[TRAVEL RISK]]) that is considered and treated like the bin of Máneá and Rhódisz.
 
