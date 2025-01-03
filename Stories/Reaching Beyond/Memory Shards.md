@@ -32,3 +32,67 @@ Her eyes shot wide open, and it had finally dawned upon her. **"That can't be a 
 *"My apologies, Dr. Limáida, if I said something out of line. But how come we've never seen your partner at the ARC?"* Sean asked kindly once more. Even if his questions were sincere and meant with no ill intent, it still struck Maria the wrong way, and with her ears now laying flat on her head, Sean could already feel that it was going into the wrong direction. \
 **"She died 21 years ago, Sean."** Maria replied after a few moments, her voice deeper than usual, as if she was trying to suppress herself from lashing out. For a moment, she kept her mouth open, wanting to say more, but instead choosing not to. But on the other hand, Sean could hear her voice tremble ever so slightly. *"I'm deeply sorry, Dr. Limáida, I was not-"* \
 **"Sean, please, you don't need to be this formal to me."** Maria interrupted him, sighing deeply afterwards while closing her eyes and facing the table. Slowly but surely, she pressed her pen down on the table and rolled back in her chair before getting out, not taking a look back at Sean's now-worried face. **"Please read through the Pike's black box entries from 14:00-17:00 and mark down any abnormalities for me to inspect. I need a moment for myself."** She said before stepping out of the sliding door, leaving Sean by himself to continue today's research. 
+
+# No date
+## CALL OF THE VOID - I
+Meditating. Head facing the ceiling, buried in the pillow beneath, with her hands resting flat on her stomach. In, and out, her chest rose as fresh oxygen found it's way to her lungs through her nose, to complete the cycle and exit through her mouth in a long, deep exhalation. It didn't take long for that raspy, distant, and echoey voice to find its way into her mind again. \
+*"Blood."* It cried, only to stay quiet for a moment. Maria could feel her heart pound in her chest, and even through the fabric of her bra, undershirt, and sweater, it was the loudest thing in her bedroom. \
+*"Collapse it."* It demanded, and blinking, her eyes focused on the otherwise uninteresting ceiling above her head. \
+*"Force. Gravity. Tug on it."* It repeated, having found a target, and now demanding an action, leaving Maria's heart rate increase continually. \
+*"Bring it down. Every floor. Spill-"* \
+**"You talk a lot."** Maria interrupted the drinking voices, her hands remaining flat on her stomach, but her eyes having closed, visualising the voices, but only able to fabricate it as a liquid, floating and iridescent metal, vibrating as it spoke, central within an endless void. Not even the stars could illuminate the two. \
+*"You toy with the cosmos. Embrace it."* \
+**"Be more specific."** \
+*"Through blood I flow, through mind I aid, the cosmos aids you, now it demands you."* \
+Maria's brows furrowed. **"That's, less specific."** \
+If the odd voice could sigh, it would. *"Through blood I flow."* \
+**"Physically?"** \
+*"Correct. Your blood is enriched."* \
+**"I'm honoured."** \
+The thumping of her heartbeat slowed, but to no concern. \
+*"I'm in control."* \
+**"Not sure you are."** \
+*"You are simply a vessel of the cosmos. Advance no further, unless you embrace."* \
+Maria sighed, and looked away from the iridescent metal, looking around her, behind her, finding a few stars appear in the far distance. **"So, where've you put us?"** \
+*"Irrelevant."* \
+Maria's brows furrowed once more. **"You're a pain to converse with."** \
+*"Tug at the strings, pull at the seams."* \
+**"If you insist."** Maria sighed, the sparkles around her hand forming once more, appearing from her wrist, and centering around her fingers, swirling between their gaps. **"Is this yours?"** \
+*"Correct."* \
+**"Figures."** She sighed, and in an instant, the sparkles disappeared once more. **"You never bothered saying hi sooner than this?"** \
+*"Never were you closer than now."* \
+**"You sure love your vagueness."** \
+For a moment, Maria looked to the floor, or the lack thereof. \
+**"Have you been here long?"** \
+*"From inception."* \
+**"...Figures.."**
+
+A knock on her door snapped her out of her trance, and immediately disrupted her vision. Blinking a few times, her vision returned to normal, but the iridescent metal was the last to vanish. *"Dr. Limáida! Dr. Miglháida needs you for something!"* The voice called, and taking a deep sigh, she promptly replied. **"Spatial lab? I'll be there in a moment.."**
+
+## CALL OF THE VOID - II
+A deep exhale revealed her breath exiting her lips, forming a little plume of steam, which was quick to evaporate and vanish in the cold air once more. Snow could be seen decorating the floors and the streets of Amadnésam, which housed her destination. At least, the voice in her head claimed it to be there. \
+*"The rift nears. The voyage will resume. In cosmos, unity remains."* \
+Maria sighed, looking at her feet which sank in the snow. She was now traversing through a grass field in the outskirts of Amadnésam, where a generous amount of snow had accumulated over the past few days. **"Now in a language I understand.."** \
+*"L'unità si avvicina."* \
+Maria stood still in her tracks, and inhaled deeply through her nose. The cold air irritated her airways, but exhaling deeply through her mouth, that feeling quickly dissipated. **"Terrifying."** 
+
+The further she walked, the more her vision distorted. Even though she felt like she was approaching the enormous campus area in western Amadnésam, her vision told her otherwise. It began to blur in the edges of her vision, and she struggled to determine whether it was from the cold, or if there actually was a "rift" approaching, like the voice in her head was telling her. Nevertheless, now that she had come this far, she wouldn't turn around once more. Even if the answers could be none, *any* answer would suffice at this point. \
+*"I'm surprised to see you have answered the calls."* A new voice echoed in her mind, and while she couldn't see who it belonged to, she could already imagine that it belonged to a young woman. *"We haven't met before. I'm intrigued."* \
+Maria stood still in her tracks once more. The snow had long stopped falling, but in an instance, she felt like the ambient temperature was increasing by the second. Every breath she took left her feeling increasingly dizzy, the air becoming more and more stuffy, more humid and hotter. \
+*"The voice in your head, young Feline."* The rang, its voice much more stern, much more direct than before. *"What does it tell you?"* \
+Maria gritted her teeth, annoyed by the fact that she was already being given the nickname of "Feline", even if it had been less than a month since she was infected with Leremkov. The voice in her head cried out, and in unison, they spoke and responded. **"Tear at the seams."** \
+A pink glow could be seen in the distance in the sky, but it didn't belong to a distant star, and instead, was within Lúniks's atmosphere. Maria's vision distorted further, and looking back at her feet beneath her, they were no longer buried in the layer of snow, and instead were now standing on soaking grass. It had begun storming. 
+
+
+## VIOLET
+Coffee held in hand, facing beyond the reflection in the glass window before her. In the distance, the blinking lights of the ASA's space station could be seen, but much further beyond that, only darkness and the faint vibrance and luminescence of the neighbouring stars could be seen. A deep sigh exited her lips, and she squinted her eyes, her brows furrowing. The mug was raised once more, and it wasn't long before the rim met her lips, guiding the coffee info her mouth, the bitter taste of the unsweetened, straight black coffee costing her tongue. It was a taste she had gotten used to many, many years ago, and even though the bitterness was something that half her colleagues abhorred, she knew no different. 
+
+*"Daydreaming again, commander?"* An older, raspy voice rang as it followed footsteps that led towards her direction. A warm smile appeared on her face as the rim of her mug left her lips once more, and turning around, she faced Harold Kreuzbauer, the veteran captain and commander that had boarded the Golden Bow together with her during the rescue mission of the Alessi Shuttles. **"More or less so.."** Maria smirked back, her mug now held in both her hands at her waist level, her shimmering but tired eyes meeting the worn-out ones of Harold. **"There's a crew member I haven't been able to get my mind off."**
+Harold's eyes opened in surprise, but a faint smile appeared on his face. *"I noticed, I may have an idea as to who."*
+**"Your gut feeling is probably right. It's Cisila I can't wrap my head around properly."** Maria concurred as her eyes averted to face the laminated floor beneath her feet. 
+Harold raised an eyebrow, and noticing this, Maria continued to explain, a worried expression forming on her face. **"Decades ago, during one of the assassination attempts on my life, I was approach by two young people, about the same age as I was then, who held me at gunpoint. They claimed there was a bounty on my head they wanted to claim, but I talked things down, and instead discovered that they were looking for remnants of the old American Ultima project."**
+Harold nodded, but struggled to connect what the story being told had to do with the fact that Cisila had been on Maria's mind all this time. 
+**"I'm getting to that part.."** Maria smiled, her tired, green eyes looking into those of Harold. **"The person holding me at gunpoint was.. I think his name was Mika."** She sighed, envisioning the situation unfolding in her mind once more, quickly distorting into the more surrealistic vision she had a few days ago. **"The girl standing next to him, though, her name was "Gradient", and she looks identical to Cisila. Not in a way of being a cousin, or a mother-daughter way."** She sighed, facing the floor once more. **"It's a carbon copy of her. And I can't figure out why. The only logical explanation is that Cisila was cloned from Gradient, but by itself, that's illogical."**
+Harold opened his mouth and raised his hand, intending to say something, but instead moved his hand to rest on his lips, pondering for another moment. 
+*"SOLARdawn's done more odd things in the past.."* Harold muttered under his breath, his voice muffled by his hand against his mouth. *"But then again, I've only heard, I don't know the extents of Ultima and it's projects."*
+**"Cloning with Ultima is outright impossible."** Maria interrupted Harold, firmly, but politely. **"Neither do I know the extents of Ultima, but if I had to listen to the voice in my head for once, creating a carbon copy isn't possible."** She paused for a moment, and moving a hand from her mug to her lips, she thought twice about her words. **"At least, not proven so.. but even then.."**
