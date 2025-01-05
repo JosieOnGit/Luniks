@@ -79,3 +79,80 @@
 | Trust Tap                   | Is something the matter, Doctor? If necessary, I can listen.                                                                                                                                                                                                                                                       |
 | Greeting                    | Greetings, Doctor. Right on time.                                                                                                                                                                                                                                                                                  |
 | Title                       | *Arknights.*                                                                                                                                                                                                                                                                                                       |
+## Azure (Amica) (Guard/Vanguard)
+
+| Action                      | Dialogue                                                                                                                                                                                                |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Appointed as Assistant      | I can be your bodyguard, *certo*. (Sure.)                                                                                                                                                               |
+| Talk 1                      | I'm not Siracusan, but I can imagine your confusion. After all, the average person wouldn't see the difference between a Siracusan Lupo and myself.                                                     |
+| Talk 2                      | The scars on my hands are not the result of Oripathy, but it could be considered as something similar. It grows upon use, and doesn't shrink away after. Maybe it *is* Oripathy?                        |
+| Talk 3                      | If I'm quiet, I'm probably lost in thought. Or I'm tracing the lines on my arm. Think nothing of it.                                                                                                    |
+| Talk after Promotion 1      | The crystals on my arm don't hurt, unless pressure is put onto them. It doesn't bleed, but neither does it regress.                                                                                     |
+| Talk after Promotion 2      | I've killed plenty of people in my past, often without an underlying reason. But you, Doctor, have given me enough reason to continue to fight.                                                         |
+| Talk after Trust Increase 1 | If anything, creating fire at will can be as beneficial as it is bothersome. I won't need to think about feeling cold, but it does come with the risk of burning the landship to the ground.            |
+| Talk after Trust Increase 2 | Is *Windbreak* here too? *I miei occhi non mentono*, (My eyes don't lie), I can recognise her from even the furthest of distances. I'll catch up with her once I'm on break.                            |
+| Talk after Trust Increase 3 | I often wonder what my life would look like if I never left the *Subterrane*. *Grazie a lei, Doctor, non ho più bisogno di immaginarlo.* (Thanks to you, Doctor, I don't need to imagine that anymore.) |
+| Idle                        | Break time? *Ti seguirò*. (I'll follow you.)                                                                                                                                                            |
+| Onboard                     | Amica, codename *Azure*, at your service, Doctor. Don't dwell on my past. I'm not after your head.                                                                                                      |
+| Watching Battle Record      | I know where my flaws are. *Devo solo sistemarli.* (I just need to fix them.)                                                                                                                           |
+| Promotion 1                 | The more I learn to work around my *anomaly*, the stronger I can become. *Kal'tsit's* medication is working. I know I can get stronger.                                                                 |
+| Promotion 2                 | My flames curve graciously through the open air, without limits to hold it back. Doctor, *da qui in poi niente potrà più fermarmi.* (From now on nothing can stop me.)                                  |
+| Added to Squad              | Awaiting your orders, Doctor.                                                                                                                                                                           |
+| Appointed as Squad Leader   | You lead the mission. I lead the squad.                                                                                                                                                                 |
+| Depart                      | *Bene.* (Alright.)                                                                                                                                                                                      |
+| Begin Operation             | *Facciamolo veloce.* (Let's do it fast.)                                                                                                                                                                |
+| Selecting Operator 1        | I'm ready.                                                                                                                                                                                              |
+| Selecting Operator 2        | Lead the way, Doctor.                                                                                                                                                                                   |
+| Deployment 1                | *Capisco*. (I understand.)                                                                                                                                                                              |
+| Deployment 2                | My fire will burn.                                                                                                                                                                                      |
+| In Battle 1                 | *Tornare in cenere!* (Return to ashes!)                                                                                                                                                                 |
+| In Battle 2                 | Quiet, weakling!                                                                                                                                                                                        |
+| In Battle 3                 | I'll make it quick and painless, *tesoro*. (Dear.)                                                                                                                                                      |
+| In Battle 4                 | *Non sei all'altezza!* (You're no match!)                                                                                                                                                               |
+| 4-star Result               | A sword stained is a mission completed.                                                                                                                                                                 |
+| 3-star Result               | We've achieved our objective, Doctor.                                                                                                                                                                   |
+| Sub 3-star Result           | A few slipped through. *Lo sistemerò*. (I'll fix it.)                                                                                                                                                   |
+| Operation Failure           | *Mi ha raggiunto..?* (Did it reach me?) *// Context as "Has [the Ultima Anomaly] caught up to me?*                                                                                                      |
+| Assigned to Facility        | (Sigh) *Bene..* (Alright..)                                                                                                                                                                             |
+| Tap                         | *..Eh?*                                                                                                                                                                                                 |
+| Trust Tap                   | What is it? Do I need to light the fireplace for you?                                                                                                                                                   |
+| Greeting                    | *Buongiorno* (Good morning), Doctor.                                                                                                                                                                    |
+| Title                       | *Arknights.*                                                                                                                                                                                            |
+## Angel (Vanguard)
+| Action                      | Dialogue                                       |
+| --------------------------- | ---------------------------------------------- |
+| Appointed as Assistant      |                                                |
+| Talk 1                      |                                                |
+| Talk 2                      |                                                |
+| Talk 3                      |                                                |
+| Talk after Promotion 1      |                                                |
+| Talk after Promotion 2      |                                                |
+| Talk after Trust Increase 1 |                                                |
+| Talk after Trust Increase 2 |                                                |
+| Talk after Trust Increase 3 |                                                |
+| Idle                        |                                                |
+| Onboard                     |                                                |
+| Watching Battle Record      |                                                |
+| Promotion 1                 |                                                |
+| Promotion 2                 |                                                |
+| Added to Squad              |                                                |
+| Appointed as Squad Leader   |                                                |
+| Depart                      |                                                |
+| Begin Operation             |                                                |
+| Selecting Operator 1        |                                                |
+| Selecting Operator 2        |                                                |
+| Deployment 1                |                                                |
+| Deployment 2                |                                                |
+| In Battle 1                 |                                                |
+| In Battle 2                 |                                                |
+| In Battle 3                 |                                                |
+| In Battle 4                 |                                                |
+| 4-star Result               |                                                |
+| 3-star Result               |                                                |
+| Sub 3-star Result           |                                                |
+| Operation Failure           |                                                |
+| Assigned to Facility        | I'm almost feeling nostalgic from this place.. |
+| Tap                         |                                                |
+| Trust Tap                   |                                                |
+| Greeting                    |                                                |
+| Title                       | *Arknights.*                                   |
