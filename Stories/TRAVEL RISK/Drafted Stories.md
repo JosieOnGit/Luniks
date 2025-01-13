@@ -1,5 +1,16 @@
 # Drafted Stories
 Some stories or snippets that I have come up with, have not grown big enough yet to be inserted into **TRAVEL RISK** as a whole. 
+
+## INTO THE ABYSS - Polaris
+### POLARIS - THE INFINITE ABYSS 
+*// This is going to be suuuuch a mess.* \ 
+*// POV: You.* 
+
+Uneasiness. It's a feeling that had been accumulating over the past hour as you pressed deeper and deeper into the abandoned library your friend had recommended you to look through. You were a thrillseeker, and with every step deeper into the depth, the thrill kept increasing, and so did the pressure. The stakes grew high, but the rewards were so much higher. \
+Despite it being an "abandoned" library, it looked otherwise lively and modern. It must've been just under a decade since its closure, its design choices were modern, almost futuristic. And most of all, the location made no sense for it to be abandoned either. You were in the outskirts of Amadnésam, a city flourishing and growing even decades after its foundation. Was your friend just wrong, or was it part of an elaborate trick? You wanted to explore it together, though, but now curiosity had already gotten the better of you and led you this deep, turning back seemed like an option long lost. 
+
+"Long lost" was an appropriate way to describe the situation you found yourself in, as you looked back into the direction you'd come from. The ceiling was tall, the bookshelves reaching high above you, but stirring your stomach is the realisation that they seemed to be much, *much* taller than before. To make matters more complex, and even worse, looking back into the direction you had come from left you even more puzzled. You had carefully traced a path to lead you back out in case things would get awry, but to your horror, those small lights on the floors and shelves you now faced had all dimmed or disappeared. If anything was certain, it's that you were lost by this point. A deep sigh exits your lips as you go over the path you've travelled in your mind. The central doors you walked through to enter present themselves before you once more, followed by the various turns to lead their way to your current location once more. It was a puzzle to solve, yet one you believed to be possible.
+
 ## Unused Drafts
 ### Untitled
 *"-threading the needle to tie the game once more!"* \
