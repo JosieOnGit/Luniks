@@ -6,7 +6,7 @@
       {
         "id": "81f927cea75f4356",
         "type": "tabs",
-        "dimension": 47.53363228699552,
+        "dimension": 51.93333333333333,
         "children": [
           {
             "id": "29bafd1666ca053a",
@@ -37,7 +37,7 @@
             }
           },
           {
-            "id": "d55208870760bfe5",
+            "id": "365bd93758b611ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "7a07b01c996928a8",
+            "id": "c02f5c5025c3f8cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0272435b83c385bf",
+            "id": "d55208870760bfe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,35 +79,7 @@
             }
           },
           {
-            "id": "17167917e5efd4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/TRAVEL RISK/ANGEL - Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ANGEL - Outline"
-            }
-          },
-          {
-            "id": "b403553b3623915e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/TRAVEL RISK/REFRESH - Story.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "REFRESH - Story"
-            }
-          },
-          {
-            "id": "41c929990232eccc",
+            "id": "aa221420362e1728",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -121,7 +93,35 @@
             }
           },
           {
-            "id": "442115049a7d6158",
+            "id": "db83b5ca3e85c10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/TRAVEL RISK/A NEW DAWN - Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A NEW DAWN - Outline"
+            }
+          },
+          {
+            "id": "f20016266e1b720c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Reaching Beyond/Memory Shards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory Shards"
+            }
+          },
+          {
+            "id": "d918110000e685f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,12 +135,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "3b0732557f149020",
         "type": "tabs",
-        "dimension": 52.46636771300448,
+        "dimension": 48.06666666666667,
         "children": [
           {
             "id": "8948472a7495b970",
@@ -154,20 +154,6 @@
               },
               "icon": "lucide-file",
               "title": "Backstories"
-            }
-          },
-          {
-            "id": "b6f3d14c01f16835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/Reaching Beyond/ARC - Story.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARC - Story"
             }
           },
           {
@@ -185,7 +171,7 @@
             }
           },
           {
-            "id": "e7acd7417eb9ad51",
+            "id": "929ab2fdf96816eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -213,21 +199,7 @@
             }
           },
           {
-            "id": "1025c474e8bad7bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temporary drafts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Temporary drafts"
-            }
-          },
-          {
-            "id": "a1c800eb0f10f5a0",
+            "id": "1879eb3cc3cc9c9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -239,9 +211,51 @@
               "icon": "lucide-file",
               "title": "ANGEL - Story"
             }
+          },
+          {
+            "id": "0272435b83c385bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/TRAVEL RISK/A NEW DAWN - Story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A NEW DAWN - Story"
+            }
+          },
+          {
+            "id": "8f534102a3e4b1ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/TRAVEL RISK/TEMP - A Second Encounter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEMP - A Second Encounter"
+            }
+          },
+          {
+            "id": "e12651f8466130ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stories/Misc/Spinoff voicelines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spinoff voicelines"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -272,7 +286,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -313,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/TRAVEL RISK/DREAMSEEKER.md",
+                "file": "Stories/TRAVEL RISK/Character List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +337,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DREAMSEEKER"
+              "title": "Backlinks for Character List"
             }
           }
         ]
@@ -343,39 +357,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "442115049a7d6158",
+  "active": "e12651f8466130ed",
   "lastOpenFiles": [
-    "Stories/TRAVEL RISK/ANGEL - Story.md",
-    "Geography/Ubunia/Zakh'háfo.md",
-    "Stories/TRAVEL RISK/INSIGHT - Story.md",
-    "Stories/Reaching Beyond/Routine Maintenance - ARC ver..md",
-    "Stories/Reaching Beyond/ARC - Story.md",
-    "Geography/Ubunia/Máneá.md",
-    "Stories/Misc/Questionnaire Template.md",
-    "Stories/Misc/Questionnaire for Maria Limáida.md",
-    "Stories/Misc",
-    "Stories/TRAVEL RISK/DREAMSEEKER.md",
-    "Stories/Reaching Beyond/List of spaceships.md",
+    "Stories/Reaching Beyond/Memory Shards.md",
+    "Stories/Misc/Spinoff voicelines.md",
     "Stories/TRAVEL RISK/Internal Channels.md",
+    "Stories/TRAVEL RISK/A NEW DAWN - Outline.md",
+    "Stories/TRAVEL RISK/A NEW DAWN - Story.md",
+    "Stories/TRAVEL RISK/DREAMSEEKER.md",
+    "Stories/TRAVEL RISK/TEMP - A Second Encounter.md",
+    "Stories/Reaching Beyond/List of spaceships.md",
+    "Stories/List of notable names.md",
+    "Stories/Reaching Beyond/Routine Maintenance - ARC ver..md",
+    "Stories/TRAVEL RISK/INSIGHT - Story.md",
+    "Archived/Mashed together list of locations and cities.md",
+    "Geography/Ubunia/Zakh'háfo.md",
+    "Geography/Ubunia/Thórirsant.md",
+    "Stories/Misc/Questionnaire for Maria Limáida.md",
+    "Stories/TRAVEL RISK/Drafted Stories.md",
+    "Stories/TRAVEL RISK/ANGEL - Story.md",
+    "Stories/Misc/Questionnaire Template.md",
     "Temporary drafts.md",
-    "Stories/TRAVEL RISK/ANGEL - Outline.md",
-    "Stories/TRAVEL RISK/REFRESH - Story.md",
-    "Stories/TRAVEL RISK/KILLJOY - Story.md",
-    "Archived/Lore Concepts.md",
+    "Stories/Lúniks Timeline.md",
+    "Stories/TRAVEL RISK/TRAVEL RISK.md",
+    "README.md",
     "Stories/TRAVEL RISK/ACT III - THE ROAD HOME.md",
-    "Stories/TRAVEL RISK/ACT I - TRAVEL RISK.md",
     "Stories/TRAVEL RISK/ACT II - ÁLEF AFTER SUNDOWN.md",
+    "Stories/TRAVEL RISK/ACT I - TRAVEL RISK.md",
+    "Stories/TRAVEL RISK/TEMP - Nevo x Polaris encounter.md",
+    "Stories/Misc",
+    "Pasted image 20240920144314.png",
     "Pasted image 20240831163701.png",
     "Pasted image 20240831163451.png",
-    "Stories/TRAVEL RISK/FATED ENCOUNTER - Story.md",
-    "Stories/Lúniks Timeline.md",
-    "Stories/List of notable people.md",
-    "Untitled.md",
     "Pasted image 20240830220424.png",
     "Pasted image 20240830162806.png",
-    "Stories/Reaching Beyond/Reaching Beyond.md",
-    "Stories/TRAVEL RISK/Backstories.md",
-    "Stories/List of notable names.md",
     "Geography/North-America Map.png",
     "Geography/Luniks map (5).png",
     "Pasted image 20240725164634.png",
@@ -383,7 +398,6 @@
     "Pasted image 20240625141512.png",
     "Stories/Reaching Beyond",
     "Pasted image 20240611143751.png",
-    "Pasted image 20240529145847.png",
     "Stories/Reaching Lúniks",
     "Historic Events/REACHING LÚNIKS",
     "Stories/OSLO REVOLUTION",
