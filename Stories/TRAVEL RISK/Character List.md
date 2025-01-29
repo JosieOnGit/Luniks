@@ -84,7 +84,7 @@ Drafted is:
 - **Abilities**: These are currently all unfinished, but as mentioned above: *// cont.*
 
 ## Francis Ezarea
-## Nadia 
+## Nadia Roza
 ## Dave Mullan
 ## Angel
 **Angel** is **Angelina Velana**. \
