@@ -8,7 +8,7 @@ Female
 ### Race: 
 Human / Feline (Leremkov)
 ### Physical Appearance: 
-Maria is a 172cm tall middle-aged woman. She has relatively dull green eyes, and wavy brown-coloured hair that reaches down to just below her shoulders. Her physical build is healthy enough, but barely so, as she spends most of her time seated or standing doing research work aboard the ARC. Research in Zero-G has affected her physical health, but since 2093, she has almost exclusively stayed on the ground (Although aboard spaceships/space-stations). Her physical build is complimented by the similarly-coloured ears and tail belonging to a *yet-unidentified race* of a cat. She is slightly nearsighted, and wears glasses.
+Maria is a 172cm tall middle-aged woman. She has relatively dull green eyes, and wavy brown-coloured hair that reaches down to just below her shoulders. Her physical build is healthy enough, but barely so, as she spends most of her time seated or standing doing research work aboard the ARC. Research in Zero-G has affected her physical health, but since 2093, she has almost exclusively stayed on the ground (Although aboard spaceships/space-stations). Her physical build is complimented by the brown-coloured ears and tail belonging to a *yet-unidentified race* of a cat. She is slightly nearsighted, and wears glasses.
 ### How does this character feel about their physical appearance? 
 Maria is relatively indifferent about her physical appearance, and doesn't bear too much thought to it. However, even over a decade after contracting Leremkov, and gaining the physical traits of a feline, she is still extremely annoyed by these traits specifically. She actively trains her tail to be immobile, and tries to ignore it altogether.
 ### Describe your character's upbringing (relationships, hobbies, location): 
@@ -38,7 +38,8 @@ Even though Maria and Raléi never got the opportunity to, Maria would've loved 
 Maria is:
 - Head of the **ARC**. Designer of the **ARC**. 
 - Although she has passed down the duties to spread them out under her wings, Maria remains the only person within **Carbine** to bear the title of *"Control"*. Even so, she has only used her rank *once*, doing so to command the **Platinum Halberd** back to **Lumen** in [[Routine Maintenance - ARC ver.]].
-- Class 1 *Aerospace Engineer* and *designer* within **Carbine**, sharing this role only with **Thomas Vanhuyt** and **Patrik Miyidkov**. \
+- Class 1 *Aerospace Engineer* and *designer* within **Carbine**, sharing this role only with **Thomas Vanhuyt** and **Patrik Miyidkov**. 
+
 In the past, Maria worked for:
 - **Álef Metro**: As an intern overseeing the security of the metro underground.
 - **Carbine Industries**: As an intern overseeing and working with the **Kósfrii/Jánhul Reactors** for the **Nuclear Fusion Project**, or **"Spider's Web"**.
