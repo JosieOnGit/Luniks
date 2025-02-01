@@ -2,14 +2,12 @@
 *// Description due.*
 ## Maria Limáida
 *// Note: Maria's Call of the Void segments are due for a reorganisation and rewrite. What's currently written below is subject to change and reordering.*
-
 ## January 2025 concept
 The common theme throughout Maria's *Call of the Void* will most likely be something akin to *dancing*. Additonally, it'd highlight end explain existing key points such as the facts she:
 - Already had the sparkles appear during Spider's Web in Kósfrii (Despite not actively trying anything out with it) - Which is explained in the sense of atoms and such physically appearing before her in a means to create a "Key" and creating "Seams" for Maria to tug or pull at (Which is her role as "Cosmic Weaver")
 - Why she has some sort of control over cosmic pressure during INSIGHT where Amica and Victoria attempted to kill her in Pahlatlán (Because she began to listen to the Call of the Void and began to learn how to utilise her power in a way of dancing, and in the process she learned how to control it at will, similarly to Polaris and her eyes)
 - Why she eventually rejected it after reaching Amadnésam and meeting Polaris (Which currently exists as a COTV entry but might merge into Dreamseeker)
-
-### CALL OF THE VOID - I
+### (LIMBO) CALL OF THE VOID - I
 Meditating. Head facing the ceiling, buried in the pillow beneath, with her hands resting flat on her stomach. In, and out, her chest rose as fresh oxygen found it's way to her lungs through her nose, to complete the cycle and exit through her mouth in a long, deep exhalation. It didn't take long for that raspy, distant, and echoey voice to find its way into her mind again. \
 *"Blood."* It cried, only to stay quiet for a moment. Maria could feel her heart pound in her chest, and even through the fabric of her bra, undershirt, and sweater, it was the loudest thing in her bedroom. \
 *"Collapse it."* It demanded, and blinking, her eyes focused on the otherwise uninteresting ceiling above her head. \
@@ -44,7 +42,7 @@ For a moment, Maria looked to the floor, or the lack thereof. \
 
 A knock on her door snapped her out of her trance, and immediately disrupted her vision. Blinking a few times, her vision returned to normal, but the iridescent metal was the last to vanish. *"Dr. Limáida! Dr. Miglháida needs you for something!"* The voice called, and taking a deep sigh, she promptly replied. **"Spatial lab? I'll be there in a moment.."**
 
-### CALL OF THE VOID - II
+### (LIMBO) CALL OF THE VOID - II
 A deep exhale revealed her breath exiting her lips, forming a little plume of steam, which was quick to evaporate and vanish in the cold air once more. Snow could be seen decorating the floors and the streets of Amadnésam, which housed her destination. At least, the voice in her head claimed it to be there. \
 *"The rift nears. The voyage will resume. In cosmos, unity remains."* \
 Maria sighed, looking at her feet which sank in the snow. She was now traversing through a grass field in the outskirts of Amadnésam, where a generous amount of snow had accumulated over the past few days. **"Now in a language I understand.."** \
@@ -58,8 +56,26 @@ Maria stood still in her tracks once more. The snow had long stopped falling, bu
 Maria gritted her teeth, annoyed by the fact that she was already being given the nickname of "Feline", even if it had been less than a month since she was infected with Leremkov. The voice in her head cried out, and in unison, they spoke and responded. **"Tear at the seams."** \
 A pink glow could be seen in the distance in the sky, but it didn't belong to a distant star, and instead, was within Lúniks's atmosphere. Maria's vision distorted further, and looking back at her feet beneath her, they were no longer buried in the layer of snow, and instead were now standing on soaking grass. It had begun storming. 
 
+
+
+
+
+### CALL OF THE VOID - I
+*// Kósfrii, 2072. Álef, 2075. And now, Jóukmandar, 2076. Wherever it was she went, strange sparkles revolving around her hands would follow her, appearing at random, but never making clear to her just why they were present. Still recovering from the loss of Raléi even so soon after the accident in Álef-Nórem, a voice begins to ring in her head. It chants almost unintelligible nonsense to her, and it begins to irk her the wrong way. She had to get ready for her return to Carbine soon, but that didn't seem to get the voice to change its mind. "Tear at the seams" it repeated over and over again, and each time it did, those same sparkles reappeared on her hand.*
+
+### CALL OF THE VOID - II
+*// She meditated in bed with her eyes closed. Each time she did, the same particles began to form and revolve around her hands once more, and also appeared floating freely in the air before her. They began to form intricate patterns, similarly to the constellations in the night sky. But no matter what shape they assumed, it remained one large, unsolvable puzzle for her. "Tear at the seams." The voice continued to call for her. She sighed deeply. "You talk a lot.."*
+
+### CALL OF THE VOID - III 
+*// She meditated in her living room, but instead of laying on her back, she stood upright and faced the curtains before her. With deep breaths entering and exiting her nose, she saw the sparkles appear once more in the air before her, and lifting up her hands, so did they appear revolving around her fingers. She kept her eyes wide open, beginning to understand how to trigger these sparkles at will, but their purpose was still vague. "Weaver." The voice rang in her ear, and the sparkles now swirled into a shape before her hands, resembling a hand of their own made from these strange, luminescent sparkles. "A dance?" She asked in confusion, taking a hold of the hand before her, feeling a strange, realistic feedback from taking the sparkling hand before her, accepting the "invitation to dance." The voice remained mysterious. "Formulate the melody."*
+
+### CALL OF THE VOID - IV
+*// She meditated in her dormitory. It'd been about two weeks since she'd made her return to Carbine Industries, leaving behind her home in Jóukmandar once more to reside in the Pahlatlán Campus. Work would resume as intended, but with the sparkles ever present around her hands in her every day life, so did the pursuit in finding their source and discovering the meaning behind it all. "You weave elegantly." The voice rang as the two held hands once more, complimenting her as they rehearsed their steps in the dance, the fabric forming in the process. "The fabric is rough. Though the melody is elegant." It was still vague to her, but she felt that it was becoming easier to come to terms with her strange visions. Perhaps, she was indeed just dancing with her illusions. But perhaps, she was actually on the doorstep of understanding something that went beyond her understanding.*
+
+### CALL OF THE VOID - V
+*// She meditated in her open research hall. The sound of their string melody reverberated far off the edges of the hall in the Carbine campus. It was a hall reserved entirely for herself, where she would conduct research on the topic of spatial technologies on matters for space engineering, but also to research and understand the cosmic mystery that she was holding hands with. "Tear at the seams." The voice repeated once more, its glimmering hand pinching their index finger and thumbs together, as if it were holding a string. Curiously, she mimics the motion, and took a hold of a pair of sparkles that levitated freely in the open air, resembling a strand of hair, a freely waving piece of yarn. Feeling feedback, she gently held this sparkling string of sparkles, and began to pull it down, the cosmic pressure increasing as it went down, the cosmic distortion overwhelming her as a result. "The fabric is torn." The voice remarks. "The edges are rough. Though your melody is clear." She sighed deeply. After all, she was indeed on the cusp of discovering the meaning of something beyond her understanding.*
+
 ## Polaris
-## DREAMSEEKER // VOYAGER
 ### CALL OF THE VOID - I
 *// Emily Østengaard, soon after the completion of Project CORE, is now subject to Project POLARIS. She would undergo a surgery that would implant an unidentified Ultima Organ in her body, allowing her powers from beyond, a technology that hadn't been researched since the collapse of the US many decades ago. Where war had broken out over it on Earth, SOLARdawn's safe haven was believed to be the right place to resume this research.* \
 *// The Ultima Organ was promptly rejected by Emily's body, and instead triggered the effect of another deeply rooted mystery that had been in her body since her birth. The Call of the Void, the source of her nightmares, and the reason her eyes allow her to illude and see the history and (perhaps future?) of every object is granted to her instead. "The Voyage commences", the voice continued to ring through her head. And she can only comply and be the subject to this otherworldly force.*
