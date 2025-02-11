@@ -1,35 +1,5 @@
 # Temporary drafts
 This file solely exists to prevent merge conflicts from happening in [[Story Drafts]], or any of the applicable stories that the drafts take place in. Additionally, this file is used as a draft board for topics or parts I want to develop later on in the story, and may give a tease as to what's to come next.
-
-# February 6th Drafts
-## A passage of life (Keeper of Death teaser)  
-It could be considered a part of a horror movie. A haunted mansion, kept my a grim reaper, granting a safe passage to all who intrude into the next realm. The walls had been coated in a deep, crimson red from all the blood that had been spilt, the wood bent in place from all the moisture it's soaked up. Streaks of blood on the floors, the walls, and curiously, the ceiling, too. Blood it spilled, yet stained, her scythe was not.  
-  
-The front doors creaked, and a single pair of footsteps could be heard walking throughout the mansion just outside the main hall.  
-  
-*// Inspired by the lyrics to SHADIENT - Ego Insomniac. "Multicoloured lights are leaking from your eyes." The idea is that the Keeper of Death, who will receive a name during writing, can "attain" or "mark" ("You were the inked mark") a certain person that trespass this peculiar mansion. A reason for this mansion being classified or referred to as the "blood mansion" is still in the works. An attained person will experience severe discomfort and nausea over time, akin to having been bitten by a venomous animal, which will begin to distort their vision. The lights, or their soul, will eventually literally "bleed" from their eyes, all the colour their souls once possessed feeding the mansion as its settler once intended. Eventually, their souls will simply be emptied and while drained, the attained person will struggle to walk out of the mansion to flee, or struggle to walk at all. With scythe drawn, Nora, the Keeper of Death simply adds a period at the end of the last sentence, completing the novel of the attained person's life. All light will have left their body, rainbow trails leaking from their eyes, facing the tip of the enormous blade now held before their chin. "This story ends here." She said, looking down at the attained person, who looked devoid of life. "For you'll continue your saga with Cziskvelén." Her scythe begins to emit a faint, rainbow glow, matching the iridescence of their tears, matching the rainbow iridescence in Nora's hair and eyes, as it moves to float besides their head. A simply strike puts an end to their first novel. Their second novel was now to begin at the hands of Cziskvelén.*  
-  
-Reoccurring themes within the Voyagers are:  
-- Polaris: Glass/crystals (reflections)
-- Maria: Fabric (weaving), dancing (strings)  
-- Nora (Keeper of Death): Writing (literature)  
-- Cziskvelén (Keeper of Life: Botany (flowers)  
-  
-Specifically for **Nora**, her colour scheme is quite the contrary to a usual grim reaper as depicted in horror movies and similar outings. She is often dressed in white, and while her hair is a mixture of black and white, her eyes are almost entirely chromatic and rainbow-coloured. Not just her eyes, but some strands in her hair follow that same chromatic and reflective rainbow colour in her eyes, as well as the sharp edge of her scythe's blade. \  
-Lore wise, this is because she has a *direct connection* to **Chroma**. Where Cziskvelén is the Keeper of Life, he was only made aware of this title after his death, and afterwards, the Chroma granted him a way to grant those that have died another chance at life. \  
-**Nora** in that regard has a direct connection with the Chroma. Those that trespass usually experience this during dreams while they're asleep. It's a metaphor for seeing one's memories flash before their eyes before they die, but as they're fast asleep, they can't do so. **Nora**, in this case, is just a *messenger* for those memories, before ultimately taking them away as they're set on entering *rebirth* through Cziskvelén.  
-
-**"The lights are bleeding from your eyes."** She said in a dull tone, standing before the attained person who had fallen to their knees, the liquid seeping from their eyes into their hands as they stared in horror at their hands soon soaked by this liquid. *"Wh-what's.."* \  
-**"It glows brightly."** She simply smirked. The hood over her head hid her eyes at a glance, but their light couldn't be hidden at it reflected against its inner fabric. The reflection was white, but the streaks of light were rainbow. **"Are you happy?"** \  
-They remained confused, but looking up to face the voice, they could only see a woman now kneeling before them. Her clothes were a mixture of black and white, the hood over her head covered her face in shadows, and only her iridescent eyes could be seen. *"Am I..?"* they stammered, their eyes tracing the figure before them from head to toe, but upon reaching the floor, they recognised something they'd rather have not. Behind her knees was the blade of a scythe, eagerly waiting for action, eagerly waiting for blood. *"I'm.. mostly scared.."*
-
-*// Introductory section to the character and Nora. Understandably, they're **very** afraid of the situation they're in, but Nora is willing to listen, and willing to tell them about their life they've lived. After all, they've essentially already died in their sleep, and Nora is simply there to perform the ritual and guide their spirit towards the Chroma and towards the Elevated Realm.* \
-*// Nora is also a mediator in this sense. She understands the situation the attained person is finding themselves in, and also understands what she needs to do herself to calm them down. She does so successfully, and the two simply chat, laugh, and cry over all the various stories the attained person had gone through in their previous life. In the end, all life is mortal, even the Voyagers aren't immortal (Cziskvelén is nearing his death).* \
-*// Nora's personality is still relatively in the drafts, because not enough writing exists just yet to determine the kind of person she is. Even so, she's a joyful person that laughs a lot, but not in a psychotic kind of way.* \
-*// Nora's **COTVs** will mostly likely be told through the means of various chapters as if they were written in a book. As her theme is about writing and literature, the common opening (Like Polaris's "Days since her life-changing surgery" and Maria's "She meditated by herself" openings) will most likely be something akin to ink writing on a page.*
-
-
-
 # July 31st Drafts (2024)
 - **GRIDRUNNER** | An **interjection** or **mini-story** of two gridrunners utilising evolved **Neurotech** technology to deploy hacks by virtually yet physically travelling through the wiring networks might find its way into the grand scheme of **Gridrunner** as a whole and might shine a light on the variety of the term "Gridrunner".
 

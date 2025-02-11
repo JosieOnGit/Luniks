@@ -11,7 +11,7 @@ The **Geography** is fairly straightforward. One document and several folders ar
 ## Drafted Stories
 The **Drafted Stories** folder is a collection of unrelated drafts or stories that don't currently have a connection to any of the existing stories. These are:
 - **Álusken's Mysteries**: Currently a single story, but has the potential to grow and expand to be sorted out into its own folder as well. The nation of Álusken has a very medieval feel, especially around its capital city, where the reigning king actively denies and suppresses modern technologies. Around this city, strange occurrences happen, which are described in this document.
-- **Liétivus Pact**: Originally drafted in 2020, this is a resolution proposed by **Sander Liétivus**, in an effort to calm down the ongoing *Civil War* in *Kósfrii*. However, this doesn't currently exist yet, as the timeline isn't adjusted to this war, but it's still listed for archival purposes and might return to see the light of day in the further future.
+- **Liétivus Pact**: Originally drafted in 2020, this is a resolution proposed by **Sander Liétivus**, in an effort to calm down the ongoing *Civil War* in *Kósfrii*. However, this doesn't currently exist yet, as the timeline isn't adjusted to this war, but it's still listed for archival purposes and might return to see the light of day in the further future. (*// February 2025: The Kósfrii Civil War is **scrapped**, and does not, nor will it ever happen. This file is scheduled for archival purposes and may see a rebranded version of oneself in the far future.*)
 - **Story Drafts**: This document contains small entries that are seeking insertion in the grand scheme of things, and can also be considered drafts that came across my mind in a single moment. The progress on the several drafts, as well as their redirections, can all be found here with an explanation as to what their intended purpose might become.
 
 ## GHOST TEMPLES
@@ -24,6 +24,8 @@ A quick rundown of the Temples, its routines and traditions, and a brief descrip
 Main document: [[Leremkov Trials]]. \
 The **Leremkov Trials** were the first story that overflooded in content and became too big to be first spread out over several documents, and lead to a snowball effect in the amount of stories that were created over time, to the point where we are now (January 2024).
 
+*// February 2025: Conceptually, Leremkov as a project has drastically changed following the development of other stories and interactions within **Travel Risk** and **INSIGHT**. All stories related to Leremkov are subject to change or even subject to removal, but the core characteristics of the Leremkov "virus" remain, which is an altered human gene which is mixed with genes of an animal, creating the ever-familiar style of "hybrid humans" commonly seen in anime and other fantasy media. This **will** influence the stories noted below.*
+
 In short: The **Leremkov Trials** describe the story of *Vitaly Leremkov*, who was a Russian-Polish biologist that used his knowledge in DNA splicing and alteration to inject animal genes into human DNA, which he then sold through fake vaccinations, which were masked as vaccinations for COVID or Influenza. In doing so, his self-created virus quickly began spreading throughout Kérisant, where he was located at the time, and eventually through Poland on Earth, where he had moved to after a few years to take revenge on his home town of Poznań. 
 
 Connected to the **Leremkov story** as a whole are:
@@ -34,6 +36,10 @@ Connected to the **Leremkov story** as a whole are:
 ## Oslo Revolution
 Main document: [[OSLO REVOLUTION]] (currently empty). \
 Originally drafted in 2018, this folder will soon list all the past developments on this revolution while it's actively being altered to fit into modern day Luniks, before it'll gradually grow bigger and fit nicely into the bigger picture.
+
+*// February 2025: Conceptually, the Oslo Revolution is now clear. Around the 2050s, Norway is granted an opportunity to claim land in rural Thórirsant and thus create a settlement on the planet Lúniks. Throughout Norway, but especially in its capital Oslo, the reception is mixed, which leads to conflict within the central districts. Riots arise, and soon the capital shakes and becomes unstable. Where the advertisements once listed "Blue skies are ahead", those in Oslo are now doomed to be grey.*
+
+*// The above explanation is apparent in the character **Emily Østengaard / Polaris**, who researched in Oslo at the time the riots emerged, and was forced to flee. Her story and experience with it is highlighted in [[DREAMSEEKER - COTV#Polaris]].*
 
 ## Reaching Lúniks
 Main document: [[Reaching Lúniks]]. \
@@ -49,6 +55,8 @@ Main document: [[Reaching Beyond]].
 Where **Reaching Lúniks** was once the foundation of humanity's neverending quest for the stars, **Reaching Beyond** pays homage to that and follows the journey of **Carbine Industries** trying to fix its broken image after the nuclear incidents that occurred in Kósfrii. By **2090**, it had transformed itself from an experimental weapons industry, to a space research industry with its main priorities being the **Development of Phase Three** for the Lunar colony on Lúniks, as well as the **Terraformation projects** it would conduct research for to determine the possibilities of settling and terraforming **Dvóniks** and **Mars** while harvesting energy from the nearest gas planet. Several stories are developed from here on, namely:
 - **ARC**: The story of Carbine's magnum opus, and the centre of it all. The **ARC** (**Advanced Research for Carbine**) is a space station in orbit of Lúniks that served as a research station, but also as a hub for the various spaceships that would pass by it. The story encompasses the development of it, and anything that might take place on or around the ARC.
 - **Routine Maintenance**: Originally a story developed by Eviedense, the **ARC ver.** of the story lays its eyes on the perspective of the ARC as the two **Alessi Shuttle** ships disappear off the radars after reaching the gas planet Lóivonus.
+
+*// February 2025: Reaching Beyond has a more cosmic meaning than just reaching beyond the planets that humanity has settled. While more planets are sighted and marked as points of interest for a next future settlement, a strange cosmic force also makes itself present throughout this timeline (2076-2097).*
 
 ## TRAVEL RISK
 Main document: [[TRAVEL RISK]]. \
