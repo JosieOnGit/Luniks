@@ -1,9 +1,31 @@
 # Temporary drafts
 This file solely exists to prevent merge conflicts from happening in [[Story Drafts]], or any of the applicable stories that the drafts take place in. Additionally, this file is used as a draft board for topics or parts I want to develop later on in the story, and may give a tease as to what's to come next.
+
+# February 13th Drafts (2025)
+## Polaris x ?? Spinoff/meeting
+Since the last time that [[TEMP - Nevo x Polaris encounter]] had been written (In October 2024 for good measure), **Polaris**'s abilities have been further thought out and have evolved as a concept, one that now has more clarity and can be more easily integrated into alternative stories, either related to **SOLARdawn**, the **Voyage**, or a spinoff that is not related to existing writing. 
+
+So what does Polaris possess, exactly? Her two eyes allow her two unique things: 
+### Illusory (Left Eye)
+This description is taken from the spinoff voicelines: \
+*"My left eye? It's an iridescent, luminescent pink, and it allows me to illude whoever I look at. The wings in the corners of your eyes, brushing your cheeks and surely beginning to constrict your breathing? Do you see them, do you feel them? Congratulations, you've fallen for an illusion."*
+
+Polaris's left eye contains an illusory power, that allows anyone she looks at (Including herself through a mirror) to be illuded through any means necessary. These can be anything, from illusions or hallucinations simply giving those affected a feeling of déjà vu, to unthinkable horror beyond anyone's thoughts. The key breakaway point for an illusion is usually the recognition of a faint pink glow in the far background, but the immersion is almost always too strong for the affected person to break this illusion. This ability is "powered" or "accelerated" by the six wings sprouting from the back of her head, which also allow her normal eyesight without the need to open her eyes.
+### Retrograde (Right Eye)
+This description is taken from her **Call of the Void (5)** sequence: \
+*"It suddenly became clear, it suddenly made sense to her. The nightmares she's had every time she looked at an object before, she saw strange, rapid visions of strange people. The carpet at the main entrance revealed every person that ever walked over it, the curtains in the library showed her every cycle of the star and moon that it had witnessed. It weren't strange, randomised visions, they were authentic memories, genuine histories hidden in plain sight."*
+
+Polaris's right eye contains an informing power, that allows her to see the history of any material, object, or person at will. First seen in the original Nevo x Polaris encounter, this is reflected by Polaris saying that she (paraphrased) **"Knows Nevo much better than he knows himself."**
+### Using this, how exactly?
+The story I had in mind was to start from the POV from one of your (Lucas's) OCs experiencing the illusion triggered or woven by Polaris, after which point Polaris herself begins to break the immersion by manifesting herself within that same illusion. Location-wise they're entirely within the confines of SOLARdawn in a controlled area, which means that nobody would be able to disturb the two. The illusion would soon become more akin to a memory, rather than a storytelling of horror, one that Polaris herself had gone through in the process of learning to control her powers. But this also gives room for development for characters by giving room to create a better background for the character in question (If it's Nevo for example, it can shine a light on *a* or *the* war that he was involved in).
+
+
+
 # July 31st Drafts (2024)
 - **GRIDRUNNER** | An **interjection** or **mini-story** of two gridrunners utilising evolved **Neurotech** technology to deploy hacks by virtually yet physically travelling through the wiring networks might find its way into the grand scheme of **Gridrunner** as a whole and might shine a light on the variety of the term "Gridrunner".
 
 ## Leremkov - PENDULUM (shelved)
+*// This draft is **shelved**, and may not be implemented any time soon, if at all.* \
 Self insert into pendulum - Receive aid and care through Vienna & Olen.
 
 ## Ghost Temples - Repurposing of Masks
