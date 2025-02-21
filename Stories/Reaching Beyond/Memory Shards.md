@@ -33,7 +33,8 @@ Her eyes shot wide open, and it had finally dawned upon her. **"That can't be a 
 **"She died 21 years ago, Sean."** Maria replied after a few moments, her voice deeper than usual, as if she was trying to suppress herself from lashing out. For a moment, she kept her mouth open, wanting to say more, but instead choosing not to. But on the other hand, Sean could hear her voice tremble ever so slightly. *"I'm deeply sorry, Dr. Limáida, I was not-"* \
 **"Sean, please, you don't need to be this formal to me."** Maria interrupted him, sighing deeply afterwards while closing her eyes and facing the table. Slowly but surely, she pressed her pen down on the table and rolled back in her chair before getting out, not taking a look back at Sean's now-worried face. **"Please read through the Pike's black box entries from 14:00-17:00 and mark down any abnormalities for me to inspect. I need a moment for myself."** She said before stepping out of the sliding door, leaving Sean by himself to continue today's research. 
 
-## VIOLET
+
+## August 13th - VIOLET
 Coffee held in hand, facing beyond the reflection in the glass window before her. In the distance, the blinking lights of the ASA's space station could be seen, but much further beyond that, only darkness and the faint vibrance and luminescence of the neighbouring stars could be seen. A deep sigh exited her lips, and she squinted her eyes, her brows furrowing. The mug was raised once more, and it wasn't long before the rim met her lips, guiding the coffee info her mouth, the bitter taste of the unsweetened, straight black coffee costing her tongue. It was a taste she had gotten used to many, many years ago, and even though the bitterness was something that half her colleagues abhorred, she knew no different. 
 
 *"Daydreaming again, commander?"* An older, raspy voice rang as it followed footsteps that led towards her direction. A warm smile appeared on her face as the rim of her mug left her lips once more, and turning around, she faced Harold Kreuzbauer, the veteran captain and commander that had boarded the Golden Bow together with her during the rescue mission of the Alessi Shuttles. **"More or less so.."** Maria smirked back, her mug now held in both her hands at her waist level, her shimmering but tired eyes meeting the worn-out ones of Harold. **"There's a crew member I haven't been able to get my mind off."**
@@ -45,6 +46,11 @@ Harold nodded, but struggled to connect what the story being told had to do with
 Harold opened his mouth and raised his hand, intending to say something, but instead moved his hand to rest on his lips, pondering for another moment. 
 *"SOLARdawn's done more odd things in the past.."* Harold muttered under his breath, his voice muffled by his hand against his mouth. *"But then again, I've only heard, I don't know the extents of Ultima and it's projects."*
 **"Cloning with Ultima is outright impossible."** Maria interrupted Harold, firmly, but politely. **"Neither do I know the extents of Ultima, but if I had to listen to the voice in my head for once, creating a carbon copy isn't possible."** She paused for a moment, and moving a hand from her mug to her lips, she thought twice about her words. **"At least, not proven so.. but even then.."**
+
+## August 14th 2096 - Self-reflections
+Years, it must have been since the very last time her mind had crossed it. It had already been almost twenty full years ago that she had last even thought about it at all, but seated in her dormitory behind her desk, she rested her head on her hand and twirled her pencil between her fingers in her other hand. A short glance to her left gave her a more proper look at the strands of hair that had fallen before her left eye, and staring at them intensively, she watched her natural brown discolour into a more pale
+
+
 
 # Memory Shards - Polaris
 A peek into **Polaris**'s daily life.

@@ -2,10 +2,6 @@
 This file solely exists to prevent merge conflicts from happening in [[Story Drafts]], or any of the applicable stories that the drafts take place in. Additionally, this file is used as a draft board for topics or parts I want to develop later on in the story, and may give a tease as to what's to come next.
 
 # February 21st Drafts (2025)
-## DREAMSEEKER - COTV (Maria)
-### ECHOED IMMERSION - III - WOVEN ETERNALLY
-Title
-
 ## Memory Shards / Internal Channels
 ### E-mail to Patrik Miyidkov (2077)
 Patti, it's urgent.
