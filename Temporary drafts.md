@@ -1,6 +1,26 @@
 # Temporary drafts
 This file solely exists to prevent merge conflicts from happening in [[Story Drafts]], or any of the applicable stories that the drafts take place in. Additionally, this file is used as a draft board for topics or parts I want to develop later on in the story, and may give a tease as to what's to come next.
 
+# February 21st Drafts (2025)
+## DREAMSEEKER - COTV (Maria)
+### ECHOED IMMERSION - III - WOVEN ETERNALLY
+Title
+
+## Memory Shards / Internal Channels
+### E-mail to Patrik Miyidkov (2077)
+Patti, it's urgent.
+
+I don't understand what it is they're doing internally within Hammerhead. Month after month they delay existing projects in favour of those of their own interest. VOID is something that always stands on top of the endless piles, and despite no progress being made, it remains up top. Both you and I have worked on VOID and we have worked together with Thomas to retrofit the HSS, and now they're pushing the re-launch forwards despite never having suited a proper pressure test. It's bound to go wrong, but their priority shifts to VOID each and every time.
+
+I'm making my full-time return to Carbine in 2078. While I appreciated Owen's gesture and offer to stay at Hammerhead for the foreseeable future, it simply conflicts with how my projects have worked in the past years. I will forwards this to Thomas, too, and attempt to convince him to make a return to Pahlatlán either at the same time as me, or at a later stage when the Campus fully returns to life. I will leave the HSS for what it is and no longer bother with security checks, Hammerhead ignores these anyway, it will be wasted energy. I will leave Shánzhe and stay in Láizhe to get the naming conventions for Stellar systems changed, and after that point I will return to Pahlatlán. Don't bother informing Qileng about this, it's not like he cares enough about his research staff anyway.
+
+Maybe we'll see each other again before I return to Pahlatlán, but in case I don't, I hope I'll be able to see you again working under Carbine, away from the hellish landscape of Hammerhead. 
+
+I'll keep in touch, Patti,
+Maria Limáida
+
+
+
 # July 31st Drafts (2024)
 - **GRIDRUNNER** | An **interjection** or **mini-story** of two gridrunners utilising evolved **Neurotech** technology to deploy hacks by virtually yet physically travelling through the wiring networks might find its way into the grand scheme of **Gridrunner** as a whole and might shine a light on the variety of the term "Gridrunner".
 

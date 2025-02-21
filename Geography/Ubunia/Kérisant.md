@@ -18,7 +18,7 @@ Lake Dnherá is located right in the very center of the Bilćat District in cent
 One thing to note here, is that the supposed collapse of Nóve-Osló in 2303 causes a collapse in tourism as well surrounding Lake Dnherá. As the development progressed, the city of Nóve-Osló was moved to be located in Thórirsant instead, meaning that the two events cannot be a cause & affect of one another. This is noted down and will be adjusted in the future!
 ## Petrívo
 
-## Maríaporta super Égicmar
+## Maríaporta su' Égicmar
 Maríaporta is a small port city located above the Égicmar lake (Égic's lake), further connecting Kérisant to other nations further out on the planet.
 ## Mászdam
 

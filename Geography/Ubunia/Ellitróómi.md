@@ -11,7 +11,7 @@ Its national language is **Ellitróómisi**, a fairly underdeveloped and regiona
 
 ## Senttrikáá
 
-## Sáttijáárva
+## Sattijáárva
 
 ## Súúnit
 
