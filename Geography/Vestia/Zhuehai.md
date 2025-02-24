@@ -9,6 +9,8 @@ Despite the loss of the province of Vao, Zhuehai still flourished and grew expon
 ## Nóve Guangdong
 ## Tsechung la Porta
 ## Shánzhe
+**Shánzhe** is home to Lúniks's biggest spaceport, as well as multiple universities and institutes that focus primarily on space travel and research beneficial to the future of humanity when it comes to the understanding of the world. 
 ## Liánzhulie
 ## Láizhe
+Neighbouring **Shánzhe**, **Láizhe** is home to multiple institutes and universities such as **Hammerhead Industries**, which houses a *celestial gallery*.
 ## Chuonshiéle

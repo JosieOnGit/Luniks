@@ -6,3 +6,9 @@
 ### Dázlacé
 
 ## Jánhul
+
+## Kic
+
+## Óreilë
+
+## Damran

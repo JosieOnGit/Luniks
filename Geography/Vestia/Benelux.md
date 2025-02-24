@@ -3,3 +3,5 @@ Together with [[Denmark]], Benelux (**The Netherlands**, **Belgium**, **Luxembou
 ## Nieuw-Brussel (Capital)
 ## Nieuw-Amsterdam (Capital)
 ## Lëtzebuerg (Capital)
+## Vinkhoek
+## Creoux

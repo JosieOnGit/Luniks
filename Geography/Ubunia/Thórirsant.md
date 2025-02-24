@@ -26,3 +26,5 @@ To reduce the extreme load on Sórskist as the nation of Thórirsant continued t
 ## Kasztávje
 ## Vádhai
 ## Lundveg
+## Czefái
+## Vorbeszcz
