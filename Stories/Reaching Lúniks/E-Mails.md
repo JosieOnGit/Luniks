@@ -57,7 +57,7 @@ Alexis Lesenen.
 
 To all recipients,
 
-Earlier this week, the team in Geneva, under the lead of Jonathán Thórirsonn, have returned their eyes to Messier-45 and Choreos. In the process of scanning and analysing the planets that were in the habitable zone, Choreos-RP-4 was discovered and further analysed through the eyes of Hubble with supervision from Alexis Lesenen. Concluding this research, both teams have discovered that Choreos-RP-4 is the mostly likely planet to be our one-in-a-million shot in the dark at settling an exoplanet. In emails that will follow soon, more details as to why will be revealed.
+Earlier this week, the team in Geneva, under the lead of Jonathán Thórirsonn, have returned their eyes to Messier-45, or Choreos. In the process of scanning and analysing the planets that were in the habitable zone, Choreos-RP-4 was discovered and further analysed through the eyes of Hubble with supervision from Alexis Lesenen. Concluding this research, both teams have discovered that Choreos-RP-4 is the mostly likely planet to be our one-in-a-million shot in the dark at settling an exoplanet. In emails that will follow soon, more details as to why will be revealed.
 
 Choreos is a mere 6 lightyears away from our solar system, and with rocket propulsion technologies having increased our travel speeds to near the speed of light, a mission would still take at least 6 years to send a probe for detailed research. However, we believe that Mr. Panjit is close to unlocking the keys to closing this distance to a mere hour. For this too, more information is to follow.
 
@@ -167,7 +167,7 @@ Alexis,
 
 Sending you an email in a hurry, especially with how busy it is in Geneva and Lyon right now while we prepare **One** for the big day. I'd like to show you a series of data points and images that we've received back from ELL-6, which we dubbed accordingly as the "Vaon Lander", before we suddenly lost connection to it. We spotted a spike in a strange aura with an energy that we've never before seen on Earth, and have only spotted occasionally as a force in space, but never on a planet before. Whatever it is we're trying, though, doesn't seem to want to help with getting our connection to ELL-6 back, and we'll probably have to stick with a satellite for research in the Vaon mountains.
 
-I don't believe we'll be able to recover ELL-6 in the near future, especially not with the immense shift to Lyon for the coming months, but perhaps it's a good idea to direct OTL-6 and have it keep its eyes on the Vaon aurora for the time being, but we'll have to wait and see for now. Ubunia should finish allocation by about 2009, and once we get our feet on Vestia, I believe it's soon enough to take a look at its strange auroras by then.
+I don't believe we'll be able to recover ELL-6 in the near future, especially not with the immense resources shift to Lyon for the coming months, but perhaps it's a good idea to redirect OTL-6 and have it keep its eyes on the Vaon aurora for the time being, but we'll have to wait and see for now. Ubunia should finish allocation by about 2009, and once we get our feet on Vestia, I believe it's soon enough to take a look at its strange auroras by then.
 
 See you on next week for the big day in Lyon, Alexis! It'll be great to catch up with you again personally. \
 Petrus Masego.

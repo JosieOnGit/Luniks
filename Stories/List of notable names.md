@@ -17,6 +17,12 @@ Separate passenger and cargo corridors were created in order to make passenger a
 ## LT - Lúnikska Tren
 LT as a company frequently reappears throughout the story, although it only services connections between the various nations on **Ubunia**. 
 
+## UR - Ubunia Rail
+What started as a project for sleeper trains between Jóthul and Thórirsant blossomed into a rial service that connects all nations of Western Ubunia. With a three-way format of train services, UR provides:
+- **UR Express**: A high-speed service connecting many major cities between Thórirsant, Máneá, Jóthul, and Zakh'háfo, with branching connections to major terminals in Ellitróómi and Kérisant.
+- **UR InterCity**: A high-speed rail service that stops at more intermittent stations, proving service and connections to many more cities, but not stretching out as far as UR Express.
+- **UR Regio**: A slower service that stops at all intermittent stations, providing service to every passenger.
+
 ## RKU - Rail Klaszi Ubunia
 RKU provides international services between **Thórirsant**, **Kérisant**, and **Zakh'háfo**, providing both cargo and passenger transport.
 
@@ -67,6 +73,7 @@ In **2035**, four years after the **2031** handover, Hammerhead laid their eyes 
 - **HR62** (**Heavy Rifle Class 62**): 
 - **SR43** (**Standard Rifle Class 43**): When you need a rifle that does exactly what you require it to do, the SR43 fits all of your needs, even if they frequently change. Supporting a wide variety of cartridges and extensions, the versatile SR43 has your back, wherever your mission may take you.
 - **SP14** (**Standard Pistol Class 14**): (Iterated Five-seveN).
+- **SP17** (**Standard Pistol Class 17**): A more nimble, lightweight, yet sturdy variant of the **SP14**, weighing less, but packing more firepower in a similar, familiar build.
 - **SP9** (**Standard Pistol Class 9**) (*"Niner"*): Money shouldn't keep you from defending yourself in dire situations. With that in mind, we developed your favourite sidearm, the **SP9 "Niner"**. 
 - **MPC5** (**Micro Pistol Class 5**): Don't let its size fool you. At the size of a hand, the MPC5 still delivers significant firepower.
 - **PZ25** (**Pulse Class 25**): Your new best friend. Developed and iterated internally at Hammerhead for over 10 years, the PZ25 is the incredible result of endless hard work to bring you pulse weaponry in a compact, accessible form factor.

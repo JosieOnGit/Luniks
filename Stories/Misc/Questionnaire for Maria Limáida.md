@@ -4,12 +4,14 @@ Maria Eliana Limáida
 ### Sex: 
 Female
 ### Age: 
-42 (Born *August 17th, 2054*)
+44 (Born *August 17th, 2052*)
 ### Race: 
-Human / Feline (Leremkov)
+Human */ Feline (Leremkov)* (*// Subject to change / In limbo*)
 ### Physical Appearance: 
+*// Subject to change: The Feline traits will most likely cease to exist, and instead, the markings of the Voyage will be described here.* \
 Maria is a 172cm tall middle-aged woman. She has relatively dull green eyes, and wavy brown-coloured hair that reaches down to just below her shoulders. Her physical build is healthy enough, but barely so, as she spends most of her time seated or standing doing research work aboard the ARC. Research in Zero-G has affected her physical health, but since 2093, she has almost exclusively stayed on the ground (Although aboard spaceships/space-stations). Her physical build is complimented by the brown-coloured ears and tail belonging to a *yet-unidentified race* of a cat. She is slightly nearsighted, and wears glasses.
 ### How does this character feel about their physical appearance? 
+*// Subject to change: The Feline traits will most likely cease to exist, while instead, the purple markings of the Voyage (Spirals/swirls on her shoulders and a teardrop shaped-halo on her back) will take this place instead.* \
 Maria is relatively indifferent about her physical appearance, and doesn't bear too much thought to it. However, even over a decade after contracting Leremkov, and gaining the physical traits of a feline, she is still extremely annoyed by these traits specifically. She actively trains her tail to be immobile, and tries to ignore it altogether.
 ### Describe your character's upbringing (relationships, hobbies, location): 
 - **Relationships**: 
@@ -38,7 +40,7 @@ Even though Maria and Raléi never got the opportunity to, Maria would've loved 
 Maria is:
 - Head of the **ARC**. Designer of the **ARC**. 
 - Although she has passed down the duties to spread them out under her wings, Maria remains the only person within **Carbine** to bear the title of *"Control"*. Even so, she has only used her rank *once*, doing so to command the **Platinum Halberd** back to **Lumen** in [[Routine Maintenance - ARC ver.]].
-- Class 1 *Aerospace Engineer* and *designer* within **Carbine**, sharing this role only with **Thomas Vanhuyt** and **Patrik Miyidkov**. 
+- Class 01 *Aerospace Engineer* and *designer* within **Carbine**, sharing this role only with **Thomas Vanhuyt** and **Patrik Miyidkov**. 
 
 In the past, Maria worked for:
 - **Álef Metro**: As an intern overseeing the security of the metro underground.
@@ -58,7 +60,7 @@ Maria is present for every launch of a newly-developed and produced spaceship, e
 One of Maria's strongest fears is that her decades of work in the search for answers to the universe will ultimately end up as nothing more than questions. The **ARC** exists as a means to help bridge humanity closer to the future, and with **Hammerhead** joining the newly revived space race, Maria believes that the answers to her questions, those that are now shared by thousands, if not millions of humans, will finally be answered if many more people join her search. \
 Even so, her strongest fear remains that even with hundreds of telescopes, and hundreds of spaceships and stations researching every inch of the galaxy and universe, the answer still won't be found within her lifetime.
 ### What does your character dislike doing?
-Even though it may not come across that way, Maria dislikes addressing a group. Although she frequently held lectures and addressed thousands of people at once during her research in **Shánzhe** for **Hammerhead** during the *Naming proposals for Messier-48*, the deeply-rooted anxiety remained in her mind when speaking for such a large number of people at once. Whenever she *can* avoid it, she'd gladly take that opportunity to do so, but even so she is confident enough to hold lectures if truly necessary.
+Even though it may not come across that way, Maria dislikes addressing a group. Although she frequently held lectures and addressed thousands of people at once during her short-lived research in **Shánzhe** for **Hammerhead** during the *Naming proposals for Messier-48*, the deeply-rooted anxiety remained in her mind when speaking for such a large number of people at once. Whenever she *can* avoid it, she'd gladly take that opportunity to do so, but even so she is confident enough to hold lectures if truly necessary.
 ### What is your character's philosophy on life? 
 Maria is a firm believer in the fact that either:
 - Humanity is not the only species in the universe that is intelligent, and somewhere out there, another species exists that is either on par with humanity, or more/less advanced than them.
@@ -72,8 +74,9 @@ Maria usually comes across as a very neutral person, without much emotions or ex
 ### What are your character's strengths and weaknesses? 
 Maria's strengths lie within her knowledge and skills acquired during her many years within the research institutes of **Hammerhead** and **Carbine**, but her weaknesses mostly lie within her mind. She is still actively struggling with her traumas from the past. *// Needs more examples.*
 ### What is your character proud of? 
-Maria's **magnum opus** is the **ARC**, the enormous donut-shaped space station orbiting Lúniks and housing thousands of researchers and providing a safe haven for other space travellers. According to everyone within **Carbine**, and even to those working for other institutes, the **ARC** is considered a "Marvel of engineering". Every spaceship that she has had an involvement in, is a ship she is proud of, but the **100 - Golden Bow** is her proudest work to date. It was the namesake of *Raléi*, and it would honour her wishes and desires that she had before her death, as a means to carry on her legacy. The name of the **100**, **"Golden Bow"**, is also a nod to Raléi, who used to wear a lot of golden rings (Although their marriage ring was made of silver, housing a diamond), and had a deep interest in archery. In **2091**, Maria's **Golden Bow** would go through Lúniks's atmosphere for the very first time, becoming a foundation for the future of **Carbine** and the new space race as a whole.
+Maria's **magnum opus** is the **ARC**, the enormous donut-shaped space station orbiting Lúniks and housing thousands of researchers and providing a safe haven for other space travellers. According to everyone within **Carbine**, and even to those working for other institutes, the **ARC** is considered a "Marvel of engineering". Every spaceship that she has had an involvement in, is a ship she is proud of, but the **100 - Golden Bow** is her proudest work to date. It was the namesake of *Raléi*, and it would honour her wishes and desires that she had before her death, as a means to carry on her legacy. The name of the **100**, **"Golden Bow"**, is also a nod to Raléi, who used to wear a lot of golden rings (Although their marriage ring was made of silver, housing a diamond), and had a deep interest in archery. In **2089**, Maria's **Golden Bow** would go through Lúniks's atmosphere for the very first time, becoming a foundation for the future of **Carbine** and the new space race as a whole.
 ### What is your character ashamed of? 
+*// Subject to change: Her Feline traits have been put in limbo, and will most likely disappear altogether. Instead, it can be written that she is ashamed of the markings on her back, and the ever-lingering fate she has to face with the Voyage.* \
 Maria is ashamed of her Feline traits, and tends to get annoyed whenever her ears or tail get a mind of their own and act by themselves. Even through she's forced herself and her traits to undergo a decade of training, they still manage to slip through the cracks every now and then, revealing and betraying her emotions when she prefers to keep them hidden.
 ### Is your character healthy or do they have any ailments?
 Apart from being near-sighted, Maria is completely healthy.
@@ -93,6 +96,7 @@ Maria's goal is to answer a lifelong question, which she shares with the majorit
 ### What strength will help your character achieve their goal? 
 Maria is extremely talented and knowledgeable in the field of astronomy and spaceship/-station design and functionality. This enormous toolbox of skills within her mind is backed up by the incredible infrastructure that **Carbine** can supply, and ultimately, it has been the main reason that the **ARC**, **Carbine**'s and Maria's magnum opus and most prized station, could be built in the first place.
 ### What weakness will hold your character back from achieving their goal? 
+*// Subject to change: While not a "weakness", the Voyage and the Call of the Void, Dreamseeker, and Echoed Immersion Acts can actively hold her back from truly focusing on her goals.* \
 Maria's introvertedness and shyness of Maria can hold her back in the short term. Especially when it's absolutely necessary for her to address a group, she tends to postpone the date to build up confidence, which she in return fails to gain as well. Next to her personality holding her back, she is also continuously dealing with *trauma* 20 years onwards from the **Álef Crisis** in **2075**, where she lost her wife to the abyss in the destructed metro system. She still has nightmares where she relives the experience again and again, and these traumas are holding her back from thinking properly, which becomes evident in **Routine Maintenance**. Lastly, she contracted *Leremkov* in **2078** while en route to **Kósfrii**, **Thórirsant**, for the installation of the *Kósfrii Domes* following the disaster of the **Spider's Web Project**. Even though she's had almost two decades to adjust to her gained Feline traits, these still disturb her in everyday life aboard the **ARC**.
 ### What is your character's conflict (what prevents them from achieving their goal)? 
 The most apparent struggle that Maria and the rest at **Carbine** will experience becomes evident in **Routine Maintenance**, where the **Alessi Shuttles** vanish off the radar and travel to the **Cintura** system in an emergency. Together with the trauma that Maria experiences, she struggles to properly adapt to the situation and deal with the grimness and reality of the sight before her eyes upon the arrival of herself, her crew, through her ship, to the **Cintura** system. Next to this, the endless workflow that Maria goes through for her work aboard the **ARC** (Managing the **ARC** as *Control*, being present for the launch of new spaceships, but also having a role in the development of new generations of spaceships, and dealing with *Moondial's discovery of cellular life on Oceana* and the *Connection between Cisila (Platinum Halberd) and Gradient (2076)*) becomes too much for her to properly handle and manage at once, which ultimately slows down her research altogether.
@@ -110,9 +114,9 @@ Maria is a very formal and reserved person, and since her work requires her to u
 
 ----
 ## Additional Questionnaire
-*// This interview takes place about two weeks after the events of [[Routine Maintenance - ARC ver.]]. For writing purposes, it's written as an actual interview. The questions and answers are such written as genuinely as possible.* 
+*// This interview takes place about two weeks after the events of [[Routine Maintenance - ARC ver.]]. For story purposes, it's written as an actual interview. The questions and answers are such written as genuinely as possible.* 
 ### Age?
-**42 years young!** 
+**44 years young!** 
 ### Sexuality/sexual preference?
 **I've had a lesbian marriage, which reached a premature and abrupt end almost 20 years ago already. Ever since, I guess one would call it "Aro-ace"? I've not really put my mind to it since, there's more important matters at hand for me.** 
 ### Any siblings/only child?
@@ -122,7 +126,7 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### Gender?
 **Female. No small text there.** 
 ### DOB? 
-**August 17th, 2054.** 
+**August 17th, 2052.** 
 ### Who were your parents/guardians?
 **Both of my parents are still alive, but they've been divorced for a good while by now. My father's name might be a little familiar, being Enzo Limáida, president of the Sirálian LESD. But my mother, Lana Kozatnië, has been relatively "behind the scenes", you could say. She's not in the best state of health for the past years, so she's been doing community service in Dázlacé as a means to kill time. It doesn't earn much, but considering my father and I both have relatively well-earning work, we fund her as much as we can so she can also live as freely and without worries as possible.** 
 ### Clothing style?

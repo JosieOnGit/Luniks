@@ -1,0 +1,8 @@
+# TEMP - Maria x Nevo spinoff
+**"Torn fabric."** She sighed, holding a piece of fabric dearly in her hand. Their words had been cut off effortlessly, disrupting their story, disrupting their completion. The teardrop-shaped halo continued to shimmer in a deep purple as the fabric levitated above her luminescent hand that shared a similar colour to her halo. **"Once in harmony, now disrupted.."** \
+Ripples formed beneath her feet as she turned around to face the bright green eyes of the only person she shared this void with. **"We share a similar role, do we not?"** \
+*"I guess you could say so."* He said in response, his blade sheathed, but the iridescence of the blade not hidden, as its light bled from the sheath. \
+**"As the Cosmic Weaver, I simply weave the fabric."** She smiled, her multicoloured eyes glimmering as the fabric in her hand was restored to its original form, increasing in size, increasing in length, and increasing in depth. Whatever story it was composed of before it was torn, it was now rewritten and woven back, and reunited with the universe in reality. \
+**"And I simply reunite it with reality, as fate forever intends."** Her smile widened as her halo shimmered intensively as she handed the fabric over to Nevo, allowing him to hold and inspect it. \
+**"Connector."** Her voice deepened slightly, her tone becoming more serious now that the fabric had been handed over to Nevo. Their gazes met once more, but Maria's smile had diminished while the glow in her eyes, hands, and halo had not. The ripples beneath their feet intensified, but were soon to settle down again as she rested her hands idle at her waist. \
+**"Make sure it reaches the right reality."**
