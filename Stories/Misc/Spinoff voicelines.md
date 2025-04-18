@@ -104,7 +104,6 @@
 | In Battle 1               | **Maria**   | Forgive me.                                                                                                                                                                         |
 | In Battle 1               | **Polaris** | Lead the way. I will follow your eyes.                                                                                                                                              |
 
-
 ## Polaris (Caster)
 
 | Action                      | Dialogue                                                                                                                                                                                                                                                                                                                        |
