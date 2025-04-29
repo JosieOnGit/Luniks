@@ -8,7 +8,7 @@ Female
 ### Race: 
 Vulpine, *despite having no direct relation to the race on Lúniks*.
 ### Physical Appearance: 
-Standing at *176cm* tall (*192cm incl. ears*), her **Vulpine** features are practically impossible to miss, decorating her silhouette in an otherwise natural brown colour. Completing her face are deep blue eyes, encapsulated by hair that reaches just down to her shoulders. Despite her physique implying otherwise, she is strongly built and can pack a punch if necessary, but her true strength lies in her mind and her ability to use all various means of tools and weapons.
+Standing at *176cm* tall (*192cm incl. ears*), her **Vulpine** features are practically impossible to miss, decorating her silhouette in an otherwise natural light brown colour. Completing her face are deep blue eyes, encapsulated by hair that reaches just down to her shoulders. Despite her physique implying otherwise, she is strongly built and can pack a punch if necessary, but her true strength lies in her mind and her ability to use all various means of tools and weapons in any given situation.
 ### How does this character feel about their physical appearance? 
 Frequently under disguise, her “natural” physical appearance is something she isn’t often bothered by. Despite this, her Vulpine features usually limit the amount of disguises she can take on. \
 Additionally, while in college in Lëtzebuerg, her Vulpine features were the reason she was easily bullied and made the target of racism and hate.
@@ -23,6 +23,7 @@ Having graduated at the top of her class due to her precision and eye for detail
 ### What kind of relationship does your character have with their family? 
 None. Having killed her father at *17*, she was forced to fall out of contact with her mother, too. Ever since, the two haven't spoken a single word to one another, despite Charlotte having saved her mother's life. It simply was no longer possible for the two to remain in contact anymore.
 ### Does your character have any romance interests? 
+Yes. After the **Benson Gala murder** on *Somchai Srichaphan*, Charlotte stumbles upon **Miya**, who appears to be in a similar situation that Charlotte herself finds herself in: A lone wolf in the endless circuit of hitmen and bloodshed. Ever since that day, Miya has not left her mind, and over time, she draws the conclusion that she might have been developing feelings for him since.
 ### Does your character have any moral convictions? 
 Not necessarily, she’s relatively naïve. If it’s assigned to her, it must be the right choice.
 ### Does your character have any religious beliefs? 
@@ -121,7 +122,7 @@ As aforementioned, Charlotte uses professional language during her missions and 
 ### What languages do you speak? 
 **My native tongue is Luxembourgish, but I'm also fluent in French, German, and English.**
 ### Profession/education? 
-**My work is.. a bit confidential.. But I've studied engineering and robotics at the Université du Luxembourg.** \
+**My work is.. a bit confidential.. But.. I've studied architecture and engineering at the Université du Luxembourg.** \
 *"And at what level did you graduate?"* \
 **Ah.. awer.. I haven't..**
 ### Comfort food? 
@@ -139,6 +140,7 @@ As aforementioned, Charlotte uses professional language during her missions and 
 
 ### All-time favourite movie? 
 ### How big is your family? 
+**I haven't ever gotten to know my entire family. My father was German, and had roots in Bayern, while my mother was Belgian. But even so, my grandparents were Máneán, and their parents were French. It's a bit of a mess, and my family is probably enormous, btu maybe it's for the better that I don't know them..**
 ### Are you close to any family member in specific? 
 **..Not exactly. In fact, I don't even know the majority of my family..**
 ### Any allergies? 
@@ -147,6 +149,7 @@ As aforementioned, Charlotte uses professional language during her missions and 
 ### What are some of your guilty pleasures? 
 ### Do you want or have pets? 
 ### Are you a virgin?
+**Is that really vital information?**
 ### Do you have or want kids? 
 ### Any tattoos or piercings? 
 ### Favourite Pokémon? 
@@ -166,7 +169,9 @@ As aforementioned, Charlotte uses professional language during her missions and 
 ### How do you spend your free time? 
 ### When/where are you most comfortable? 
 ### Are you an introvert or an extrovert? 
+**I'm extremely introverted, and because of that, I don't usually like to work in a large team. I've grown up alone, having been bullied continuously as I grew up, so I never bothered to make a change therein..**
 ### Favourite animal? 
+**I may be heavily biased, because I am a Vulpine, after all, but I love foxes!**
 ### Favourite mythological creature? 
 ### If your power gets cut while you're at home, how do you spend the time? 
 ### When someone invites you out but you don't want to go - how do you tell them? 
