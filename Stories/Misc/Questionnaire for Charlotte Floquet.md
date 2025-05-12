@@ -4,7 +4,7 @@ Charlotte Adelaide Floquet
 ### Sex: 
 Female
 ### Age: 
-27
+27 (Born *January 2nd, 2048*)
 ### Race: 
 Vulpine, *despite having no direct relation to the race on Lúniks*.
 ### Physical Appearance: 
