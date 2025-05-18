@@ -195,43 +195,43 @@
 | Greeting                    | *Buongiorno* (Good day), Doctor.                                                                                                                                                                        |
 | Title                       | *Arknights.*                                                                                                                                                                                            |
 ## Charlotte (Sniper)
-| Action                      | Dialogue                                                                                                                |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Appointed as Assistant      |                                                                                                                         |
-| Talk 1                      |                                                                                                                         |
-| Talk 2                      |                                                                                                                         |
-| Talk 3                      |                                                                                                                         |
-| Talk after Promotion 1      |                                                                                                                         |
-| Talk after Promotion 2      |                                                                                                                         |
-| Talk after Trust Increase 1 |                                                                                                                         |
-| Talk after Trust Increase 2 |                                                                                                                         |
-| Talk after Trust Increase 3 |                                                                                                                         |
-| Idle                        |                                                                                                                         |
-| Onboard                     | *Emma*, *Deborah*, *Charlotte*. Call me by whatever name suits you best. I will strike from the shadows no matter what. |
-| Watching Battle Record      |                                                                                                                         |
-| Promotion 1                 |                                                                                                                         |
-| Promotion 2                 |                                                                                                                         |
-| Added to Squad              |                                                                                                                         |
-| Appointed as Squad Leader   |                                                                                                                         |
-| Depart                      |                                                                                                                         |
-| Begin Operation             |                                                                                                                         |
-| Selecting Operator 1        |                                                                                                                         |
-| Selecting Operator 2        |                                                                                                                         |
-| Deployment 1                |                                                                                                                         |
-| Deployment 2                |                                                                                                                         |
-| In Battle 1                 |                                                                                                                         |
-| In Battle 2                 |                                                                                                                         |
-| In Battle 3                 |                                                                                                                         |
-| In Battle 4                 |                                                                                                                         |
-| 4-star Result               |                                                                                                                         |
-| 3-star Result               |                                                                                                                         |
-| Sub 3-star Result           |                                                                                                                         |
-| Operation Failure           |                                                                                                                         |
-| Assigned to Facility        |                                                                                                                         |
-| Tap                         |                                                                                                                         |
-| Trust Tap                   |                                                                                                                         |
-| Greeting                    |                                                                                                                         |
-| Title                       | *Arknights.*                                                                                                            |
+| Action                      | Dialogue     |
+| --------------------------- | ------------ |
+| Appointed as Assistant      |              |
+| Talk 1                      |              |
+| Talk 2                      |              |
+| Talk 3                      |              |
+| Talk after Promotion 1      |              |
+| Talk after Promotion 2      |              |
+| Talk after Trust Increase 1 |              |
+| Talk after Trust Increase 2 |              |
+| Talk after Trust Increase 3 |              |
+| Idle                        |              |
+| Onboard                     |              |
+| Watching Battle Record      |              |
+| Promotion 1                 |              |
+| Promotion 2                 |              |
+| Added to Squad              |              |
+| Appointed as Squad Leader   |              |
+| Depart                      |              |
+| Begin Operation             |              |
+| Selecting Operator 1        |              |
+| Selecting Operator 2        |              |
+| Deployment 1                |              |
+| Deployment 2                |              |
+| In Battle 1                 |              |
+| In Battle 2                 |              |
+| In Battle 3                 |              |
+| In Battle 4                 |              |
+| 4-star Result               |              |
+| 3-star Result               |              |
+| Sub 3-star Result           |              |
+| Operation Failure           |              |
+| Assigned to Facility        |              |
+| Tap                         |              |
+| Trust Tap                   |              |
+| Greeting                    |              |
+| Title                       | *Arknights.* |
 ## Angel (Vanguard)
 | Action                      | Dialogue                                                                                                                                                                                                                                                            |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
