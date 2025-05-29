@@ -18,7 +18,7 @@ Separate passenger and cargo corridors were created in order to make passenger a
 LT as a company frequently reappears throughout the story, although it only services connections between the various nations on **Ubunia**. 
 
 ## UR - Ubunia Rail
-What started as a project for sleeper trains between Jóthul and Thórirsant blossomed into a rial service that connects all nations of Western Ubunia. With a three-way format of train services, UR provides:
+What started as a project for sleeper trains between Jóthul and Thórirsant blossomed into a rail service that connects all nations of Western Ubunia. With a three-way format of train services, UR provides:
 - **UR Express**: A high-speed service connecting many major cities between Thórirsant, Máneá, Jóthul, and Zakh'háfo, with branching connections to major terminals in Ellitróómi and Kérisant.
 - **UR InterCity**: A high-speed rail service that stops at more intermittent stations, proving service and connections to many more cities, but not stretching out as far as UR Express.
 - **UR Regio**: A slower service that stops at all intermittent stations, providing service to every passenger.
