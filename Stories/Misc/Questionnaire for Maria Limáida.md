@@ -4,7 +4,7 @@ Maria Eliana Limáida
 ### Sex: 
 Female
 ### Age: 
-44 (Born *August 17th, 2052*)
+44* (Born *August 17th, 2052*)
 ### Race: 
 Human */ Feline (Leremkov)* (*// Subject to change / In limbo*)
 ### Physical Appearance: 

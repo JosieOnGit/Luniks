@@ -7,3 +7,4 @@ Together with [[Benelux]], Denmark was set to lose a significant amount of its l
 ## Ny Købnhavn (Capital)
 ## Karlsborg
 Karlsborg is an exclave that sits in the edge of the border between **Zhuehai** and **Denmark**. This is not yet reflected on any existing map.
+## Røyehavn
