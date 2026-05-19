@@ -1,0 +1,23 @@
+# yes really
+All eyes are on **Dream Of March**, a young Umamusume with a heart of gold. Hailing from a prestigious family of past professional racers, it's no surprise that March follows in the same footsteps that her mother and grandmother once did. And while neither had achieved stunning victories that shifted the tides, she was dead set on breaking this family tradition of *"silver collectors"* and *"participation rewardees"*. 
+
+It was to no surprise that she won her debut flawlessly in her home town, and she immediately caught the attention of a reputable trainer who was scouting for a runner with utmost potential, something that she had been seeking for years. The two come into contact with one another, and shake hands, and before long, the two are headed to *Tracen Academy*. 
+
+March shows true potential in her training and mock races, matching the high tempo of the junior up-and-coming Umamusume in the Twinkle Series, and as she adapts to the racing life in the heart of Japan, her first race is scheduled to be soon: The G3 SA Cup. A mile-distance race, selected by her trainer as a first proper test for her aptitudes and stamina. It would put everything they had developed so far as a duo to the test, and act as a benchmark for their future races. If it'd go bad, they'd pivot to trials with sprint distances, or even something as drastic as running on dirt. But if it'd go well, a much more ambitious goal could open up for the two: The Triple Tiara tour: Oka Sho, Japanese Oaks, and the Shuka Sho. 
+
+Ultimately, she places **2nd** in the *SA Cup*. In fact, she struggles to break free from the shackles she inherited from her family in her entire racing career. Beyond the SA Cup, a **4th** place at the *Asahi Hai JF*, and a **3rd** place at the *Tulip Sho* barely sees her qualify for the *Oka Sho* entirely. By sheer luck, another runner had withdrawn from the race, enabling March to enter the race after all. \
+But despite this miracle, she fails to grasp victory from **Turn The Tide**, and trails behind at one length in **2nd** place. At the *Japanese Oaks*, it's no different. She once more finds herself in **2nd** place behind Tide, at a distance of one length. And now with her lack of wins catching up on her, her entry to the final leg of the Triple Tiara tour—the *Shuka Sho*—is in limbo.
+
+Her trainer pivots, and signs her up for the **Rose Stakes**, a G2 trial race for the final leg of the Triple Tiara. At 1800m in length, the Hanshin course looked to be the perfect fit for March, and if she would get her maiden graded win here, it would automatically enter her into the Shuka Sho to finally grasp her maiden G1 win, and finally obtain a crown in the Tiara Tour. \
+By a miracle, March manages to win the Rose Stakes by a nose's length ahead of *Sugar Rush*. Obtaining her first ever trophy, she sets her sights on the Shuka Sho, her worries for her entry now lifted. 
+
+But other worries remained. The very moment she stood on the turf in Kyoto, her eyes landed on Tide once more, and her heart sank to the floor. Despite her training, despite her maiden G2 win, and despite all the pep talks that proved to her that helped her mental, it all sank into nothingness the very moment her eyes landed on Tide's blue silk. It mocked her, it taunted her. "One length" is what it yelled at her. And in a sudden moment, she stood in front of the gates, unsure of her ability to defeat Tide. 
+
+Her gut feeling was right. Once more, she found herself in **2nd** place, and once more, it was one length behind Tide. She sank to her knees, sweat soaking the turf beneath her as her hands dug into it. The crowd chanted Tide's name, the eighth Triple Tiara winner in history. To March, it only registered as muffled noise.
+
+
+## single chapter idea idk when but its before the japanese oaks
+*// Setting: It's the day of the Japanese Oaks, the long-awaited second leg of the Triple Tiara tour. Despite having missed out on the first crown, Dream Of March has not lost the will to fight for her very own share of the Tiara, despite her recurring nightmares of the the runner she was trailing behind for the entire duration of the Oka Sho: **Turn The Tide**. With her mother and **UHHHH** upping her spirits, she shakes these memories away to begin with a clean sheet and a goal set straight: Winning the Japanese Oaks.*
+
+## dont get too high on your own horse haha get it
+*// Setting: idk who I'll base this on yet but imagine being a 4 times G1 winner and being a little too cocky about it to boast about it to a debut G3 winner and then LOSE.*

@@ -15,7 +15,7 @@ Maria is a 172cm tall middle-aged woman. She has relatively dull green eyes, and
 Maria is relatively indifferent about her physical appearance, and doesn't bear too much thought to it. However, even over a decade after contracting Leremkov, and gaining the physical traits of a feline, she is still extremely annoyed by these traits specifically. She actively trains her tail to be immobile, and tries to ignore it altogether.
 ### Describe your character's upbringing (relationships, hobbies, location): 
 - **Relationships**: 
-	- **Family**: Maria is an only child, born from a **Sirálian** father and a **Jóthuli** mother in **Dazlácé** near **Jóukmandar**. Her parents and her moved to **Liavolta** when she was just two years old, before ultimately moving back to **Jóukmandar** at the age of twelve. She moved out of her home to **Kristensend** to study astronomy and aeronautical science. Despite moving away from her parents, she remained in close contact, while they ultimately went through a divorce. She has no bad blood with her parents. Her father now lives in **Sirália** as President of the **LESD**, while her mother retained a much simpler workfield back home in **Dázlacé**.
+	- **Family**: Maria is an only child, born from a **Sirálian** father and a **Jóthuli** mother in **Dázlacé** near **Jóukmandar**. Her parents and her moved to **Liavolta** when she was just two years old, before ultimately moving back to **Jóukmandar** at the age of twelve. She moved out of her home to **Kristensend** to study astronomy and aeronautical science. Despite moving away from her parents, she remained in close contact, while they ultimately went through a divorce. She has no bad blood with her parents. Her father now lives in **Sirália** as President of the **LESD**, while her mother retained a much simpler workfield back home in **Dázlacé**.
 	- **Romantic**: Maria is *widowed*, having lost her wife, *Raléi Alentikíles*, in the **Álef-Nórem bombing** in 2075. Ever since, she has vowed and promised to maintain their marriage for the rest of her life, even if it meant moving forward alone, and by herself. 
 - **Hobbies**: Although Maria, in 2096, has no time for hobbies at all, she used to adore reading and studying in her younger years. Stargazing was on top of the list, an activity she shared with Raléi, and pursued soon after her death. 
 - **Location**: Maria has moved plenty of times in her past. She was born in **Dázlacé** (*Jóthul*), lived in **Liavolta** (*Sirália*), studied in **Kristensend** (*Rhódisz*), lived and worked in **Kósfrii** (*Thórirsant*) and **Álef** (*Zakh'háfo*), and pursued her dreams of aeronautical science and eventual revival of the humanitarian space age in **Némiskéi** (*Thórirsant*) after having worked in **Shánzhe** (*Zhuehai*). Ultimately, she now spends most of her time in orbit of Lúniks aboard the **ARC**.
@@ -144,7 +144,7 @@ Maria is a very formal and reserved person, and since her work requires her to u
 
 *// This will be done later LOL this is too much to list at 11pm* 
 ### Comfort food?
-**A lot of my early college years were filled to the brim with ready-as pasta dishes, because I'd never have the time to cook *and* to get all projects for work and for school done. I'd say that my comfort food would definitely be a good, proper pasta.** 
+**A lot of my early college years were filled to the brim with ready-as pasta dishes, because I'd never have the time to cook *and* to get all projects for work and for school done. I'd say that my comfort food would definitely be a good, proper pasta.**
 ### Food you hate? 
 **Even though Sirália is a Vestian nation, there's a *lot* of Vestian food from the other nations that I can't stand. A lot of dishes from Hédenis are fine, but Monsán and Vao have *really* weird cuisine.**
 ### Music taste?
@@ -225,3 +225,56 @@ Maria is a very formal and reserved person, and since her work requires her to u
 **I tend to toss and turn in bed until my brain forces itself to sleep. Sleeping on my back is uncomfortable for my tail, and sleeping on my side in the wrong spot folds an ear the wrong way. Even 20 years later, I *still* haven't gotten used to these Feline traits!**
 ### What would an ideal space for you look like? Can be a room or an environment.
 **Aboard the ARC, there's a certain room just west of the library, where there's a large glass panel that spans over the entire ceiling, which gives a phenomenal view of the stars in the vast distance in space. I've fallen asleep from stargazing there plenty of times, and even if it's not suited for a dormitory at all, I've sure started to treat it as one!**
+
+## Additional Questionnaire (1)
+*// This questionnaire assumes Maria from 2096, making it a similar setting to the interview questionnaire listed above.*
+### Where was your OC born, and where did they grow up?
+### How does your OC remember their childhood? Is this an accurate reflection of what their childhood was actually like?
+### If your OC could revisit their childhood, what would they want to change about it, if anything at all?
+### Describe three of the most important photographs your OC owns.
+### What is your OC's gender identity and sexual orientation? Is this also what they identify as in canon, or are they not (fully) aware?
+### How comfortable is your OC in their skin? Do they like who they are? What would they want to change about themself?
+### What is your OC's occupation?
+### What does your OC's family look like?
+### Describe a mundane day in your OC's life.
+### Does your OC have any physical scars? What is the story behind them?
+### What does your OC carry around in their pockets? What about their bag?
+### What is the worst thing that has happened to your OC? How has it affected their behaviour, their health, and their life in general?
+### What is something your OC does (to others) that they would not like if others did to them? Are they aware that they do this?
+### Does your OC hold grudges? How good are they at letting things go? Do they believe in second chances?
+### What is your OC's fatal flaw?
+### Is there anyone your OC has lost contact with? What happened?
+### What are some of your OC's coping mechanisms during stressful or overwhelming periods in their life?
+### What are your OC's bad habits?
+### How does your OC handle preparing for and initiating a difficult conversation? How does the conversation itself go?
+### How quick is your OC to shift blame? Do they own up to their mistakes, or are they prone to start pointing fingers at others?
+### How does your OC handle criticism?
+### How good is your OC at apologizing, if they do this at all?
+### What is your OC like when they're angry?
+### What is your OC like when they're upset?
+### What is your OC's deepest desire? Would they ever ask for this?
+### How quickly does your OC reach their breaking point? What are they like when this point has been reached?
+### What are some assumptions others make about your OC? Are any of them true?
+### What does your OC think others are saying about them behind their back? Is any of this true?
+### What are three traits your OC has that can both have positive as well as negative qualities?
+### How paranoid is your OC? How does this affect their daily life?
+### Are there any places or people your OC is avoiding?
+### How does your OC handle rejection?
+### How does your OC handle jealousy?
+### What would be some of the signs your OC is starting to push people away?
+### If your OC had to kill someone, how would they do it? If killing is a near-daily occurrence to them, what is their preferred method?
+### Does your OC believe they deserve it when bad things happen to them?
+### What is the most common feeling or emotion in your OC's life?
+### What is the most recurring theme in your OC's nightmares?
+### What is your OC's pain tolerance like? What is the worst pain they have ever felt?
+### What is your OC afraid of?
+### Has your OC ever hurt someone, either physically or verbally?
+### How easily influenced by others is your OC?
+### What are common things your OC worries about?
+### Do others consider your OC to be scary or intimidating?
+### Does your OC keep their promises? Have they ever broken one before?
+### Does your OC carry any guilt with them?
+### If your OC had to pick a new identity and skip town, what would they come up with? Where would they go?
+### What would your OC do if they knew that this was their last day alive?
+### Does your OC fear death?
+### How does your OC die, eventually?
