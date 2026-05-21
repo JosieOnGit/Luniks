@@ -229,15 +229,24 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ## Additional Questionnaire (1)
 *// This questionnaire assumes Maria from 2096, making it a similar setting to the interview questionnaire listed above.*
 ### Where was your OC born, and where did they grow up?
+Born in **Dázlacé** near **Jóukmandar**, Maria actually grew up in **Liavolta**, *Sirália*, when her parents moved there when she was just two years old. She attended primary school there, before her parents already moved back to **Jóukmandar** when she was twelve. Finishing secondary school, she moved to **Kristensend**, *Rhódisz* to study astronomy and aeronautical science, and since then she's juggled between **Álef**, **Liavolta**, and **Shánzhe** during her university years, before finally settling in **Pahlatlán-Némiskéi** for her work with *Carbine Industries*.
 ### How does your OC remember their childhood? Is this an accurate reflection of what their childhood was actually like?
 ### If your OC could revisit their childhood, what would they want to change about it, if anything at all?
+Maria would most likely stay in **Liavolta** if she had the opportunity to. Although she was able to go through secondary school in **Jóukmandar**, which gave her an easier path to studying in college in **Kristensend**, she eventually returned to university in **Liavolta** afterwards. She thinks that staying in *Sirália* could've eased this gap a little bit.
 ### Describe three of the most important photographs your OC owns.
 ### What is your OC's gender identity and sexual orientation? Is this also what they identify as in canon, or are they not (fully) aware?
+Maria is a cisgender woman that currently identifies as *aroace*. Despite this, she is widowed from a lesbian marriage with Raléi, one that abruptly ended with Raléi's death in **Álef** in 2075. Ever since, she has vowed to never take off her wedding ring until the day they would reunite in the afterlife. With this promise, she had quickly lost any interest in falling back in love with another person, and her orientation promptly shifted towards identifying with *aroace* identities. 
 ### How comfortable is your OC in their skin? Do they like who they are? What would they want to change about themself?
 ### What is your OC's occupation?
+As of 2096, Maria currently works aboard *Carbine Industries*' **ARC** as a Class 01 Aerospace Engineer. She has many titles that she bears within *Carbine Industries*, one of these being **"Control"**. She's the only person to have every received this title, which puts her atop the internal hierarchy within Carbine, although she doesn't see the need to use this "power" or "class" in her day to day life at work. She's commonly seen working on various spaceship design projects together with her Class 05 colleagues, but after she completed the **ARC**, having designed and built this from the ground up, she's changed her occupation more to that akin to an overseer, rather than being the centre piece of enormous projects. After all, the **ARC** is her magnum opus, and nothing will quite come close.
 ### What does your OC's family look like?
+Maria's parents are divorced. Her father, *Enzo Limáida*, is head of the **Liavoltan LESD**, and he paves the way to a very big and broad Sirálian family. Maria has relatives spread throughout the country, some of which specialise in coffee, some of which have a Nebbioli winery, while others spend a much more relaxed way of living. On the other end of her family tree, Maria's mother, *Lana Kozatnië*, is part of a much smaller family. On her mother's side of the family, she only has one aunt and uncle to compliment her grandparents, which is where the Kozatnië family already ends. 
 ### Describe a mundane day in your OC's life.
+A mundane day aboard the **ARC** would consists of very minimal *ebb* and *flow* states, leaving her with very little work to do in the Control section of the ARC. Even though she often hands down these tasks to colleagues more skilled than her in those specific tasks, it leaves her with little work to do in these *ebb* states. Considering the ARC minimally follows the same day-night cycle as Lúniks, it leaves her doing essentially nothing for over half of the day.
 ### Does your OC have any physical scars? What is the story behind them?
+Apart from gunshot wounds on her arms and shoulders, Maria went through her teen and young adult years quite unscathed. Despite this, it was after **2076** that she first came in contact with the *Voyage*. Through contact with **Polaris** in *Máneá*, Maria learned of her cosmos-given ability to weave reality to her will, and to the will of reality itself. She *rejected* this, and promptly made her return to **Pahlatlán** to continue her original research and her mission to get *Messier-48* properly documented. 
+
+The *Voyage* didn't let go of her, however, and since it was a birth-given power, it was only a matter of time that it began to eat away at her body. Every time she would assume her form of the **Cosmic Weaver**, it would forever mark her body until the year **2100**, which was considered to be a cosmic turning point according to the *Voyage*. Over time, this form would gradually consume her and eat away at her, gradually making Maria's "earthly" body inseparable from her "cosmic" body, and from **2094** onwards, the markings that always appeared on her back in her cosmic form would begin to manifest and forever stick to her back. In those six years, the patterns would begin with the teardrop-shaped halo on her back, paving the way for swirls that crept up her shoulders, before eventually consuming her entire arms and shoulders in the similar shade of purple that she possesses in her cosmic form. Are they scars? From the typical understanding, no. But neither can Maria remove them at will. 
 ### What does your OC carry around in their pockets? What about their bag?
 ### What is the worst thing that has happened to your OC? How has it affected their behaviour, their health, and their life in general?
 ### What is something your OC does (to others) that they would not like if others did to them? Are they aware that they do this?
@@ -269,9 +278,11 @@ Maria is a very formal and reserved person, and since her work requires her to u
 ### What is your OC's pain tolerance like? What is the worst pain they have ever felt?
 ### What is your OC afraid of?
 ### Has your OC ever hurt someone, either physically or verbally?
+During her short time in the **Kristánisin Agency**, Maria has killed up to *twenty* people in order for herself to survive. 
 ### How easily influenced by others is your OC?
 ### What are common things your OC worries about?
 ### Do others consider your OC to be scary or intimidating?
+Not at all. In fact, others often consider Maria to be a bit of a shy character with a heart of gold. 
 ### Does your OC keep their promises? Have they ever broken one before?
 ### Does your OC carry any guilt with them?
 ### If your OC had to pick a new identity and skip town, what would they come up with? Where would they go?
