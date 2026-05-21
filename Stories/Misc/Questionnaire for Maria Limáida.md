@@ -249,7 +249,11 @@ Apart from gunshot wounds on her arms and shoulders, Maria went through her teen
 The *Voyage* didn't let go of her, however, and since it was a birth-given power, it was only a matter of time that it began to eat away at her body. Every time she would assume her form of the **Cosmic Weaver**, it would forever mark her body until the year **2100**, which was considered to be a cosmic turning point according to the *Voyage*. Over time, this form would gradually consume her and eat away at her, gradually making Maria's "earthly" body inseparable from her "cosmic" body, and from **2094** onwards, the markings that always appeared on her back in her cosmic form would begin to manifest and forever stick to her back. In those six years, the patterns would begin with the teardrop-shaped halo on her back, paving the way for swirls that crept up her shoulders, before eventually consuming her entire arms and shoulders in the similar shade of purple that she possesses in her cosmic form. Are they scars? From the typical understanding, no. But neither can Maria remove them at will. 
 ### What does your OC carry around in their pockets? What about their bag?
 ### What is the worst thing that has happened to your OC? How has it affected their behaviour, their health, and their life in general?
+Maria repeats that *losing Raléi* is the worst thing that has ever happened to her, and refuses to even touch on other things that happened to her in the past, saying that they don't even come close to compare how painful the loss of her wife was. **"Even the Voyage is a "whatever" for me."** She explained. **"If there's one thing I can't undo, it's the loss of her."**
+
+It still leaves her carrying a heavy loss, and thus a heavy burden of something that happened 21 years ago. It's something she still struggles to come to peace with, but two decades onwards, she's become much more passive about it, too. In the first few months, it did leave her severely depressed and aimless as to where to go next, until **Owen Parker** invited her to return to *Carbine Industries*, which was the start of an difficult—but necessary life without Raléi.
 ### What is something your OC does (to others) that they would not like if others did to them? Are they aware that they do this?
+Maria gets lost easily in her endless pile of work on busy periods, which makes her more prone to forgetting to reply to messages from colleagues or acquaintances. On the other hand, she also dislikes it when others don't reply to her quickly.
 ### Does your OC hold grudges? How good are they at letting things go? Do they believe in second chances?
 ### What is your OC's fatal flaw?
 ### Is there anyone your OC has lost contact with? What happened?
@@ -272,13 +276,14 @@ The *Voyage* didn't let go of her, however, and since it was a birth-given power
 ### How does your OC handle jealousy?
 ### What would be some of the signs your OC is starting to push people away?
 ### If your OC had to kill someone, how would they do it? If killing is a near-daily occurrence to them, what is their preferred method?
+Quick and painless. She's not done it often, but the few times where it was necessary, she made kills as painless as possible. From the dark, unexpected, and rapid. It's a method she picked up during her short but seasoned time within the **Kristánisin Agency**.
 ### Does your OC believe they deserve it when bad things happen to them?
 ### What is the most common feeling or emotion in your OC's life?
 ### What is the most recurring theme in your OC's nightmares?
 ### What is your OC's pain tolerance like? What is the worst pain they have ever felt?
 ### What is your OC afraid of?
 ### Has your OC ever hurt someone, either physically or verbally?
-During her short time in the **Kristánisin Agency**, Maria has killed up to *twenty* people in order for herself to survive. 
+During her short time in the **Kristánisin Agency**, Maria has killed up to *twenty* people in order for herself to survive. Verbally, she tends to avoid words that could hurt someone, which ties in together with her timid and reserved nature. She comes across as relatively passive and innocent, and she tries to leave behind her past life of bloodshed too. With that being over twenty years ago, it's long forgotten.
 ### How easily influenced by others is your OC?
 ### What are common things your OC worries about?
 ### Do others consider your OC to be scary or intimidating?
