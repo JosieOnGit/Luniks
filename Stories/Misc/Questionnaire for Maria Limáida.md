@@ -287,7 +287,7 @@ Perfectionism -> Tunnelvision
 ### How paranoid is your OC? How does this affect their daily life?
 Not at all. She used to be paranoid in her teen years, but has grown out of that paranoia stage relatively quickly. The only time it ever crept back was during her escape from *Zakh'háfo* from *Dáritke*, where anything with yellow accents on clothing gave her the shivers. 
 ### Are there any places or people your OC is avoiding?
-Maria still thinks that *Dáritke*, despite having dissolved in late **2076**, still has a bounty on her head that lone bounty hunters are still hunting to claim. Despite the *Voyage* preventing her death in any shape or form, she's still hesitant in returning to *Zakh'háfo* for whatever reason it may be.
+Maria still thinks that *Dáritke*, despite having dissolved in late **2076**, still has a bounty on her head that lone bounty hunters are still hunting to claim. Despite the *Voyage* preventing her death in any shape or form, she's still hesitant on returning to *Zakh'háfo* for whatever reason it may be.
 ### How does your OC handle rejection?
 ### How does your OC handle jealousy?
 ### What would be some of the signs your OC is starting to push people away?
