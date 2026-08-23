@@ -1,4 +1,66 @@
-# yes really
+no i still have no idea what im doing
+# Current (August 2026) Draft
+## Rough story outline
+It's relatively straightforward: Up-and-coming Kyoto native Umamusume *Dream Of March* is scouted by young but experienced trainer Olivia, and together, they settle on a common dream: Winning the Triple Tiara, to bring a win home for the both of them.
+### Lead characters
+- **Dream Of March** (protagonist)
+- **Turn The Tide** (March's rival)
+- March's trainer: **Olivia**
+### Various Umamusume appearing throughout the story
+- Lucky Draw
+- Shifting Tides
+- Ebb & Flow
+- Juxtaposition
+- Blue Canary
+- Heatseeker
+- Half Of One
+- Avec Toi
+- Free Desire
+- Meisho Palace
+- Blockbuster
+- Côte d'Azur
+- Aspire
+- Lebensmittel
+- Manhattan Destiny
+- Iron Lung
+- Daiwa Pisces
+- Achillea
+## Various Story highlights
+- A scene before the Shuka Sho starts. March admits to her trainer, Olivia, that she doesn't have faith in herself or her ability to be able to defeat Tide. Together with her mum, Meisho March, and a fellow team member, Achillea (pre-debut), she ups her spirits and shakes away her feeling of imminent defeat. If there was any time for her to prove she's better than Tide, it would be now. 
+- The Shuka Sho scene where Tide claims her third and final Tiara leg, leaving March crownless and hopeless for her future, forever chasing her rival that's always a length ahead of her. 
+- March leaves the turf helpless, hopeless. Her mum consoles her in the tunnel away from the track, and while the crowd chants the name "Turn The Tide", it's Dream Of March that fears being forgotten. Much like her family, it seems the "March" family is cursed to forever collect silver. *"You've ran a G1, darling. You placed second in a G1. You did so three times. You may not have won yet, but you were faster than 16 other runners. That is a feat in itself."* Her mum tries to whisper to March, hoping it gives her daughter a sense of strength back. But it lands on deaf ears. 
+- Olivia manages to prevent March from spiralling even further, and with Tide taking a break before she'd run in the Arima Kinen, March's trainer opts to scratch her from that Christmas race, and instead signs her up for the Queen Elizabeth II Cup. Compared to the Arima Kinen, it's a shorter, medium-distance race with a field similar to the Triple Tiara tour. If March can't defeat Tide, the QEII Cup would be the perfect place for her to show the world that she's worthy of a G1 title regardless. 
+- Crossing the line first at the QEII Cup, leading Meisho Palace by 1/4th length, Dream Of March finally carved her name into the ever-growing list of G1 winners. Panting heavily, she slows down towards the start of the first corner, and leans forwards with her hands on her knees. Drips of sweat soak the turf beneath her, but with her eyes heavy, tears soon followed. She turned around, in disbelief. Palace trotted towards her, her shoes and leggings made dirty from the turf that kicked up against her legs. But before March even had he opportunity for the gravity of it all to sink in to her, she found herself embraced by Palace's arms. *"You did it."* She said, out of breath herself. *"You're a G1 winner, March."* 
+- Over Christmas, Dream Of March attends the Arima Kinen together with Meisho Palace, and various other Mile-distance runners that didn't make the entry list for the Arima Kinen. Turn The Tide entered the race as the favourite, still riding on her high from her freshly earned Triple Tiara. But she places 4th, losing to the 2nd favourite, Manhattan Destiny, who won the Kikuka Sho two months before. Was Tide injured? She looked exceptionally exhausted, despite the track being not even a furlong longer than her run at the Japanese Oaks. It left March and Palace puzzled. But it didn't disturb their break to come.
+### Dream Of March statbook
+Sprint **E**, Mile **A**, Medium **A**, Long **D** \
+Front **B**, Pace **A**, Late **E**, End **G** \
+Growth rate: **10%** in **Speed**, **Guts**, **Wit**
+
+## Rough Career outline
+March's career should look a little like this: 
+### Year 1 (Junior) 
+- G3 SA Cup (2nd) (*Lebensmittel*) 
+- G1 Asahi Hai JF (4th) (*Turn The Tide*) 
+### Year 2 (Classic) 
+- G1 Oka Sho (2nd) (*Turn The Tide*) 
+- G1 Japanese Oaks (2nd) (*Turn The Tide*) 
+- G2 Rose Stakes (1st) (*Free Desire*) 
+- G1 Shuka Sho (2nd) (*Turn The Tide*) 
+- G1 QEII Cup (1st) (*Meisho Palace*) 
+### Year 3 (Senior) 
+- G1 Osaka Hai (3rd) (*Meisho Palace*) 
+- G1 Victoria Mile (1st) (*Lebensmittel*) 
+- G1 Yasuda Kinen (5th) (*Turn The Tide*) 
+- G1 Tenno Sho Autumn (2nd) (*Meisho Palace*) 
+- G1 QEII Cup (1st) (*Turn The Tide*) 
+- G1 Arima Kinen (9th) (*Manhattan Destiny*) 
+### Year 4 (Senior)
+- G1 Victoria Mile (1st) (*Tamamo Rendezvous*) 
+- G1 QEII Cup (2nd) (*Meisho Palace*) 
+- G1 Japan Cup (5th) (*Côte d'Azur*)
+
+# Original draft + Outline
 All eyes are on **Dream Of March**, a young Umamusume with a heart of gold. Hailing from a prestigious family of past professional racers, it's no surprise that March follows in the same footsteps that her mother and grandmother once did. And while neither had achieved stunning victories that shifted the tides, she was dead set on breaking this family tradition of *"silver collectors"* and *"participation rewardees"*. 
 
 It was to no surprise that she won her debut flawlessly in her home town, and she immediately caught the attention of a reputable trainer who was scouting for a runner with utmost potential, something that she had been seeking for years. The two come into contact with one another, and shake hands, and before long, the two are headed to *Tracen Academy*. 

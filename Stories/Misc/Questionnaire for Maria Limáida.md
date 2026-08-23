@@ -6,13 +6,13 @@ Female
 ### Age: 
 44* (Born *August 17th, 2052*)
 ### Race: 
-Human */ Feline (Leremkov)* (*// Subject to change / In limbo*)
+Human
 ### Physical Appearance: 
-*// Subject to change: The Feline traits will most likely cease to exist, and instead, the markings of the Voyage will be described here.* \
-Maria is a 172cm tall middle-aged woman. She has relatively dull green eyes, and wavy brown-coloured hair that reaches down to just below her shoulders. Her physical build is healthy enough, but barely so, as she spends most of her time seated or standing doing research work aboard the ARC. Research in Zero-G has affected her physical health, but since 2093, she has almost exclusively stayed on the ground (Although aboard spaceships/space-stations). Her physical build is complimented by the brown-coloured ears and tail belonging to a *yet-unidentified race* of a cat. She is slightly nearsighted, and wears glasses.
+*// The Feline traits have been removed, but what's still lacking is the mention of the Marks Of The Voyage on her skin.*
+Maria is a 172cm tall middle-aged woman. She has relatively dull green eyes, and wavy brown-coloured hair that reaches down to just below her shoulders. Her physical build is healthy enough, but barely so, as she spends most of her time seated or standing doing research work aboard the ARC. Research in Zero-G has affected her physical health, but since 2093, she has almost exclusively stayed on the ground (Although aboard spaceships/space-stations). She is slightly nearsighted, and wears glasses.
 ### How does this character feel about their physical appearance? 
-*// Subject to change: The Feline traits will most likely cease to exist, while instead, the purple markings of the Voyage (Spirals/swirls on her shoulders and a teardrop shaped-halo on her back) will take this place instead.* \
-Maria is relatively indifferent about her physical appearance, and doesn't bear too much thought to it. However, even over a decade after contracting Leremkov, and gaining the physical traits of a feline, she is still extremely annoyed by these traits specifically. She actively trains her tail to be immobile, and tries to ignore it altogether.
+*// See above note regarding the Voyage.*
+Maria is relatively indifferent about her physical appearance, and doesn't bear too much thought to it. 
 ### Describe your character's upbringing (relationships, hobbies, location): 
 - **Relationships**: 
 	- **Family**: Maria is an only child, born from a **Sirálian** father and a **Jóthuli** mother in **Dázlacé** near **Jóukmandar**. Her parents and her moved to **Liavolta** when she was just two years old, before ultimately moving back to **Jóukmandar** at the age of twelve. She moved out of her home to **Kristensend** to study astronomy and aeronautical science. Despite moving away from her parents, she remained in close contact, while they ultimately went through a divorce. She has no bad blood with her parents. Her father now lives in **Sirália** as President of the **LESD**, while her mother retained a much simpler workfield back home in **Dázlacé**.
