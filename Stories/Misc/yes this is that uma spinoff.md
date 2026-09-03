@@ -1,30 +1,57 @@
 no i still have no idea what im doing
 # Current (August 2026) Draft
 ## Rough story outline
-It's relatively straightforward: Up-and-coming Kyoto native Umamusume *Dream Of March* is scouted by young but experienced trainer Olivia, and together, they settle on a common dream: Winning the Triple Tiara, to bring a win home for the both of them.
+It's relatively straightforward: Up-and-coming Kyoto native Umamusume *Dream Of March* is scouted by young but experienced trainer Olivia, and together, they settle on a common dream: Winning the *Triple Tiara*, to bring a long dream title home for the both of them.
+
+The story begins in Kyoto, at a local academy where Umamusume—young or old—can forge their paths to reach their dreams, whether that's to be a racer of all distances, or to become a person that connects the Umamusume and trainers. Anything is possible, from blacksmiths to trainers, to born-to-be sprinters and experienced stayers. For *Dream of March*, her goal was clear from the very start: She wanted to win—to prove her family could win races, and not be nothing but "silver collectors". 
+
+She shows real confidence and potential in a mock race with other students in the Kyoto Academy, and in her debut race on the same 1600m turf, she lands on a young trainer's eyes as she crosses the line first in a convincing fashion. The two meet and shake hands, but introducing herself as *Olivia*, she immediately has a radical proposal for the young Umamusume: To go to Tokyo—To *Tracen Academy*. The immense leap in resources, facilities, and opportunities to race in the national league leave March without a doubt, and she agrees to follow Olivia to Tokyo to truly pursue and achieve her lifelong dreams of winning a graded race.
+
+Her time in the capital of Japan begins steady, and meeting various new classmates, he is assigned a shared dorm room with another Umamusume from her same generation: *Meisho Palace*. Despite sharing a crown name with March's mother, the two are not related, but that doesn't stop them from immediately matching and training together as they both look for their respective first race. While March already won a debut race in Kyoto, Palace still had to win hers, and as they train together to get the hang of the rhythm that Tracen operates in, it only takes a few weeks for Palace to ready up for her debut too. Without a doubt, she too wins her debut on a Mile distance track.
+
+That leaves the newfound duo eligible to run in grades stakes races, exactly the kinds of races that should give them the experience to run in the "real deal". Gate exams are held, and mock races are organised between their classes to give them a feeling for racing, pacing, and to give each Umamusume a feel for what feels right for *them*, and for March and Palace, that decision is relatively easy to make: The *Tiara Tour* is the perfect match. \
+While Meisho Palace challenges the *Artemis Stakes* as her debut graded race, Dream of March is signed up by trainer Olivia for the *Saudi Arabia Royal Cup*. The 1600m turf race looks to fit March's style perfectly, and with a field young, full of budding talent, and full of desire to win to kickstart their legacy yet to be forged. The real deal begins now, and stepping onto the turf in front of the decent sized crowd on the Tokyo turf, her heart begins to pound in her chest. *This* is what she's longed for all these years, and doing her best to find Olivia in the crowd, she grips tightly onto her nameplate on her chest. *Number 12, Gate 8*, middle of the pack, leading the pace of the field. She steps into her gate, and inhales deeply. This is it. This is real racing. \
+Ultimately, she places second to *Lebensmittel*, with a distance of 1/4th lengths. A debut graded victory was within her grasp, but she couldn't hold out the pace for any longer than she did, and the late strategy that *Lebensmittel* utilised worked against March. She leaned forward with her hands sinking into her knees as she caught her breath. The crowd cheered for Lemi, but March smiled widely. She caught the smell of victory, and she's only just started. 
+
+
+
+
 ### Lead characters
 - **Dream Of March** (protagonist)
 - **Turn The Tide** (March's rival)
 - March's trainer: **Olivia**
 ### Various Umamusume appearing throughout the story
-- Lucky Draw
-- Shifting Tides
-- Ebb & Flow
-- Juxtaposition
-- Blue Canary
-- Heatseeker
-- Half Of One
-- Avec Toi
-- Free Desire
-- Meisho Palace
-- Blockbuster
-- Côte d'Azur
-- Aspire
-- Lebensmittel
-- Manhattan Destiny
-- Iron Lung
-- Daiwa Pisces
-- Achillea
+- Lucky Draw *// **Tiara** runner*
+- Shifting Tides *// With how similar this name is to Turn The Tide, it might get scrapped*
+- Ebb & Flow *// **Tiara** runner*
+- Juxtaposition *// Crown runner*
+- Blue Canary *// **Tiara** runner*
+- Heatseeker *// Crown runner*
+- Half Of One *// Japan Cup*
+- Avec Toi *// Japan Cup*
+- Free Desire *// **Tiara** runner known for her radical Runaway strategy*
+- Meisho Palace *// **Tiara** runner, March's roommate and lifelong friend*
+- Blockbuster *// Japan Cup*
+- Côte d'Azur *// Japan Cup*
+- Aspire *// **Tiara** runner*
+- Lebensmittel *// **Tiara** runner, Mile distance expert*
+- Manhattan Destiny *// Triple Crown runner, excels in long distance races like the rest of her family*
+- Tamamo Rendezvous *// **Tiara** runner, excels in Mile distance races*
+- Iron Lung *// Retired Crown runner (14-4-5-2) who assists March and Olivia alongside her own Trainer*
+- Daiwa Pisces *// **Tiara** runner*
+- Achillea *// Olivia's young progeny, carefully watching along until she's old enough to run in races herself*
+- Nothing Ventured *// Crown runner*
+- Spike Chain *// Crown Runner*
+- Misery Loves Company *// Crown runner*
+- Moolah *// Sprinter*
+- Class Dismissed *// **Tiara** runner*
+- Blue Curaçao *// **Tiara** runner*
+- God Complex *// Crown runner, imagine if T.M. Opera O was cocky, tenfold*
+- Thunderbolt Blackout *// Japan Cup*
+- Hazard Pay *// Crown runner*
+- Keep No Secrets *// **Tiara** runner*
+- It's You *// Crown runner*
+- Disco Man *// Sprinter*
 ## Various Story highlights
 - A scene before the Shuka Sho starts. March admits to her trainer, Olivia, that she doesn't have faith in herself or her ability to be able to defeat Tide. Together with her mum, Meisho March, and a fellow team member, Achillea (pre-debut), she ups her spirits and shakes away her feeling of imminent defeat. If there was any time for her to prove she's better than Tide, it would be now. 
 - The Shuka Sho scene where Tide claims her third and final Tiara leg, leaving March crownless and hopeless for her future, forever chasing her rival that's always a length ahead of her. 
