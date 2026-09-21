@@ -1,4 +1,4 @@
-no i still have no idea what im doing
+no i still have no idea what im doing.
 # Current (August 2026) Draft
 ## Rough story outline
 It's relatively straightforward: Up-and-coming Kyoto native Umamusume *Dream Of March* is scouted by young but experienced trainer Olivia, and together, they settle on a common dream: Winning the *Triple Tiara*, to bring a long dream title home for the both of them.
@@ -22,7 +22,7 @@ Ultimately, she places second to *Lebensmittel*, with a distance of 1/4th length
 - March's trainer: **Olivia**
 ### Various Umamusume appearing throughout the story
 - Lucky Draw *// **Tiara** runner*
-- Shifting Tides *// With how similar this name is to Turn The Tide, it might get scrapped*
+- **~~Shifting Tides~~** 
 - Ebb & Flow *// **Tiara** runner*
 - Juxtaposition *// Crown runner*
 - Blue Canary *// **Tiara** runner*
@@ -37,7 +37,7 @@ Ultimately, she places second to *Lebensmittel*, with a distance of 1/4th length
 - Lebensmittel *// **Tiara** runner, Mile distance expert*
 - Manhattan Destiny *// Triple Crown runner, excels in long distance races like the rest of her family*
 - Tamamo Rendezvous *// **Tiara** runner, excels in Mile distance races*
-- Iron Lung *// Retired Crown runner (14-4-5-2) who assists March and Olivia alongside her own Trainer*
+- Iron Lung *// Retired Crown runner (14-5-5-2) who assists March and Olivia alongside her own Trainer*
 - Daiwa Pisces *// **Tiara** runner*
 - Achillea *// Olivia's young progeny, carefully watching along until she's old enough to run in races herself*
 - Nothing Ventured *// Crown runner*
@@ -46,12 +46,15 @@ Ultimately, she places second to *Lebensmittel*, with a distance of 1/4th length
 - Moolah *// Sprinter*
 - Class Dismissed *// **Tiara** runner*
 - Blue Curaçao *// **Tiara** runner*
-- God Complex *// Crown runner, imagine if T.M. Opera O was cocky, tenfold*
+- God Complex *// Crown runner, imagine if T.M. Opera O was cocky, tenfold. Iron Lung's single-race rival (Arima Kinen)*
 - Thunderbolt Blackout *// Japan Cup*
 - Hazard Pay *// Crown runner*
 - Keep No Secrets *// **Tiara** runner*
 - It's You *// Crown runner*
 - Disco Man *// Sprinter*
+- Change Star *// Sprinter*
+- Callback *// Sprinter*
+- Joey Turbo *// Crown runner*
 ## Various Story highlights
 - A scene before the Shuka Sho starts. March admits to her trainer, Olivia, that she doesn't have faith in herself or her ability to be able to defeat Tide. Together with her mum, Meisho March, and a fellow team member, Achillea (pre-debut), she ups her spirits and shakes away her feeling of imminent defeat. If there was any time for her to prove she's better than Tide, it would be now. 
 - The Shuka Sho scene where Tide claims her third and final Tiara leg, leaving March crownless and hopeless for her future, forever chasing her rival that's always a length ahead of her. 
